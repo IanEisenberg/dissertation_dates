@@ -1,0 +1,521 @@
+Adriaans, F., & Swingley, D. (2017). Prosodic exaggeration within infant-directed speech: Consequences for vowel learnability. The Journal of the Acoustical Society of America, 141 (5),
+3070–3078.
+Allopenna, P. D., Magnuson, J. S., & Tanenhaus, M. K. (1998). Tracking the time course of spoken
+word recognition using eye movements: Evidence for continuous mapping models. Journal of
+Memory and Language, 38 (4), 419–439.
+Baldwin, D. A. (1993). Infants’ ability to consult the speaker for clues to word reference. Journal
+of Child Language, 20 (02), 395–418.
+Baranes, A., Oudeyer, P.-Y., & Gottlieb, J. (2015). Eye movements reveal epistemic curiosity in
+human observers. Vision Research, 117, 81–90.
+Barr, D. J. (2013). Random eects structure for testing interactions in linear mixed-eects models.
+Frontiers in Psychology, 4, 328.
+Bates, D., Maechler, M., Bolker, B., & Walker, S. (2013). Lme4: Linear mixed-eects models using
+eigen and s4. R Package Version, 1 (4).
+Bavelier, D., Dye, M. W., & Hauser, P. C. (2006). Do deaf individuals see better? Trends in
+Cognitive Sciences, 10 (11), 512–518.
+Begus, K., Gliga, T., & Southgate, V. (2014). Infants learn what they want to learn: Responding
+to infant pointing leads to superior learning.
+Benitez, V. L., & Saran, J. R. (2018). Predictable events enhance word learning in toddlers.
+179
+References 180
+Current Biology, 28 (17), 2787–2793.
+Berlyne, D. E. (1960). Conflict, arousal, and curiosity.
+Bettger, J. G., Emmorey, K., McCullough, S. H., & Bellugi, U. (1997). Enhanced facial discrimination: Eects of experience with american sign language. Journal of Deaf Studies and Deaf
+Education, 223–233.
+Birbili, M., & Karagiorgou, I. (2009). Helping children and their parents ask better questions: An
+intervention study. Journal of Research in Childhood Education, 24 (1), 18–31.
+Bloom, P. (2002). How children learn the meaning of words. The MIT Press.
+Blythe, R. A., Smith, A. D., & Smith, K. (2016). Word learning under infinite uncertainty. Cognition, 151, 18–27.
+Blythe, R. A., Smith, K., & Smith, A. D. (2010). Learning times for large lexicons through crosssituational learning. Cognitive Science, 34 (4), 620–642.
+Bonawitz, E., & Shafto, P. (2016). Computational models of development, social influences. Current
+Opinion in Behavioral Sciences, 7, 95–100.
+Bonawitz, E., Shafto, P., Gweon, H., Goodman, N. D., Spelke, E., & Schulz, L. (2011). The doubleedged sword of pedagogy: Instruction limits spontaneous exploration and discovery. Cognition,
+120 (3), 322–330.
+Boyd, R., Richerson, P. J., & Henrich, J. (2011). The cultural niche: Why social learning is essential
+for human adaptation. Proceedings of the National Academy of Sciences, 108 (Supplement 2),
+10918–10925.
+Brooks, R., & Meltzo, A. N. (2005). The development of gaze following and its relation to language.
+Developmental Science, 8 (6), 535–543.
+Brooks, R., & Meltzo, A. N. (2008). Infant gaze following and pointing predict accelerated vocabulary growth through two years of age: A longitudinal, growth curve modeling study. Journal of
+Child Language, 35 (01), 207–220.
+References 181
+Bruner, J. S. (1961). The act of discovery. Harvard Educational Review.
+Butler, L. P., & Markman, E. M. (2012). Preschoolers use intentional and pedagogical cues to guide
+inductive inferences and exploration. Child Development, 83 (4), 1416–1428.
+B¨urkner, P.-C. (2017). Brms: An r package for bayesian multilevel models using stan. Journal of
+Statistical Software, 80 (1), 1–28.
+Call, J., Carpenter, M., & Tomasello, M. (2005). Copying results and copying actions in the process
+of social learning: Chimpanzees (pan troglodytes) and human children (homo sapiens). Animal
+Cognition, 8 (3), 151–163.
+Carlson, S. M., & Moses, L. J. (2001). Individual dierences in inhibitory control and children’s
+theory of mind. Child Development, 72 (4), 1032–1053.
+Carpenter, M., Nagell, K., Tomasello, M., Butterworth, G., & Moore, C. (1998). Social cognition,
+joint attention, and communicative competence from 9 to 15 months of age. Monographs of the
+Society for Research in Child Development, i–174.
+Cartmill, E. A., Armstrong, B. F., Gleitman, L. R., Goldin-Meadow, S., Medina, T. N., & Trueswell,
+J. C. (2013). Quality of early parent input predicts child vocabulary 3 years later. Proceedings
+of the National Academy of Sciences, 110 (28), 11278–11283.
+Castro, R. M., Kalish, C., Nowak, R., Qian, R., Rogers, T., & Zhu, X. (2009). Human active
+learning. In Advances in neural information processing systems (pp. 241–248).
+Chi, M. T. (2009). Active-constructive-interactive: A conceptual framework for dierentiating learning activities. Topics in Cognitive Science, 1 (1), 73–105.
+Chow, V., Poulin-Dubois, D., & Lewis, J. (2008). To see or not to see: Infants prefer to follow the
+gaze of a reliable looker. Developmental Science, 11 (5), 761–770.
+Cimpian, A., Arce, H.-M. C., Markman, E. M., & Dweck, C. S. (2007). Subtle linguistic cues aect
+children’s motivation. Psychological Science, 18 (4), 314–316.
+Clark, E. V. (2009). First language acquisition. Cambridge University Press.
+References 182
+Cleveland, A., Schug, M., & Striano, T. (2007). Joint attention and object learning in 5-and 7-
+month-old infants. Infant and Child Development, 16 (3), 295–306.
+Coenen, A., Nelson, J. D., & Gureckis, T. (2017). Asking the right questions about human inquiry.
+Colombo, J. (2001). The development of visual attention in infancy. Annual Review of Psychology,
+52 (1), 337–367.
+Cook, C., Goodman, N. D., & Schulz, L. E. (2011). Where science starts: Spontaneous experiments
+in preschoolers’ exploratory play. Cognition, 120 (3), 341–349.
+Cooper, R. P., & Aslin, R. N. (1990). Preference for infant-directed speech in the first month after
+birth. Child Development, 61 (5), 1584–1595.
+Corriveau, K., & Harris, P. L. (2009). Choosing your informant: Weighing familiarity and recent
+accuracy. Developmental Science, 12 (3), 426–437.
+Cottrell, N. B., Wack, D. L., Sekerak, G. J., & Rittle, R. H. (1968). Social facilitation of dominant
+responses by the presence of an audience and the mere presence of others. Journal of Personality
+and Social Psychology, 9 (3), 245.
+Csibra, G., & Gergely, G. (2009). Natural pedagogy. Trends in Cognitive Sciences, 13 (4), 148–153.
+Dahan, D., & Tanenhaus, M. K. (2005). Looking at the rope when looking for the snake: Conceptually mediated eye movements during spoken-word recognition. Psychonomic Bulletin & Review,
+12 (3), 453–459.
+De Boer, B., & Kuhl, P. K. (2003). Investigating the role of infant-directed speech with a computer
+model. Acoustics Research Letters Online, 4 (4), 129–134.
+Deborah, G. K. N., Louisa Chan, E., & Holt, M. B. (2004). When children ask,“What is it?” What
+do they want to know about artifacts? Psychological Science, 15 (6), 384–389.
+DeCasper, A. J., Fifer, W. P., Oates, J., & Sheldon, S. (1987). Of human bonding: Newborns prefer
+their mothers’ voices. Cognitive Development in Infancy, 111–118.
+Dweck, C. S., & Leggett, E. L. (1988). A social-cognitive approach to motivation and personality.
+References 183
+Psychological Review, 95 (2), 256.
+Eaves Jr, B. S., Feldman, N. H., Griths, T. L., & Shafto, P. (2016). Infant-directed speech is
+consistent with teaching. Psychological Review, 123 (6), 758.
+Emery, A., & Nenarokomov, A. V. (1998). Optimal experiment design. Measurement Science and
+Technology, 9 (6), 864.
+Emmorey, K., Klima, E., & Hickok, G. (1998). Mental rotation within linguistic and non-linguistic
+domains in users of american sign language. Cognition, 68 (3), 221–246.
+Emmorey, K., Kosslyn, S. M., & Bellugi, U. (1993). Visual imagery and visual-spatial language:
+Enhanced imagery abilities in deaf and hearing asl signers. Cognition, 46 (2), 139–181.
+Erber, N. P. (1969). Interaction of audition and vision in the recognition of oral speech stimuli.
+Journal of Speech and Hearing Research, 12 (2), 423–425.
+Estigarribia, B., & Clark, E. V. (2007). Getting and maintaining attention in talk to young children.
+Journal of Child Language, 34 (4), 799–814.
+Farroni, T., Csibra, G., Simion, F., & Johnson, M. H. (2002). Eye contact detection in humans from
+birth. Proceedings of the National Academy of Sciences, 99 (14), 9602–9605.
+Farroni, T., Massaccesi, S., Menon, E., & Johnson, M. H. (2007). Direct gaze modulates face
+recognition in young infants. Cognition, 102 (3), 396–404.
+Fausey, C. M., Jayaraman, S., & Smith, L. B. (2016). From faces to hands: Changing visual input
+in the first two years. Cognition, 152, 101–107.
+Fernald, A. (2010). Getting beyond the “convenience sample” in research on early cognitive development. Behavioral and Brain Sciences, 33 (2-3), 91–92.
+Fernald, A., & Kuhl, P. (1987). Acoustic determinants of infant preference for motherese speech.
+Infant Behavior and Development, 10 (3), 279–293.
+Fernald, A., & Mazzie, C. (1991). Prosody and focus in speech to infants and adults. Developmental
+Psychology, 27 (2), 209.
+References 184
+Fernald, A., Perfors, A., & Marchman, V. A. (2006). Picking up speed in understanding: Speech
+processing eciency and vocabulary growth across the 2nd year. Developmental Psychology,
+42 (1), 98.
+Fernald, A., Pinto, J. P., Swingley, D., Weinbergy, A., & McRoberts, G. W. (1998). Rapid gains in
+speed of verbal processing by infants in the 2nd year. Psychological Science, 9 (3), 228–231.
+Fernald, A., Zangl, R., Portillo, A. L., & Marchman, V. A. (2008). Looking while listening: Using
+eye movements to monitor spoken language. Developmental Psycholinguistics: On-Line Methods
+in Children’s Language Processing, 44, 97.
+Fitneva, S. A., Lam, N. H., & Dunfield, K. A. (2013). The development of children’s information
+gathering: To look or to ask? Developmental Psychology, 49 (3), 533.
+Fitzpatrick, M., Kim, J., & Davis, C. (2011). The eect of seeing the interlocutor on auditory and
+visual speech production in noise. In Auditory-visual speech processing 2011.
+Fourtassi, A., & Frank, M. C. (2017). Word identification under multidomodal uncertainty. In
+Proceedings of the 39th annual conference of the cognitive science society.
+Franchak, J. M., Kretch, K. S., & Adolph, K. E. (2018). See and be seen: Infant–caregiver social
+looking during locomotor free play. Developmental Science, 21 (4), e12626.
+Franchak, J. M., Kretch, K. S., Soska, K. C., & Adolph, K. E. (2011). Head-mounted eye tracking:
+A new method to describe infant looking. Child Development, 82 (6), 1738–1750.
+Frank, M. C., & Goodman, N. D. (2012). Predicting pragmatic reasoning in language games.
+Science, 336 (6084), 998–998.
+Frank, M. C., & Goodman, N. D. (2014). Inferring word meanings by assuming that speakers are
+informative. Cognitive Psychology, 75, 80–96.
+Frank, M. C., Goodman, N. D., & Tenenbaum, J. B. (2009). Using speakers’ referential intentions
+to model early cross-situational word learning. Psychological Science, 20 (5), 578–585.
+Frank, M. C., Tenenbaum, J. B., & Fernald, A. (2013). Social and discourse contributions to the determination of reference in cross-situational word learning. Language Learning and Development,
+References 185
+9 (1), 1–24.
+Frazier, B. N., Gelman, S. A., & Wellman, H. M. (2009). Preschoolers’ search for explanatory
+information within adult–child conversation. Child Development, 80 (6), 1592–1611.
+Friesen, C. K., Ristic, J., & Kingstone, A. (2004). Attentional eects of counterpredictive gaze and
+arrow cues. Journal of Experimental Psychology: Human Perception and Performance, 30 (2),
+319.
+Gabry, J., & Goodrich, B. (2016). Rstanarm: Bayesian applied regression modeling via stan. R
+Package Version, 2 (1).
+Geisler, W. S. (2003). Ideal observer analysis. The Visual Neurosciences, 10 (7), 12–12.
+Gelman, S. A. (2009). Learning from others: Children’s construction of concepts. Annual Review
+of Psychology, 60, 115–140.
+Gelman, S. A., Goetz, P. J., Sarnecka, B. W., & Flukes, J. (2008). Generic language in parent-child
+conversations. Language Learning and Development, 4 (1), 1–31.
+Gergely, G., Egyed, K., & Kir´aly, I. (2007). On pedagogy. Developmental Science, 10 (1), 139–146.
+Gerken, L., Balcomb, F. K., & Minton, J. L. (2011). Infants avoid ‘labouring in vain’by attending
+more to learnable than unlearnable linguistic patterns. Developmental Science, 14 (5), 972–979.
+Gerstenberg, T., & Tenenbaum, J. B. (2017). Intuitive theories. Oxford Handbook of Causal Reasoning, 515–548.
+Gibson, E., Bergen, L., & Piantadosi, S. T. (2013). Rational integration of noisy evidence and
+prior semantic expectations in sentence interpretation. Proceedings of the National Academy of
+Sciences, 201216438.
+Gillette, J., Gleitman, H., Gleitman, L., & Lederer, A. (1999). Human simulations of vocabulary
+learning. Cognition, 73 (2), 135–176.
+Gleitman, L. (1990). The structural sources of verb meanings. Language Acquisition, 1 (1), 3–55.
+References 186
+Gold, J. I., & Shadlen, M. N. (2000). Representation of a perceptual decision in developing oculomotor commands. Nature, 404 (6776), 390.
+Goldstein, M. H., & Schwade, J. A. (2008). Social feedback to infants’ babbling facilitates rapid
+phonological learning. Psychological Science, 19 (5), 515–523.
+Goodman, N. D., Baker, C. L., & Tenenbaum, J. B. (2009). Cause and intent: Social reasoning in
+causal learning. In Proceedings of the 31st annual conference of the cognitive science society (pp.
+2759–2764).
+Goodman, N. D., & Frank, M. C. (2016). Pragmatic language interpretation as probabilistic inference. Trends in Cognitive Sciences, 20 (11), 818–829.
+Gopnik, A., Meltzo, A. N., & Kuhl, P. K. (1999). The scientist in the crib: Minds, brains, and
+how children learn. William Morrow & Co.
+Gottlieb, J. (2012). Attention, learning, and the value of information. Neuron, 76 (2), 281–295.
+Gottlieb, J., & Oudeyer, P.-Y. (2018). Towards a neuroscience of active sampling and curiosity.
+Nature Reviews Neuroscience, 1.
+Grabinger, R. S., & Dunlap, J. C. (1995). Rich environments for active learning: A definition.
+Research in Learning Technology, 3 (2).
+Graf Estes, K., & Hurley, K. (2013). Infant-directed prosody helps infants map sounds to meanings.
+Infancy, 18 (5), 797–824.
+Green, J. R., Nip, I. S., Wilson, E. M., Meerd, A. S., & Yunusova, Y. (2010). Lip movement
+exaggerations during infant-directed speech. Journal of Speech, Language, and Hearing Research,
+53 (6), 1529–1542.
+Griths, T. L., Lieder, F., & Goodman, N. D. (2015). Rational use of cognitive resources: Levels
+of analysis between the computational and the algorithmic. Topics in Cognitive Science, 7 (2),
+217–229.
+Gunderson, E. A., Gripshover, S. J., Romero, C., Dweck, C. S., Goldin-Meadow, S., & Levine, S.
+C. (2013). Parent praise to 1-to 3-year-olds predicts children’s motivational frameworks 5 years
+References 187
+later. Child Development, 84 (5), 1526–1541.
+Gureckis, T. M., & Markant, D. B. (2012). Self-directed learning a cognitive and computational
+perspective. Perspectives on Psychological Science, 7 (5), 464–481.
+Gweon, H., Pelton, H., Konopka, J. A., & Schulz, L. E. (2014). Sins of omission: Children selectively
+explore when teachers are under-informative. Cognition, 132 (3), 335–341.
+Gweon, H., & Schulz, L. (2011). 16-month-olds rationally infer causes of failed actions. Science,
+332 (6037), 1524–1524.
+Haertel, R. A., Seppi, K. D., Ringger, E. K., & Carroll, J. L. (2008). Return on investment for
+active learning. In Proceedings of the nips workshop on cost-sensitive learning (Vol. 72).
+Harris, M., & Mohay, H. (1997). Learning to look in the right place: A comparison of attentional
+behavior in deaf children with deaf and hearing mothers. The Journal of Deaf Studies and Deaf
+Education, 2 (2), 95–103.
+Hayhoe, M., & Ballard, D. (2005). Eye movements in natural behavior. Trends in Cognitive Sciences,
+9 (4), 188–194.
+Heimler, B., Zoest, W. van, Barualdi, F., Donk, M., Rinaldi, P., Caselli, M. C., & Pavani, F.
+(2015). Finding the balance between capture and control: Oculomotor selection in early deaf
+adults. Brain and Cognition, 96, 12–27.
+Henderson, J. M., Brockmole, J. R., Castelhano, M. S., & Mack, M. (2007). Visual saliency does
+not account for eye movements during visual search in real-world scenes. In Eye movements (pp.
+537–III). Elsevier.
+Hidaka, S., Torii, T., & Kachergis, G. (2017). Quantifying the impact of active choice in word
+learning. In. Cognitive Science Society.
+Hills, T. T., Jones, M. N., & Todd, P. M. (2012). Optimal foraging in semantic memory. Psychological Review, 119 (2), 431.
+Hollich, G. J., Hirsh-Pasek, K., Golinko, R. M., Brand, R. J., Brown, E., Chung, H. L., . . . Bloom,
+L. (2000). Breaking the language barrier: An emergentist coalition model for the origins of word
+References 188
+learning. Monographs of the Society for Research in Child Development, i–135.
+Hoppe, D., & Rothkopf, C. A. (2016). Learning rational temporal eye movement strategies. Proceedings of the National Academy of Sciences, 113 (29), 8332–8337.
+Houston-Price, C., & Nakai, S. (2004). Distinguishing novelty and familiarity eects in infant
+preference procedures. Infant and Child Development: An International Journal of Research
+and Practice, 13 (4), 341–348.
+Jara-Ettinger, J., Gweon, H., Tenenbaum, J. B., & Schulz, L. E. (2015). Children’s understanding
+of the costs and rewards underlying rational action. Cognition, 140, 14–23.
+Johnson, M. H., Dziurawiec, S., Ellis, H., & Morton, J. (1991). Newborns’ preferential tracking of
+face-like stimuli and its subsequent decline. Cognition, 40 (1), 1–19.
+Kachergis, G., Yu, C., & Shirin, R. M. (2013). Actively learning object names across ambiguous
+situations. Topics in Cognitive Science, 5 (1), 200–213.
+Kanwisher, N., Woods, R. P., Iacoboni, M., & Mazziotta, J. C. (1997). A locus in human extrastriate
+cortex for visual shape analysis. Journal of Cognitive Neuroscience, 9 (1), 133–142.
+Kelly, S. D., Ozy¨urek, A., & Maris, E. (2010). Two sides of the same coin: Speech and gesture ¨
+mutually interact to enhance comprehension. Psychological Science, 21 (2), 260–267.
+Kidd, C., Piantadosi, S. T., & Aslin, R. N. (2012). The goldilocks eect: Human infants allocate
+attention to visual sequences that are neither too simple nor too complex. PloS One, 7 (5),
+e36399.
+Kidd, C., Piantadosi, S. T., & Aslin, R. N. (2014). The goldilocks eect in infant auditory attention.
+Child Development, 85 (5), 1795–1804.
+Kim, S., Paulus, M., Sodian, B., & Proust, J. (2016). Young children’s sensitivity to their own
+ignorance in informing others. PloS One, 11 (3), e0152595.
+Klahr, D., & Nigam, M. (2004). The equivalence of learning paths in early science instruction eects
+of direct instruction and discovery learning. Psychological Science, 15 (10), 661–667.
+References 189
+Kline, M. A. (2015). How to learn about teaching: An evolutionary framework for the study of
+teaching behavior in humans and other animals. Behavioral and Brain Sciences, 38.
+Koehne, J., & Crocker, M. W. (2014). The interplay of cross-situational word learning and sentencelevel constraints. Cognitive Science.
+Koenig, M. A., Clement, F., & Harris, P. L. (2004). Trust in testimony: Children’s use of true and
+false statements. Psychological Science, 15 (10), 694–698.
+Kontra, C., Goldin-Meadow, S., & Beilock, S. L. (2012). Embodied learning across the life span.
+Topics in Cognitive Science, 4 (4), 731–739.
+Kuhl, P. K. (2007). Is speech learning ‘gated’by the social brain? Developmental Science, 10 (1),
+110–120.
+Kuhn, D., & Pease, M. (2008). What needs to develop in the development of inquiry skills? Cognition
+and Instruction, 26 (4), 512–559.
+Legare, C. H., Mills, C. M., Souza, A. L., Plummer, L. E., & Yasskin, R. (2013). The use of questions
+as problem-solving strategies during early childhood. Journal of Experimental Child Psychology,
+114 (1), 63–76.
+Lenth, R. V. (2016). Least-squares means: The R package lsmeans. Journal of Statistical Software,
+69 (1), 1–33. http://doi.org/10.18637/jss.v069.i01
+Lindley, D. V. (1956). On a measure of the information provided by an experiment. The Annals of
+Mathematical Statistics, 986–1005.
+Liszkowski, U., Brown, P., Callaghan, T., Takada, A., & De Vos, C. (2012). A prelinguistic gestural
+universal of human communication. Cognitive Science, 36 (4), 698–713.
+Lockhart, K. L., Goddu, M. K., Smith, E. D., & Keil, F. C. (2016). What could you really learn
+on your own?: Understanding the epistemic limitations of knowledge acquisition. Child Development, 87 (2), 477–493.
+Lombrozo, T. (2006). The structure and function of explanations. Trends in Cognitive Sciences,
+10 (10), 464–470.
+References 190
+Lyons, K. E., & Ghetti, S. (2010). Metacognitive development in early childhood: New questions about old assumptions. In Trends and prospects in metacognition research (pp. 259–278).
+Springer.
+MacDonald, J., & McGurk, H. (1978). Visual influences on speech perception processes. Attention,
+Perception, & Psychophysics, 24 (3), 253–257.
+MacDonald, K., Blonder, A., Marchman, V., Fernald, A., & Frank, M. C. (2017a). An informationseeking account of eye movements during spoken and signed language comprehension. In Proceedings of the 39th annual conference of the cognitive science society.
+MacDonald, K., LaMarr, T., Corina, D., Marchman, V. A., & Fernald, A. (2018a). Real-time
+lexical comprehension in young children learning american sign language. Developmental Science,
+e12672.
+MacDonald, K., Marchman, V., Fernald, A., & Frank, M. C. (2018b). Adults and preschoolers seek
+visual information to support language comprehension in noisy environments. In Proceedings of
+the 40th annual conference of the cognitive science society.
+MacDonald, K., Marchman, V., Fernald, A., & Frank, M. C. (2018c). Children seek visual information during signed and spoken language comprehension. Preprint PsyArXiv.
+MacDonald, K., Schug, M., Chase, E., & Barth, H. (2013). My people, right or wrong? Minimal
+group membership disrupts preschoolers’ selective trust. Cognitive Development, 28 (3), 247–259.
+MacDonald, K., Yurovsky, D., & Frank, M. C. (2017b). Social cues modulate the representations
+underlying cross-situational learning. Cognitive Psychology, 94, 67–84.
+MacDonald, M. C., & Seidenberg, M. S. (2006). Constraint satisfaction accounts of lexical and
+sentence comprehension. Handbook of Psycholinguistics, 2, 581–611.
+MacKay, D. J. (2003). Information theory, inference and learning algorithms. Cambridge university
+press.
+Maddux, J.-M., & Holland, P. C. (2011). Dissociations between medial prefrontal cortical subregions
+in the modulation of learning and action. Behavioral Neuroscience, 125 (3), 383.
+References 191
+Manohar, S. G., & Husain, M. (2013). Attention as foraging for information and value. Frontiers
+in Human Neuroscience, 7, 711.
+Marchman, V. A., & Fernald, A. (2008). Speed of word recognition and vocabulary knowledge
+in infancy predict cognitive and language outcomes in later childhood. Developmental Science,
+11 (3), F9–F16.
+Maris, E., & Oostenveld, R. (2007). Nonparametric statistical testing of eeg-and meg-data. Journal
+of Neuroscience Methods, 164 (1), 177–190.
+Markant, D. B., & Gureckis, T. M. (2014). Is it better to select or to receive? Learning via active
+and passive hypothesis testing. Journal of Experimental Psychology: General, 143 (1), 94.
+Markant, D. B., Ruggeri, A., Gureckis, T. M., & Xu, F. (2016). Enhanced memory as a common
+eect of active learning. Mind, Brain, and Education, 10 (3), 142–152.
+Markant, D., DuBrow, S., Davachi, L., & Gureckis, T. M. (2014). Deconstructing the eect of
+self-directed study on episodic memory. Memory & Cognition, 42 (8), 1211–1224.
+Markman, E. M. (1979). Realizing that you don’t understand: Elementary school children’s awareness of inconsistencies. Child Development, 643–655.
+McClelland, J. L., & Elman, J. L. (1986). The trace model of speech perception. Cognitive Psychology, 18 (1), 1–86.
+McClelland, J. L., Mirman, D., & Holt, L. L. (2006). Are there interactive processes in speech
+perception? Trends in Cognitive Sciences, 10 (8), 363–369.
+McCormack, T., Bramley, N., Frosch, C., Patrick, F., & Lagnado, D. (2016). Children’s use of
+interventions to learn causal structure. Journal of Experimental Child Psychology, 141, 1–22.
+McMurray, B., Farris-Trimble, A., & Rigler, H. (2017). Waiting for lexical access: Cochlear implants
+or severely degraded input lead listeners to process speech less incrementally. Cognition, 169,
+147–164.
+McMurray, B., Horst, J. S., & Samuelson, L. K. (2012). Word learning emerges from the interaction
+of online referent selection and slow associative learning. Psychological Review, 119 (4), 831.
+References 192
+Medina, T. N., Snedeker, J., Trueswell, J. C., & Gleitman, L. R. (2011). How words can and cannot
+be learned by observation. Proceedings of the National Academy of Sciences, 108 (22), 9014–9019.
+Mills, C. M., Danovitch, J. H., Grant, M. G., & Elashi, F. B. (2012). Little pitchers use their big
+ears: Preschoolers solve problems by listening to others ask questions. Child Development, 83 (2),
+568–580.
+Mills, C. M., Legare, C. H., Bills, M., & Mejias, C. (2010). Preschoolers use questions as a tool to
+acquire knowledge from dierent sources. Journal of Cognition and Development, 11 (4), 533–560.
+Mills, C. M., Legare, C. H., Grant, M. G., & Landrum, A. R. (2011). Determining who to question,
+what to ask, and how much information to ask for: The development of inquiry in young children.
+Journal of Experimental Child Psychology, 110 (4), 539–560.
+Munhall, K. G., Jones, J. A., Callan, D. E., Kuratate, T., & Vatikiotis-Bateson, E. (2004). Visual prosody and speech intelligibility: Head movement improves auditory speech perception.
+Psychological Science, 15 (2), 133–137.
+Najemnik, J., & Geisler, W. S. (2005). Optimal eye movement strategies in visual search. Nature,
+434 (7031), 387.
+Needham, A., Barrett, T., & Peterman, K. (2002). A pick-me-up for infants’ exploratory skills:
+Early simulated experiences reaching for objects using “sticky mittens” enhances young infants’
+object exploration skills. Infant Behavior and Development, 25 (3), 279–295.
+Nelson, J. D. (2005). Finding useful questions: On bayesian diagnosticity, probability, impact, and
+information gain. Psychological Review, 112 (4).
+Nelson, J. D., & Cottrell, G. W. (2007). A probabilistic model of eye movements in concept formation. Neurocomputing, 70 (13-15), 2256–2272.
+Nelson, J. D., McKenzie, C. R., Cottrell, G. W., & Sejnowski, T. J. (2010). Experience matters:
+Information acquisition optimizes probability gain. Psychological Science, 21 (7), 960–969.
+Oakes, L. M. (2011). Infant perception and cognition: Recent advances, emerging theories, and
+future directions. Oxford University Press, USA.
+References 193
+Opfer, J. E., & Siegler, R. S. (2004). Revisiting preschoolers’ living things concept: A microgenetic
+analysis of conceptual change in basic biology. Cognitive Psychology, 49 (4), 301–332.
+Oudeyer, P.-Y., & Smith, L. B. (2016). How evolution may work through curiosity-driven developmental process. Topics in Cognitive Science, 8 (2), 492–502.
+Ouyang, L., Tessler, M. H., Ly, D., & Goodman, N. (2016). Practical optimal experiment design
+with probabilistic programs. arXiv Preprint arXiv:1608.05046.
+Partridge, E., McGovern, M. G., Yung, A., & Kidd, C. (2015). Young children’s self-directed
+information gathering on touchscreens. In Proceedings of the 37th annual conference of the
+cognitive science society, austin, tx. Cognitive science society.
+Pea, R. D. (1982). Origins of verbal logic: Spontaneous denials by two-and three-year olds. Journal
+of Child Language, 9 (3), 597–626.
+Peelle, J. E., & Sommers, M. S. (2015). Prediction and constraint in audiovisual speech perception.
+Cortex, 68, 169–181.
+Pegg, J. E., Werker, J. F., & McLeod, P. J. (1992). Preference for infant-directed over adult-directed
+speech: Evidence from 7-week-old infants. Infant Behavior and Development, 15 (3), 325–345.
+Piaget, J., & Cook, M. T. (1952). The origins of intelligence in children.
+Pirolli, P., & Card, S. (1999). Information foraging. Psychological Review, 106 (4), 643.
+Prince, M. (2004). Does active learning work? A review of the research. Journal of Engineering
+Education, 93 (3), 223–231.
+Quine, W. V. (1960). 0. Word and object. 111e MIT Press.
+Rakoczy, H., Hamann, K., Warneken, F., & Tomasello, M. (2010). Bigger knows better: Young
+children selectively learn rule games from adults rather than from peers. British Journal of
+Developmental Psychology, 28 (4), 785–798.
+Ramirez-Loaiza, M. E., Sharma, M., Kumar, G., & Bilgic, M. (2017). Active learning: An empirical
+study of common baselines. Data Mining and Knowledge Discovery, 31 (2), 287–313.
+References 194
+Ratcli, R., & Childers, R. (2015). Individual dierences and fitting methods for the two-choice
+diusion model of decision making. Decision, 2 (4), 237–279.
+Ratcli, R., & McKoon, G. (2008). The diusion decision model: Theory and data for two-choice
+decision tasks. Neural Computation, 20 (4), 873–922.
+Reid, V. M., & Striano, T. (2005). Adult gaze influences infant attention and object processing:
+Implications for cognitive neuroscience. European Journal of Neuroscience, 21 (6), 1763–1766.
+Rigler, H., Farris-Trimble, A., Greiner, L., Walker, J., Tomblin, J. B., & McMurray, B. (2015). The
+slow developmental time course of real-time spoken word recognition. Developmental Psychology,
+51 (12), 1690.
+Rogo, B., Mistry, J., G¨onc¨u, A., Mosier, C., Chavajay, P., & Heath, S. B. (1993). Guided participation in cultural activity by toddlers and caregivers. Monographs of the Society for Research
+in Child Development, i–179.
+Rohde, H., & Frank, M. C. (2014). Markers of topical discourse in child-directed speech. Cognitive
+Science, 38 (8), 1634–1661.
+Ross-sheehy, S., Oakes, L. M., & Luck, S. J. (2003). The development of visual short-term memory
+capacity in infants. Child Development, 74 (6), 1807–1822.
+Rothe, A., Lake, B. M., & Gureckis, T. M. (2015). Asking useful questions: Active learning with
+rich queries. In CogSci.
+Rowe, M. L., Leech, K. A., & Cabrera, N. (2017). Going beyond input quantity: Wh-questions
+matter for toddlers’ language and cognitive development. Cognitive Science, 41 (S1), 162–179.
+Roy, D. K., & Pentland, A. P. (2002). Learning words from sights and sounds: A computational
+model. Cognitive Science, 26 (1), 113–146.
+Ruggeri, A., & Lombrozo, T. (2015). Children adapt their questions to achieve ecient search.
+Cognition, 143, 203–216.
+Ruggeri, A., Markant, D. B., Gureckis, T. M., & Xu, F. (2016). Active control of study leads to
+improved recognition memory in children. In Proceedings of the 38th annual conference of the
+References 195
+cognitive science society. Austin, tx: Cognitive science society.
+Sage, K. D., & Baldwin, D. (2011). Disentangling the social and the pedagogical in infants’ learning
+about tool-use. Social Development, 20 (4), 825–844.
+Salverda, A. P., Brown, M., & Tanenhaus, M. K. (2011). A goal-based perspective on eye movements
+in visual world studies. Acta Psychologica, 137 (2), 172–180.
+Sanchez, A., Long, B., Kraus, A. M., & Frank, M. C. (2018). Postural developments modulate
+children’s visual access to social information.
+Schober, M. F., & Clark, H. H. (1989). Understanding by addressees and overhearers. Cognitive
+Psychology, 21 (2), 211–232.
+Schulz, L. (2012). The origins of inquiry: Inductive inference and exploration in early childhood.
+Trends in Cognitive Sciences, 16 (7), 382–389.
+Sekicki, M., & Staudte, M. (2018). Eye’ll help you out! How the gaze cue reduces the cognitive load
+required for reference processing. Cognitive Science.
+Senju, A., & Csibra, G. (2008). Gaze following in human infants depends on communicative signals.
+Current Biology, 18 (9), 668–671.
+Settles, B. (2012). Active learning. Synthesis Lectures on Artificial Intelligence and Machine Learning, 6 (1), 1–114.
+Settles, B., Craven, M., & Friedland, L. (2008). Active learning with real annotation costs. In
+Proceedings of the nips workshop on cost-sensitive learning (pp. 1–10).
+Shafto, P., Eaves, B., Navarro, D. J., & Perfors, A. (2012a). Epistemic trust: Modeling children’s
+reasoning about others’ knowledge and intent. Developmental Science, 15 (3), 436–447.
+Shafto, P., Goodman, N. D., & Frank, M. C. (2012b). Learning from others the consequences of
+psychological reasoning for human learning. Perspectives on Psychological Science, 7 (4), 341–
+351.
+Shafto, P., Goodman, N. D., & Griths, T. L. (2014). A rational account of pedagogical reasoning:
+References 196
+Teaching by, and learning from, examples. Cognitive Psychology, 71, 55–89.
+Shinoda, H., Hayhoe, M. M., & Shrivastava, A. (2001). What controls attention in natural environments? Vision Research, 41 (25-26), 3535–3545.
+Singh, L., Nestor, S., Parikh, C., & Yull, A. (2009). Influences of infant-directed speech on early
+word recognition. Infancy, 14 (6), 654–666.
+Siskind, J. M. (1996). A computational study of cross-situational techniques for learning word-tomeaning mappings. Cognition, 61 (1), 39–91.
+Smith, K., Smith, A. D., & Blythe, R. A. (2011). Cross-situational learning: An experimental study
+of word-learning mechanisms. Cognitive Science, 35 (3), 480–498.
+Smith, L. B., Suanda, S. H., & Yu, C. (2014). The unrealized promise of infant statistical word–
+referent learning. Trends in Cognitive Sciences, 18 (5), 251–258.
+Smith, L. B., & Yu, C. (2008). Infants rapidly learn word-referent mappings via cross-situational
+statistics. Cognition, 106 (3), 1558–1568.
+Smith, L. B., & Yu, C. (2013). Visual attention is not enough: Individual dierences in statistical
+word-referent learning in infants. Language Learning and Development, 9 (1), 25–49.
+Spivey, M. J., Tanenhaus, M. K., Eberhard, K. M., & Sedivy, J. C. (2002). Eye movements and
+spoken language comprehension: Eects of visual context on syntactic ambiguity resolution.
+Cognitive Psychology, 45 (4), 447–481.
+Stahl, A. E., & Feigenson, L. (2015). Observing the unexpected enhances infants’ learning and
+exploration. Science, 348 (6230), 91–94.
+Tanenhaus, M. K., Magnuson, J. S., Dahan, D., & Chambers, C. (2000). Eye movements and lexical
+access in spoken-language comprehension: Evaluating a linking hypothesis between fixations and
+linguistic processing. Journal of Psycholinguistic Research, 29 (6), 557–580.
+Tanenhaus, M. K., Spivey-Knowlton, M. J., Eberhard, K. M., & Sedivy, J. C. (1995). Integration of
+visual and linguistic information in spoken language comprehension. Science, 268 (5217), 1632.
+References 197
+Thiessen, E. D., Hill, E. A., & Saran, J. R. (2005). Infant-directed speech facilitates word segmentation. Infancy, 7 (1), 53–71.
+Tomasello, M., & Farrar, M. J. (1986). Joint attention and early language. Child Development,
+1454–1463.
+Triesch, J., Ballard, D. H., Hayhoe, M. M., & Sullivan, B. T. (2003). What you see is what you
+need. Journal of Vision, 3 (1), 9–9.
+Trueswell, J. C., Lin, Y., Armstrong, B., Cartmill, E. A., Goldin-Meadow, S., & Gleitman, L. R.
+(2016). Perceiving referential intent: Dynamics of reference in natural parent–child interactions.
+Cognition, 148, 117–135.
+Trueswell, J. C., Medina, T. N., Hafri, A., & Gleitman, L. (2013). Propose but verify: Fast mapping
+meets cross-situational word learning. Cognitive Psychology, 66 (1), 126–156.
+Uziel, L. (2007). Individual dierences in the social facilitation eect: A review and meta-analysis.
+Journal of Research in Personality, 41 (3), 579–601.
+Vandekerckhove, J., & Tuerlinckx, F. (2007). Fitting the ratcli diusion model to experimental
+data. Psychonomic Bulletin & Review, 14 (6), 1011–1026.
+Venker, C. E., Eernisse, E. R., Saran, J. R., & Weismer, S. E. (2013). Individual dierences in the
+real-time comprehension of children with asd. Autism Research, 6 (5), 417–432.
+Vigliocco, G., Perniss, P., & Vinson, D. (2014). Language as a multimodal phenomenon: Implications for language learning, processing and evolution. The Royal Society.
+Vlach, H. A., & Johnson, S. P. (2013). Memory constraints on infants’ cross-situational statistical
+learning. Cognition, 127 (3), 375–382.
+Vosniadou, S., & Brewer, W. F. (1992). Mental models of the earth: A study of conceptual change
+in childhood. Cognitive Psychology, 24 (4), 535–585.
+Vouloumanos, A. (2008). Fine-grained sensitivity to statistical information in adult word learning.
+Cognition, 107 (2), 729–742.
+References 198
+Vouloumanos, A., & Werker, J. F. (2007). Listening to language at birth: Evidence for a bias for
+speech in neonates. Developmental Science, 10 (2), 159–164.
+Vredenburgh, C., & Kushnir, T. (2016). Young children’s help-seeking as active information gathering. Cognitive Science, 40 (3), 697–722.
+Vul, E., Goodman, N., Griths, T. L., & Tenenbaum, J. B. (2014). One and done? Optimal
+decisions from very few samples. Cognitive Science, 38 (4), 599–637.
+Vygotsky, L. (1987). Zone of proximal development. Mind in Society: The Development of Higher
+Psychological Processes, 5291, 157.
+Wiecki, T. V., Sofer, I., & Frank, M. J. (2013). HDDM: Hierarchical bayesian estimation of the
+drift-diusion model in python. Frontiers in Neuroinformatics, 7, 14.
+Woodard, K., Gleitman, L. R., & Trueswell, J. C. (2016). Two-and three-year-olds track a single
+meaning during word learning: Evidence for propose-but-verify. Language Learning and Development, 12 (3), 252–261.
+Wu, R., Gopnik, A., Richardson, D. C., & Kirkham, N. Z. (2011). Infants learn about objects from
+statistics and people. Developmental Psychology, 47 (5), 1220.
+Wu, R., & Kirkham, N. Z. (2010). No two cues are alike: Depth of learning during infancy is
+dependent on what orients attention. Journal of Experimental Child Psychology, 107 (2), 118–
+136.
+Wu, Z., & Gros-Louis, J. (2015). Caregivers provide more labeling responses to infants’ pointing
+than to infants’ object-directed vocalizations. Journal of Child Language, 42 (3), 538–561.
+Xu, F., & Tenenbaum, J. B. (2007a). Sensitivity to sampling in bayesian word learning. Developmental Science, 10 (3), 288–297.
+Xu, F., & Tenenbaum, J. B. (2007b). Word learning as bayesian inference. Psychological Review,
+114 (2), 245.
+Yee, E., & Sedivy, J. C. (2006). Eye movements to pictures reveal transient semantic activation
+during spoken word recognition. Journal of Experimental Psychology: Learning, Memory, and
+References 199
+Cognition, 32 (1), 1.
+Yoon, E. J., MacDonald, K., Asaba, M., Gweon, H., & Frank, M. C. (2018). Balancing informational
+and social goals in active learning. In Proceedings of the 40th annual conference of the cognitive
+science society.
+Yoon, E. J., Tessler, Michael Henry, Goodman, N. D., & Frank, M. C. (2017). ”I won’t lie, it wasn’t
+amazing”: Modeling polite indirect speech. In Proceedings of the 39th annual conference of the
+cognitive science society.
+Yoon, J. M., Johnson, M. H., & Csibra, G. (2008). Communication-induced memory biases in
+preverbal infants. Proceedings of the National Academy of Sciences, 105 (36), 13690–13695.
+Yu, C., & Ballard, D. H. (2007). A unified model of early word learning: Integrating statistical and
+social cues. Neurocomputing, 70 (13), 2149–2165.
+Yu, C., Ballard, D. H., & Aslin, R. N. (2005). The role of embodied intention in early lexical
+acquisition. Cognitive Science, 29 (6), 961–1005.
+Yu, C., & Smith, L. B. (2007). Rapid word learning under uncertainty via cross-situational statistics.
+Psychological Science, 18 (5), 414–420.
+Yu, C., & Smith, L. B. (2012). Embodied attention and word learning by toddlers. Cognition.
+Yu, C., & Smith, L. B. (2013). Joint attention without gaze following: Human infants and their
+parents coordinate visual attention to objects through eye-hand coordination. PloS One, 8 (11),
+e79659.
+Yu, C., & Smith, L. B. (2016). The social origins of sustained attention in one-year-old human
+infants. Current Biology, 26 (9), 1235–1240.
+Yurovsky, D., Case, S., & Frank, M. C. (2017). Preschoolers flexibly adapt to linguistic input in a
+noisy channel. Psychological Science, 28 (1), 132–140.
+Yurovsky, D., & Frank, M. C. (2015). An integrative account of constraints on cross-situational
+learning. Cognition.
+References 200
+Yurovsky, D., Smith, L. B., & Yu, C. (2013a). Statistical word learning at scale: The baby’s view is
+better. Developmental Science, 16 (6), 959–966.
+Yurovsky, D., Wade, A., & Frank, M. (2013b). Online processing of speech and social information
+in early word learning. In Proceedings of the annual meeting of the cognitive science society (Vol.
+35).
+Zangl, R., & Fernald, A. (2007). Increasing flexibility in children’s online processing of grammatical
+and nonce determiners in fluent speech. Language Learning and Development, 3 (3), 199–231.

@@ -1,0 +1,357 @@
+Alexander, M. (2012). The new Jim Crow: Mass incarceration in the age of
+colorblindness. The New Press.
+Allport, G. W. (1979). The nature of prejudice. Basic books.
+Ambady, N., Bernieri, F. J., & Richeson, J. A. (2000). Toward a histology of social
+behavior: Judgmental accuracy from thin slices of the behavioral stream.
+Advances in Experimental Social Psychology, 32, 201–271.
+Ambady, N., LaPlante, D., Nguyen, T., Rosenthal, R., Chaumeton, N., & Levinson, W.
+(2002). Surgeons’ tone of voice: a clue to malpractice history. Surgery, 132(1), 5–
+9.
+Ambady, N., & Rosenthal, R. (1993). Half a minute: Predicting teacher evaluations from
+thin slices of nonverbal behavior and physical attractiveness. Journal of
+Personality and Social Psychology, 64(3), 431.
+Baayen, R. H., Davidson, D. J., & Bates, D. M. (2008). Mixed-effects modeling with
+crossed random effects for subjects and items. Journal of Memory and Language,
+59(4), 390–412.
+Baumgartner, F. R., Epp, D. A., & Shoub, K. (2018). Suspect Citizens: What 20 Million
+Traffic Stops Tell Us about Policing and Race. Cambridge University Press.
+Belin, P., Bestelmeyer, P. E., Latinus, M., & Watson, R. (2011). Understanding voice
+perception. British Journal of Psychology, 102(4), 711–725.
+Belin, P., Fillion-Bilodeau, S., & Gosselin, F. (2008). The Montreal Affective Voices: a
+validated set of nonverbal affect bursts for research on auditory affective
+processing. Behavior Research Methods, 40(2), 531–539.
+121
+Bergsieker, H. B., Shelton, J. N., & Richeson, J. A. (2010). To be liked versus respected:
+Divergent goals in interracial interactions. Journal of Personality and Social
+Psychology, 99(2), 248.
+Beyond the License Plate Program. (n.d.). Retrieved September 14, 2017, from
+https://www.3m.com/3M/en_US/government-us/resources/beyond-the-licenseplate-program/
+Boersma, P. (2006). Praat: doing phonetics by computer. Http://Www. Praat. Org/.
+Bonam, C. M., Taylor, V. J., & Yantis, C. (2017). Racialized physical space as cultural
+product. Social and Personality Psychology Compass, 11(9), e12340.
+Bonilla-Silva, E. (2006). Racism without racists: Color-blind racism and the persistence
+of racial inequality in the United States. Rowman & Littlefield Publishers.
+Retrieved from
+https://books.google.com/books?hl=en&lr=&id=HKJE4rVZG1EC&oi=fnd&pg=
+PR7&dq=colorblind+racism&ots=lcCZAXI2U9&sig=2HTlfmssIy5Wo0Ecgr3phj
+PpqlI
+Bradley, M. M., & Lang, P. J. (1994). Measuring emotion: the self-assessment manikin
+and the semantic differential. Journal of Behavior Therapy and Experimental
+Psychiatry, 25(1), 49–59.
+Brehm, J. O., & Gates, S. (1999). Working, shirking, and sabotage: Bureaucratic
+response to a democratic public. University of Michigan Press.
+Brinkman, L., Todorov, A., & Dotsch, R. (2017). Visualising mental representations: A
+primer on noise-based reverse correlation in social psychology. European Review 
+122
+of Social Psychology, 28(1), 333–361.
+https://doi.org/10.1080/10463283.2017.1381469
+Buuren, S. van, & Groothuis-Oudshoorn, K. (2010). mice: Multivariate imputation by
+chained equations in R. Journal of Statistical Software, 1–68.
+Cheng, J. T., Tracy, J. L., Ho, S., & Henrich, J. (2016). Listen, follow me: Dynamic vocal
+signals of dominance predict emergent social rank in humans. Journal of
+Experimental Psychology: General, 145(5), 536.
+Cheryan, S., Plaut, V. C., Davies, P. G., & Steele, C. M. (2009). Ambient belonging: how
+stereotypical cues impact gender participation in computer science. Journal of
+Personality and Social Psychology, 97(6), 1045.
+Clark, H. H. (1973). The language-as-fixed-effect fallacy: A critique of language
+statistics in psychological research. Journal of Verbal Learning and Verbal
+Behavior, 12(4), 335–359.
+Correll, J., Park, B., Judd, C. M., Wittenbrink, B., Sadler, M. S., & Keesee, T. (2007).
+Across the thin blue line: police officers and racial bias in the decision to shoot.
+Journal of Personality and Social Psychology, 92(6), 1006.
+Correll, J., Urland, G. R., & Ito, T. A. (2006). Event-related potentials and the decision to
+shoot: The role of threat perception and cognitive control. Journal of
+Experimental Social Psychology, 42(1), 120–128.
+Dai, M., Frank, J., & Sun, I. (2011). Procedural justice during police-citizen encounters:
+The effects of process-based policing on citizen compliance and demeanor.
+Journal of Criminal Justice, 39(2), 159–168.
+123
+Darling-Hammond, L. (2004). The color line in American education: Race, resources,
+and student achievement. Du Bois Review: Social Science Research on Race,
+1(2), 213–246.
+Devine, P. G. (1989). Stereotypes and prejudice: their automatic and controlled
+components. Journal of Personality and Social Psychology, 56(1), 5.
+Devine, P. G., & Elliot, A. J. (1995). Are racial stereotypes really fading? The Princeton
+trilogy revisited. Personality and Social Psychology Bulletin, 21, 1139–1150.
+Dotsch, R. (2016). rcicr: Reverse correlation image classification toolbox.
+Dotsch, R., & Todorov, A. (2012). Reverse correlating social face perception. Social
+Psychological and Personality Science, 3(5), 562–571.
+Dovidio, J. F., Kawakami, K., & Gaertner, S. L. (2002). Implicit and explicit prejudice
+and interracial interaction. Journal of Personality and Social Psychology, 82(1),
+62.
+Dovidio, J. F., Kawakami, K., Johnson, C., Johnson, B., & Howard, A. (1997). On the
+nature of prejudice: Automatic and controlled processes. Journal of Experimental
+Social Psychology, 33(5), 510–540.
+Eberhardt, J. L., Davies, P. G., Purdie-Vaughns, V. J., & Johnson, S. L. (2006). Looking
+deathworthy perceived stereotypicality of black defendants predicts capitalsentencing outcomes. Psychological Science, 17(5), 383–386.
+Eberhardt, J. L., Goff, P. A., Purdie, V. J., & Davies, P. G. (2004). Seeing black: race,
+crime, and visual processing. Journal of Personality and Social Psychology,
+87(6), 876.
+124
+Eibach, R. P., & Ehrlinger, J. (2006). “Keep your eyes on the prize”: Reference points
+and racial differences in assessing progress toward equality. Personality and
+Social Psychology Bulletin, 32(1), 66–77.
+Eith, C., & Durose, M. (2011). Contacts between police and the public, 2008. Bureau of
+Justice Statistics.
+Epp, C. R., Maynard‐Moody, S., & Haider‐Markel, D. (2017). Beyond Profiling: The
+Institutional Sources of Racial Disparities in Policing. Public Administration
+Review, 77(2), 168–178.
+Epp, C. R., Maynard-Moody, S., & Haider-Markel, D. P. (2014). Pulled over: How
+police stops define race and citizenship. University of Chicago Press.
+Fiske, S. T., & Neuberg, S. L. (1990). A continuum of impression formation, from
+category-based to individuating processes: Influences of information and
+motivation on attention and interpretation. Advances in Experimental Social
+Psychology, 23, 1–74.
+Forman Jr, J. (2017). Locking Up Our Own: Crime and Punishment in Black America.
+Farrar, Straus and Giroux.
+Freeman, J. B., Pauker, K., Apfelbaum, E. P., & Ambady, N. (2010). Continuous
+dynamics in the real-time perception of race. Journal of Experimental Social
+Psychology, 46(1), 179–185.
+Freimuth, V. S., Quinn, S. C., Thomas, S. B., Cole, G., Zook, E., & Duncan, T. (2001).
+African Americans’ views on research and the Tuskegee Syphilis Study. Social
+Science & Medicine, 52(5), 797–808.
+125
+Frick, R. W. (1985). Communicating emotion: The role of prosodic features.
+Psychological Bulletin, 97(3), 412.
+Fridell, L. A. (2004). By the numbers: A guide for analyzing race data from vehicle stops.
+Police Executive Research Forum Washington, DC.
+Gelfand, M. J., Nishii, L. H., & Raver, J. L. (2006). On the nature and importance of
+cultural tightness-looseness. Journal of Applied Psychology, 91(6), 1225–1244.
+https://doi.org/10.1037/0021-9010.91.6.1225
+Gelman, A., Fagan, J., & Kiss, A. (2007). An analysis of the New York City police
+department’s “stop-and-frisk” policy in the context of claims of racial bias.
+Journal of the American Statistical Association, 102(479), 813–823.
+Gelman, A., & Hill, J. (2006). Data analysis using regression and multilevel/hierarchical
+models. Cambridge university press.
+Giles, H., Coupland, J., & Coupland, N. (1991). Accommodation theory:
+Communication, context and consequences. In H. Giles, J. Coupland, & N.
+Coupland (Eds.), Contexts of Accommodation: Developments in applied
+sociolinguistics (pp. 1–68). Cambridge.
+Glaser, J. (2015). Suspect race: Causes and consequences of racial profiling. Oxford
+University Press, USA.
+Goel, S., Rao, J. M., & Shroff, R. (2016). Precinct or Prejudice? Understanding Racial
+Disparities in New York City’s Stop-and-Frisk Policy. Annals of Applied
+Statistics, 10(1), 365–394.
+Graham, J. W. (2009). Missing data analysis: Making it work in the real world. Annual
+Review of Psychology, 60, 549–576.
+126
+Granot, Y., Balcetis, E., Schneider, K. E., & Tyler, T. R. (2014). Justice is not blind:
+Visual attention exaggerates effects of group identification on legal punishment.
+Journal of Experimental Psychology: General, 143(6), 2196.
+Grogger, J., & Ridgeway, G. (2006). Testing for racial profiling in traffic stops from
+behind a veil of darkness. Journal of the American Statistical Association,
+101(475), 878–887.
+Hall, J. A., Coats, E. J., & LeBeau, L. S. (2005). Nonverbal Behavior and the Vertical
+Dimension of Social Relations: A Meta-Analysis. Psychological Bulletin, 131(6),
+898–924. https://doi.org/10.1037/0033-2909.131.6.898
+Harris, D. A. (2003). Profiles in injustice: Why racial profiling cannot work. The New
+Press.
+Hebl, M. R., & Dovidio, J. F. (2005). Promoting the “social” in the examination of social
+stigmas. Personality and Social Psychology Review, 9(2), 156–182.
+Hebl, M. R., Tickle, J., & Heatherton, T. F. (2000). Awkward moments in interactions
+between nonstigmatized and stigmatized individuals. The Social Psychology of
+Stigma, 275–306.
+Hecht, M. A., & LaFrance, M. (1995). How (fast) can I help you? Tone of voice and
+telephone operator efficiency in interactions. Journal of Applied Social
+Psychology, 25(23), 2086–2098.
+Hehman, E., Flake, J. K., & Calanchini, J. (2017). Disproportionate Use of Lethal Force
+in Policing Is Associated With Regional Racial Biases of Residents. Social
+Psychological and Personality Science, 1948550617711229.
+127
+Hehman, E., Sutherland, C. A., Flake, J. K., & Slepian, M. L. (2017). The unique
+contributions of perceiver and target characteristics in person perception. Journal
+of Personality and Social Psychology, 113(4), 513.
+Henrich, J., Heine, S. J., & Norenzayan, A. (2010). Most people are not WEIRD. Nature,
+466(7302), 29.
+Hinton, E. (2016). From the War on Poverty to the War on Crime. Harvard University
+Press.
+Hochschild, A. R. (2012). The managed heart: Commercialization of human feeling.
+Univ of California Press.
+Hodges-Simeon, C. R., Gaulin, S. J., & Puts, D. A. (2010). Different vocal parameters
+predict perceptions of dominance and attractiveness. Human Nature, 21(4), 406–
+427.
+Hugenberg, K., & Bodenhausen, G. V. (2003). Facing prejudice implicit prejudice and
+the perception of facial threat. Psychological Science, 14(6), 640–643.
+Huo, Y. J., Binning, K. R., & Molina, L. E. (2010). Testing an integrative model of
+respect: Implications for social engagement and well-being. Personality and
+Social Psychology Bulletin, 36(2), 200–212.
+Hurwitz, J., & Peffley, M. (2005). Explaining the Great Racial Divide: Perceptions of
+Fairness in the U.S. Criminal Justice System. Journal of Politics, 67(3), 762–783.
+https://doi.org/10.1111/j.1468-2508.2005.00338.x
+Jonathan-Zamir, T., Mastrofski, S. D., & Moyal, S. (2015). Measuring Procedural Justice
+in Police-Citizen Encounters. Justice Quarterly, 32(5), 845–871.
+https://doi.org/10.1080/07418825.2013.845677
+128
+Judd, C. M., Westfall, J., & Kenny, D. A. (2012). Treating stimuli as a random factor in
+social psychology: A new and comprehensive solution to a pervasive but largely
+ignored problem. Journal of Personality and Social Psychology, 103(1), 54.
+Judd, C. M., Westfall, J., & Kenny, D. A. (2017). Experiments with more than one
+random factor: Designs, analytic models, and statistical power. Annual Review of
+Psychology, 68, 601–625.
+Kahn, K. B., Goff, P. A., Lee, J. K., & Motamed, D. (2016). Protecting whiteness: White
+phenotypic racial stereotypicality reduces police use of force. Social
+Psychological and Personality Science, 7(5), 403–411.
+Kelling, G. L., & Coles, C. M. (1997). Fixing broken windows: Restoring order and
+reducing crime in our communities. Simon and Schuster.
+Kelling, G. L., Pate, T., Dieckman, D., & Brown, C. E. (1974). The Kansas City
+preventive patrol experiment. Washington, DC: Police Foundation.
+Ko, S. J., Sadler, M. S., & Galinsky, A. D. (2015). The Sound of Power:Conveying and
+Detecting Hierarchical Rank Through Voice. Psychological Science, 26(1), 3–14.
+Kraus, M. W., Park, J. W., & Tan, J. J. X. (2017). Signs of Social Class: The Experience
+of Economic Inequality in Everyday Life. Perspectives on Psychological Science,
+12(3), 422–435.
+Langton, L., & Durose, M. R. (2013). Police behavior during traffic and street stops,
+2011. US Department of Justice, Office of Justice Programs, Bureau of Justice
+Statistics Washington, DC.
+Lipsky, M. (1983). Street-Level Bureaucracy: The Dilemmas of the Individual in Public
+Service. Russell Sage Foundation.
+129
+Markus, H. R., & Kitayama, S. (2010). Cultures and selves: A cycle of mutual
+constitution. Perspectives on Psychological Science, 5(4), 420–430.
+Mastrofski, S. D., Parks, R. B., & McCluskey, J. D. (2010). Systematic social observation
+in criminology. In Handbook of quantitative criminology (pp. 225–247). Springer.
+Mathôt, S., Schreij, D., & Theeuwes, J. (2012). OpenSesame: An open-source, graphical
+experiment builder for the social sciences. Behavior Research Methods, 44(2),
+314–324.
+McAleer, P., Todorov, A., & Belin, P. (2014). How do you say ‘Hello’? Personality
+impressions from brief novel voices. PloS One, 9(3), e90779.
+Mendoza-Denton, R., Downey, G., Purdie, V. J., Davis, A., & Pietrzak, J. (2002).
+Sensitivity to status-based rejection: implications for African American students’
+college experience. Journal of Personality and Social Psychology, 83(4), 896.
+Morris, M. W., Hong, Y., Chiu, C., & Liu, Z. (2015). Normology: Integrating insights
+about social norms to understand cultural dynamics. SI: Social Norms and
+Cultural Dynamics, 129(Supplement C), 1–13.
+https://doi.org/10.1016/j.obhdp.2015.03.001
+Moynihan, D. P. (1965). The Negro Family: The Case for National Action (1965).
+Murphy, M. C., Steele, C. M., & Gross, J. J. (2007). Signaling threat: How situational
+cues affect women in math, science, and engineering settings. Psychological
+Science, 18(10), 879–885.
+Myrdal, G. (1944). An American dilemma, Volume 2: The Negro problem and modern
+democracy (Vol. 2). Transaction Publishers.
+130
+Najdowski, C. J., Bottoms, B. L., & Goff, P. A. (2015). Stereotype threat and racial
+differences in citizens’ experiences of police encounters. Law and Human
+Behavior, 39(5), 463–477. https://doi.org/10.1037/lhb0000140
+Okonofua, J. A., Walton, G. M., & Eberhardt, J. L. (2016). A vicious cycle: A social–
+psychological account of extreme racial disparities in school discipline.
+Perspectives on Psychological Science, 11(3), 381–398.
+Peffley, M., & Hurwitz, J. (2010). Justice in America: The separate realities of Blacks
+and Whites. Cambridge University Press.
+Pew Research Center. (2016). On Views of Race and Inequality, Blacks and Whites Are
+Worlds Apart.
+Pierson, E., Simoiu, C., Overgoor, J., Corbett-Davies, S., Ramachandran, V., Phillips, C.,
+& Goel, S. (2017). A large-scale analysis of racial disparities in police stops
+across the United States. ArXiv Preprint ArXiv:1706.05678.
+President’s Task Force on 21st Century Policing. (2015). Final report of the President’s
+task force on 21st century policing.
+Purdie-Vaughns, V., Mayville, E. W., & Ditlmann, R. K. (2014). Organizational and
+Individual Colorblindness Approaches to Past Injustice. In Diversity Ideologies in
+Organizations (pp. 123–148). Routledge.
+Purdie-Vaughns, V., Steele, C. M., Davies, P. G., Ditlmann, R., & Crosby, J. R. (2008).
+Social identity contingencies: how diversity cues signal threat or safety for
+African Americans in mainstream institutions. Journal of Personality and Social
+Psychology, 94(4), 615.
+131
+Rawlings, J. O., Pantula, S. G., & Dickey, D. A. (2001). Applied regression analysis: a
+research tool. Springer Science & Business Media.
+Reaves, B. (2015). Local police departments, 2013: personnel, policies, and practices
+(No. NCJ 248677). US Department of Justice, Office of Justice Programs, Bureau
+of Justice Assistance, Washington, DC.
+Reichel, P. L. (1988). Southern slave patrols as a transitional police type. Am. J. Police,
+7, 51.
+Remington, F. J. (1974). The Standards Relating to the Urban Police Function. Am. Crim.
+L. Rev., 12, 459.
+Richeson, J. A., & Shelton, J. N. (2005). Brief report: Thin slices of racial bias. Journal
+of Nonverbal Behavior, 29(1), 75–86.
+Richeson, J. A., & Shelton, J. N. (2007). Negotiating interracial interactions: Costs,
+consequences, and possibilities. Current Directions in Psychological Science,
+16(6), 316–320.
+Sagar, H. A., & Schofield, J. W. (1980). Racial and behavioral cues in black and white
+children’s perceptions of ambiguously aggressive acts. Journal of Personality and
+Social Psychology, 39(4), 590.
+Scherer, K. R., Johnstone, T., & Klasmeyer, G. (2003). Vocal expression of emotion.
+Handbook of Affective Sciences, 433–456.
+Schmader, T., Johns, M., & Forbes, C. (2008). An integrated process model of stereotype
+threat effects on performance. Psychological Review, 115(2), 336.
+Sharkey, P. (2013). Stuck in place: Urban neighborhoods and the end of progress toward
+racial equality. University of Chicago Press.
+132
+Shelton, J. N., Richeson, J. A., & Salvatore, J. (2005). Expecting to be the target of
+prejudice: Implications for interethnic interactions. Personality and Social
+Psychology Bulletin, 31(9), 1189–1202.
+Shnabel, N., & Nadler, A. (2008). A needs-based model of reconciliation: satisfying the
+differential emotional needs of victim and perpetrator as a key to promoting
+reconciliation. Journal of Personality and Social Psychology, 94(1), 116.
+Shrout, P. E., & Bolger, N. (2002). Mediation in experimental and nonexperimental
+studies: new procedures and recommendations. Psychological Methods, 7(4), 422.
+Simoiu, C., Corbett-Davies, S., & Goel, S. (2017). The problem of infra-marginality in
+outcome tests for discrimination. The Annals of Applied Statistics, 11(3), 1193–
+1216.
+Skloot, R. (2011). The Immortal Life of Henrietta Lacks. Broadway Books.
+Skogan, W. G. (1990). Disorder and decline: Crime and the spiral of decay in American
+neighborhoods. Univ of California Press.
+Steele, C. M. (1997). A threat in the air: how stereotypes shape intellectual identity and
+performance. American Psychologist, 52(6), 613.
+Steele, C. M., & Aronson, J. (1995). Stereotype threat and the intellectual test
+performance of African Americans. Journal of Personality and Social
+Psychology, 69(5), 797.
+Stephens, N. M., Markus, H. R., & Fryberg, S. A. (2012). Social class disparities in
+health and education: Reducing inequality by applying a sociocultural self model
+of behavior. Psychological Review, 119(4), 723.
+133
+Stephens, N. M., Markus, H. R., & Phillips, L. T. (2014). Social class culture cycles:
+How three gateway contexts shape selves and fuel inequality. Annual Review of
+Psychology, 65, 611–634.
+Sunshine, J., & Tyler, T. R. (2003). The role of procedural justice and legitimacy in
+shaping public support for policing. Law & Society Review, 37(3), 513–548.
+Takaki, R. (1993). A Different Mirror: A History of Multicultural America.
+Tingley, D., Yamamoto, T., Hirose, K., Keele, L., & Imai, K. (2014). Mediation: R
+package for causal mediation analysis.
+Tyler, T. R. (1990). Why people obey the law: Procedural justice, legitimacy, and
+compliance. New Haven, CT: Yale University Press.
+Tyler, T. R. (2005). Policing in black and white: Ethnic group differences in trust and
+confidence in the police. Police Quarterly, 8(3), 322–342.
+Tyler, T. R. (2006). Why people obey the law. Princeton University Press.
+Tyler, T. R., & Bies, R. J. (1990). Beyond formal procedures: The interpersonal context
+of procedural justice. Applied Social Psychology and Organizational Settings, 77,
+98.
+Tyler, T. R., & Blader, S. L. (2003). The group engagement model: Procedural justice,
+social identity, and cooperative behavior. Personality and Social Psychology
+Review, 7(4), 349–361.
+Tyler, T. R., & Folger, R. (1980). Distributional and procedural aspects of satisfaction
+with citizen-police encounters. Basic and Applied Social Psychology, 1(4), 281–
+292.
+134
+Tyler, T. R., Goff, P. A., & MacCoun, R. J. (2015). The impact of psychological science
+on policing in the United States: Procedural justice, legitimacy, and effective law
+enforcement. Psychological Science in the Public Interest, 16(3), 75–109.
+Tyler, T. R., & Huo, Y. (2002a). Trust in the law: Encouraging public cooperation with
+the police and courts. Russell Sage Foundation.
+Tyler, T. R., & Huo, Y. (2002b). Trust in the law: encouraging public cooperation with
+the police and courts through. Russell Sage Foundation.
+Tyler, T. R., & Wakslak, C. J. (2004). Profiling and police legitimacy: Procedural justice,
+attributions of motive, and acceptance of police authority. Criminology, 42(2),
+253–281.
+Voigt, R., Camp, N. P., Prabhakaran, V., Hamilton, W. L., Hetey, R. C., Griffiths, C. M.,
+… Eberhardt, J. L. (2017). Language from police body camera footage shows
+racial disparities in officer respect. Proceedings of the National Academy of
+Sciences, 201702413.
+Vorauer, J. D., & Turpie, C. A. (2004). Disruptive effects of vigilance on dominant group
+members’ treatment of outgroup members: choking versus shining under pressure.
+Journal of Personality and Social Psychology, 87(3), 384.
+Walton, G. M., & Cohen, G. L. (2007). A question of belonging: race, social fit, and
+achievement. Journal of Personality and Social Psychology, 92(1), 82.
+Walton, G. M., & Cohen, G. L. (2011). A brief social-belonging intervention improves
+academic and health outcomes of minority students. Science, 331(6023), 1447–
+1451.
+135
+Weisbuch, M., Pauker, K., & Ambady, N. (2009). The subtle transmission of race bias
+via televised nonverbal behavior. Science, 326(5960), 1711–1714.
+Westfall, J., Kenny, D. A., & Judd, C. M. (2014). Statistical power and optimal design in
+experiments in which samples of participants respond to samples of stimuli.
+Journal of Experimental Psychology: General, 143(5), 2020.
+Whent, S. (2016, March 14). Message.
+Wilson, J. Q. (1968). Varieties of Police Behavior: The Management of Law and Order
+in Eight Communities. Cambridge: Harvard University Press.
+Word, C. O., Zanna, M. P., & Cooper, J. (1974). The nonverbal mediation of selffulfilling prophecies in interracial interaction. Journal of Experimental Social
+Psychology, 10(2), 109–120.
