@@ -1,0 +1,481 @@
+REFERNCES
+Almeida, J., Mahon, B. Z., & Caramazza, A. (2010). The role of the dorsal visual
+processing stream in tool identification. Psychological science, 21(6), 772-
+778.
+Appelbaum, L. G., Ales, J. M., Cottereau, B., & Norcia, A. M. (2010). Configural
+specificity of the lateral occipital cortex. Neuropsychologia, 48(11), 3323-
+3328.
+Asaad WF, Rainer G, Miller EK (2000) Task-specific neural activity in the
+primate prefrontal cortex. J Neurophysiol 84:451–459.
+Astafiev, S. V., Stanley, C. M., Shulman, G. L., & Corbetta, M. (2004).
+Extrastriate body area in human occipital cortex responds to the performance
+of motor actions. Nature neuroscience, 7(5), 542.
+Badre, D., & Wagner, A. D. (2007). Left ventrolateral prefrontal cortex and the
+cognitive control of memory. Neuropsychologia, 45(13), 2883-2901.
+Baldauf D, Desimone R (2014) Neural mechanisms of object-based attention.
+Science 344:424–427.
+Barlow, H. B., Fitzhugh, R., & Kuffler, S. W. (1957). Change of organization in
+the receptive fields of the cat's retina during dark adaptation. The Journal of
+physiology, 137(3), 338-354.
+de Beeck, H. P. O., Torfs, K., & Wagemans, J. (2008). Perceived shape similarity
+among unfamiliar objects and the organization of the human object vision
+pathway. Journal of Neuroscience, 28(40), 10111-10123.
+Bichot, N. P., Heard, M. T., DeGennaro, E. M., & Desimone, R. (2015). A source
+for feature-based attention in the prefrontal cortex. Neuron, 88(4), 832-844.
+Bracci, S., Daniels, N., Op de Beeck, H., 2017. Task Context Overrules Objectand Category-Related Representational Content in the Human Parietal
+Cortex. Cereb. Cortex 1–12.
+Bugatus, L., Weiner, K. S., & Grill-Spector, K. (2017). Task alters category
+representations in prefrontal but not high-level visual cortex. NeuroImage,
+155, 437-449.
+115
+Buschman, T. J., & Miller, E. K. (2007). Top-down versus bottom-up control of
+attention in the prefrontal and posterior parietal cortices. Science, 315(5820),
+1860-1862.
+Catani M, Howard RJ, Pajevic S, Jones DK (2002) Virtual in Vivo Interactive
+Dissection of White Matter Fasciculi in the Human Brain. Neuroimage
+17:77–94.
+Catani M, Dell’Acqua F, Vergani F, Malik F, Hodge H, Roy P, Valabregue R,
+Thiebaut de Schotten M (2012) Short frontal lobe connections of the human
+brain. Cortex 48:273–291.
+Chan AW-Y (2013) Functional organization and visual representations of human
+ventral lateral prefrontal cortex. Front Psychol 4:371.
+Coalson, T. S., Van Essen, D. C., & Glasser, M. (2018). Lost in Space: The
+Impact of Traditional Neuroimaging Methods on the Spatial Localization of
+Cortical Areas. bioRxiv, 255620.
+Cohen L, Dehaene S, Naccache L, Lehéricy S, Dehaene-Lambertz G, Hénaff MA,
+Michel F (2000) The visual word form area: Spatial and temporal
+characterization of an initial stage of reading in normal subjects and posterior
+split-brain patients. Brain 123:291–307.
+Corbetta, M. (1998). Frontoparietal cortical networks for directing attention and
+the eye to visual locations: Identical, independent, or overlapping neural
+systems?. Proceedings of the National Academy of Sciences, 95(3), 831-838.
+Corbetta, M., & Shulman, G. L. (2002). Control of goal-directed and stimulusdriven attention in the brain. Nature reviews neuroscience, 3(3), 201.
+Courtney S, Ungerleider L, Keil K, Haxby J (1997) Transient and sustained
+activity in a distributed neural system for human working memory. Nature
+386:10.
+Cowey, A., & Gross, C. G. (1970). Effects of foveal prestriate and inferotemporal
+lesions on visual discrimination by rhesus monkeys. Experimental brain
+research, 11(2), 128-144.
+116
+Cox DD, Savoy RL (2003) Functional magnetic resonance imaging (fMRI) “brain
+reading”: detecting and classifying distributed patterns of fMRI activity in
+human visual cortex. Neuroimage 19:261–270.
+Çukur T, Nishimoto S, Huth AG, Gallant JL (2013) Attention during natural
+vision warps semantic representation across the human brain. Nat Neurosci
+16:763–770.
+Crittenden BM, Duncan J (2014) Task difficulty manipulation reveals multiple
+demand activity but no frontal lobe hierarchy. Cereb Cortex 24:532–540.
+De Schotten MT, Dell’Acqua F, Valabregue R, Catani M (2012) Monkey to
+human comparative anatomy of the frontal lobe association tracts. Cortex
+48:82–96.
+Demb JB, Desmond JE, Wagner AD, Vaidya CJ, Glover GH, Gabrieli JD (1995)
+Semantic encoding and retrieval in the left inferior prefrontal cortex: a
+functional MRI study of task difficulty and process specificity. J Neurosci
+15:5870–5878.
+DiCarlo JJ, Cox DD (2007) Untangling invariant object recognition. Trends Cogn
+Sci 11:333–341.
+Dixon, M. L., De La Vega, A., Mills, C., Andrews-Hanna, J., Spreng, R. N., Cole,
+M. W., & Christoff, K. (2018). Heterogeneity within the frontoparietal
+control network and its relationship to the default and dorsal attention
+networks. Proceedings of the National Academy of Sciences, 115(7), E1598–
+E1607.
+Dobbins, I. G., & Wagner, A. D. (2005). Domain-general and domain-sensitive
+prefrontal mechanisms for recollecting events and detecting novelty.
+Cerebral Cortex, 15(11), 1768-1778.
+Downing PE, Jiang Y, Shuman M, Kanwisher N (2001) A cortical area selective
+for visual processing of the human body. Science 293:2470–2473.
+Dubois J, de Berker AO, Tsao DY (2015). Single-unit recordings in the macaque
+face patch system reveal limitations of fMRI MVPA. The Journal of 
+117
+Neuroscience : The Official Journal of the Society for Neuroscience,
+35:2791–2802.
+Dumoulin, S. O., Bittar, R. G., Kabani, N. J., Baker Jr, C. L., Le Goualher, G.,
+Pike, G. B., & Evans, A. C. (2000). A new anatomical landmark for reliable
+identification of human area V5/MT: a quantitative analysis of sulcal
+patterning. Cerebral cortex, 10(5), 454-463.
+Duncan J (2010) The multiple-demand (MD) system of the primate brain: mental
+programs for intelligent behaviour. Trends Cogn Sci 14:172–179.
+Epstein R, Kanwisher N (1998) A cortical representation of the local visual
+environment. Nature 392:598–601.
+Erez, Y., & Duncan, J. (2015). Discrimination of visual categories based on
+behavioral relevance in widespread regions of frontoparietal cortex. Journal
+of Neuroscience, 35(36), 12383-12393.
+Farivar, R. (2009). Dorsal–ventral integration in object recognition. Brain
+Research Reviews, 61(2), 144-153.
+Fedorenko E, Duncan J, Kanwisher N (2012) Language-selective and domaingeneral regions lie side by side within Broca’s area. Curr Biol 22:2059–
+2062.
+Fischl, B., Sereno, M. I., & Dale, A. M. (1999). Cortical surface-based analysis:
+II: inflation, flattening, and a surface-based coordinate system. Neuroimage,
+9(2), 195-207.
+Freedman DJ, Riesenhuber M, Poggio T, Miller EK (2001) Categorical
+Representation of Visual Stimuli in the Primate Prefrontal Cortex. 291:312–
+317.
+Freedman DJ., Riesenhuber M, Poggio T, Miller EK (2003). A comparison of
+primate prefrontal and inferior temporal cortices during visual
+categorization. The Journal of Neuroscience: The Official Journal of the
+Society for Neuroscience, 23:5235–5246. 
+118
+Motter, B. C. (1993). Focal attention produces spatially selective processing in
+visual cortical areas V1, V2, and V4 in the presence of competing stimuli.
+Journal of neurophysiology, 70(3), 909-919.
+Frey, S. H. (2007). What puts the how in where? Tool use and the divided visual
+streams hypothesis. Cortex, 43(3), 368-375.
+Gerbella M, Belmalih A, Borra E, Rozzi S, Luppino G (2010) Cortical
+Connections of the Macaque Caudal Ventrolateral Prefrontal Areas 45A and
+45B. 141–168
+Gauthier I, Skudlarski P, Gore JC, Anderson AW (2000) Expertise for cars and
+birds recruits brain areas involved in face recognition. Nat Neurosci 3:191–
+197.
+Glasser, M. F., Coalson, T. S., Robinson, E. C., Hacker, C. D., Harwell, J.,
+Yacoub, E., & Smith, S. M. (2016). A multi-modal parcellation of human
+cerebral cortex. Nature, 536(7615), 171-178.
+Glezer LS, Jiang X, Riesenhuber M (2009) Evidence for Highly Selective
+Neuronal Tuning to Whole Words in the “Visual Word Form Area.” Neuron
+62:199–204.
+Goodale, M. A. (1993). Visual pathways supporting perception and action in the
+primate cerebral cortex. Current opinion in Neurobiology, 3(4), 578-585.
+Golarai G, Ghahremani DG, Whitfield-Gabrieli S, Reiss A, Eberhardt JL, Gabrieli
+JDE, Grill-Spector K (2007) Differential development of high-level visual
+cortex correlates with category-specific recognition memory. Nat Neurosci
+10:512–522.
+Goldman-Rakic PS (1996) Regional and cellular fractionation of working
+memory. Proc Natl Acad Sci USA 93:13473–13480.
+Gomez, J., Pestilli, F., Witthoft, N., Golarai, G., Liberman, A., Poltoratski, S. &
+Grill-Spector, K. (2015). Functionally defined white matter reveals
+segregated pathways in human ventral temporal cortex associated with
+category-specific processing. Neuron, 85(1), 216-227.
+119
+Goodale MA, Milner AD (1992) Separate visual pathways for perception and
+action. Trends Neurosci 15:20-25.
+Grill‐Spector, K., Kushnir, T., Hendler, T., Edelman, S., Itzchak, Y., & Malach,
+R. (1998). A sequence of object‐processing stages revealed by fMRI in the
+human occipital lobe. Human brain mapping, 6(4), 316-328.
+Grill-Spector, K., Kushnir, T., Hendler, T. & Malach, R. (2000). The dynamics of
+object-selective activation correlate with recognition performance in humans.
+Nature neuroscience, 3(8), 837.
+Grill-Spector, K., Kourtzi, Z. & Kanwisher, N. (2001). The lateral occipital
+complex and its role in object recognition. Vision research, 41(10-11), 1409-
+1422.
+Grill-Spector, K. & Malach, R. (2004). The Human Visual Cortex. Annual
+Review of Neuroscience, 27(1), 649–677.
+Grill-Spector K & Weiner KS (2014). The functional architecture of the ventral
+temporal cortex and its role in categorization. Nat Rev Neurosci 15:536–548.
+Grill-Spector, K., Weiner, K. S., Kay, K., & Gomez, J. (2017). The functional
+neuroanatomy of human face perception.
+Harel A, Kravitz DJ, Baker CI (2014) Task context impacts visual object
+processing differentially across the cortex. Proc Natl Acad Sci USA
+111:E962–E971.
+Hanson, S. J., Matsuka, T., & Haxby, J. V. (2004). Combinatorial codes in ventral
+temporal lobe for object recognition: Haxby (2001) revisited: Is there a
+“face” area? NeuroImage, 23(1), 156–166.
+Haxby JV, Gobbini MI, Furey ML, Ishai a, Schouten JL, Pietrini P (2001)
+Distributed and overlapping representations of faces and objects in ventral
+temporal cortex. Science 293:2425–2430.
+Haxby JV, Guntupalli JS, Connolly AC, Halchenko YO, Conroy BR, Gobbini MI,
+Hanke M., Ramadge PJ (2011). A common, high-dimensional model of the
+representational space in human ventral temporal cortex. Neuron 72, 404–
+416. 
+120
+Heekeren, H. R., Marrett, S., & Ungerleider, L. G. (2008). The neural systems
+that mediate human perceptual decision making. Nature reviews
+neuroscience, 9(6), 467.
+Henriksson, L., Khaligh-Razavi, S.M., Kay, K., Kriegeskorte, N. (2015). Visual
+representations are dominated by intrinsic fluctuations correlated between
+areas. Neuroimage 114, 275–286.
+Hubel, D. H., & Wiesel, T. N. (1962). Receptive fields, binocular interaction and
+functional architecture in the cat's visual cortex. The Journal of physiology,
+160(1), 106-154.
+Huk, A. C., Dougherty, R. F., & Heeger, D. J. (2002). Retinotopy and functional
+subdivision of human areas MT and MST. Journal of Neuroscience, 22(16),
+7195-7205.
+Ishai A, Schmidt CF, Boesiger P (2005) Face perception is mediated by a
+distributed cortical network. Brain Res Bull 67:87–93.
+James, T. W., Culham, J., Humphrey, G. K., Milner, A. D., & Goodale, M. A.
+(2003). Ventral occipital lesions impair object recognition but not
+object‐directed grasping: an fMRI study. Brain, 126(11), 2463-2475.
+Jacques C, Witthoft N, Weiner KS, Foster BL, Rangarajan V, Hermes D, Miller
+KJ, Parvizi J, Grill-spector K (2016) Corresponding ECoG and fMRI
+category-selective signals in human ventral temporal cortex.
+Neuropsychologia 83:1–16.
+Jiang X, Bradley E, Rini RA, Zeffiro T, VanMeter J, Riesenhuber M (2007)
+Categorization Training Results in Shape- and Category-Selective Human
+Neural Plasticity. Neuron 53:891–903.
+Jiang X, Rosen E, Zeffiro T, VanMeter J, Blanz V, Riesenhuber M (2006)
+Evaluation of a Shape-Based Model of Human Face Discrimination Using
+fMRI and Behavioral Techniques. Neuron 50: 159–172.
+Johnston K, Everling S (2006) Monkey Dorsolateral Prefrontal Cortex Sends
+Task-Selective Signals Directly to the Superior Colliculus. J Neurosci
+26:12471–12478.
+121
+Karnath, H. O., Rüter, J., Mandler, A., & Himmelbach, M. (2009). The anatomy
+of object recognition—visual form agnosia caused by medial
+occipitotemporal stroke. Journal of Neuroscience, 29(18), 5854-5862.
+Kanwisher N (2017) The Quest for the FFA and Where It Led. J. Neurosci. 37:
+1056–1061.
+Kanwisher N, McDermott J, Chun MM (1997) The fusiform face area: a module
+in human extrastriate cortex specialized for face perception. J Neurosci
+17:4302–4311.
+Kastner, S., & Ungerleider, L. G. (2001). The neural basis of biased competition
+in human visual cortex. Neuropsychologia, 39(12), 1263-1276.
+Kay, K. N., & Yeatman, J. D. (2017). Bottom-up and top-down computations in
+word-and face-selective cortex. Elife, 6, e22341.
+Kay KN, Weiner KS, Grill-Spector K (2015) Attention reduces spatial uncertainty
+in human ventral temporal cortex. Curr Biol 25:595–600.
+Kiani, R., Esteky, H., Mirpour, K., & Tanaka, K. (2007). Object category
+structure in response patterns of neuronal population in monkey inferior
+temporal cortex. Journal of neurophysiology, 97(6), 4296-4309.
+Klein, B. P., Harvey, B. M., & Dumoulin, S. O. (2014). Attraction of position
+preference by spatial attention throughout human visual cortex. Neuron,
+84(1), 227-237.
+Koida K, Komatsu H (2007) Effects of task demands on the responses of colorselective neurons in the inferior temporal cortex. Nat. Neurosci. 10: 108–16.
+Konen, C. S., Behrmann, M., Nishimura, M., & Kastner, S. (2011). The
+functional neuroanatomy of object agnosia: a case study. Neuron, 71(1), 49-
+60.
+Kravitz DJ, Peng CS, Baker CI (2011) Real-World Scene Representations in
+High-Level Visual Cortex: It’s the Spaces More Than the Places. J Neurosci
+31:7322–7333.
+122
+Kravitz, D. J., Saleem, K. S., Baker, C. I., & Mishkin, M. (2011). A new neural
+framework for visuospatial processing. Nature Reviews Neuroscience, 12(4),
+217.
+Kravitz DJ, Saleem KS, Baker CI, Ungerleider LG, Mishkin M (2013). The
+ventral visual pathway: an expanded neural framework for the processing of
+object quality. Trends Cogn Sci 17:26–49.
+Kriegeskorte N, Mur M, Ruff D, Kiani R (2008) Matching categorical object
+representations in inferior temporal cortex of mand and monkey. Neuron
+60:1126–1141.
+Lee S-H, Baker CI (2016) Multi-voxel decoding and the topography of
+maintained information during visual working memory. Front Syst Neurosci
+10:1–11.
+Lee, A. C., Robbins, T. W., Pickard, J. D., & Owen, A. M. (2000). Asymmetric
+frontal activation during episodic memory: the effects of stimulus type on
+encoding and retrieval. Neuropsychologia, 38(5), 677-692.
+Levy BJ, Wagner AD (2011) Cognitive control and right ventrolateral prefrontal
+cortex: reflexive reorienting, motor inhibition, and action updating. Ann N Y
+Acad Sci 1224:40–62.
+Luck, S. J., Chelazzi, L., Hillyard, S. A., & Desimone, R. (1997). Neural
+mechanisms of spatial selective attention in areas V1, V2, and V4 of
+macaque visual cortex. Journal of neurophysiology, 77(1), 24-42.
+MacEvoy SP, Epstein RA (2011) Constructing scenes from objects in human
+occipitotemporal cortex. Nat Neurosci 14:1323–1329.
+Malach, R., Reppas, J. B., Benson, R. R., Kwong, K. K., Jiang, H., Kennedy, W.
+A.& Tootell, R. B. (1995). Object-related activity revealed by functional
+magnetic resonance imaging in human occipital cortex. Proceedings of the
+National Academy of Sciences, 92(18), 8135-8139.
+McKee JL, Riesenhuber M, Miller EK, Freedman DJ (2014) Task Dependence of
+Visual and Category Representations in Prefrontal and Inferior Temporal
+Cortices. J Neurosci 34:16065–16075.
+123
+McCandliss, B. D., Cohen, L., & Dehaene, S. (2003). The visual word form area:
+expertise for reading in the fusiform gyrus. Trends in cognitive sciences,
+7(7), 293-299.
+Meyer T, Qi X-L, Stanford TR, Constantinidis C (2011) Stimulus selectivity in
+dorsal and ventral prefrontal cortex after training in working memory tasks. J
+Neurosci 31:6266–6276.
+Miller EK, Cohen JD (2001) An integrative theory of prefrontal cortex function.
+Annu Rev Neurosci 24:167–202.
+Miller EK, Freedman DJ, Wallis JD (2002) The prefrontal cortex: categories,
+concepts and cognition. Philos Trans R Soc Lond B Biol Sci 357:1123–1136.
+Milner, D., & Goodale, M. (2006). The visual brain in action. Oxford University
+Press.
+Moos, K., Vossel, S., Weidner, R., Sparing, R., & Fink, G. R. (2012). Modulation
+of Top-Down Control of Visual Attention by Cathodal tDCS over Right IPS.
+Journal of Neuroscience, 32(46), 16360–16368.
+Mishkin M, Ungerleider LG (1982) Contribution of striate inputs to the
+visuospatial functions of parieto-preoccipital cortex in monkeys. Behav
+Brain Res 6:57–77.
+Mishkin, M., Ungerleider, L. G., & Macko, K. A. (1983). Object vision and
+spatial vision: two cortical pathways. Trends in neurosciences, 6, 414-417.
+Muhle-Karbe, P. S., Duncan, J., De Baene, W., Mitchell, D. J., & Brass, M.
+(2016). Neural coding for instruction-based task sets in human frontoparietal
+and visual cortex. Cerebral Cortex, 27(3), 1891-1905.
+Muller NG, Machado L, Knight RT (2002) Contributions of subregions of the
+prefrontal cortex to working memory: evidence from brain lesions in
+humans. J Cogn Neurosci 14:673–686.
+Nasr, S., & Tootell, R. B. H. (2012). Role of fusiform and anterior temporal
+cortical areas in facial recognition. NeuroImage, 63(3), 1743–53.
+Nastase, S. A., Connolly, A. C., Oosterhof, N. N., Halchenko, Y. O., Guntupalli,
+J. S., Di Oleggio Castello, M. V., Haxby, J. V. (2017). Attention selectively 
+124
+reshapes the geometry of distributed semantic representation. Cerebral
+Cortex, 27(8), 4277–4291.
+Newsome, W. T., & Pare, E. B. (1988). A selective impairment of motion
+perception following lesions of the middle temporal visual area (MT).
+Journal of Neuroscience, 8(6), 2201-2211.
+O'craven, K. M., Downing, P. E., & Kanwisher, N. (1999). fMRI evidence for
+objects as the units of attentional selection. Nature, 401(6753), 584.
+Offen, S., Gardner, J. L., & Heeger, D. J. (2010). Differential roles for frontal eye
+fields (FEFs) and intraparietal sulcus (IPS) in visual working memory and
+visual attention. Journal of Vision, 10(2010), 1–14.
+Parvizi, J., Jacques, C., Foster, B. L., Withoft, N., Rangarajan, V., Weiner, K. S.,
+& Grill-Spector, K. (2012). Electrical stimulation of human fusiform faceselective regions distorts face perception. Journal of Neuroscience, 32(43),
+14915-14920.
+Peelen, M. V. & Downing, P. E. (2005). Within‐subject reproducibility of
+category‐specific visual activation with functional MRI. Human brain
+mapping, 25(4), 402-408.
+Peelen, M. V., & Downing, P. E. (2007). The neural basis of visual body
+perception. Nature Reviews Neuroscience, 8(8), 636.
+Peelen MV, Fei-Fei L, Kastner S (2009) Neural mechanisms of rapid natural
+scene categorization in human visual cortex. Nature 460:94–97.
+Peelen, M. V., Wiggett, A. J. & Downing, P. E. (2006). Patterns of fMRI activity
+dissociate overlapping functional brain areas that respond to biological
+motion. Neuron, 49(6), 815-822.
+Ptak, R. (2012). The frontoparietal attention network of the human brain: action,
+saliency, and a priority map of the environment. The Neuroscientist, 18(5),
+502-515.
+Rajimehr R, Young JC, Tootell RBH (2009) An anterior temporal face patch in
+human cortex, predicted by macaque maps. Proc Natl Acad Sci U S A
+106:1995–2000.
+125
+Rhodes, G., Michie, P. T., Hughes, M. E., & Byatt, G. (2009). The fusiform face
+area and occipital face area show sensitivity to spatial relations in faces.
+European Journal of Neuroscience, 30(4), 721-733.
+Riesenhuber M, Poggio T (1999) Hierarchical models of object recognition in
+cortex. Nat. Neurosci. 2: 1019–25.
+Rigotti M, Barak O, Warden MR, Wang X-J, Daw ND, Miller EK, Fusi S (2013)
+The importance of mixed selectivity in complex cognitive tasks. Nature
+497:585–590.
+Romanski LM, (2004) Domain specificity in the primate prefrontal cortex. Cogn
+Affect 4:421–429.
+Romanski LM, (2012) Convergence of Auditory, Visual, and Somatosensory
+Information in Ventral Prefrontal Cortex. In: The Neural Bases of
+Multisensory Processes (Murray MM and Wallace MT, ed), chapter 33.
+Boca Raton (FL).
+Rushworth MF, Buckley MJ, Gough PM, Alexander IH, Kyriazis D, McDonald
+KR, Passingham RE (2005) Attentional selection and action selection in the
+ventral and orbital prefrontal cortex. J Neurosci 25:11628–11636.
+Saxe R, Brett M, Kanwisher N (2006) Divide and conquer: A defense of
+functional localizers. Neuroimage 30:1088–1096.
+Sayres R, Ress D, Grill-spector K (2006) Identifying Distributed Object
+Representations in Human Extrastriate Visual Cortex. Adv Neural Inf
+Process Syst 18:1169–1176.
+Sayres R, Grill-Spector K (2008) Relating retinotopic and object-selective
+responses in human lateral occipital cortex. J Neurophysiol 100:249–267.
+Scalaidhe S, Wilson F, Goldman-Rakic P (1997) Areal segregation of faceprocessing neurons in prefrontal cortex. Science (80- ) 278:1135–1138.
+Schmahmann JD, Pandya DN. 2006. Fiber Pathways of the Brain. New York:
+Oxford
+Schwarzlose, R. F., Swisher, J. D., Dang, S., & Kanwisher, N. (2008). The
+distribution of category and location information across object-selective 
+126
+regions in human visual cortex. Proceedings of the National Academy of
+Sciences, 105(11), 4447-4452.
+Seki T, Namba T, Mochizuki H, Onodera M (2007) Clustering, migration, and
+neurite formation of neural precursor cells in the adult rat hippocampus. J
+Comp Neurol 502: 275–290.
+Shadlen, M. N., Britten, K. H., Newsome, W. T., & Movshon, J. A. (1996). A
+computational analysis of the relationship between neuronal and behavioral
+responses to visual motion. Journal of Neuroscience, 16(4), 1486-1510.
+Shulman, G. L., & Corbetta, M. (2012). Two attentional networks. Cognitive
+neuroscience of attention.
+Silver MA, Kastner S (2009) Topographic maps in human frontal and parietal
+cortex. Trends Cogn Sci 13:488–495.
+Spiridon M, Kanwisher N (2002) How distributed is visual category information
+in human occipito-temporal cortex? An fMRI study. Neuron 35:1157–1165.
+Stigliani A, Weiner KS, Grill-Spector K (2015) Temporal Processing Capacity in
+High-Level Visual Cortex Is Domain Specific. J Neurosci 35:12412–12424.
+Stigliani, A., Jeska, B., & Grill-Spector, K. (2018). Differential Sustained and
+Transient Temporal Processing Across Visual Streams. bioRxiv, 358473.
+Swaminathan, S. K., & Freedman, D. J. (2012). Preferential encoding of visual
+categories in parietal cortex compared with prefrontal cortex. Nature
+neuroscience, 15(2), 315.
+Swisher, J. D., Halko, M. A., Merabet, L. B., McMains, S. A., & Somers, D. C.
+(2007). Visual topography of human intraparietal sulcus. Journal of
+Neuroscience, 27(20), 5326-5337.
+Tanaka, K. (1996). Inferotemporal cortex and object vision. Annual review of
+neuroscience, 19(1), 109-139.
+Thorpe S, Fize D, Marlot C (1996) Speed of processing in the human visual
+system. Nature 381: 520–2.
+Tsao DY, Moeller S, Freiwald W a (2008) Comparing face patch systems in
+macaques and humans. Proc Natl Acad Sci U S A 105:19514–19519.
+127
+Ungerleider, L. G., Courtney, S. M., & Haxby, J. V. (1998). A neural system for
+human visual working memory. Proceedings of the National Academy of
+Sciences, 95(3), 883-890.
+Ungerleider LG, Gaffan D, Pelak VS (1989) Projections from inferior temporal
+cortex to prefrontal cortex via the uncinate fascicle in rhesus monkeys. Exp
+Brain Res 76:473–484.
+Ungerleider, L. G., & Haxby, J. V. (1994). ‘What’and ‘where’in the human brain.
+Current opinion in neurobiology, 4(2), 157-165.
+Van Essen, D. C., Anderson, C. H., & Felleman, D. J. (1992). Information
+processing in the primate visual system: an integrated systems perspective.
+Science, 255(5043), 419-423.
+Van Essen, D. C., & Gallant, J. L. (1994). Neural mechanisms of form and motion
+processing in the primate visual system. Neuron, 13(1), 1-10.
+Vasiri-Pashkam, M., & Xu, Y. (2017). Goal-directed visual processing
+differentially impacts human ventral and dorsal visual representations.
+Journal of Neuroscience, 3392-16.
+Vinberg, J., & Grill-Spector, K. (2008). Representation of shapes, edges, and
+surfaces across multiple cues in the human visual cortex. Journal of
+neurophysiology, 99(3), 1380-1393.
+Volle E, Kinkingnhun S, Pochon JB, Mondon K, Thiebaut De Schotten M,
+Seassau M, Duffau H, Samson Y, Dubois B, Levy R (2008) The functional
+architecture of the left posterior and lateral prefrontal cortex in humans.
+Cereb Cortex 18:2460–2469.
+Vossel, S., Weidner, R., Driver, J., Friston, K. J., & Fink, G. R. (2012).
+Deconstructing the architecture of dorsal and ventral attention systems with
+dynamic causal modeling. Journal of Neuroscience, 32(31), 10637-10648.
+Wade, A. R., Brewer, A. A., Rieger, J. W., & Wandell, B. A. (2002). Functional
+measurements of human ventral occipital cortex: retinotopy and colour.
+Philosophical Transactions of the Royal Society of London B: Biological
+Sciences, 357(1424), 963-973.
+128
+Wandell, B. A., Chial, S., & Backus, B. T. (2000). Visualization and
+measurement of the cortical surface. Journal of cognitive neuroscience,
+12(5), 739-752.
+Wandell, B. A., Dumoulin, S. O., & Brewer, A. A. (2007). Visual field maps in
+human cortex. Neuron, 56(2), 366-383.
+Wandell, B. A., & Smirnakis, S. M. (2009). Plasticity and stability of visual field
+maps in adult primary visual cortex. Nature Reviews Neuroscience, 10(12),
+873.
+Wandell, B. A., & Winawer, J. (2011). Imaging retinotopic maps in the human
+brain. Vision research, 51(7), 718-737
+Walther DB, Caddigan E, Fei-Fei L, Beck DM (2009) Natural Scene Categories
+Revealed in Distributed Patterns of Activity in the Human Brain. J Neurosci
+29:10573–10581.
+Wang, L., Mruczek, R. E., Arcaro, M. J., & Kastner, S. (2014). Probabilistic maps
+of visual topography in human cortex. Cerebral cortex, 25(10), 3911-3931.
+Waskom ML, Kumaran D., Gordon AM, Rissman J, Wagner AD (2014)
+Frontoparietal Representations of Task Context Support the Flexible Control
+of Goal-Directed Cognition. J. Neurosci. 34, 10743–10755.
+Weiner KS, Grill-Spector K (2010) Sparsely-distributed organization of face and
+limb activations in human ventral temporal cortex. Neuroimage 52:1559–
+1573.
+Weiner KS, Grill-Spector K (2011) Not one extrastriate body area: Using
+anatomical landmarks, hMT+, and visual field maps to parcellate limbselective activations in human lateral occipitotemporal cortex. Neuroimage
+56:2183–2199.
+Weiner KS, Grill-Spector K (2013) Neural representations of faces and limbs
+neighbor in human high-level visual cortex: evidence for a new organization
+principle. Psychol Res 77:74–97.
+Weiner KS, Golarai G, Caspers J, Chuapoco MR, Mohlberg H, Zilles K, Amunts
+K, Grill-Spector K (2014) The mid-fusiform sulcus: A landmark identifying 
+129
+both cytoarchitectonic and functional divisions of human ventral temporal
+cortex. Neuroimage 84C:453–465.
+Wilson FA, Scalaidhe SP, Goldman-Rakic PS (1993) Dissociation of object and
+spatial processing domains in primate prefrontal cortex. Science 260:1955–
+1958.
+Womelsdorf, T., Anton-Erxleben, K., & Treue, S. (2008). Receptive field shift
+and shrinkage in macaque middle temporal area through attentional gain
+modulation. Journal of Neuroscience, 28(36), 8934-8944.
+Womelsdorf, T., Anton-Erxleben, K., & Treue, S. (2008). Receptive field shift
+and shrinkage in macaque middle temporal area through attentional gain
+modulation. Journal of Neuroscience, 28(36), 8934-8944.
+Yamins DLK, Hong H, Cadieu CF, Solomon E, Seibert D, DiCarlo JJ (2014)
+Performance-optimized hierarchical models predict neural responses in
+higher visual cortex. Proc. Natl. Acad. Sci. U. S. A. 111: 8619–24.
+Yeatman, J. D., Rauschecker, A. M., & Wandell, B. A. (2013). Anatomy of the
+visual word form area: adjacent cortical circuits and long-range white matter
+connections. Brain and language, 125(2), 146-155.
+Thomas Yeo, B. T., Krienen, F. M., Sepulcre, J., Sabuncu, M. R., Lashkari, D.,
+Hollinshead, M., ... & Fischl, B. (2011). The organization of the human
+cerebral cortex estimated by intrinsic functional connectivity. Journal of
+neurophysiology, 106(3), 1125-1165.
+Zanto, T. P., Rubens, M. T., Bollinger, J., & Gazzaley, A. (2010). Top-down
+modulation of visual feature processing: the role of the inferior frontal
+junction. Neuroimage, 53(2), 736-745.
+Zeki, S., Watson, J. D., Lueck, C. J., Friston, K. J., Kennard, C., & Frackowiak,
+R. S. (1991). A direct demonstration of functional specialization in human
+visual cortex. Journal of neuroscience, 11(3), 641-649.
+Zhang, J., Kriegeskorte, N., Carlin, J. D., & Rowe, J. B. (2013). Choosing the
+rules: distinct and overlapping frontoparietal representations of task rules for
+perceptual decisions. Journal of Neuroscience, 33(29), 11852-11862.

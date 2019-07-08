@@ -1,0 +1,53 @@
+{
+	"list":[
+		{
+			"fname":"Robert",
+			"lname":"Hawkins",
+			"title":"Coordinating on meaning in communication",
+			"date":"05/2019",
+			"file":"hawkins.txt"
+		},
+		{
+			"fname":"Brad",
+			"lname":"Turnwald",
+			"title":"From sad salad tweets to twisted carrots and dynamite beets : leveraging tasty and enjoyable attributes of healthy foods to promote a culture of healthy eating",
+			"date":"06/2019",
+			"file":"turnwald.txt"
+		},
+		{
+			"fname":"Yuan Chang",
+			"lname":"Leong",
+			"title":" In the mind of the beholder : neural and computational mechanisms underlying perceiver-driven biases in information processing",
+			"date":"06/2019",
+			"file":"leong.txt"
+		},
+		{
+			"fname":"Erika",
+			"lname":"Weisz",
+			"title":"Building empathy through psychological interventions",
+			"date":"06/2019",
+			"file":"weisz.txt"
+		},
+		{
+			"fname":"Erica",
+			"lname":"Yoon",
+			"title":"Polite language reflects competing informational and social goals",
+			"date":"05/2019",
+			"file":"yoon.txt"
+		},
+		{
+			"fname":"Lior",
+			"lname":"Bugatus",
+			"title":"Effects of bottom-up and top-down manipulations on visual object processing across the brain",
+			"date":"08/2018",
+			"file":"bugatus.txt"
+		},
+		{
+			"fname":"Cameron",
+			"lname":"McKenzie",
+			"title":"The neural basis of tactile attention",
+			"date":"06/2018",
+			"file":"mckenzie.txt"
+		},
+	]
+}

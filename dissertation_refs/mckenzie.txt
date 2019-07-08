@@ -1,0 +1,355 @@
+Adler, J., Giabbiconi, C.-M., & Müller, M. M. (2009). Shift of attention to the body location of
+distracters is mediated by perceptual load in sustained somatosensory attention. Biological
+Psychology, 81(2), 77–85. http://doi.org/10.1016/j.biopsycho.2009.02.001
+Alvarez, M., Zainos, A., & Romo, R. (2015). Decoding stimulus features in primate
+somatosensory cortex during perceptual categorization. Proceedings of the National
+Academy of Sciences of the United States of America, 112(15), 4773–4778.
+http://doi.org/10.1073/pnas.1504723112
+Amunts, K., Schleicher, A., & Zilles, K. (2007). Cytoarchitecture of the cerebral cortex—More
+than localization. NeuroImage, 37(4), 1061–1065.
+http://doi.org/10.1016/j.neuroimage.2007.02.037
+Backes, W. H., Mess, W. H., van Kranen-Mastenbroek, V., & Reulen, J. P. (2000).
+Somatosensory cortex responses to median nerve stimulation: fMRI effects of current
+amplitude and selective attention. Clinical Neurophysiology, 111(10), 1738–1744.
+Bard, P. (1938). Studies on the Cortical Representation of Somatic Sensibility: Harvey Lecture,
+February 17, 1938. Bulletin of the New York Academy of Medicine, 14(10), 585–23.
+http://doi.org/10.1186/1471-2474-9-132
+Besle, J., Sanchez-Panchuelo, R. M., Bowtell, R., Francis, S., & Schluppeck, D. (2013). Singlesubject fMRI mapping at 7 T of the representation of fingertips in S1: a comparison of eventrelated and phase-encoding designs. Journal of Neurophysiology, 109(9), 2293–2305.
+http://doi.org/10.1152/jn.00499.2012
+Bornhövd, K., Quante, M., Glauche, V., Bromm, B., Weiller, C., & Büchel, C. (2002). Painful
+stimuli evoke different stimulus–response functions in the amygdala, prefrontal, insula and
+somatosensory cortex: a single-trial fMRI study. Brain, 125(6), 1326–1336.
+Boynton, G. M., Engel, S. A., & Heeger, D. J. (2012). Linear systems analysis of the fMRI
+signal. NeuroImage, 62(2), 975–984. http://doi.org/10.1016/j.neuroimage.2012.01.082
+Braun, C., Haug, M., Wiech, K., Birbaumer, N., Elbert, T., & Roberts, L. E. (2002). Functional
+Organization of Primary Somatosensory Cortex Depends on the Focus of Attention.
+NeuroImage, 17(3), 1451–1458. http://doi.org/10.1006/nimg.2002.1277
+Brody, C. D., Hernández, A., Zainos, A., Lemus, L., & Romo, R. (2002). Analysing neuronal
+correlates of the comparison of two sequentially presented sensory stimuli. Philosophical
+Transactions of the Royal Society B: Biological Sciences, 357(1428), 1843–1850.
+http://doi.org/10.1098/rstb.2002.1167
+Buracas, G. T., & Boynton, G. M. (2007). The Effect of Spatial Attention on Contrast Response
+Functions in Human Visual Cortex. Journal of Neuroscience, 27(1), 93–97.
+http://doi.org/10.1523/JNEUROSCI.3162-06.2007
+Burton, H. (1986). Second Somatosensory Cortex and Related Areas. In E. G. Jones & A. Peters,
+Sensory-Motor Areas and Aspects of Cortical Connectivity (Vol. 5, pp. 31–98). Boston, MA:
+Springer US. http://doi.org/10.1007/978-1-4613-2149-1_2
+Burton, H., & Sinclair, R. (1996). Chapter 3 - Somatosensory Cortex and Tactile Perceptions. In
+L. Kruger, Handbook of Perception and Cognition (Vol. 93, pp. 105–177). San Diego:
+Academic Press. http://doi.org/10.1007/BF00227792
+Burton, H., & Sinclair, R. J. (2000). Attending to and remembering tactile stimuli: a review of
+brain imaging data and single-neuron responses. Journal of Clinical Neurophysiology, 17(6),
+575–591. http://doi.org/10.1371/journal.pbio.0020365
+Burton, H., Abend, N. S., MacLeod, A.-M., Sinclair, R. J., Snyder, A. Z., & Raichle, M. E. 
+62
+(1999). Tactile attention tasks enhance activation in somatosensory regions of parietal cortex:
+a positron emission tomography study. Cerebral Cortex, 9(7), 662–674.
+http://doi.org/10.1007/s00062-009-8022-3
+Burton, H., Sinclair, R. J., & McLaren, D. G. (2008). Cortical network for vibrotactile attention:
+A fMRI study. Human Brain Mapping, 29(2), 207–221. http://doi.org/10.1002/hbm.20384
+Bushnell, M. C., Duncan, G. H., Hofbauer, R. K., Ha, B., Chen, J.-I., & Carrier, B. (1999). Pain
+perception: is there a role for primary somatosensory cortex? Proceedings of the National
+Academy of Sciences, 96(14), 7705–7709.
+Butter, C. M., Buchtel, H. A., & Santucci, R. (1989). Spatial attentional shifts: further evidence
+for the role of polysensory mechanisms using visual and tactile stimuli. Neuropsychologia,
+27(10), 1231–1240.
+Chapman, C. E. (2005). Independent Controls of Attentional Influences in Primary and
+Secondary Somatosensory Cortex. Journal of Neurophysiology, 94(6), 4094–4107.
+http://doi.org/10.1152/jn.00303.2005
+Chen, A. C. N., Theuvenet, P. J., de Munck, J. C., Peters, M. J., van Ree, J. M., & Lopes da Silva,
+F. L. (2011). Sensory Handedness is not Reflected in Cortical Responses After Basic Nerve
+Stimulation: A MEG Study. Brain Topography, 25(2), 228–240.
+http://doi.org/10.1007/s10548-011-0209-7
+Chen, T. L., Babiloni, C., Ferretti, A., Perrucci, M. G., Romani, G. L., Rossini, P. M., et al.
+(2010). Effects of somatosensory stimulation and attention on human somatosensory cortex:
+An fMRI study. NeuroImage, 53(1), 181–188.
+http://doi.org/10.1016/j.neuroimage.2010.06.023
+Cohen, M. R., & Maunsell, J. H. R. (2009). Attention improves performance primarily by
+reducing interneuronal correlations, 12(12), 1594–1600. http://doi.org/10.1038/nn.2439
+Cohen, M. R., & Maunsell, J. H. R. (2011). Using Neuronal Populations to Study the
+Mechanisms Underlying Spatial and Feature Attention. Neuron, 70(6), 1192–1204.
+http://doi.org/10.1016/j.neuron.2011.04.029
+de Lafuente, V., & Romo, R. (2005). Neuronal correlates of subjective sensory experience, 8(12),
+1698–1703. http://doi.org/10.1038/nn1587
+de Lafuente, V., & Romo, R. (2006a). Neural correlate of subjective sensory experience gradually
+builds up across cortical areas. Proceedings of the National Academy of Sciences of the
+United States of America, 103(39), 14266–14271. http://doi.org/10.1073/pnas.0605826103
+de Lafuente, V., & Romo, R. (2006b). Neural correlate of subjective sensory experience
+gradually builds up across cortical areas. Proceedings of the National Academy of Sciences,
+103(39), 14266–14271. http://doi.org/10.1073/pnas.0605826103
+Dykes, R. W., & Ruest, A. (1986). What Makes a Map in Somatosensory Cortex? In SensoryMotor Areas and Aspects of Cortical Connectivity (Vol. 5, pp. 1–29). Boston, MA: Springer
+US. http://doi.org/10.1007/978-1-4613-2149-1_1
+Eimer, M., & Forster, B. (2003). Modulations of early somatosensory ERP components by
+transient and sustained spatial attention. Experimental Brain Research, 151(1), 24–31.
+http://doi.org/10.1007/s00221-003-1437-1
+Franzén, O., Markowitz, J., & Swets, J. A. (1970). Spatially-limited attention to vibrotactile
+stimulation. Perception & Psychophysics, 7(4), 193–196. http://doi.org/10.3758/BF03209357
+Gardner, E. P., Babu, K. S., Reitzen, S. D., Ghosh, S., Brown, A. S., Chen, J., et al. (2007).
+Neurophysiology of Prehension. I. Posterior Parietal Cortex and Object-Oriented Hand
+Behaviors. Journal of Neurophysiology, 97(1), 387–406.
+http://doi.org/10.1152/jn.00558.2006
+Gelman, A., & Stern, H. (2006). The Difference Between “Significant” and ‘Not Significant’ is
+not Itself Statistically Significant. The American Statistician, 60(4), 328–331.
+http://doi.org/10.1198/000313006X152649
+Boynton, G., (2009). A framework for describing the effects of attention on visual responses. 
+63
+Vision Research, 49(10), 1129–1143. http://doi.org/10.1016/j.visres.2008.11.001
+Geyer, S., Schleicher, A., & Zilles, K. (1999). Areas 3a, 3b, and 1 of Human Primary
+Somatosensory Cortex. NeuroImage, 10(1), 1–21. http://doi.org/10.1006/nimg.1999.0440
+Giabbiconi, C. M., Trujillo-Barreto, N. J., Gruber, T., & MÃ¼ller, M. M. (2007). Sustained
+spatial attention to vibration is mediated in primary somatosensory cortex. NeuroImage,
+35(1), 255–262. http://doi.org/10.1016/j.neuroimage.2006.11.022
+Grefkes, C., Geyer, S., Schormann, T., Roland, P., & Zilles, K. (2001). Human Somatosensory
+Area 2: Observer-Independent Cytoarchitectonic Mapping, Interindividual Variability, and
+Population Map. NeuroImage, 14(3), 617–631. http://doi.org/10.1006/nimg.2001.0858
+Hara, Y., Pestilli, F., & Gardner, J. L. (2014). Differing effects of attention in single-units and
+populations are well predicted by heterogeneous tuning and the normalization model of
+attention. Frontiers in Computational Neuroscience, 8, 1–13.
+http://doi.org/10.3389/fncom.2014.00012
+Hsiao, S. S., O'Shaughnessy, D. M., & Johnson, K. O. (1993). Effects of selective attention on
+spatial form processing in monkey primary and secondary somatosensory cortex. Journal of
+Neurophysiology, 70(1), 444–447.
+Huang, R.-S., & Sereno, M. I. (2007). Dodecapus: An MR-compatible system for somatosensory
+stimulation. NeuroImage, 34(3), 1060–1073.
+http://doi.org/10.1016/j.neuroimage.2006.10.024
+Huettel, S. A., Song, A. W., & McCarthy, G. (2004). Functional magnetic resonance imaging, 1.
+Hyvarinen, J., Poranen, A., & Jokinen, Y. (1980). Influence of attentive behavior on neuronal
+responses to vibration in primary somatosensory cortex of the monkey. Journal of
+Neurophysiology, 43(4), 870–882. http://doi.org/10.1007/BF00231763
+James, W. (1890). The principles of psychology (Vol. 1). New York: Holt, 474.
+Johnson, K. O. (1974). Reconstruction of population response to a vibratory stimulus in quickly
+adapting mechanoreceptive afferent fiber population innervating glabrous skin of the
+monkey. Journal of Neurophysiology, 37(1), 48–72.
+http://doi.org/10.1023/A:1016535413000
+Jones, E. G. (1975). Lamination and differential distribution of thalamic afferents within the
+sensory-motor cortex of the squirrel monkey. The Journal of Comparative Neurology,
+160(2), 167–203. http://doi.org/10.1002/cne.901600203
+Jones, E. G., Coulter, J. D., & Hendry, S. H. C. (1978). Intracortical connectivity of architectonic
+fields in the somatic sensory, motor and parietal cortex of monkeys. The Journal of
+Comparative Neurology, 181(2), 291–347. http://doi.org/10.1002/cne.901810206
+Jung, P., Baumgartner, U., Stoeter, P., & Treede, R. D. (2009). Structural and Functional
+Asymmetry in the Human Parietal Opercular Cortex. Journal of Neurophysiology, 101(6),
+3246–3257. http://doi.org/10.1152/jn.91264.2008
+Jung, P., Baumgärtner, U., Bauermann, T., Magerl, W., Gawehn, J., Stoeter, P., & Treede, R.-D.
+(2003). Asymmetry in the human primary somatosensory cortex and handedness.
+NeuroImage, 19(3), 913–923. http://doi.org/10.1016/S1053-8119(03)00164-2
+Jung, P., Baumgärtner, U., Magerl, W., & Treede, R.-D. (2008). Hemispheric asymmetry of hand
+representation in human primary somatosensory cortex and handedness. Clinical
+Neurophysiology, 119(11), 2579–2586. http://doi.org/10.1016/j.clinph.2008.04.300
+Kida, T., Inui, K., Wasaka, T., Akatsuka, K., Tanaka, E., & Kakigi, R. (2007). Time-Varying
+Cortical Activations Related to Visual-Tactile Cross-Modal Links in Spatial Selective
+Attention. Journal of Neurophysiology, 97(5), 3585–3596.
+http://doi.org/10.1152/jn.00007.2007
+Lakatos, S., & Shepard, R. N. (1997). Time—distance relations in shifting attention between
+locations on one’s body. Attention, Perception, & Psychophysics, 59(4), 557–566.
+http://doi.org/10.3758/BF03211864
+LaMotte, R. H., & Mountcastle, V. B. (1975). Capacities of humans and monkeys to discriminate 
+64
+vibratory stimuli of different frequency and amplitude: a correlation between neural events
+and psychological measurements. Journal of Neurophysiology, 38(3), 539–559.
+Lederman, S. J., Browse, R. A., & Klatzky, R. L. (1988). Haptic processing of spatially
+distributed information. Perception & Psychophysics, 44(3), 222–232.
+http://doi.org/10.3758/BF03206291
+Lee, J., & Maunsell, J. H. R. (2010). The Effect of Attention on Neuronal Responses to High and
+Low Contrast Stimuli. Journal of Neurophysiology, 104(2), 960–971.
+http://doi.org/10.1152/jn.01019.2009
+Levitt, H. (1971). Transformed up-down methods in psychoacoustics. The Journal of the
+Acoustical Society of America, 49(2B), 467. http://doi.org/10.1121/1.1912375
+Li, X., Lu, Z.-L., Tjan, B. S., Dosher, B. A., & Chu, W. (2008a). Blood oxygenation leveldependent contrast response functions identify mechanisms of covert attention in early visual
+areas. Proceedings of the National Academy of Sciences, 105(16), 6202–6207.
+http://doi.org/10.1002/ima.20236/references
+Li, X., Lu, Z.-L., Tjan, B. S., Dosher, B. A., & Chu, W. (2008b). Blood oxygenation leveldependent contrast response functions identify mechanisms of covert attention in early visual
+areas. Proceedings of the National Academy of Sciences of the United States of America,
+105(16), 6202–6207. http://doi.org/10.1073/pnas.0801390105
+Lissek, S., Wilimzig, C., Stude, P., Pleger, B., Kalisch, T., Maier, C., et al. (n.d.). Immobilization
+Impairs Tactile Perception and Shrinks Somatosensory Cortical Maps. Current Biology,
+19(10), 837–842.
+ller, J. R. P. P., Greiner, M., Balasubramanian, M., & Lotze, M. (2016). High-resolution fMRI
+investigations of the fingertip somatotopy and variability in BA3b and BA1 of the primary
+somatosensory cortex. Neuroscience, 339(C), 667–677.
+http://doi.org/10.1016/j.neuroscience.2016.10.036
+Luck, S. J., Chelazzi, L., Hillyard, S. A., & Desimone, R. (1997). Neural mechanisms of spatial
+selective attention in areas V1, V2, and V4 of macaque visual cortex. Journal of
+Neurophysiology, 77(1), 24–42.
+Martinez-Trujillo, J. C., & Treue, S. (2004). Feature-Based Attention Increases the Selectivity of
+Population Responses in Primate Visual Cortex. Current Biology, 14(9), 744–751.
+http://doi.org/10.1016/j.cub.2004.04.028
+Martı́
+nez-Trujillo, J. C., & Treue, S. (2002). Attentional modulation strength in cortical area MT
+depends on stimulus contrast. Neuron, 35(2), 365–370. http://doi.org/10.1016/S0896-
+6273(02)00778-X
+McAdams, C. J., & Maunsell, J. H. (1999). Effects of attention on orientation-tuning functions of
+single neurons in macaque cortical area V4. Journal of Neuroscience, 19(1), 431–441.
+McAdams, C. J., & Maunsell, J. H. (2000). Attention to both space and feature modulates
+neuronal responses in macaque area V4. Journal of Neurophysiology, 83(3), 1751–1755.
+McGlone, F., Kelly, E. F., Trulsson, M., Francis, S. T., Westling, G., & Bowtell, R. (2002).
+Functional neuroimaging studies of human somatosensory cortex. Behavioural Brain
+Research, 135(1), 147–158. http://doi.org/10.1007/978-4-431-67897-7_9
+McKenna, T. M., Whitsel, B. L., & Dreyer, D. A. (1982). Anterior parietal cortical topographic
+organization in macaque monkey: a reevaluation. Journal of Neurophysiology, 48(2), 289–
+317.
+Meftah, E.-M., Shenasa, J., & Chapman, C. E. (2002). Effects of a Cross-Modal Manipulation of
+Attention on Somatosensory Cortical Neuronal Responses to Tactile Stimuli in the Monkey.
+Journal of Neurophysiology, 88(6), 3133–3149. http://doi.org/10.1152/jn.00121.2002
+Meyer, V., Gross, C. G., & Teuber, H.-L. (1963). Effect of Knowledge of Site of Stimulation on
+the Threshold for Pressure Sensitivity. Perceptual and Motor Skills, 16(3), 637–640.
+http://doi.org/10.2466/pms.1963.16.3.637
+65
+Mima, T., Nagamine, T., Nakamura, K., & Shibasaki, H. (1998). Attention modulates both
+primary and second somatosensory cortical activities in humans: a magnetoencephalographic
+study. Journal of Neurophysiology, 80(4), 2215–2221. http://doi.org/10.1111/pcn.12361/pdf
+Moore, C. I., Crosier, E., Greve, D. N., Savoy, R., Merzenich, M. M., & Dale, A. M. (2013).
+Neocortical correlates of vibrotactile detection in humans. Journal of Cognitive
+Neuroscience, 25(1), 49–61. http://doi.org/10.1371/journal.pone.0084196
+Moseley, L. G., Zalucki, N. M., & Wiech, K. (2008). Tactile discrimination, but not tactile
+stimulation alone, reduces chronic limb pain. Pain, 137(3).
+Mountcastle, V. B., Lynch, J. C., Georgopoulos, A., Sakata, H., & Acuna, C. (1975). Posterior
+parietal association cortex of the monkey: command functions for operations within
+extrapersonal space. Journal of Neurophysiology, 38(4), 871–908.
+Mountcastle, V. B., Steinmetz, M. A., & Romo, R. (1990). Frequency discrimination in the sense
+of flutter: psychophysical measurements correlated with postcentral events in behaving
+monkeys. Journal of Neuroscience, 10(9), 3032–3044.
+Murray, S. O. (2008). The effects of spatial attention in early human visual cortex are stimulus
+independent. Journal of Vision, 8(10), 2–2. http://doi.org/10.1167/8.10.2
+Nestares, O., & Heeger, D. J. (2000). Robust multiresolution alignment of MRI brain volumes.
+Magnetic Resonance in Medicine, 43(5), 705–715.
+Padberg, J., Recanzone, G., Engle, J., Cooke, D., Goldring, A., & Krubitzer, L. (2010). Lesions in
+Posterior Parietal Area 5 in Monkeys Result in Rapid Behavioral and Cortical Plasticity.
+Journal of Neuroscience, 30(39), 12918–12935. http://doi.org/10.1523/JNEUROSCI.1806-
+10.2010
+Penfield, W., & Boldrey, E. (1937). Somatic motor and sensory representation in the cerebral
+cortex of man as studied by electrical stimulation. Brain: a Journal of Neurology, 60(4),
+389–443. http://doi.org/10.1093/brain/60.4.389
+Pestilli, F., Carrasco, M., Heeger, D. J., & Gardner, J. L. (2011). Attentional enhancement via
+selection and pooling of early sensory responses in human visual cortex. Neuron, 72(5), 832–
+846. http://doi.org/10.1016/j.neuron.2011.09.025
+Pleger, B., Ragert, P., Schwenkreis, P., Förster, A.-F., Wilimzig, C., Dinse, H., et al. (n.d.).
+Patterns of cortical reorganization parallel impaired tactile discrimination and pain intensity
+in complex regional pain syndrome. NeuroImage, 32(2), 503–510.
+Pleger, B., Tegenthoff, M., Ragert, P., Förster, A.-F., Dinse, H. R., Schwenkreis, P., et al. (2005).
+Sensorimotor returning in complex regional pain syndrome parallels pain reduction. Annals
+of Neurology, 57(3), 425–429. http://doi.org/10.1002/ana.20394
+Poranen, A., & Hyvarinen, J. (1982). Effects of attention on multiunit responses to vibration in
+the somatosensory regions of the monkey's brain. Electroencephalography and Clinical
+Neurophysiology, 53(5), 525–537.
+Posner, M. I. (1978). Chronometric explorations of mind., 26(1), 111–112.
+http://doi.org/10.1080/00140138308963319
+Reynolds, J. H., & Heeger, D. J. (2009). The Normalization Model of Attention. Neuron, 61(2),
+168–185. http://doi.org/10.1016/j.neuron.2009.01.002
+Reynolds, J. H., Pasternak, T., & Desimone, R. (2000). Attention Increases Sensitivity of V4
+Neurons. Neuron, 26(3), 703–714. http://doi.org/10.1016/S0896-6273(00)81206-4
+Rhodes, D. L., & Schwartz, G. E. (1981). Lateralized sensitivity to vibrotactile stimulation:
+individual differences revealed by interaction of threshold and signal detection tasks.
+Neuropsychologia, 19(6), 831–835. http://doi.org/10.1068/p120651
+Romo, R., & de Lafuente, V. (2013). Conversion of sensory signals into perceptual decisions.
+Progress in Neurobiology, 103, 41–75. http://doi.org/10.1016/j.pneurobio.2012.03.007
+Romo, R., & Salinas, E. (2003). Cognitive neuroscience: Flutter Discrimination: neural codes,
+perception, memory and decision making. Nature Reviews Neuroscience, 4(3), 203–218.
+http://doi.org/10.1038/nrn1058
+66
+Romo, R., Hernández, A., Zainos, A., Lemus, L., & Brody, C. D. (2002). Neuronal correlates of
+decision-making in secondary somatosensory cortex. Nature Neuroscience, 5(11), 1217–
+1225. http://doi.org/10.1038/nn950
+Rossi-Pool, R., Salinas, E., Zainos, A., Alvarez, M., Vergara, J., Parga, N., & Romo, R. (2016).
+Emergence of an abstract categorical code enabling the discrimination of temporally
+structured tactile stimuli. Proceedings of the National Academy of Sciences, 113(49), E7966–
+E7975. http://doi.org/10.1073/pnas.1618196113
+Sanchez-Panchuelo, R. M., Besle, J., Beckett, A., Bowtell, R., Schluppeck, D., & Francis, S.
+(2012). Within-digit functional parcellation of Brodmann areas of the human primary
+somatosensory cortex using functional magnetic resonance imaging at 7 tesla. The Journal of
+Neuroscience : the Official Journal of the Society for Neuroscience, 32(45), 15815–15822.
+http://doi.org/10.1523/JNEUROSCI.2501-12.2012
+Sanchez-Panchuelo, R. M., Francis, S., Bowtell, R., & Schluppeck, D. (2010). Mapping Human
+Somatosensory Cortex in Individual Subjects With 7T Functional MRI. Journal of
+Neurophysiology, 103(5), 2544–2556. http://doi.org/10.1152/jn.01017.2009
+Sathian, K., & Burton, H. (1991). The role of spatially selective attention in the tactile perception
+of texture. Perception & Psychophysics, 50(3), 237–248. http://doi.org/10.3758/BF03206747
+Sathian, K., Goodwin, A. W., John, K. T., & Darian-Smith, I. (1989). Perceived roughness of a
+grating: correlation with responses of mechanoreceptive afferents innervating the monkey's
+fingerpad. Journal of Neuroscience, 9(4), 1273–1279.
+Sánchez-Panchuelo, R.-M., Besle, J., Mougin, O., Gowland, P., Bowtell, R., Schluppeck, D., &
+Francis, S. (2014). Regional structural differences across functionally parcellated Brodmann
+areas of human primary somatosensory cortex. NeuroImage, 93 Pt 2, 221–230.
+http://doi.org/10.1016/j.neuroimage.2013.03.044
+Schubert, R., Ritter, P., Wüstenberg, T., Preuschhof, C., Curio, G., Sommer, W., & Villringer, A.
+(2008). Spatial Attention Related SEP Amplitude Modulations Covary with BOLD Signal in
+S1—A Simultaneous EEG—fMRI Study. Cerebral Cortex, 18(11), 2686–2700.
+http://doi.org/10.1093/cercor/bhn029
+Shiffrin, R. M., & Gardner, G. T. (1972). Visual processing capacity and attentional control.
+Journal of Experimental Psychology, 93(1), 72.
+Shiffrin, R. M., Craig, J. C., & Cohen, E. (1973). On the degree of attention and capacity
+limitation in tactile processing. Perception & Psychophysics, 13(2), 328–336.
+http://doi.org/10.3758/BF03214148
+Sörös, P., Knecht, S., Imai, T., Gürtler, S., Lütkenhöner, B., Ringelstein, E. B., & Henningsen, H.
+(1999). Cortical asymmetries of the human somatosensory hand representation in right- and
+left-handers. Neuroscience Letters, 271(2), 89–92.
+http://doi.org/10.3389/fnhum.2016.00628/full
+Spence, C., & Gallace, A. (2007). Recent developments in the study of tactile attention. Canadian
+Journal of Experimental Psychology/Revue Canadienne De Psychologie Expérimentale,
+61(3), 196.
+Spence, C., Shore, D. I., & Klein, R. M. (2001). Multisensory prior entry. Journal of
+Experimental Psychology: General, 130(4), 799–832. http://doi.org/10.1037//0096-
+3445.130.4.799
+Staines, W. R., Black, S. E., Graham, S. J., & McIlroy, W. E. (2002). Somatosensory gating and
+recovery from stroke involving the thalamus. Stroke.
+http://doi.org/10.1161/01.STR.0000032552.40405.40
+Sterr, A., Shen, S., Zaman, A., Roberts, N., & Szameitat, A. (2007). Activation of SI is modulated
+by attention: a random effects fMRI study using mechanical stimuli. Neuroreport, 18(6),
+607–611. http://doi.org/10.1002/1097-0142(19900801)66:3<564::AIDCNCR2820660326>3.0.CO;2-D/full
+Stone, S. A. (1926). Prior entry in the auditory-tactual complication, 37(2), 284–287. 
+67
+http://doi.org/10.2307/i261713
+Tjur, T. (2009). Coefficients of Determination in Logistic Regression Models—A New Proposal:
+The Coefficient of Discrimination. The American Statistician, 63(4), 366–372.
+http://doi.org/10.1198/tast.2009.08210
+Townsend, J. T. (1976). Serial and within-stage independent parallel model equivalence on the
+minimum completion time. Journal of Mathematical Psychology, 14(3), 219–238.
+Townsend, J. T., & Fifić, M. (2004). Parallel versus serial processing and individual differences
+in high-speed search in human memory. Perception & Psychophysics, 66(6), 953–962.
+Townsend, J. T., & Wenger, M. J. (2004). A theory of interactive parallel processing: new
+capacity measures and predictions for a response time inequality series. Psychological
+Review, 111(4), 1003.
+Treisman, A., & Souther, J. (1985). Search asymmetry: A diagnostic for preattentive processing
+of separable features. Journal of Experimental Psychology: General, 114(3), 285.
+Treue, S., & Trujillo, J. C. M. (1999). Feature-based attention influences motion processing gain
+in macaque visual cortex. Nature, 399(6736), 575–579. http://doi.org/10.1038/21176
+Vazquez, Y., Zainos, A., Alvarez, M., Salinas, E., & Romo, R. (2012). Neural coding and
+perceptual detection in the primate somatosensory thalamus. Proceedings of the National
+Academy of Sciences, 109(37), 15006–15011. http://doi.org/10.1073/pnas.1212535109
+Vázquez, Y., Salinas, E., & Romo, R. (2013). Transformation of the neural code for tactile
+detection from thalamus to cortex. Proceedings of the National Academy of Sciences,
+110(28), E2635–E2644. http://doi.org/10.1073/pnas.1309728110/-/DCSupplemental
+Wandell, B. A., & Winawer, J. (2011). Imaging retinotopic maps in the human brain. Vision
+Research, 51(7), 718–737.
+Whang, K. C., Burton, H., & Shulman, G. L. (1991). Selective attention in vibrotactile tasks:
+Detecting the presence and absence of amplitude change. Perception & Psychophysics,
+50(2), 157–165. http://doi.org/10.3758/BF03212216
+White, L. E., Andrews, T. J., Hulette, C., Richards, A., Groelle, M., Paydarfar, J., & Purves, D.
+(1997). Structure of the human sensorimotor system. I: Morphology and cytoarchitecture of
+the central sulcus. Cerebral Cortex, 7(1), 18–30.
+Wiles, P. G., & Pearce, S. M. (1989). Reduced Vibration Sensation in the Right Hands of Normal
+Individuals: An Intrinsic Difference or Acquired Abnormality? Clinical Science, 76(s20),
+50P–50P. http://doi.org/10.1042/cs076050Pb
+Wiles, P. G., Pearce, S. M., Rice, P. J., & Mitchell, J. M. (1990). Reduced vibration perception in
+right hands of normal subjects: an acquired abnormality? British Journal of Industrial
+Medicine, 47(10), 715–716. http://doi.org/10.1136/oem.47.10.715
+Williford, T., & Maunsell, J. H. R. (2006). Effects of Spatial Attention on Contrast Response
+Functions in Macaque Area V4. Journal of Neurophysiology, 96(1), 40–54.
+http://doi.org/10.1152/jn.01207.2005
+Wolfe, J. M. (2001). Asymmetries in visual search: An introduction. Attention, Perception, &
+Psychophysics, 63(3), 381–389.
+Woolsey, C. N. (1958). Organization of somatic sensory and motor areas of the cerebral cortex.
+Biol Biochem Behav, 1, 63–81.
+Woolsey, C. N., Erickson, T. C., & Gilson, W. E. (1979). Localization in somatic sensory and
+motor areas of human cerebral cortex as determined by direct recording of evoked potentials
+and electrical stimulation. Journal of Neurosurgery, 51(4), 476–506.
+http://doi.org/10.3171/jns.1979.51.4.0476
+Zhang, H. Q., Murray, G. M., Turman, AB, Mackie, P. D., Coleman, G. T., & Rowe, M. J.
+(1996). Parallel processing in cerebral cortex of the marmoset monkey: effect of reversible SI
+inactivation on tactile responses in SII. Journal of Neurophysiology, 76(6), 3633–3655.
+http://doi.org/10.1007/978-3-0348-9016-8_18
+Zopf, R., Giabbiconi, C.-M., Gruber, T., & Müller, M. M. (2004). Attentional modulation of the 
+68
+human somatosensory evoked potential in a trial-by-trial spatial cueing and sustained spatial
+attention task measured with high density 128 channels EEG. Cognitive Brain Research,
+20(3), 491–509. http://doi.org/10.1016/j.cogbrainres.2004.02.014
