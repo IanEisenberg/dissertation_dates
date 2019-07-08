@@ -1,0 +1,413 @@
+Aron, A.R., Fletcher, P.C., Bullmore, E.T., Sahakian, B.J., Robbins, T.W. (2003). Stop-
+signal inhibition disrupted by damage to right inferior frontal gyrus in humans.
+Nature Neuroscience, 6, 115-116.
+Aron, A.R., and Poldrack, R.A. (2006). Cortical and subcortical contributions to stop
+signal response inhibition: role of the subthalamic nucleus. The Journal of
+Neuroscience, 26, 2424-2433.
+Aron, A.R., Behrens, T.E., Smith, S., Frank, M.J., and Poldrack, R.A. (2007).
+Triangulating a Cognitive Control Network Using Diffusion-Weighted Magnetic
+Resonance Imaging (MRI) and Functional MRI. The Journal of Neuroscience,
+27(14), 3743-3752.
+Bartra, O., McGuire, J.T., and Kable, J.W. (2013). The valuation system: a coordinate-
+based meta-analysis of BOLD fMRI experiments examining neural correlates of
+subjective value. NeuroImage, 76, 412-427.
+Basser, P.J., and Pierpaoli, C. (1996). Microstructural and physiological features of
+tissues elucidated by quantitative-diffusion-tensor MRI. Journal of Magnetic
+Resonance Series B, 111(3), 209–219.
+Berns, G. S., Moore, S., and Capra, C. M. (2009). Adolescent engagement in dangerous
+behaviors is associated with increased white matter maturity of frontal cortex. PloS
+one, 4(8), e6773.
+Boekel, W., Forstmann, B.U., and Keuken, M.C. (2017). A test-retest reliability analysis
+of diffusion measures of white matter tracts relevant for cognitive control.
+Psychophysiology, 54, 24-33.
+119
+Boyden, E.S., Zhang, F., Bamberg, E., Nagel, G., and Deisseroth, K. (2005). Millisecond-
+timescale, genetically targeted optical control of neural activity. Nature Neuroscience,
+8(9), 1263.
+Bracht, T., Doidge, A. N., Keedwell, P. A., and Jones, D. K. (2015). Hedonic tone is
+associated with left superflo-lateral medial forebrain bundle microstructure. Psychol
+Med, 45, 865-874.
+Brecht, M.L., and Herbeck, D. (2014). Time to relapse following treatment for
+methamphetamine use: a long-term perspective on patterns and predictors. Drug
+Alcohol Depend., 139(139), 18-25.
+Büchel, C., Peters, J., Banaschewski, T., Bokde, A. L. W., Bromberg, U., Conrod, P. J.,
+... Ziesch, V. (2017). Blunted ventral striatal responses to anticipated rewards
+foreshadow problematic drug use in novelty-seeking adolescents. Nature
+Communications, 8, 14140.
+Cai, W., Ryali., S., Chen, T., Li, C.S.R., and Menon, V. (2014). Dissociable roles of right
+inferior frontal cortex and anterior insula in inhibitory control: Evidence from
+intrinsic and task-related functional parcellation, connectivity, and response profile
+analyses across multiple datasets. The Journal of Neuroscience, 34, 14652-14667.
+Canessa, N., Crespi, C., Motterlini, M., Baud-Bovy, G., Chierchia, G., Pantaleo, G.,
+Tettamanti, M., and Cappa, S.F. (2013). The functional and structural neural basis of
+individual differences in loss aversion. The Journal of Neuroscience, 33(36), 14307-
+14317.
+Canessa, N., Crespi, C., Baud-Bovy, G., Dodich, A., Falini, A., Antonellis, G., & Cappa,
+120
+S. F. (2017). Neural markers of loss aversion in resting-state brain
+activity. NeuroImage, 146, 257-265.
+Casey, B.J., et al. (2018). The Adolescent Brain Cognitive Development (ABCD) study:
+imaging acquisition across 21 sites. Developmental Cognitive Neuroscience, 32, 43-
+54.
+Cerliani, L., Thomas, R.M., Jbabdi, S., Siero, J.C.W., Nanetti, L., Crippa, A., Gazzola,
+V., D'Arceuil, H., and Keysers, C. (2011). Probabilistic tractography recovers a
+rostrocaudal trajectory of connectivity variability in the human insular cortex. Human
+Brain Mapping, 33, 2005–2034.
+Chang, L.J., Yarkoni, T., Khaw, M.W., and Sanfey, A.G. (2013). Decoding the role of
+the insula in human cognition: functional parcellation and large-scale reverse
+inference. Cerebral Cortex, 23(3), 739–749.
+Chang, E.H., Argyelan, M., Aggarwal, M., Chandon, T.S., Karlsgodt, K.H., Mori, S.,
+and Malhotra, A.K. (2017.) The role of myelination in measures of white matter
+integrity: Combination of diffusion tensor imaging and two-photon microscopy of
+CLARITY intact brains. NeuroImage, 147, 253-261.
+Chikama, M., McFarland, N.R., Amaral, D.G., and Haber, S.N. (1997). Insular cortical
+projections to functional regions of the striatum correlate with cortical
+cytoarchitectonic organization in the primate. The Journal of Neuroscience, 17(24),
+9686–9705.
+Cho, Y.T., Fromm, S., Guyer, A.E., Detloff, A., Pine, D.S., Fudge, J.L., and Ernst, M.
+(2013). Nucleus accumbens, thalamus and insula connectivity during incentive
+anticipation in typical adults and adolescents. NeuroImage, 66, 503-521.
+121
+Choi, J.K., Chen, Y.I., Hamel, E., and Jenkins, B.G. (2006). Brain hemodynamic changes
+mediated by dopamine receptors: Role of the cerebral microvasculature in dopamine-
+mediated neurovascular coupling. NeuroImage, 30(3), 700-712.
+Clark, L., Bechara, A., Damasio, H., Aitken, M. R. F., Sahakian, B. J., and Robbins, T.
+W. (2008). Differential effects of insular and ventromedial prefrontal cortex lesions
+on risky decision-making. Brain, 131(5), 1311-1322.
+Cloutman, L.L., Binney, R.J., Drakesmith, M., Parker, G.J.M., Lambon Ralph, M.A.
+(2011). The variation of function across the human insula mirrors its patterns of
+structural connectivity: Evidence from in vivo probabilistic tractography.
+NeuroImage, 59, 3514-3521.
+Coenen, V.A., Panksepp, J., Hurwitz, T.A., Urbach, H., and Mädler, B. (2012). Human
+medial forebrain bundle (MFB) and anterior thalamic radiation (ATR): Imaging of
+two major subcortical pathways and the dynamic balance of opposite affects in
+understanding depression. The Journal of Neuropsychiatry and Clinical
+Neurosciences, 24, 223–236.
+Cohen, M.S. (1997). Parametric analysis of fMRI data using linear systems methods.
+NeuroImage, 6, 93–103.
+Cohen, M.X., Schoene-Bake, J.C., Elger, C.E., and Weber, B. (2008). Connectivity-based
+segregation of the human striatum predicts personality characteristics. Nature
+Neuroscience, 15(1), 29–30.
+Conio, B., Martino, M., Magioncalda, P., Escelsior, A., Inglese, M., Amore, M., and
+122
+Northoff, G. (2019). Opposite effects of dopamine and serotonin on resting-state
+networks: review and implications for psychiatric disorders. Molecular Psychiatry,
+Advanced online publication: https://doi.org/10.1038/s41380-019-0406-4
+Craig, D.B. (2009). How do you feel—now? The anterior insula and human awareness.
+Nature Reviews Neuroscience, 10(1), 59–70.
+Critchley, H.D., Mathias, C.J. and Dolan, R.J. (2001). Neural activity in the human brain
+relating to uncertainty and arousal during anticipation. Neuron, 29(2), 537–545.
+Dalley, J.W., and Robbins, T.W. (2017). Fractionating impulsivity: neuropsychiatric
+implications. Nature Reviews Neuroscience, 18(3), 158.
+Desikan, R.S., Ségonne, F., Fischl, B., Quinn, B.T., Dickerson, B.C., Blacker, D.,
+Buckner, R.L., Dale, A.M., Maguire, R.P., Hyman, B.T., Albert, M.S., and Killiany,
+R.J. (2006). An automated labeling system for subdividing the human cerebral cortex
+on MRI scans into gyral based regions of interest. NeuroImage, 31, 968–980.
+Destrieux, C., Fischl, B., Dale, A., and Halgren, E. (2010). Automatic parcellation of
+human cortical gyri and sulci using standard anatomical nomenclature. NeuroImage,
+53(1), 1–15.
+Draganski, B., Kherif, F., Kloppel, S., Cook, P.A., Alexander, D.C., Parker, G.J.M.,
+Deichmann, R., Ashburner, J., and Frackowiak, R.S.J. (2008). Evidence for
+segregated and integrative connectivity patterns in the human basal ganglia. The
+Journal of Neuroscience, 28(28), 7143–7152.
+Dunovan, K., Lynch, B., Molesworth, T., and Verstynen, T. (2015). Competing basal
+ganglia pathways determine the difference between stopping and deciding not to go.
+eLife, 4, e08723.
+123
+Eaton, D.K., Kann, L., Kinchen, S., Shanklin, S., Flint, K.H., Hawkins, J., Harris, W.A.,
+Lowry, R., McManus, T., Chyen, D., Whittle, L., Lim, C., and Wechsler, H. (2012).
+Youth risk behavior surveillance -- United States, 2011. Morbidity and Mortality
+Weekly Report: Surveillance Summaries, 61(4), 1-162.
+Elliott, M.L., Knodt, A.R., Cooke, M., Kim, M.J., Melzer, T.R., Keenan, R., Ireland, D.,
+Ramrakha, S., Poulton, R., Caspi, A., Moffitt, T.E., and Hariri, A.R. (2019). General
+functional connectivity: Shared features of resting-state and task fMRI drive reliable
+and heritable individual differences in functional brain networks. NeuroImage, 189,
+516-532.
+Ersche, K.D., Simon Jones, P., Williams, G.B., Turton, A.J., Robbins, T.W., Bullmore,
+E.T. (2012). Abnormal brain structure implicated in stimulant drug addiction.
+Science, 335, 601–604.
+Fischl, B. (2012). FreeSurfer. Neuroimage, 62(2), 774-781.
+Fischl, B., Van Der Kouwe, A., Destrieux, C., Halgren, E., Ségonne, F., Salat, D.H.,
+Busa, E., Seidman, L.J., Goldstein, J., Kennedy, D., Caviness, V., Makris, N., Rosen,
+B., and Dale, A.M. (2004). Automatically parcellating the human cerebral cortex.
+Cerebral Cortex, 14, 11-22.
+Fischl, B., Salat, D.H., Busa, E., Albert, M., Dieterich, M., Haselgrove, C., van der
+Kouwe, A., Killiany, R., Kennedy, D., Klaveness, S., Montillo, A., Makris, N.,
+Rosen, B., and Dale, A.M. (2002). Whole brain segmentation: automated labeling of
+neuroanatomical structures in the human brain. Neuron, 33, 341-355.
+Ferenczi, E.A., Zalocusky, K., Liston, C., Katovich, K., Mehta, H., Amatya, D.,
+124
+Patenaude, B., Warden, M.R., Ramakrishnan, C., Grosenick, L., Kalanithi, P., Etkin,
+A., Knutson, B., Glover, G.H., Deisseroth, K. (2015). Prefrontal cortical regulation of
+brainwide circuit dynamics and reward-related behavior. Science, 351, aac9698.
+Forstmann, B.U., Jahfari, S., Scholte, H.S., Wolfensteller, U., van den Wildenberg,
+W.P.M., and Ridderinkhof, K.R. (2008). Function and structure of the right inferior
+frontal cortex predict individual differences in response inhibition: A model-based
+approach. The Journal of Neuroscience, 28, 9790-9796.
+Foulkes, L., and Blakemore, S.J. (2018). Studying individual differences in human
+adolescent brain development. Nature Neuroscience, 21, 315-323.
+Friston, K.J., Harrison, L., and Penny, W. (2003). Dynamic causal modeling.
+NeuroImage, 19(4), 1273-1302.
+Genevsky, A., Västfjäll, D., Slovic, P., and Knutson, B. (2013). Neural underpinnings of
+the identifiable victim effect: affect shifts preferences for giving. The Journal of
+Neuroscience, 33(43), 17188–17196.
+Gilaie-Dotan, S., et al. (2014). Neuroanatomy predicts individual risk attitudes. The
+Journal of Neuroscience, 34(37), 12394-12401.
+Gomez, J., Pestilli, F., Witthoft, N., Golijeh, G., Liberman, A., Poltoratski, S., Yoon, J.,
+and Grill-Spector, K. (2015). Functionally defined white matter reveals segregated
+pathways in human ventral temporal cortex associated with category-specificity.
+Neuron, 85(1), 216–227.
+Graybiel, A (1990) Neurotransmitters and neuromodulators in the basal ganglia. Trends
+in Neurosciences 13:244-253.
+Grosenick, L, Klingenberg, B, Katovich, K, Knutson, B, Taylor, JE (2013) Interpretable
+125
+whole brain prediction analysis with GraphNet. NeuroImage 72:304-321.
+Grubb, M.A., et al. (2016). Neuroanatomy accounts for age-related changes in risk
+preferences. Nature Communications, 7, 13822.
+Gu, S., Pasqualetti, F., Cieslak, M., Telesford, Q.K., Yu, A.B., Kahn, A.E., Medaglia,
+J.D., Vettel, J.M., Miller, M.B., Grafton, S.T., and Bassett, D.S. (2015).
+Controllability of structural brain networks. Nature Communications, 6, 8414.
+Guitart-Masip, M., Huys, Q.J.M., Fuentemilla, L., Dayan, P., Duzel, E., and Dolan, R.J.
+(2012). Go and no-go learning reward and punishment: Interactions between affect
+and effect. NeuroImage, 62, 154-166.
+Haber, S.N., and Knutson, B. (2010). The reward circuit: Linking primate anatomy and
+human imaging. Neuropsychopharmacology, 35(1), 4–26.
+Heimer, L., Zahm, D.S., Churchill, L., Kalivas, P.W., and Wohltmann, C. (1991).
+Specificity in the projection patterns accumbal core and shell. Neuroscience, 41(1),
+89-125.
+Holmes, A.J., Hollinshead, M.O., Roffman, J.L., Smoller, J.W., and Buckner, R.L.
+(2016). Individual Differences in Cognitive Control Circuit Anatomy Link Sensation
+Seeking, Impulsivity, and Substance Use. The Journal of Neuroscience, 36, 4038–49.
+Honey, C.J., Sporns, O., Cammoun, L., Gigandet, X., Thiran, J.P., Meuli, R., and
+Hagmann, P. (2009). Predicting human resting-state functional connectivity from
+structural connectivity. Proc Natl Acad Sci USA, 106, 2035-2040.
+Jackson, M.E., and Moghaddam, B. (2001). Amygdala regulation of nucleus accumbens
+dopamine output is governed by the prefrontal cortex. Journal of Neuroscience,
+21(2), 676-682.
+126
+Jacobus, J., Thayer, R.E., Trim, R.S., Bava, S., Frank, L.R., and Tapert, S.F. (2013).
+White matter integrity, substance use, and risk taking in adolescence. Psychology of
+addictive behaviors, 27(2), 431.
+Jazbec, S., Hardin, M.G., Schroth, E., McClure, E., Pine, D.S., and Ernst, M (2006) Age-
+related influence of contingencies on a saccade task. Experimental Brain Research,
+174, 754-762.
+Jbabdi, S., Sotiropoulos, S.N., Haber, S.N., Van Essen, D.C., and Behrens, T.E.J. (2015).
+Measuring macroscopic brain connections in vivo. Nature Neuroscience, 18, 1546–
+1555.
+Johansen-Berg, H., Behrens, T.E.J., Robson, M.D., Drobnjak, I., Rushworth, M.F.S.,
+Brady, J.M., Smith, S.M., Higham, D.J., and Matthews, P.M. (2004). Changes in
+connectivity profiles define functionally distinct regions in human medial frontal
+cortex. Proc Natl Acad Sci USA, 101, 13335-13340.
+Jones, D.K., Knosche, T.R., and Turner, R. (2013). White matter integrity, fiber count,
+and other fallacies: the do's and don'ts of diffusion MRI. Neuroimage, 73, 239–254.
+Jung, W.H., Lee, S., Lerman, C., and Kable, J.W. (2018). Amygdala Functional and
+Structural Connectivity Predicts Individual Risk Tolerance. Neuron, 98(2), 394-404.
+Kahneman, D., and Tversky, A. (1979). Prospect theory: An analysis of decision under
+risk. Econometrica, 47, 263–292.
+Knutson, B., Adams, C.S., Fong, G.W., and Hommer, D. (2001). Anticipation of
+monetary reward selectively recruits nucleus accumbens. The Journal of
+Neuroscience, 21, RC159.
+Knutson, B., and Bossaerts, P. (2007). Neural antecedents of financial decisions. The
+127
+Journal Neuroscience, 27(31), 8174–8177.
+Knutson, B., and Gibbs, S.E.B. (2007). Linking nucleus accumbens dopamine and blood
+oxygenation. Psychopharmacology, 191, 813-822.
+Knutson, B., and Greer, S.M. (2008). Anticipatory affect: Neural correlates and
+consequences for choice. Philosophical Transactions of the Royal Society of London.
+Series B, Biological Sciences, 363(1511), 3771–3786.
+Knutson. B., Huettel, S.A. (2015). The risk matrix. Curr Opin Behav Sci., 5, 141-146.
+Knutson, B., Katovich, K., and Suri, G. (2014). Inferring affect from fMRI data. Trends
+in Cognitive Sciences, 18(8), 422–428.
+Knutson, B., Taylor, J., Kaufman, M., Peterson, R., and Glover, G. (2005). Distributed
+neural representation of expected value. The Journal of Neuroscience, 25, 4806-4812.
+Koob, G.F., Volkow, N.D. (2010). Neurocircuitry of Addiction.
+Neuropsychopharmacology, 35. 217–238.
+Kraus, A., and Litzenberger, R.H. (1976). Skewness preference and the valuation of risk
+assets. Journal of Finance, 31, 1085-1100.
+Krueger, R.F., Caspi, A., Moffitt, T.E., and Silva, P.A. (1998). The structure and stability
+of common mental disorders (DSM-III-R): A longitudinal-epidemiological study.
+Journal of Abnormal Psychology, 107, 216–227.
+Kuhnen, C.M., and Knutson, B. (2005). The neural basis of financial risk taking. Neuron,
+47(5), 763–770.
+Kwon, M.S., Vorobyev, V., Moe, D., Parkkola, R., and Hämäläinen, H. (2014). Brain
+structural correlates of risk-taking behavior and effects of peer influence in
+adolescents. PloS one, 9(11), e112780.
+128
+Lammel, S., Ion, D. I., Roeper, J., and Malenka, R. C. (2011). Projection-specific
+modulation of dopamine neuron synapses by aversive and rewarding stimuli.
+Neuron, 70(5), 855-862.
+Lehericy, S., Ducros, M., Van de Moortele, P., Francois, C., Thivard, L., Poupon, C.,
+Swindale, N., Ugurbil, K., and Kim, D.S. (2004). Diffusion tensor fiber tracking
+shows distinct corticostriatal circuits in humans. Ann. Neurol., 55(4), 522–529.
+Lehman, J.F., Greenberg, B.D., McIntyre, C.C., Rasmussen, S.A., and Haber, S.N.
+(2011). Rules ventral prefrontal cortical axons use to reach their targets: Implications
+for diffusion tensor imaging tractography and deep brain stimulation for psychiatric
+illness. The Journal of Neuroscience, 31(28), 10392–10402.
+Leong, J.K., Pestilli, F., Wu, C.C., Samanez-Larkin, G.R., and Knutson, B. (2016).
+White-Matter Tract Connecting Anterior Insula to Nucleus Accumbens Correlates
+with Reduced Preference for Positively Skewed Gambles. Neuron, 89, 63–69.
+Leotti, L.A., and Wager, T.D. (2010). Motivational Influences on Response Inhibition. J
+Exp Psychol Hum Percept Perform., 36, 430-447.
+Leuze, C., Aswendt, M., Ferenczi, E., Liu, C.W., Hsueh, B., Goubran, M., Tian, Q.,
+Steinberg, G., Zeineh, M.M., Deisseroth, K., and McNab, J.A. (2017). The separate
+effects of lipids and proteins on brain MRI contrast revaled through tissue clearing.
+NeuroImage, 156, 412-422.
+Levy, B.J., and Wagner, A.D. (2011). Cognitive control and right ventrolateral prefrontal
+cortex: reflexive reorienting, motor inhibition, and action updating. Annals of the New
+York Academy of Sciences, 1224, 40-62.
+MacDonald, S.W., Nyberg, L., and Bäckman, L. (2006). Intra-individual variability in
+129
+behavior: links to brain structure, neurotransmission and neuronal activity. Trends in
+neurosciences, 29(8), 474-480.
+MacNiven, K.H., Jensen, E.L.S., Borg, N., Padula, C.B., Humphreys, K., and Knutson,
+B. (2018). Association of neural responses to drug cues with subsequent relapse to
+stimulant use. JAMA Network Open, 1(8):e186466.
+Mai, J.K., Assheuer, J., and Paxinos, G. (1997). Atlas of the human brain (San Diego:
+Academic Press).
+Menon, V., and Uddin, L.Q. (2010). Saliency, switching, attention and control: a network
+model of insula function. Brain Structure Function, 214, 655–667.
+Mesulam, M.M., Mufson, E.J. (1982b). Insula of the old world monkey. III: efferent
+cortical output and comments on function. J Comp Neurol., 212, 38–52.
+Mogenson, G.J., Jones, D.L., Yim, C.Y. (1980). From motivation to action: functional
+interface between the limbic system and the motor system. Progress in Neurobiology,
+14, 69-97.
+Mohr, P.N.C., Biele, G., and Heekeren, H.R. (2010). Neural processing of risk. The
+Journal of Neuroscience, 30(19), 6613-6619.
+Mufson, E.J., and Mesulam, M.M. (1982). Insula of the old world monkey. II: afferent
+cortical input and comments on the claustrum. J Comp Neurol., 212, 23–37.
+Nieuwenhuys, R. (1985). Chemoarchitecture of the Brain. SpringerVerlag, New York.
+O'Connor, D.A., Rossiter, S., Yücel, M, Lubman, D.I., Hester, R. (2012). Successful
+inhibitory control over an immediate reward is associated with attentional
+disengagement in visual processing areas. NeuroImage, 62, 1841-1847.
+O'Reilly, J.X., Woolrich, M.W., Behrens, T.E.J., Smith, S.M., and Johansen-Berg, H.
+130
+(2012). Tools of the trade: psychophysiological interactions and functional
+connectivity. Social Cognitive and Affective Neuroscience, 7(5), 604-609.
+O’Reilly, J.X., Croxson, P.L., Jbabdi, S., Sallet, J., Noonan, M.P., Mars, R.B., Browning,
+P.G.F., Wilson, C.R.E., Anna S. Mitchell, A.S., Karla L. Miller, K.L., Rushworth,
+M.F.W., and Baxter, M.G. (2013). Causal effect of disconnection lesions on
+interhemispheric functional connectivity in rhesus monkeys. Proc Natl Acad Sci USA,
+110(34), 13982-13987.
+Olson, E. A., Collins, P.F., Hooper, C.J., and Muetzel, R. (2009). White matter integrity
+predicts delay discounting behavior in 9-to 23-year-olds: a diffusion tensor imaging
+study. Journal of Cognitive Neuroscience, 21(7), 1406-1421.
+Padmala, S., and Pessoa, L. (2010). Interactions between cognition and motivation during
+response inhibition. Neuropsychologia, 48, 558-565.
+Palminteri, S., Justo, D., Jauffret, C., Pavlicek, B., Dauta, A., Delmaire, C., Czerneck, V.,
+Karachi, C., Capelle, L., Durr, A., and Pessiglione, M. (2012). Critical roles for
+anterior insula and dorsal striatum in punishment-based avoidance
+learning. Neuron, 76(5), 998-1009.
+Panksepp, J. (1998). Affective Neuroscience: The Foundations of Human and Animal
+Emotions (New York: Oxford University Press).
+Paulus, M.P., Rogalsky, C., and Simmons, A. (2003). Increased activation in the right
+insula during risk-taking decision making is related to harm avoidance and
+neuroticism. NeuroImage, 19(4), 1439–1448.
+Peper, J.S., Mandl, R.C.W., Braams, B.R., de Water, E., Heijboer, A.C., Koolschijn,
+131
+P.C.M.P., and Crone, E.A. (2013). Delay discounting and frontostriatal fiber tracts: a
+combined DTI and MTR study on impulsive choices in healthy young adults.
+Cerebral Cortex, 23(7), 1695-1702.
+Peper, J.S., de Reus, M.A., van den Heuvel, M.P., and Schutter, D.J.L.G. (2015). Short
+fused? associations between white matter connections, sex steroids, and aggression
+across adolescence. Human brain mapping, 36(3), 1043-1052.
+Pestilli, F. (2015). Test-retest measurements and digital validation for in vivo
+neuroscience. Scientific Data, 2, 140057.
+Pestilli, F., Yeatman, J.D., Rokem, A., Kay, K.N., and Wandell, B.A. (2014). Evaluation
+and statistical inference for human connectomes. Nature Methods, 11(10), 1058-
+1063.
+Petrides, M., and Pandya, D.N. (2007). Efference Association Pathways from the rostral
+Prefrontal Cortex in the Macaque Monkey. The Journal of Neuroscience, 27(43):
+11573-11586.
+Rae, C.L., Hughes, L.E., Anderson, M.C., Rose, J.B. (2015). The prefrontal cortex
+achieves inhibitory control by facilitating subcortical motor pathway connectivity.
+The Journal of Neuroscience. 35, 786-794.
+Reynolds, S.M., and Zahm, D.S. (2005). Specificity in the projections of prefrontal and
+insular cortex to ventral striatopallidum and the extended amygdala. The Journal of
+Neuroscience, 25(50), 11757–11767.
+Robbins, T.W., and Everitt, B.J. (1996). Neurobehavioural mechanisms of reward and
+motivation. Curr Opin Neurobiol., 6, 228–236.
+Rudebeck, P.H., Saunders, R.C., Lundgren, D.A., and Murray, E.A. (2017). Specialized
+132
+representations of value in the orbital and ventrolateral prefrontal cortex: desirability
+versus availability of outcomes. Neuron, 95, 1208-1220.
+Sagi, Y., Tavor, I., Hofstetter, S., Tzur-Moryosef, S., Blumenfeld-Katzir, T., Assaf, Y.
+(2012). Learning in the fast laneL: new insights into neuroplasticity. Neuron, 73(6),
+1195-1203.
+Samanez-Larkin, G.R., and Knutson, B. (2015). Decision making in the ageing brain:
+Changes in affective and motivational circuits. Nature Reviews Neuroscience, 16(5),
+278-289.
+Samanez-Larkin, G.R., Levens, S.M., Perry, L.M., Dougherty, R.F., and Knutson, B.
+(2012). Frontostriatal white matter integrity mediates adult age differences in
+probabilistic reward learning. The Journal of Neuroscience, 32(15), 5333–5337.
+Sanfey, A.G. (2007). Social decision-making: Insights from Game Theory and
+neuroscience. Science, 318(5850), 598-602.
+Scholz, J., Klein, M.C., Behrens, T.E.J., and Johansen-Berg, H. (2009). Training induces
+changes in white-matter architecture. Nature Neuroscience, 12, 1370-1371.
+Sherbondy, A.J., Dougherty, R.F., Ben-shachar, M., and Wandell, B.A. (2008).
+ConTrack: Finding the most likely pathways between brain regions using diffusion
+tractography. Journal of Vision, 8(9), 1-16.
+Sisk, C.L., and Foster, D.L. (2004). The neural basis of puberty and adolescence. Nature
+Neuroscience, 7, 1040-1047.
+Spear, L.P. (2000). The adolescent brain and age-related behavioral manifestations.
+Neuroscience & Biobehavioral Reviews, 24(4), 417-463.
+Stauffer, W.R., Lak, A., Yang, A., Borel, M., Paulsen, O., Boyden, E.S., and Schultz, W
+133
+(2016). Dopamine neuron-specific optogenetic stimulation in rhesus macaques. Cell,
+166, 1564-1571.
+Stuber, G.D., Sparta, D.R., Stamatakis, A.J., vanLeeuwen, W.A., Hardjoprajitno, J.E.,
+Cho, S., Tye, K.M., Kempadoo, K.A., Zhang, F., Deisseroth, K., and Bonci, A.
+(2011). Amygdala to nucleus accumbens excitatory transmission facilitates reward
+seeking. Nature, 275(7356), 377-380.
+Swick, D., Ashley, V., and Turken, U. (2011). Are the neural correlates of stopping and
+not going identical? Quantitative meta-analysis of two response inhibition tasks.
+NeuroImage, 56, 1655-1665.
+Takemura, H., Rokem, A., Winawer, J., Yeatman, J.D., Wandell, B.A., and Pestilli, F.
+(2015). A major human white matter pathway between dorsal and ventral visual
+cortex. Cerebral Cortex, 26(5), 2205-2214.
+Takeuchi, H., Taki, Y., Sassa, Y., Hashizume, HJ., Sekiguchi, A., Fukushima, A., and
+Kawashima, R. (2013). Brain structures associated with executive functions during
+everyday events in a non-clinical sample. Brain Structure and Function, 218(4),
+1017-1032.
+Tournier, J.D., Calamante, F., and Connelly, A. (2007). Robust determination of the fibre
+orientation distribution in diffusion MRI: non-negativity constrained super-resolved
+spherical deconvolution. NeuroImage, 35(4), 1459–1472.
+Uddin, L.Q., Mooshagian, E., Zaidel, E., Scheres, A., Margulies, D.S., Kelly, A.M.C.,
+Shehzad, Z., Adelstein, J.S., Castellanos, F.X., Biswal, B.B., and Milham, M.P.
+(2008). Residual functional connectivity in the split-brain revealed with resting-state
+functional MRI. NeuroReport, 19(7), 703-709.
+134
+Ungerleider, L.G., Gaffan, D., and Pelak, V.S. (1989). Projections from the inferior
+temporal cortex to prefrontal cortex via the uncinate fascicle in rhesus monkeys.
+Experimental Brain Research, 76: 473-484.
+Van den Bos, W., Rodriguez, C.A., Schweitzer, J.B., and McClure, S.M. (2014).
+Connectivity strength of dissociable striatal tracts predict individual differences in
+temporal discounting. The Journal of Neuroscience, 34(31), 10298-10310.
+von Neumann J., and Morgenstern, O. (1944). Theory of games and economic behavior
+(Princeton, NJ: Princeton University Press).
+Vos, S.B., Jones, D.K., Jeurissen, B., Viergever, M.A., Leemans, A. (2010). The
+influence of complex white matter architecture on the mean diffusivity in diffusion
+tensor MRI of the human brain. NeuroImage, 59, 2208-2216.
+Wedeen, V.J., Rosene, D.L., Wang, R., Dai, G., Mortazavi, F., Hagmann, P., Kaas, J.H.,
+and Tseng, W.I. (2012). The geometric structure of the brain fiber pathways. Science,
+335(6076), 1628-1634.
+Wessel, J.R. (2018). Prepotent motor activity and inhibitory control demands in different
+variants of the go/no-go paradigm. Psychophysiology, 55(3), e12871.
+Wu, C.C., Bossaerts, P., and Knutson, B. (2011). The affective impact of financial
+skewness on neural activity and choice. PloS One, 6(2), e16838.
+Wu, C.C., Sacchet, M.D., and Knutson, B. (2012). Toward an affective neuroscience
+account of financial risk taking. Frontiers in Neuroscience, 6, 159.
+Wu, C.C., Samanez-Larkin, G.R., Katovich, K., and Knutson, B. (2014). Affective traits
+link to reliable neural markers of incentive anticipation. NeuroImage, 84, 279-289.
+Yarkoni, T., Poldrack, R.A., Nichols, T.E., Van Essen, D.C., and Wager, T.D. (2011).
+135
+Large-scale automated synthesis of human functional neuroimaging data. Nature
+methods, 8, 665-670.
+Yeatman, J.D., Dougherty, R.F., Myall, N.J., Wandell, B.A., and Feldman, H.M. (2012).
+Tract profiles of white matter properties: automating fiber-tract quantification. PloS
+One, 7, e49790.
+Zalocusky, K.A., Ramakrishnan, C., Lerner, T.N., Davidson, T.J., Knutson, B., and
+Deisseroth, K. (2016). Nucleus accumbens D2R cells signal prior outcomes and
+control risky decision-making. Nature, 531, 642-646
+Zatorre, R.J., Fields, R.D., Johansen-Berg, H. (2012). Plasticity in gray and white:
+neuroimaging changes in brain structure during learning. Nature Neuroscience, 15,
+528-536.

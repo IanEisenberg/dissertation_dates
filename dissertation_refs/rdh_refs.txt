@@ -1,0 +1,423 @@
+Abell, C. (2009). Canny resemblance. Philosophical Review, 118(2), 183–223.
+Abney, D. H., Paxton, A., Dale, R., & Kello, C. T. (2014). Complexity matching in dyadic conver-
+sation. Journal of Experimental Psychology: General, 143(6), 2304.
+Arora, S., Liang, Y., & Ma, T. (2017). A simple but tough-to-beat baseline for sentence embeddings.
+In International conference on learning representations (ICLR).
+Auer, P. (2013). Code-switching in conversation: Language, interaction and identity. Routledge.
+Austerweil, J. L., & Griffiths, T. L. (2013). A nonparametric bayesian framework for constructing
+flexible feature representations. Psychological review, 120(4), 817.
+Baronchelli, A. (2018). The Emergence of Consensus. Royal Society Open Science, 5(2).
+Barr, D. J. (2004). Establishing conventional communication systems: Is common knowledge
+necessary? Cognitive Science, 28(6), 937–962.
+Barsalou, L. W. (1983). Ad hoc categories. Memory & cognition, 11(3), 211–227.
+120
+Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). A neural probabilistic language model.
+Journal of machine learning research, 3(Feb), 1137–1155.
+Bergelson, E., & Aslin, R. N. (2017). Nature and origins of the lexicon in 6-mo-olds. Proceedings of
+the National Academy of Sciences, 114(49), 12916-12921.
+Bergen, L., Levy, R., & Goodman, N. D. (2016). Pragmatic reasoning through semantic inference.
+Semantics and Pragmatics, 9(20).
+Berniker, M., & Kording, K. (2008). Estimating the sources of motor errors for adaptation and
+generalization. Nature neuroscience, 11(12), 1454.
+Blei, D. M., Kucukelbir, A., & McAuliffe, J. D. (2017). Variational inference: A review for statisti-
+cians. Journal of the American Statistical Association, 112(518), 859–877.
+Brennan, S. E., & Clark, H. H. (1996). Conceptual pacts and lexical choice in conversation. Journal
+of Experimental Psychology: Learning, Memory, and Cognition, 22(6), 1482.
+Brennan, S. E., & Hanna, J. E. (2009). Partner-specific adaptation in dialog. Topics in Cognitive
+Science, 1(2), 274–291.
+Brochhagen, T. (2017). Signalling under Uncertainty: Interpretative Alignment without a Com-
+mon Prior. The British Journal for the Philosophy of Science. Retrieved from https://doi.org/
+10.1093/bjps/axx058 doi: 10.1093/bjps/axx058
+Brown, R. (1958). How shall a thing be called? Psychological Review, 65(1), 14.
+121
+Caldwell, C. A., & Smith, K. (2012). Cultural evolution and perpetuation of arbitrary communica-
+tive conventions in experimental microsocieties. PloS one, 7(8), e43807.
+Carroll, J. M. (1980). Naming and describing in social communication. Language and Speech,
+23(4), 309–322.
+Centola, D., & Baronchelli, A. (2015). The spontaneous emergence of conventions: An experimen-
+tal study of cultural evolution. Proceedings of the National Academy of Sciences, 112(7), 1989–1994.
+Chang, A. X., Funkhouser, T., Guibas, L., Hanrahan, P., Huang, Q., Li, Z., ... others (2015).
+Shapenet: An information-rich 3d model repository. arXiv preprint arXiv:1512.03012.
+Clark, E. V. (2009). First language acquisition. Cambridge University Press.
+Clark, E. V., & Clark, H. H. (1979). When nouns surface as verbs. Language, 767–811.
+Clark, H. H. (1983). Making sense of nonce sense. The process of language understanding, 297–331.
+Clark, H. H. (1996). Using language. Cambridge: Cambridge University Press.
+Clark, H. H. (1998). Communal lexicons. In K. Malmkjaer & J. Williams (Eds.), Context in
+language learning and language understanding (pp. 63–87). Cambridge: Cambridge University
+Press.
+Clark, H. H., & Gerrig, R. J. (1983). Understanding old words with new meanings. Journal of
+verbal learning and verbal behavior, 22(5), 591–608.
+122
+Clark, H. H., & Wilkes-Gibbs, D. (1986). Referring as a collaborative process. Cognition, 22(1),
+1–39.
+Cohn-Gordon, R., Goodman, N. D., & Potts, C. (2018). Pragmatically Informative Image Cap-
+tioning with Character-Level Reference. arXiv preprint arXiv:1804.05417.
+Cooper, R., Dobnik, S., Larsson, S., & Lappin, S. (2015). Probabilistic type theory and natural
+language semantics. LiLT (Linguistic Issues in Language Technology), 10.
+Cruse, D. A. (1977). The pragmatics of lexical specificity. Journal of linguistics, 13(02), 153–164.
+Cruse, D. A. (1986). Lexical semantics. Cambridge: Cambridge University Press.
+Danks, J. H. (1970). Encoding of novel figures for communication and memory. Cognitive Psychol-
+ogy, 1(2), 179–191.
+Davidson, D. (1986). A nice derangement of epitaphs. Philosophical grounds of rationality: Inten-
+tions, categories, ends, 4, 157–174.
+Degen, J., Hawkins, R. X. D., Graf, C., Kreiss, E., & Goodman, N. D. (2019). When redun-
+dancy is rational: A bayesian approach to ’overinformative’ referring expressions. arXiv preprint
+arXiv:1903.08237.
+Delaney-Busch, N., Morgan, E., Lau, E., & Kuperberg, G. (2017). Comprehenders rationally adapt
+semantic predictions to the statistics of the local environment: a bayesian model of trial-by-trial
+n400 amplitudes. In Proceedings of the 39th annual meeting of the cognitive science society (Vol. 39).
+123
+Deng, J., Dong, W., Socher, R., Li, L.-J., Li, K., & Fei-Fei, L. (2009). Imagenet: A large-scale
+hierarchical image database. In 2009 ieee conference on computer vision and pattern recognition (pp.
+248–255).
+Dingemanse, M., Blasi, D. E., Lupyan, G., Christiansen, M. H., & Monaghan, P. (2015). Arbitrari-
+ness, iconicity, and systematicity in language. Trends in cognitive sciences, 19(10), 603–615.
+Fan, J. E., Hawkins, R. X. D., Wu, M., & Goodman, N. D. (2019). Pragmatic inference and
+visual abstraction enable contextual flexibility during visual communication. arXiv preprint
+arXiv:1903.04448.
+Fan, J. E., Yamins, D. L. K., & Turk-Browne, N. B. (2018). Common object representations for
+visual production and recognition. Cognitive Science, 42(8), 2670–2698.
+Fay, N., Garrod, S., Roberts, L., & Swoboda, N. (2010). The interactive evolution of human
+communication systems. Cognitive Science, 34(3), 351–386.
+Frank, M. C., & Goodman, N. D. (2012). Predicting pragmatic reasoning in language games.
+Science, 336 (6084), 998–998.
+Frank, M. C., Goodman, N. D., & Tenenbaum, J. B. (2009). Using speakers’ referential intentions
+to model early cross-situational word learning. Psychological Science, 20(5), 578–585.
+Franke, M., Dablander, F., Schöller, A., Bennett, E., Degen, J., Tessler, M. H., ... Goodman, N. D.
+(2016). What does the crowd believe? a hierarchical approach to estimating subjective beliefs from
+empirical data. In Proceedings of the 38th annual meeting of the cognitive science society.
+124
+Franke, M., & Jäger, G. (2016). Probabilistic pragmatics, or why bayes’ rule is probably important
+for pragmatics. Zeitschrift für Sprachwissenschaft, 35(1), 3–44.
+Fraser, B. (2010). Pragmatic competence: The case of hedging. New approaches to hedging, 1534.
+Furnas, G. W., Landauer, T. K., Gomez, L. M., & Dumais, S. T. (1987). The vocabulary problem
+in human-system communication. Communications of the ACM , 30(11), 964–971.
+Fussell, S. R., & Krauss, R. M. (1989a). The effects of intended audience on message production
+and comprehension: Reference in a common ground framework. Journal of Experimental Social
+Psychology, 25(3), 203–219.
+Fussell, S. R., & Krauss, R. M. (1989b). Understanding friends and strangers: The effects of
+audience design on message comprehension. European Journal of Social Psychology, 19(6), 509–525.
+Fussell, S. R., & Krauss, R. M. (1992). Coordination of knowledge in communication: effects of
+speakers’ assumptions about what others know. Journal of personality and Social Psychology, 62(3),
+378.
+Futrell, R., Mahowald, K., & Gibson, E. (2015). Large-scale evidence of dependency length mini-
+mization in 37 languages. Proceedings of the National Academy of Sciences, 112(33), 10336–10341.
+Galantucci, B. (2005). An experimental study of the emergence of human communication systems.
+Cognitive science, 29(5), 737–767.
+125
+Galantucci, B., & Garrod, S. (2011). Experimental semiotics: a review. Frontiers in human neuro-
+science, 5, 11.
+Galashov, A., Jayakumar, S. M., Hasenclever, L., Tirumala, D., Schwarz, J., Desjardins, G., ...
+Heess, N. (2018). Information asymmetry in KL-regularized RL. In International conference
+on learning representations (ICLR).
+Garrod, S., & Anderson, A. (1987). Saying what you mean in dialogue: A study in conceptual and
+semantic co-ordination. Cognition, 27(2), 181–218.
+Garrod, S., & Doherty, G. (1994). Conversation, co-ordination and convention: An empirical
+investigation of how groups establish linguistic conventions. Cognition, 53(3), 181–215.
+Garrod, S., Fay, N., Lee, J., Oberlander, J., & MacLeod, T. (2007). Foundations of representation:
+where might graphical symbol systems come from? Cognitive Science, 31(6), 961–987.
+Garrod, S., Fay, N., Rogers, S., Walker, B., & Swoboda, N. (2010). Can iterated learning explain the
+emergence of graphical symbols? Interaction Studies, 11(1), 33–50.
+Garrod, S., & Pickering, M. J. (2009). Joint action, interactive alignment, and dialog. Topics in
+Cognitive Science, 1(2), 292–304.
+Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2014). Bayesian
+data analysis (3rd ed.). CRC press Boca Raton, FL.
+126
+Gelman, A., & Hill, J. (2006). Data analysis using regression and multilevel/hierarchical models.
+Cambridge university press.
+Gerrig, R. J., & Bortfeld, H. (1999). Sense creation in and out of discourse contexts. Journal of
+memory and Language, 41(4), 457–468.
+Gershman, S. J., Pouncy, H. T., & Gweon, H. (2017). Learning the structure of social influence.
+Cognitive Science, 41, 545–575.
+Gibson, E., Futrell, R., Jara-Ettinger, J., Mahowald, K., Bergen, L., Ratnasingam, S., ... Conway,
+B. R. (2017). Color naming across languages reflects color use. Proceedings of the National
+Academy of Sciences, 114(40), 10785-10790.
+Giles, H., Coupland, N., & Coupland, J. (1991). Contexts of accommodation: Developments in
+applied sociolinguistics. Institution: Cambridge University Press.
+Glucksberg, S., Krauss, R. M., & Weisberg, R. (1966). Referential communication in nursery
+school children: Method and some preliminary findings. Journal of experimental child psychology,
+3(4), 333–342.
+Glucksberg, S., & McGlone, M. S. (2001). Understanding figurative language: From metaphor to
+idioms (No. 36). Oxford University Press on Demand.
+Goldin-Meadow, S., & McNeill, D. (1999). The role of gesture and mimetic representation in mak-
+ing language the province of speech. The descent of mind: Psychological perspectives on hominid
+evolution., 155–172.
+127
+Goldin-Meadow, S., McNeill, D., & Singleton, J. (1996). Silence is liberating: removing the hand-
+cuffs on grammatical expression in the manual modality. Psychological Review, 103(1), 34.
+Goodman, N. (1976). Languages of art: An approach to a theory of symbols. Hackett publishing.
+Goodman, N. D., & Frank, M. C. (2016). Pragmatic language interpretation as probabilistic
+inference. Trends in Cognitive Sciences, 20(11), 818 - 829.
+Goodman, N. D., & Lassiter, D. (2014). Probabilistic semantics and pragmatics: Uncertainty in
+language and thought. In S. Lappin & C. Fox (Eds.), Handbook of contemporary semantic theory.
+Wiley-Blackwell.
+Goodman, N. D., & Stuhlmüller, A. (electronic). The design and implementation of probabilistic
+programming languages.
+Goodman, N. D., & Stuhlmüller, A. (2013). Knowledge and implicature: Modeling language
+understanding as social cognition. Topics in cognitive science, 5(1), 173–184.
+Goodman, N. D., Ullman, T. D., & Tenenbaum, J. B. (2011). Learning a theory of causality. Psy-
+chological review, 118(1), 110.
+Graf, C., Degen, J., Hawkins, R. X. D., & Goodman, N. D. (2016). Animal, dog, or dalmatian?
+level of abstraction in nominal referring expressions. In Proceedings of the 38th annual conference of
+the Cognitive Science Society.
+128
+Grant, E., Finn, C., Levine, S., Darrell, T., & Griffiths, T. (2018). Recasting Gradient-Based Meta-
+Learning as Hierarchical Bayes. arXiv preprint arXiv:1801.08930.
+Grice, H. P. (1975). Logic and conversation. In P. Cole & J. Morgan (Eds.), Syntax and Semantics
+(pp. 43–58). New York: Academic Press.
+Griffiths, T. L., Steyvers, M., & Tenenbaum, J. B. (2007). Topics in semantic representation.
+Psychological review, 114(2), 211.
+Gruberg, N., Ostrand, R., Momma, S., & Ferreira, V. S. (2019). Syntactic entrainment: The
+repetition of syntactic structures in event descriptions. Journal of Memory and Language, 107,
+216–232.
+Güçlü, U., & van Gerven, M. A. (2015). Deep neural networks reveal a gradient in the complexity
+of neural representations across the ventral stream. Journal of Neuroscience, 35(27), 10005–10014.
+Hasson, U., Ghazanfar, A. A., Galantucci, B., Garrod, S., & Keysers, C. (2012). Brain-to-brain
+coupling: a mechanism for creating and sharing a social world. Trends in cognitive sciences, 16 (2),
+114–121.
+Hawkins, R. X. D. (2015). Conducting real-time multiplayer experiments on the web. Behavior
+Research Methods, 47(4), 966-976.
+Hawkins, R. X. D., Frank, M. C., & Goodman, N. D. (2017). Convention-formation in iterated
+reference games. In Proceedings of the 39th annual meeting of the cognitive science society.
+129
+Hawkins, R. X. D., Stuhlmüller, A., Degen, J., & Goodman, N. D. (2015). Why do you ask?
+Good questions provoke informative answers. In Proceedings of the 37th annual conference of the
+cognitive science society.
+Healey, P. G., Swoboda, N., Umata, I., & King, J. (2007). Graphical language games: Interactional
+constraints on representational form. Cognitive Science, 31(2), 285–309.
+Hoffmann, D., Standish, C., García-Diez, M., Pettitt, P., Milton, J., Zilhão, J., ... others (2018).
+U-th dating of carbonate crusts reveals neandertal origin of iberian cave art. Science, 359(6378),
+912–915.
+Honnibal, M., & Montani, I. (2019). spaCy 2: Natural language understanding with bloom
+embeddings, convolutional neural networks and incremental parsing. To appear.
+Horton, W. S., & Gerrig, R. J. (2002). Speakers’ experiences and audience design: Knowing when
+and knowing how to adjust utterances to addressees. Journal of Memory and Language, 47(4),
+589–606.
+Horton, W. S., & Gerrig, R. J. (2005). The impact of memory demands on audience design during
+language production. Cognition, 96 (2), 127–142.
+Hupet, M., & Chantraine, Y. (1992). Changes in repeated references: Collaboration or repetition
+effects? Journal of psycholinguistic research, 21(6), 485–496.
+130
+Hupet, M., Seron, X., & Chantraine, Y. (1991). The effects of the codability and discriminability
+of the referents on the collaborative referring procedure. British Journal of Psychology, 82(4), 449–
+462.
+Huth, A. G., de Heer, W. A., Griffiths, T. L., Theunissen, F. E., & Gallant, J. L. (2016). Natural
+speech reveals the semantic maps that tile human cerebral cortex. Nature, 532(7600), 453–458.
+Innes, J. M. (1976). The structure and communication effectiveness of inner and external speech.
+British Journal of Social & Clinical Psychology, 15(1), 97-99.
+Isaacs, E. A., & Clark, H. H. (1987). References in conversation between experts and novices.
+Journal of Experimental Psychology: General, 116 (1), 26.
+Jerfel, G., Grant, E., Griffiths, T. L., & Heller, K. (2018). Online gradient-based mixtures for
+transfer modulation in meta-learning. arXiv:1812.06080.
+Jones, M. N., Willits, J., Dennis, S., & Jones, M. (2015). Models of semantic memory. Oxford
+handbook of mathematical and computational psychology, 232–254.
+Joshi, A., Ghosh, S., Betke, M., Sclaroff, S., & Pfister, H. (2017). Personalizing Gesture Recogni-
+tion Using Hierarchical Bayesian Neural Networks. In Proc. IEEE Conf. on Computer Vision and
+Pattern Recognition (CVPR).
+Jurafsky, D., & Martin, J. H. (2014). Speech and language processing (Vol. 3). Pearson London.
+131
+Kao, J. T., Wu, J. Y., Bergen, L., & Goodman, N. D. (2014). Nonliteral understanding of number
+words. Proceedings of the National Academy of Sciences, 111(33), 12002–12007.
+Kemp, C., Goodman, N. D., & Tenenbaum, J. B. (2010). Learning to learn causal models. Cogni-
+tive Science, 34(7), 1185–1243.
+Kemp, C., Perfors, A., & Tenenbaum, J. B. (2007). Learning overhypotheses with hierarchical
+bayesian models. Developmental science, 10(3), 307–321.
+King, E., & Sumner, M. (2015). Voice-specific effects in semantic association. In Proceedings of the
+37th annual meeting of the cognitive science society.
+Kirby, S., Tamariz, M., Cornish, H., & Smith, K. (2015). Compression and communication in the
+cultural evolution of linguistic structure. Cognition, 141, 87–102.
+Kiros, R., Zhu, Y., Salakhutdinov, R. R., Zemel, R., Urtasun, R., Torralba, A., & Fidler, S. (2015).
+Skip-thought vectors. In Advances in neural information processing systems (pp. 3294–3302).
+Kleinschmidt, D. F. (2019). Structure in talker variability: How much is there and how much can
+it help? Language, cognition and neuroscience, 34(1), 43–68.
+Kleinschmidt, D. F., & Jaeger, T. F. (2015). Robust speech perception: Recognize the familiar,
+generalize to the similar, and adapt to the novel. Psychological review, 122(2), 148.
+Koolen, R., Gatt, A., Goudbeek, M., & Krahmer, E. (2011). Factors causing overspecification in
+definite descriptions. Journal of Pragmatics, 43(13), 3231–3250.
+132
+Krauss, R. M., & Bricker, P. D. (1967). Effects of transmission delay and access delay on the effi-
+ciency of verbal communication. The Journal of the Acoustical Society of America, 41(2), 286–292.
+Krauss, R. M., Garlock, C. M., Bricker, P. D., & McMahon, L. E. (1977). The role of audible and
+visible back-channel responses in interpersonal communication. Journal of personality and social
+psychology, 35(7), 523.
+Krauss, R. M., & Glucksberg, S. (1977). Social and nonsocial speech. Scientific American, 236 (2),
+100–105.
+Krauss, R. M., Vivekananthan, P., & Weinheimer, S. (1968). Inner speech and” external speech”:
+Characteristics and communication effectiveness of socially and nonsocially encoded messages.
+Journal of Personality and Social Psychology, 9(4), 295.
+Krauss, R. M., & Weinheimer, S. (1964). Changes in reference phrases as a function of frequency
+of usage in social interaction: A preliminary study. Psychonomic Science, 1(1-12), 113–114.
+Krauss, R. M., & Weinheimer, S. (1966). Concurrent feedback, confirmation, and the encoding of
+referents in verbal communication. Journal of Personality and Social Psychology, 4(3), 343.
+Krauss, R. M., & Weinheimer, S. (1967). Effect of referent similarity and communication mode on
+verbal encoding. Journal of Verbal Learning and Verbal Behavior, 6 (3), 359–363.
+Kubilius, J., Bracci, S., & de Beeck, H. P. O. (2016). Deep neural networks as a computational
+model for human shape sensitivity. PLoS Computational Biology, 12(4), e1004896.
+133
+Kuhlen, A. K., & Brennan, S. E. (2013). Language in dialogue: when confederates might be haz-
+ardous to your data. Psychonomic bulletin & review, 20(1), 54–72.
+Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2017). Building machines that
+learn and think like people. Behavioral and Brain Sciences, 40.
+Lakin, J. L., & Chartrand, T. L. (2003). Using nonconscious behavioral mimicry to create affilia-
+tion and rapport. Psychological science, 14(4), 334–339.
+Landauer, T. K., & Dumais, S. T. (1997). A solution to Plato’s problem: The latent semantic
+analysis theory of acquisition, induction, and representation of knowledge. Psychological review,
+104(2), 211.
+Lascarides, A., & Copestake, A. (1998). Pragmatics and word meaning. Journal of linguistics, 34(2),
+387–414.
+Lassiter, D., & Goodman, N. D. (2015). Adjectival vagueness in a Bayesian model of interpretation.
+Synthese, 1–36.
+Lazaridou, A., Hermann, K. M., Tuyls, K., & Clark, S. (2018). Emergence of linguistic communica-
+tion from referential games with symbolic and pixel input. arXiv preprint arXiv:1804.03984.
+Levelt, W. J., & Kelter, S. (1982). Surface form and memory in question answering. Cognitive
+psychology, 14(1), 78–106.
+Lewis, D. (1969). Convention: A philosophical study. Harvard University Press.
+134
+Liesefeld, H. R., & Janczyk, M. (2019). Combining speed and accuracy to control for speed-
+accuracy trade-offs. Behavior Research Methods, 51(1), 40–60.
+Lin, T.-Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., ... Zitnick, C. L. (2014).
+Microsoft coco: Common objects in context. In European conference on computer vision (pp. 740–
+755).
+Louwerse, M. M., Dale, R., Bard, E. G., & Jeuniaux, P. (2012). Behavior matching in multimodal
+communication is synchronized. Cognitive science, 36 (8), 1404–1426.
+Maaten, L. v. d., & Hinton, G. (2008). Visualizing data using t-sne. Journal of machine learning
+research, 9(Nov), 2579–2605.
+Medlock, B., & Briscoe, T. (2007). Weakly supervised learning for hedge classification in scientific
+literature. In Acl (Vol. 2007, pp. 992–999).
+Mervis, C. B., & Rosch, E. (1981). Categorization of natural objects. Annual Review of Psychology,
+32(1), 89-115.
+Metzing, C., & Brennan, S. E. (2003). When conceptual pacts are broken: Partner-specific effects
+on the comprehension of referring expressions. Journal of Memory and Language, 49(2), 201–213.
+Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). Distributed representations
+of words and phrases and their compositionality. In Advances in neural information processing
+systems (pp. 3111–3119).
+135
+Misyak, J., Noguchi, T., & Chater, N. (2016). Instantaneous conventions: The emergence of
+flexible communicative signals. Psychological Science.
+Monroe, W., Hawkins, R. X. D., Goodman, N. D., & Potts, C. (2017). Colors in Context: A Prag-
+matic Neural Model for Grounded Language Understanding. arXiv preprint arXiv:1703.10186 .
+Murphy, K. P. (2012). Machine learning: a probabilistic perspective. MIT press.
+Nagabandi, A., Finn, C., & Levine, S. (2018). Deep Online Learning via Meta-Learning: Continual
+Adaptation for Model-Based RL. arXiv:1812.07671.
+Osgood, C. E. (1952). The nature and measurement of meaning. Psychological bulletin, 49(3), 197.
+Partee, B. (1995). Lexical semantics and compositionality. In An invitation to cognitive science, part
+i: Language. Cambridge, MA: MIT Press.
+Pennington, J., Socher, R., & Manning, C. (2014). Glove: Global vectors for word representation.
+In Proceedings of the 2014 conference on empirical methods in natural language processing (emnlp)
+(pp. 1532–1543).
+Perlman, M., Dale, R., & Lupyan, G. (2015). Iconicity can ground the creation of vocal symbols.
+Royal Society open science, 2(8), 150152.
+Peterson, J. C., Abbott, J. T., & Griffiths, T. L. (2018). Evaluating (and improving) the corre-
+spondence between deep neural networks and human representations. Cognitive Science, 42(8),
+2648–2669.
+136
+Piantadosi, S. T., Tily, H., & Gibson, E. (2012). The communicative function of ambiguity in
+language. Cognition, 122(3), 280–291.
+Pickering, M. J., & Branigan, H. P. (1998). The representation of verbs: Evidence from syntactic
+priming in language production. Journal of Memory and language, 39(4), 633–651.
+Pickering, M. J., & Garrod, S. (2004). Toward a mechanistic psychology of dialogue. Behavioral
+and brain sciences, 27(2), 169–190.
+Pickering, M. J., & Garrod, S. (2006). Alignment as the basis for successful communication.
+Research on Language and Computation, 4(2-3), 203–228.
+Pinker, S. (1995). The language instinct: The new science of language and mind. Penguin UK.
+Polyn, S. M., Norman, K. A., & Kahana, M. J. (2009). A context maintenance and retrieval model
+of organizational processes in free recall. Psychological review, 116 (1), 129.
+Potts, C., Lassiter, D., Levy, R., & Frank, M. C. (2016). Embedded implicatures as pragmatic
+inferences under compositional lexical uncertainty. Journal of Semantics, 33(4), 755–802.
+Potts, C., & Levy, R. (2015). Negotiating lexical uncertainty and speaker expertise with disjunction.
+In Proceedings of the 41st annual meeting of the berkeley linguistics society (Vol. 41).
+Prelec, D. (2004). A bayesian truth serum for subjective data. science, 306 (5695), 462–466.
+Ranganath, R., Gerrish, S., & Blei, D. M. (2013). Black box variational inference. arXiv preprint
+arXiv:1401.0118.
+137
+Regier, T., Carstensen, A., & Kemp, C. (2016). Languages support efficient communication about
+the environment: Words for snow revisited. PloS one, 11(4), e0151138.
+Regier, T., Kemp, C., & Kay, P. (2015). Word meanings across languages support efficient commu-
+nication. The handbook of language emergence, 237–263.
+Ritchie, D., Horsfall, P., & Goodman, N. D. (2016). Deep amortized inference for probabilistic
+programs. arXiv:1610.05735.
+Roberts, G. (2010). An experimental study of social selection and frequency of interaction in
+linguistic diversity. Interaction Studies, 11(1), 138–159.
+Roberts, G., & Galantucci, B. (2012). The emergence of duality of patterning: Insights from the
+laboratory. Language and cognition, 4(4), 297–318.
+Roberts, G., Lewandowski, J., & Galantucci, B. (2015). How communication changes when
+we cannot mime the world: Experimental evidence for the effect of iconicity on combinatoriality.
+Cognition, 141, 52–66.
+Robertson, S. (2004). Understanding inverse document frequency: on theoretical arguments for
+idf. Journal of documentation, 60(5), 503–520.
+Robins, A. (1995). Catastrophic forgetting, rehearsal and pseudorehearsal. Connection Science, 7(2),
+123–146.
+138
+Roelofs, A. (1992). A spreading-activation theory of lemma retrieval in speaking. Cognition, 42(1-3),
+107–142.
+Salton, G., & Buckley, C. (1988). Term-weighting approaches in automatic text retrieval. Informa-
+tion processing & management, 24(5), 513–523.
+Schober, M. F., & Clark, H. H. (1989). Understanding by addressees and overhearers. Cognitive
+Psychology, 21(2), 211–232.
+Setoh, P., Scott, R. M., & Baillargeon, R. (2016). Two-and-a-half-year-olds succeed at a tradi-
+tional false-belief task with reduced processing demands. Proceedings of the National Academy of
+Sciences, 113(47), 13360-13365.
+Simonyan, K., & Zisserman, A. (2014). Very deep convolutional networks for large-scale image
+recognition. arXiv preprint arXiv:1409.1556 .
+Smith, N. J., Goodman, N. D., & Frank, M. (2013). Learning and using language via recursive
+pragmatic reasoning about other agents. In Advances in neural information processing systems (pp.
+3039–3047).
+Sparck Jones, K. (1972). A statistical interpretation of term specificity and its application in re-
+trieval. Journal of documentation, 28(1), 11–21.
+Steels, L. (1995). A self-organizing spatial vocabulary. Artificial life, 2(3), 319–332.
+139
+Steels, L. (2003). Evolving grounded communication for robots. Trends in Cognitive Sciences, 7(7),
+308–312.
+Steels, L. (2015). The talking heads experiment: Origins of words and meanings (Vol. 1). Language
+Science Press.
+Steels, L., & Belpaeme, T. (2005). Coordinating perceptually grounded categories through lan-
+guage: A case study for colour. Behavioral and brain sciences, 28(4), 469–488.
+Stolk, A., Verhagen, L., & Toni, I. (2016). Conceptual alignment: How brains achieve mutual
+understanding. Trends in cognitive sciences, 20(3), 180–191.
+Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a mind:
+Statistics, structure, and abstraction. science, 331(6022), 1279–1285.
+Tesink, C. M., Petersson, K. M., Van Berkum, J. J., Van den Brink, D., Buitelaar, J. K., & Hagoort,
+P. (2009). Unification of speaker and meaning in language comprehension: An fmri study. Journal
+of Cognitive Neuroscience, 21(11), 2085–2099.
+Tessler, M. H., & Goodman, N. D. (2019). The language of generalization. Psychological review,
+126 (3), 395.
+Theisen, C. A., Oberlander, J., & Kirby, S. (2010). Systematicity and arbitrariness in novel commu-
+nication systems. Interaction Studies, 11(1), 14–32.
+140
+Van Berkum, J. J., Van den Brink, D., Tesink, C. M., Kos, M., & Hagoort, P. (2008). The neural
+integration of speaker and message. Journal of cognitive neuroscience, 20(4), 580–591.
+van Deemter, K. (2016). Computational models of referring: a study in cognitive science. MIT
+Press.
+Vedantam, R., Bengio, S., Murphy, K., Parikh, D., & Chechik, G. (2017). Context-aware Captions
+from Context-agnostic Supervision. arXiv preprint arXiv:1701.02870.
+Vélez, N., Bridgers, S., & Gweon, H. (2016). Not all overlaps are equal: Social affiliation and rare
+overlaps of preferences. In Proceedings of the 38th annual conference of the cognitive science society.
+austin, tx: Cognitive science society.
+Verhoef, T., Kirby, S., & de Boer, B. (2016). Iconicity and the emergence of combinatorial structure
+in language. Cognitive science, 40(8), 1969–1994.
+Verhoef, T., Roberts, S. G., & Dingemanse, M. (2015). Emergence of systematic iconicity: Trans-
+mission, interaction and analogy. In D. C. Noelle et al. (Eds.), Proceedings of the 37th annual con-
+ference of the cognitive science society.
+Verhoef, T., Walker, E., & Marghetis, T. (2016). Cognitive biases and social coordination in the
+emergence of temporal language. In The 38th annual meeting of the cognitive science society (cogsci
+2016) (pp. 2615–2620).
+Vinyals, O., Toshev, A., Bengio, S., & Erhan, D. (2015). Show and Tell: A Neural Image Caption
+Generator. In Proc. IEEE Conf. on Computer Vision and Pattern Recognition (pp. 3156–3164).
+141
+Weber, R. A., & Camerer, C. F. (2003). Cultural conflict and merger failure: An experimental
+approach. Management Science, 49(4), 400–415.
+Wilkes-Gibbs, D., & Clark, H. H. (1992). Coordinating beliefs in conversation. Journal of memory
+and language, 31(2), 183–194.
+Winters, J., Kirby, S., & Smith, K. (2014). Languages adapt to their contextual niche. Language
+and Cognition, 1–35.
+Xu, F., & Tenenbaum, J. B. (2007). Word learning as bayesian inference. Psychological Review,
+114(2), 245.
+Yamins, D. L., Hong, H., Cadieu, C. F., Solomon, E. A., Seibert, D., & DiCarlo, J. J. (2014).
+Performance-optimized hierarchical models predict neural responses in higher visual cortex. Pro-
+ceedings of the National Academy of Sciences, 201403112.
+Yoon, S. O., & Brown-Schmidt, S. (2014). Adjusting conceptual pacts in three-party conversation.
+Journal of Experimental Psychology: Learning, Memory, and Cognition, 40(4), 919.
+Young, H. P. (2015). The Evolution of Social Norms. Annual Review of Economics, 7, 359–387.
+Yu, D., Yao, K., Su, H., Li, G., & Seide, F. (2013). Kl-divergence regularized deep neural network
+adaptation for improved large vocabulary speech recognition. In 2013 ieee international conference
+on acoustics, speech and signal processing (pp. 7893–7897).

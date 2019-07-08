@@ -1,0 +1,357 @@
+Abraham, A., Pedregosa, F., Eickenberg, M., Gervais, P., Mueller, A., Kossaifi, J., ...
+Varoquaux, G. (2014). Machine learning for neuroimaging with scikit-learn.
+Frontiers in Neuroinformatics, 8. https://doi.org/10.3389/fninf.2014.00014
+Allport, F. H. (1955). Theories of perception and the concept of structure: A review and
+critical analysis with an introduction to a dynamic-structural theory of behavior.
+https://doi.org/10.1037/11116-000
+Aston-Jones, G., & Cohen, J. D. (2005). An integrative theory of locus coeruleus-
+norepinephrine function: Adaptive Gain and Optimal Performance. Annual
+Review of Neuroscience, 28(1), 403–450.
+https://doi.org/10.1146/annurev.neuro.28.061604.135709
+Balcetis, E., & Dunning, D. (2006). See what you want to see: Motivational influences on
+visual perception. Journal of Personality and Social Psychology, 91(4), 612–625.
+https://doi.org/10.1037/0022-3514.91.4.612
+Balcetis, E., & Dunning, D. (2010). Wishful Seeing: More Desired Objects Are Seen as
+Closer. Psychological Science, 21(1), 147–152.
+https://doi.org/10.1177/0956797609356283
+Balcetis, E., Dunning, D., & Granot, Y. (2012). Subjective value determines initial
+dominance in binocular rivalry. Journal of Experimental Social Psychology,
+48(1), 122–129. https://doi.org/10.1016/j.jesp.2011.08.009
+Bates, D., Mächler, M., Bolker, B., & Walker, S. (2015). Fitting Linear Mixed-Effects
+Models Using lme4. Journal of Statistical Software, Articles, 67(1), 1–48.
+https://doi.org/10.18637/jss.v067.i01
+85
+Benjamini, Y., Krieger, A. M., & Yekutieli, D. (2006). Adaptive linear step-up
+procedures that control the false discovery rate. Biometrika, 93(3), 491–507.
+https://doi.org/10.1093/biomet/93.3.491
+Benoit, R. G., & Anderson, M. C. (2012). Opposing Mechanisms Support the Voluntary
+Forgetting of Unwanted Memories. Neuron, 76(2), 450–460.
+https://doi.org/10.1016/j.neuron.2012.07.025
+Berridge, K. C. (2007). The debate over dopamine’s role in reward: the case for incentive
+salience. Psychopharmacology, 191(3), 391–431. https://doi.org/10.1007/s00213-
+006-0578-x
+Blanchette, I., & Richards, A. (2010). The influence of affect on higher level cognition: A
+review of research on interpretation, judgement, decision making and reasoning.
+Cognition and Emotion, 24(4), 561–595.
+https://doi.org/10.1080/02699930903132496
+Boehm, U., Annis, J., Frank, M. J., Hawkins, G. E., Heathcote, A., Kellen, D., ...
+Wagenmakers, E.-J. (2018). Estimating across-trial variability parameters of the
+Diffusion Decision Model: Expert advice and recommendations. Journal of
+Mathematical Psychology, 87, 46–75. https://doi.org/10.1016/j.jmp.2018.09.004
+Bogacz, R., Brown, E., Moehlis, J., Holmes, P., & Cohen, J. D. (2006). The physics of
+optimal decision making: A formal analysis of models of performance in two-
+alternative forced-choice tasks. Psychological Review, 113(4), 700–765.
+https://doi.org/10.1037/0033-295X.113.4.700
+Brady, W. J., Wills, J. A., Burkart, D., Jost, J. T., & Van Bavel, J. J. (2018). An
+ideological asymmetry in the diffusion of moralized content on social media
+86
+among political leaders. Journal of Experimental Psychology. General.
+https://doi.org/10.1037/xge0000532
+Brady, W. J., Wills, J. A., Jost, J. T., Tucker, J. A., & Van Bavel, J. J. (2017). Emotion
+shapes the diffusion of moralized content in social networks. PNAS Proceedings
+of the National Academy of Sciences of the United States of America, 114(28),
+7313–7318. https://doi.org/10.1073/pnas.1618923114
+Brainard, D. H. (1997). The Psychophysics Toolbox. Spatial Vision, 10(4), 433–436.
+https://doi.org/10.1163/156856897X00357
+Bruner, J. S. (1957). On perceptual readiness. Psychological Review, 64(2), 123–152.
+https://doi.org/10.1037/h0043805
+Bruner, J. S., & Goodman, C. C. (1947). Value and need as organizing factors in
+perception. The Journal of Abnormal and Social Psychology, 42(1), 33–44.
+https://doi.org/10.1037/h0058484
+CNN, (2018). Republicans and Democrats increasingly really do occupy different worlds.
+Retrieved March 31, 2019, from CNN website:
+https://www.cnn.com/2018/06/12/politics/republicans-democrats-different-
+worlds/index.html
+Corbetta, M., & Shulman, G. L. (2002). Control of goal-directed and stimulus-driven
+attention in the brain. Nature Reviews Neuroscience, 3(3), 201.
+https://doi.org/10.1038/nrn755
+Corner, A., Whitmarsh, L., & Xenias, D. (2012). Uncertainty, scepticism and attitudes
+towards climate change: biased assimilation and attitude polarisation. Climatic
+Change, 114(3), 463–478. https://doi.org/10.1007/s10584-012-0424-6
+87
+Ditto, P. H., & Lopez, D. F. (1992). Motivated skepticism: Use of differential decision
+criteria for preferred and nonpreferred conclusions. Journal of Personality and
+Social Psychology, 63(4), 568–584. https://doi.org/10.1037/0022-3514.63.4.568
+Dunning, D., & Balcetis, E. (2013). Wishful Seeing: How Preferences Shape Visual
+Perception. Current Directions in Psychological Science, 22(1), 33–37.
+https://doi.org/10.1177/0963721412463693
+Engen, H. G., & Anderson, M. C. (2018). Memory Control: A Fundamental Mechanism
+of Emotion Regulation. Trends in Cognitive Sciences, 22(11), 982–995.
+https://doi.org/10.1016/j.tics.2018.07.015
+Eriksen, C. W., & Browne, C. T. (1956). An experimental and theoretical analysis of
+perceptual defense. The Journal of Abnormal and Social Psychology, 52(2), 224–
+230. https://doi.org/10.1037/h0046841
+España, R. A., Schmeichel, B. E., & Berridge, C. W. (2016). Norepinephrine at the nexus
+of arousal, motivation and relapse. Brain Research, 1641, 207–216.
+https://doi.org/10.1016/j.brainres.2016.01.002
+Feinberg, M., & Willer, R. (2013). The Moral Roots of Environmental Attitudes.
+Psychological Science, 24(1), 56–62. https://doi.org/10.1177/0956797612449177
+Feinberg, M., & Willer, R. (2015). From Gulf to Bridge: When Do Moral Arguments
+Facilitate Political Influence? Personality and Social Psychology Bulletin, 41(12),
+1665–1681. https://doi.org/10.1177/0146167215607842
+Feng, S., Holmes, P., Rorie, A., & Newsome, W. T. (2009). Can Monkeys Choose
+Optimally When Faced with Noisy Stimuli and Unequal Rewards? PLOS
+88
+Computational Biology, 5(2), e1000284.
+https://doi.org/10.1371/journal.pcbi.1000284
+Finn, E. S., Corlett, P. R., Chen, G., Bandettini, P. A., & Constable, R. T. (2018). Trait
+paranoia shapes inter-subject synchrony in brain activity during an ambiguous
+social narrative. Nature Communications, 9(1), 2043.
+https://doi.org/10.1038/s41467-018-04387-2
+Firestone, C., & Scholl, B. J. (2016). Cognition does not affect perception: Evaluating the
+evidence for “top-down” effects. Behavioral and Brain Sciences; New York, 39.
+http://dx.doi.org/10.1017/S0140525X15000965
+Flagan, T., Mumford, J. A., & Beer, J. S. (2017). How Do You See Me? The Neural
+Basis of Motivated Meta-perception. Journal of Cognitive Neuroscience, 29(11),
+1908–1917. https://doi.org/10.1162/jocn_a_01169
+Floresco, S. B. (2015). The Nucleus Accumbens: An Interface Between Cognition,
+Emotion, and Action. Annual Review of Psychology, 66(1), 25–52.
+https://doi.org/10.1146/annurev-psych-010213-115159
+Forstmann, B. U., Ratcliff, R., & Wagenmakers, E.-J. (2016). Sequential Sampling
+Models in Cognitive Neuroscience: Advantages, Applications, and Extensions.
+Annual Review of Psychology, 67(1), 641–666. https://doi.org/10.1146/annurev-
+psych-122414-033645
+Gelman, A. (2008). Scaling regression inputs by dividing by two standard deviations.
+Statistics in Medicine, 27(15), 2865–2873. https://doi.org/10.1002/sim.3107
+89
+Gelman, A., & Rubin, D. B. (1992). Inference from Iterative Simulation Using Multiple
+Sequences. Statistical Science, 7(4), 457–472.
+https://doi.org/10.1214/ss/1177011136
+Gold, J. I., & Shadlen, M. N. (2007). The Neural Basis of Decision Making. Annual
+Review of Neuroscience, 30(1), 535–574.
+https://doi.org/10.1146/annurev.neuro.29.051605.113038
+Goldiamond, I. (1958). Indicators of perception: I. Subliminal perception, subception,
+unconscious perception: An analysis in terms of psychophysical indicator
+methodology. Psychological Bulletin, 55(6), 373–411.
+https://doi.org/10.1037/h0046992
+Graham, J., Haidt, J., & Nosek, B. A. (2009). Liberals and conservatives rely on different
+sets of moral foundations. Journal of Personality and Social Psychology, 96(5),
+1029–1046. https://doi.org/10.1037/a0015141
+Grill-Spector, K. (2003a). The neural basis of object perception. Current Opinion in
+Neurobiology, 13(2), 159–166. https://doi.org/10.1016/S0959-4388(03)00040-0
+Grill-Spector, K. (2003b). The neural basis of object perception. Current Opinion in
+Neurobiology, 13(2), 159–166. https://doi.org/10.1016/S0959-4388(03)00040-0
+Haas, I. J., Baker, M. N., & Gonzalez, F. J. (2017). Who Can Deviate from the Party
+Line? Political Ideology Moderates Evaluation of Incongruent Policy Positions in
+Insula and Anterior Cingulate Cortex. Social Justice Research, 30(4), 355–380.
+https://doi.org/10.1007/s11211-017-0295-0
+Hanks, T. D., Mazurek, M. E., Kiani, R., Hopp, E., & Shadlen, M. N. (2011). Elapsed
+Decision Time Affects the Weighting of Prior Probability in a Perceptual
+90
+Decision Task. Journal of Neuroscience, 31(17), 6339–6352.
+https://doi.org/10.1523/JNEUROSCI.5613-10.2011
+Hare, C., & Poole, K. T. (2014). The Polarization of Contemporary American Politics.
+Polity, 46(3), 411–429. https://doi.org/10.1057/pol.2014.10
+Hasson, U., Hendler, T., Bashat, D. B., & Malach, R. (2001). Vase or Face? A Neural
+Correlate of Shape-Selective Grouping Processes in the Human Brain. Journal of
+Cognitive Neuroscience, 13(6), 744–753.
+https://doi.org/10.1162/08989290152541412
+Hasson, U., Nir, Y., Levy, I., Fuhrmann, G., & Malach, R. (2004). Intersubject
+Synchronization of Cortical Activity During Natural Vision. Science, 303(5664),
+1634–1640. https://doi.org/10.1126/science.1089506
+Hastorf, A. H., & Cantril, H. (1954). They saw a game; a case study. The Journal of
+Abnormal and Social Psychology, 49(1), 129–134.
+https://doi.org/10.1037/h0057880
+Heekeren, H. R., Marrett, S., Bandettini, P. A., & Ungerleider, L. G. (2004). A general
+mechanism for perceptual decision-making in the human brain. Nature,
+431(7010), 859. https://doi.org/10.1038/nature02966
+Heekeren, Hauke R., Marrett, S., & Ungerleider, L. G. (2008). The neural systems that
+mediate human perceptual decision making. Nature Reviews Neuroscience, 9(6),
+467–479. https://doi.org/10.1038/nrn2374
+Hughes, B. L., & Beer, J. S. (2012). Orbitofrontal Cortex and Anterior Cingulate Cortex
+Are Modulated by Motivated Social Cognition. Cerebral Cortex, 22(6), 1372–
+1381. https://doi.org/10.1093/cercor/bhr213
+91
+Hughes, B. L., & Zaki, J. (2015). The neuroscience of motivated cognition. Trends in
+Cognitive Sciences, 19(2), 62–64. https://doi.org/10.1016/j.tics.2014.12.006
+Ikemoto, S., & Panksepp, J. (1999). The role of nucleus accumbens dopamine in
+motivated behavior: a unifying interpretation with special reference to reward-
+seeking. Brain Research Reviews, 31(1), 6–41. https://doi.org/10.1016/S0165-
+0173(99)00023-5
+Joshi, S., Li, Y., Kalwani, R. M., & Gold, J. I. (2016). Relationships between Pupil
+Diameter and Neuronal Activity in the Locus Coeruleus, Colliculi, and Cingulate
+Cortex. Neuron, 89(1), 221–234. https://doi.org/10.1016/j.neuron.2015.11.028
+Kanwisher, N. (2001). Neural events and perceptual awareness. Cognition, 79(1), 89–
+113. https://doi.org/10.1016/S0010-0277(00)00125-6
+Kaplan, J. T., Gimbel, S. I., & Harris, S. (2016). Neural correlates of maintaining one’s
+political beliefs in the face of counterevidence. Scientific Reports, 6, 39589.
+https://doi.org/10.1038/srep39589
+Knoblauch, K., & Maloney, L. T. (2012). Modeling Psychophysical Data in R. Springer
+Science & Business Media.
+Knutson, B., Adams, C. M., Fong, G. W., & Hommer, D. (2001). Anticipation of
+Increasing Monetary Reward Selectively Recruits Nucleus Accumbens. Journal
+of Neuroscience, 21(16), RC159–RC159.
+Korn, C. W., Prehn, K., Park, S. Q., Walter, H., & Heekeren, H. R. (2012). Positively
+Biased Processing of Self-Relevant Social Feedback. Journal of Neuroscience,
+32(47), 16832–16844. https://doi.org/10.1523/JNEUROSCI.3016-12.2012
+92
+Krebs, R. M., Boehler, C. N., Egner, T., & Woldorff, M. G. (2011). The Neural
+Underpinnings of How Reward Associations Can Both Guide and Misguide
+Attention. Journal of Neuroscience, 31(26), 9752–9759.
+https://doi.org/10.1523/JNEUROSCI.0732-11.2011
+Kross, E., Davidson, M., Weber, J., & Ochsner, K. (2009). Coping with Emotions Past:
+The Neural Bases of Regulating Affect Associated with Negative
+Autobiographical Memories. Biological Psychiatry, 65(5), 361–366.
+https://doi.org/10.1016/j.biopsych.2008.10.019
+Kunda, Z. (1990). The case for motivated reasoning. Psychological Bulletin, 108(3),
+480–498. https://doi.org/10.1037/0033-2909.108.3.480
+Kuznetsova, A., Brockhoff, P. B., & Christensen, R. H. B. (2016). lmerTest: Tests in
+Linear Mixed Effects Models. Retrieved from https://CRAN.R-
+project.org/package=lmerTest
+Lakoff, G. (2010). Moral Politics: How Liberals and Conservatives Think, Second
+Edition. University of Chicago Press.
+Lefebvre, G., Lebreton, M., Meyniel, F., Bourgeois-Gironde, S., & Palminteri, S. (2017).
+Behavioural and neural characterization of optimistic reinforcement learning.
+Nature Human Behaviour, 1(4), 0067. https://doi.org/10.1038/s41562-017-0067
+Leong, Y. C., Radulescu, A., Daniel, R., DeWoskin, V., & Niv, Y. (2017). Dynamic
+Interaction between Reinforcement Learning and Attention in Multidimensional
+Environments. Neuron, 93(2), 451–463.
+https://doi.org/10.1016/j.neuron.2016.12.040
+93
+Lewandowsky, S., & Farrell, S. (2010). Computational Modeling in Cognition:
+Principles and Practice. SAGE Publications.
+Lord, C. G., Ross, L., & Lepper, M. R. (1979). Biased assimilation and attitude
+polarization: The effects of prior theories on subsequently considered evidence.
+Journal of Personality and Social Psychology, 37(11), 2098–2109.
+https://doi.org/10.1037/0022-3514.37.11.2098
+Ma, D. S., Correll, J., & Wittenbrink, B. (2015). The Chicago face database: A free
+stimulus set of faces and norming data. Behavior Research Methods, 47(4), 1122–
+1135. https://doi.org/10.3758/s13428-014-0532-5
+Mather, M., Clewett, D., Sakaki, M., & Harley, C. W. (2016). Norepinephrine ignites
+local hotspots of neuronal excitation: How arousal amplifies selectivity in
+perception and memory. Behavioral and Brain Sciences, 39.
+https://doi.org/10.1017/S0140525X15000667
+McGinty, V. B., Lardeux, S., Taha, S. A., Kim, J. J., & Nicola, S. M. (2013). Invigoration
+of Reward Seeking by Cue and Proximity Encoding in the Nucleus Accumbens.
+Neuron, 78(5), 910–922. https://doi.org/10.1016/j.neuron.2013.04.010
+Menon, V. (2015). Salience Network. In A. W. Toga (Ed.), Brain Mapping (pp. 597–
+611). https://doi.org/10.1016/B978-0-12-397025-1.00052-X
+Moran, R. (2015). Optimal decision making in heterogeneous and biased environments.
+Psychonomic Bulletin & Review, 22(1), 38–53. https://doi.org/10.3758/s13423-
+014-0669-3
+Mulder, M. J., Wagenmakers, E.-J., Ratcliff, R., Boekel, W., & Forstmann, B. U. (2012).
+Bias in the Brain: A Diffusion Model Analysis of Prior Probability and Potential
+94
+Payoff. The Journal of Neuroscience, 32(7), 2335–2343.
+https://doi.org/10.1523/JNEUROSCI.4156-11.2012
+Murphy, P. R., O’Connell, R. G., O’Sullivan, M., Robertson, I. H., & Balsters, J. H.
+(2014). Pupil diameter covaries with BOLD activity in human locus coeruleus.
+Human Brain Mapping, 35(8), 4140–4154. https://doi.org/10.1002/hbm.22466
+Nastase, S. A., Gazzola, V., Hasson, U., & Keysers, C. (2019). Measuring shared
+responses across subjects using intersubject correlation. BioRxiv, 600114.
+https://doi.org/10.1101/600114
+Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises.
+Review of General Psychology, 2(2), 175–220. https://doi.org/10.1037/1089-
+2680.2.2.175
+Nicola, S. M. (2007). The nucleus accumbens as part of a basal ganglia action selection
+circuit. Psychopharmacology, 191(3), 521–550. https://doi.org/10.1007/s00213-
+006-0510-4
+Niv, Y., Daw, N. D., Joel, D., & Dayan, P. (2007). Tonic dopamine: opportunity costs
+and the control of response vigor. Psychopharmacology, 191(3), 507–520.
+https://doi.org/10.1007/s00213-006-0502-4
+Parkinson, C., Kleinbaum, A. M., & Wheatley, T. (2018). Similar neural responses
+predict friendship. Nature Communications, 9(1), 332.
+https://doi.org/10.1038/s41467-017-02722-7
+Parkinson, C., Sinnott-Armstrong, W., Koralus, P. E., Mendelovici, A., McGeer, V., &
+Wheatley, T. (2011). Is Morality Unified? Evidence that Distinct Neural Systems
+Underlie Moral Judgments of Harm, Dishonesty, and Disgust. Journal of
+95
+Cognitive Neuroscience, 23(10), 3162–3180.
+https://doi.org/10.1162/jocn_a_00017
+Pennebaker, J. W., Boyd, R. L., Jordan, K., & Blackburn, K. (2015). The Development
+and Psychometric Properties of LIWC2015. Retrieved from
+https://repositories.lib.utexas.edu/handle/2152/31333
+Petersen, S. E., & Posner, M. I. (2012). The Attention System of the Human Brain: 20
+Years After. Annual Review of Neuroscience, 35(1), 73–89.
+https://doi.org/10.1146/annurev-neuro-062111-150525
+Ratcliff, R., & McKoon, G. (2008). The Diffusion Decision Model: Theory and Data for
+Two-Choice Decision Tasks. Neural Computation, 20(4), 873–922.
+https://doi.org/10.1162/neco.2008.12-06-420
+Rorie, A. E., Gao, J., McClelland, J. L., & Newsome, W. T. (2010). Integration of
+Sensory and Reward Information during Perceptual Decision-Making in Lateral
+Intraparietal Cortex (LIP) of the Macaque Monkey. PLOS ONE, 5(2), e9308.
+https://doi.org/10.1371/journal.pone.0009308
+Serences, J. T. (2008). Value-Based Modulations in Human Visual Cortex. Neuron,
+60(6), 1169–1181. https://doi.org/10.1016/j.neuron.2008.10.051
+Shadlen, M. N., Britten, K. H., Newsome, W. T., & Movshon, J. A. (1996). A
+computational analysis of the relationship between neuronal and behavioral
+responses to visual motion. Journal of Neuroscience, 16(4), 1486–1510.
+Sharot, T., Korn, C. W., & Dolan, R. J. (2011). How unrealistic optimism is maintained
+in the face of reality. Nature Neuroscience, 14(11), 1475–1479.
+https://doi.org/10.1038/nn.2949
+96
+Shenhav, A., Straccia, M. A., Musslick, S., Cohen, J. D., & Botvinick, M. M. (2018).
+Dissociable neural mechanisms track evidence accumulation for selection of
+attention versus action. Nature Communications, 9(1), 2485.
+https://doi.org/10.1038/s41467-018-04841-1
+Skitka, L. J., & Bauman, C. W. (2008). Moral Conviction and Political Engagement.
+Political Psychology, 29(1), 29–54. https://doi.org/10.1111/j.1467-
+9221.2007.00611.x
+Smith, S. M., & Nichols, T. E. (2009). Threshold-free cluster enhancement: Addressing
+problems of smoothing, threshold dependence and localisation in cluster
+inference. NeuroImage, 44(1), 83–98.
+https://doi.org/10.1016/j.neuroimage.2008.03.061
+Spiegelhalter, D. J., Best, N. G., Carlin, B. P., & Van Der Linde, A. (2002). Bayesian
+measures of model complexity and fit. Journal of the Royal Statistical Society:
+Series B (Statistical Methodology), 64(4), 583–639. https://doi.org/10.1111/1467-
+9868.00353
+Sridharan, D., Levitin, D. J., & Menon, V. (2008). A critical role for the right fronto-
+insular cortex in switching between central-executive and default-mode networks.
+Proceedings of the National Academy of Sciences, 105(34), 12569–12574.
+https://doi.org/10.1073/pnas.0800005105
+Stopper, C. M., & Floresco, S. B. (2011). Contributions of the nucleus accumbens and its
+subregions to different aspects of risk-based decision making. Cognitive,
+Affective, & Behavioral Neuroscience, 11(1), 97–112.
+https://doi.org/10.3758/s13415-010-0015-9
+97
+Stroud, N. J. (2010). Polarization and Partisan Selective Exposure. Journal of
+Communication, 60(3), 556–576. https://doi.org/10.1111/j.1460-
+2466.2010.01497.x
+Summerfield, C., & Egner, T. (2009). Expectation (and attention) in visual cognition.
+Trends in Cognitive Sciences, 13(9), 403–409.
+https://doi.org/10.1016/j.tics.2009.06.003
+Summerfield, C., & Koechlin, E. (2010). Economic Value Biases Uncertain Perceptual
+Choices in the Parietal and Prefrontal Cortices. Frontiers in Human Neuroscience,
+4. https://doi.org/10.3389/fnhum.2010.00208
+Taber, C. S., Cann, D., & Kucsova, S. (2009). The Motivated Processing of Political
+Arguments. Political Behavior, 31(2), 137–155. https://doi.org/10.1007/s11109-
+008-9075-8
+Taber, C. S., & Lodge, M. (2006). Motivated Skepticism in the Evaluation of Political
+Beliefs. American Journal of Political Science, 50(3), 755–769.
+https://doi.org/10.1111/j.1540-5907.2006.00214.x
+Theriault, J., Waytz, A., Heiphetz, L., & Young, L. (2017). Examining overlap in
+behavioral and neural representations of morals, facts, and preferences. Journal of
+Experimental Psychology. General, 146(11), 1586–1605.
+https://doi.org/10.1037/xge0000350
+Turner, B. M., Forstmann, B. U., Love, B. C., Palmeri, T. J., & Van Maanen, L. (2017).
+Approaches to analysis in model-based cognitive neuroscience. Journal of
+Mathematical Psychology, 76, 65–79. https://doi.org/10.1016/j.jmp.2016.01.001
+98
+Vallone, R. P., Ross, L., & Lepper, M. R. (1985). The hostile media phenomenon: Biased
+perception and perceptions of media bias in coverage of the Beirut massacre.
+Journal of Personality and Social Psychology, 49(3), 577–585.
+https://doi.org/10.1037/0022-3514.49.3.577
+van Koningsbruggen, G. M., Stroebe, W., & Aarts, H. (2011). Through the eyes of
+dieters: Biased size perception of food following tempting food primes. Journal of
+Experimental Social Psychology, 47(2), 293–299.
+https://doi.org/10.1016/j.jesp.2010.10.012
+Venables, W. N., & Ripley, B. D. (2003). Modern Applied Statistics with S. Springer
+Science & Business Media.
+Voss, A., Rothermund, K., & Brandtstädter, J. (2008). Interpreting ambiguous stimuli:
+Separating perceptual and judgmental biases. Journal of Experimental Social
+Psychology, 44(4), 1048–1056. https://doi.org/10.1016/j.jesp.2007.10.009
+Westen, D., Blagov, P. S., Harenski, K., Kilts, C., & Hamann, S. (2006). Neural Bases of
+Motivated Reasoning: An fMRI Study of Emotional Constraints on Partisan
+Political Judgment in the 2004 U.S. Presidential Election. Journal of Cognitive
+Neuroscience, 18(11), 1947–1958. https://doi.org/10.1162/jocn.2006.18.11.1947
+White, C. N., & Poldrack, R. A. (2014). Decomposing bias in different types of simple
+decisions. Journal of Experimental Psychology. Learning, Memory, and
+Cognition, 40(2), 385–398. https://doi.org/10.1037/a0034851
+Wiecki, T. V., Sofer, I., & Frank, M. J. (2013). HDDM: Hierarchical Bayesian estimation
+of the Drift-Diffusion Model in Python. Frontiers in Neuroinformatics, 7.
+https://doi.org/10.3389/fninf.2013.00014
+99
+Yeshurun, Y., Swanson, S., Simony, E., Chen, J., Lazaridi, C., Honey, C. J., & Hasson,
+U. (2017). Same Story, Different Story: The Neural Representation of Interpretive
+Frameworks. Psychological Science, 28(3), 307–319.
+https://doi.org/10.1177/0956797616682029
