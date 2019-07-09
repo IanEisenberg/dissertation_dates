@@ -15,10 +15,11 @@ def get_display_title(txt, max_length=30):
 # parse arguments
 parser = argparse.ArgumentParser()
 parser.add_argument('-focus_file', default=None)
+parser.add_argument('-relative', action='store_true')
 args = parser.parse_args()
 
 meta = json.load(open('dissertation_refs/meta.json','r'))
-
+relative_date = args.relative
 
 to_delete = []
 focused = 0
@@ -35,7 +36,13 @@ for i,entry in enumerate(meta):
         print('Something went wrong, no dates found for %s' % entry['file'])
         to_delete.append(i)
     else:
-        entry['dates'] = list(map(int, dates))
+        
+        if relative_date:
+            pub_date = int(entry['date'][-4:])
+            f = lambda x: int(x)-pub_date
+            entry['dates'] = list(map(f, dates))
+        else:
+            entry['dates'] = list(map(int, dates))
     if entry['file'] == args.focus_file:
         focused = i
 
@@ -102,6 +109,15 @@ x_max = min(current_ax.get_xlim()[1], context_ax.get_xlim()[1])
 current_ax.set_xlim(x_min, x_max)
 context_ax.set_xlim(x_min, x_max)
 cum_ax.set_xlim(x_min, x_max)
+
+# set xlabels
+if relative_date:
+    label = 'Date relative to publication'
+else:
+    label = 'Date'
+context_ax.set_xlabel(label, fontsize=size*2)
+cum_ax.set_xlabel(label, fontsize=size*2)
+
 
 # add legends
 current_ax.text(.2,.8, 'Focused Dissertation', fontsize=size*1.5,
