@@ -3,6 +3,7 @@ import json
 import matplotlib.pyplot as plt
 import numpy as np
 import os
+import pandas as pd
 import re
 import seaborn as sns
 import textwrap
@@ -68,21 +69,32 @@ for entry in meta:
     cumulative = np.cumsum(values) 
     cdfs.append(cumulative/np.sum(cumulative))
     
+# additional changes
+df = pd.DataFrame(meta)
+df.loc[:,'cite_count'] = df.dates.apply(len)
 
-
+# plot
 colors = ['r','b']
 sns.set_context('poster')
-size=8
-f = plt.figure(figsize=(size, size*.66))
-context_ax = f.add_axes([0,.1,.5,.4])
-current_ax = f.add_axes([0,.55,.5,.4])
-cum_ax = f.add_axes([.55,.1,.45,.8])
+size=15
+f = plt.figure(figsize=(size, size*.5))
+context_ax = f.add_axes([0,.1,.4,.4])
+current_ax = f.add_axes([0,.55,.4,.4])
+cum_ax = f.add_axes([.425,.1,.3,.85])
+num_ax = f.add_axes([.75,.1,.25,.3])
+misc_ax = f.add_axes([.8,.55,.2,.4])
 
 # plot date distributions
 sns.distplot(meta[focused]['dates'], ax=current_ax, bins=20, 
              hist_kws={'rwidth':.9}, color=colors[0])
 sns.distplot(all_dates, ax=context_ax, bins=20, 
              hist_kws={'rwidth':.9}, color=colors[1])
+# plot number of citationd distribution
+num_cites = [len(x['dates']) for x in meta]
+sns.distplot(num_cites, ax=num_ax, kde=False,
+             hist_kws={'rwidth':.9})
+sns.boxplot('area', 'cite_count', data=df, ax=misc_ax)
+
 # plot date averages
 sns.rugplot(averages, ax=context_ax, color='k')
 # plot CDFs
@@ -98,10 +110,13 @@ current_ax.tick_params(bottom=False, labelbottom=False,
                        labelleft=False, left=False)
 context_ax.tick_params(labelleft=False, left=False, labelsize=size*1.5)
 cum_ax.tick_params(labelleft=False, left=False, labelsize=size*1.5)
-sns.despine(ax=current_ax, offset=size, left=True)
-sns.despine(ax=context_ax, offset=size, left=True)
-sns.despine(ax=cum_ax, offset=size, left=True)
+num_ax.tick_params(labelleft=False, left=False, labelsize=size*1.5)
+misc_ax.tick_params(bottom=False, labelbottom=False, 
+                    labelsize=size*1.5,
+                    length=size/2, width=1)
 context_ax.invert_yaxis()
+for ax in f.get_axes():
+    sns.despine(ax=ax, offset=size, left=True)
 
 # set xaxis
 x_min = min(current_ax.get_xlim()[0], context_ax.get_xlim()[0])
@@ -117,7 +132,10 @@ else:
     label = 'Date'
 context_ax.set_xlabel(label, fontsize=size*2)
 cum_ax.set_xlabel(label, fontsize=size*2)
+num_ax.set_xlabel('# of Citations', fontsize=size*2)
 
+# set ylabels
+misc_ax.set_ylabel('# of Citations', fontsize=size*2)
 
 # add legends
 current_ax.text(.2,.8, 'Focused Dissertation', fontsize=size*1.5,
@@ -129,8 +147,8 @@ context_ax.text(.2,.2, 'All Dissertations', fontsize=size*1.5,
                 transform=context_ax.transAxes, color=colors[1])
 cum_ax.text(.2,.8, 'Date CDFs', fontsize=size*1.5,
                 transform=cum_ax.transAxes, color='k')
-plt.title('Distribution of Dissertation Dates',
-          fontweight='bold', fontsize=size*2)
+cum_ax.set_title('Distribution of Dissertation Dates',
+          fontweight='bold', fontsize=size*2, y=1.1)
 f.tight_layout()
 plt.show()
 
