@@ -1,0 +1,464 @@
+Adelson, E. H., & Bergen, J. R. (1985). Spatiotemporal energy models for the perception of motion. J Opt
+Soc Am A, 2(2), 284-299.
+Ahmadi, K., Pouretemad, H. R., Esfandiari, J., Yoonessi, A., & Yoonessi, A. (2015). Psychophysical
+Evidence for Impaired Magno, Parvo, and Konio-cellular Pathways in Dyslexic Children. J
+Ophthalmic Vis Res, 10(4), 433-440. doi:10.4103/2008-322X.176911
+Amano, K., Wandell, B. A., & Dumoulin, S. O. (2009). Visual field maps, population receptive field sizes,
+and visual field coverage in the human MT+ complex. J Neurophysiol, 102(5), 2704-2718.
+doi:10.1152/jn.00102.2009
+Auclair, L., Noulhiane, M., Raibaut, P., & Amarenco, G. (2009). Where are your body parts? A pure case of
+heterotopagnosia following left parietal stroke. Neurocase, 15(6), 459-465.
+doi:10.1080/13554790902911642
+Awatramani, G. B., & Slaughter, M. M. (2000). Origin of transient and sustained responses in ganglion cells
+of the retina. J Neurosci, 20(18), 7087-7095.
+Azzopardi, P., Jones, K. E., & Cowey, A. (1999). Uneven mapping of magnocellular and parvocellular
+projections from the lateral geniculate nucleus to the striate cortex in the macaque monkey. Vision
+Res, 39(13), 2179-2189.
+Ben-Shachar, M., Dougherty, R. F., Deutsch, G. K., & Wandell, B. A. (2011). The development of cortical
+sensitivity to visual word forms. J Cogn Neurosci, 23(9), 2387-2399. doi:10.1162/jocn.2011.21615
+Benson, N. C., Butt, O. H., Brainard, D. H., & Aguirre, G. K. (2014). Correction of distortion in flattened
+representations of the cortical surface allows prediction of V1-V3 functional organization from
+anatomy. PLoS Comput Biol, 10(3), e1003538. doi:10.1371/journal.pcbi.1003538
+Birn, R. M., Saad, Z. S., & Bandettini, P. A. (2001). Spatial heterogeneity of the nonlinear dynamics in the
+FMRI BOLD response. Neuroimage, 14(4), 817-826. doi:10.1006/nimg.2001.0873
+Blasdel, G. G., & Lund, J. S. (1983). Termination of afferent axons in macaque striate cortex. J Neurosci,
+3(7), 1389-1413.
+Boynton, G. M., Engel, S. A., Glover, G. H., & Heeger, D. J. (1996). Linear systems analysis of functional
+magnetic resonance imaging in human V1. J Neurosci, 16(13), 4207-4221.
+Boynton, G. M., Engel, S. A., & Heeger, D. J. (2012). Linear systems analysis of the fMRI signal.
+Neuroimage, 62(2), 975-984. doi:10.1016/j.neuroimage.2012.01.082
+Boynton, G. M., & Finney, E. M. (2003). Orientation-specific adaptation in human visual cortex. J Neurosci,
+23(25), 8781-8787.
+Brainard, D. H. (1997). The Psychophysics Toolbox. Spat Vis, 10(4), 433-436.
+Brewer, A. A., Liu, J., Wade, A. R., & Wandell, B. A. (2005). Visual field maps and stimulus selectivity in
+human ventral occipital cortex. Nat Neurosci, 8(8), 1102-1109. doi:10.1038/nn1507
+Brouwer, G. J., & Heeger, D. J. (2011). Cross-orientation suppression in human visual cortex. J
+Neurophysiol, 106(5), 2108-2119. doi:10.1152/jn.00540.2011
+Buxton, R. B., Wong, E. C., & Frank, L. R. (1998). Dynamics of blood flow and oxygenation changes during
+brain activation: the balloon model. Magn Reson Med, 39(6), 855-864.
+Calkins, D. J., Sappington, R. M., & Hendry, S. H. (2005). Morphological identification of ganglion cells
+expressing the alpha subunit of type II calmodulin-dependent protein kinase in the macaque retina.
+J Comp Neurol, 481(2), 194-209. doi:10.1002/cne.20368
+Calkins, D. J., & Sterling, P. (2007). Microcircuitry for two types of achromatic ganglion cell in primate
+fovea. J Neurosci, 27(10), 2646-2653. doi:10.1523/JNEUROSCI.4739-06.2007
+Carrasco, M., McElree, B., Denisova, K., & Giordano, A. M. (2003). Speed of visual processing increases
+with eccentricity. Nat Neurosci, 6(7), 699-670. doi:10.1038/nn1079
+Casagrande, V. A. (1994). A third parallel visual pathway to primate area V1. Trends Neurosci, 17(7), 305-
+310.
+Chance, F. S., Nelson, S. B., & Abbott, L. F. (1998). Synaptic depression and the temporal response
+characteristics of V1 cells. J Neurosci, 18(12), 4785-4799.
+Chatterjee, S., & Callaway, E. M. (2003). Parallel colour-opponent pathways to primary visual cortex.
+Nature, 426(6967), 668-671. doi:10.1038/nature02167
+97
+Cohen, L., Dehaene, S., Naccache, L., Lehericy, S., Dehaene-Lambertz, G., Henaff, M. A., & Michel, F.
+(2000). The visual word form area: spatial and temporal characterization of an initial stage of
+reading in normal subjects and posterior split-brain patients. Brain, 123 ( Pt 2), 291-307.
+Conway, B. R., & Livingstone, M. S. (2003). Space-time maps and two-bar interactions of different classes
+of direction-selective cells in macaque V-1. J Neurophysiol, 89(5), 2726-2742.
+doi:10.1152/jn.00550.2002
+Dacey, D. M. (1993). The mosaic of midget ganglion cells in the human retina. J Neurosci, 13(12), 5334-
+5355.
+Dacey, D. M. (2000). Parallel pathways for spectral coding in primate retina. Annu Rev Neurosci, 23, 743-
+775. doi:10.1146/annurev.neuro.23.1.743
+Dacey, D. M., & Lee, B. B. (1994). The 'blue-on' opponent pathway in primate retina originates from a
+distinct bistratified ganglion cell type. Nature, 367(6465), 731-735. doi:10.1038/367731a0
+Daw, N. W., Jensen, R. J., & Brunken, W. J. (1990). Rod pathways in mammalian retinae. Trends Neurosci,
+13(3), 110-115.
+De Monasterio, F. M., & Gouras, P. (1975). Functional properties of ganglion cells of the rhesus monkey
+retina. J Physiol, 251(1), 167-195.
+De Valois, R. L., & Cottaris, N. P. (1998). Inputs to directionally selective simple cells in macaque striate
+cortex. Proc Natl Acad Sci U S A, 95(24), 14488-14493.
+De Valois, R. L., Cottaris, N. P., Mahon, L. E., Elfar, S. D., & Wilson, J. A. (2000). Spatial and temporal
+receptive fields of geniculate and cortical cells and directional selectivity. Vision Res, 40(27), 3685-
+3702.
+Derrington, A. M., Krauskopf, J., & Lennie, P. (1984). Chromatic mechanisms in lateral geniculate nucleus
+of macaque. J Physiol, 357, 241-265.
+Derrington, A. M., & Lennie, P. (1984). Spatial and temporal contrast sensitivities of neurones in lateral
+geniculate nucleus of macaque. J Physiol, 357, 219-240.
+DeVries, S. H. (2000). Bipolar cells use kainate and AMPA receptors to filter visual information into separate
+channels. Neuron, 28(3), 847-856.
+DeYoe, E. A., Bandettini, P., Neitz, J., Miller, D., & Winans, P. (1994). Functional magnetic resonance
+imaging (FMRI) of the human brain. J Neurosci Methods, 54(2), 171-187.
+Dilks, D. D., Julian, J. B., Paunov, A. M., & Kanwisher, N. (2013). The occipital place area is causally and
+selectively involved in scene perception. J Neurosci, 33(4), 1331-1336a.
+doi:10.1523/JNEUROSCI.4081-12.2013
+Dong, C. J., & Werblin, F. S. (1998). Temporal contrast enhancement via GABAC feedback at bipolar
+terminals in the tiger salamander retina. J Neurophysiol, 79(4), 2171-2180.
+Dow, B. M. (1974). Functional Classes of Cells and Their Laminar Distribution in Monkey Visual-Cortex. J
+Neurophysiol, 37(5), 927-946.
+Downing, P. E., Jiang, Y., Shuman, M., & Kanwisher, N. (2001). A cortical area selective for visual
+processing of the human body. Science, 293(5539), 2470-2473. doi:10.1126/science.1063414
+Dumoulin, S. O., Bittar, R. G., Kabani, N. J., Baker, C. L., Le Goualher, G., Bruce Pike, G., & Evans, A. C.
+(2000). A new anatomical landmark for reliable identification of human area V5/MT: a quantitative
+analysis of sulcal patterning. Cereb Cortex, 10(5), 454-463.
+Dumoulin, S. O., & Wandell, B. A. (2008). Population receptive field estimates in human visual cortex.
+Neuroimage, 39(2), 647-660. doi:10.1016/j.neuroimage.2007.09.034
+Epstein, R., & Kanwisher, N. (1998). A cortical representation of the local visual environment. Nature,
+392(6676), 598-601. doi:10.1038/33402
+Fei-Fei, L., Iyer, A., Koch, C., & Perona, P. (2007). What do we perceive in a glance of a real-world scene?
+J Vis, 7(1), 10. doi:10.1167/7.1.10
+Felleman, D. J., & Van Essen, D. C. (1991). Distributed hierarchical processing in the primate cerebral cortex.
+Cereb Cortex, 1(1), 1-47.
+Ferrera, V. P., Nealey, T. A., & Maunsell, J. H. (1992). Mixed parvocellular and magnocellular geniculate
+signals in visual area V4. Nature, 358(6389), 756-761. doi:10.1038/358756a0
+Ferrera, V. P., Nealey, T. A., & Maunsell, J. H. (1994). Responses in macaque visual area V4 following
+inactivation of the parvocellular and magnocellular LGN pathways. J Neurosci, 14(4), 2080-2088.
+Field, G. D., & Chichilnisky, E. J. (2007). Information processing in the primate retina: circuitry and coding.
+Annu Rev Neurosci, 30, 1-30. doi:10.1146/annurev.neuro.30.051606.094252
+98
+Field, G. D., Greschner, M., Gauthier, J. L., Rangel, C., Shlens, J., Sher, A., . . . Chichilnisky, E. J. (2009).
+High-sensitivity rod photoreceptor input to the blue-yellow color opponent pathway in macaque
+retina. Nat Neurosci, 12(9), 1159-1164. doi:10.1038/nn.2353
+Fischl, B., Rajendran, N., Busa, E., Augustinack, J., Hinds, O., Yeo, B. T., . . . Zilles, K. (2008). Cortical
+folding patterns and predicting cytoarchitecture. Cereb Cortex, 18(8), 1973-1980.
+doi:10.1093/cercor/bhm225
+Fischl, B., Sereno, M. I., Tootell, R. B., & Dale, A. M. (1999). High-resolution intersubject averaging and a
+coordinate system for the cortical surface. Hum Brain Mapp, 8(4), 272-284.
+Fitzpatrick, D., Lund, J. S., & Blasdel, G. G. (1985). Intrinsic connections of macaque striate cortex: afferent
+and efferent connections of lamina 4C. J Neurosci, 5(12), 3329-3349.
+Foster, K. H., Gaska, J. P., Nagler, M., & Pollen, D. A. (1985). Spatial and temporal frequency selectivity of
+neurones in visual cortical areas V1 and V2 of the macaque monkey. J Physiol, 365, 331-363.
+Freed, M. A. (2000). Parallel cone bipolar pathways to a ganglion cell use different rates and amplitudes of
+quantal excitation. J Neurosci, 20(11), 3956-3963.
+Freiwald, W., Duchaine, B., & Yovel, G. (2016). Face Processing Systems: From Neurons to Real-World
+Social Perception. Annu Rev Neurosci, 39, 325-346. doi:10.1146/annurev-neuro-070815-013934
+Friston, K. J., Frith, C. D., Turner, R., & Frackowiak, R. S. (1995). Characterizing evoked hemodynamics
+with fMRI. Neuroimage, 2(2), 157-165.
+Friston, K. J., Mechelli, A., Turner, R., & Price, C. J. (2000). Nonlinear responses in fMRI: the Balloon
+model, Volterra kernels, and other hemodynamics. Neuroimage, 12(4), 466-477.
+doi:10.1006/nimg.2000.0630
+Gardner, J. L., Sun, P., Waggoner, R. A., Ueno, K., Tanaka, K., & Cheng, K. (2005). Contrast adaptation and
+representation in human early visual cortex. Neuron, 47(4), 607-620.
+doi:10.1016/j.neuron.2005.07.016
+Gauthier, B., Eger, E., Hesselmann, G., Giraud, A. L., & Kleinschmidt, A. (2012). Temporal tuning properties
+along the human ventral visual stream. J Neurosci, 32(41), 14433-14441.
+doi:10.1523/JNEUROSCI.2467-12.2012
+Gauthier, I., Tarr, M. J., Moylan, J., Skudlarski, P., Gore, J. C., & Anderson, A. W. (2000). The fusiform
+"face area" is part of a network that processes faces at the individual level. J Cogn Neurosci, 12(3),
+495-504.
+Gawne, T. J., & Martin, J. M. (2002). Responses of primate visual cortical neurons to stimuli presented by
+flash, saccade, blink, and external darkening. J Neurophysiol, 88(5), 2178-2186.
+doi:10.1152/jn.00151.200
+Gentile, F., & Rossion, B. (2014). Temporal frequency tuning of cortical face-sensitive areas for individual
+face perception. Neuroimage, 90, 256-265. doi:10.1016/j.neuroimage.2013.11.053
+Gerber, E. M., Golan, T., Knight, R. T., & Deouell, L. Y. (2017). Cortical representation of persistent visual
+stimuli. Neuroimage, 161, 67-79. doi:10.1016/j.neuroimage.2017.08.028
+Giese, M. A., & Poggio, T. (2003). Neural mechanisms for the recognition of biological movements. Nat Rev
+Neurosci, 4(3), 179-192. doi:10.1038/nrn1057
+Gilaie-Dotan, S., Nir, Y., & Malach, R. (2008). Regionally-specific adaptation dynamics in human object
+areas. Neuroimage, 39(4), 1926-1937. doi:10.1016/j.neuroimage.2007.10.010
+Glezer, L. S., Jiang, X., & Riesenhuber, M. (2009). Evidence for highly selective neuronal tuning to whole
+words in the "visual word form area". Neuron, 62(2), 199-204. doi:10.1016/j.neuron.2009.03.017
+Goodale, M. A., & Milner, A. D. (1992). Separate Visual Pathways for Perception and Action. Trends in
+Neurosciences, 15(1), 20-25. doi:Doi 10.1016/0166-2236(92)90344-8
+Goodale, M. A., Milner, A. D., Jakobson, L. S., & Carey, D. P. (1991). A Neurological Dissociation between
+Perceiving Objects and Grasping Them. Nature, 349(6305), 154-156. doi:DOI 10.1038/349154a0
+Grill-Spector, K. (2003). The neural basis of object perception. Curr Opin Neurobiol, 13(2), 159-166.
+Grill-Spector, K., & Kanwisher, N. (2005). Visual recognition: as soon as you know it is there, you know
+what it is. Psychol Sci, 16(2), 152-160. doi:10.1111/j.0956-7976.2005.00796.x
+Grill-Spector, K., Kushnir, T., Edelman, S., Avidan, G., Itzchak, Y., & Malach, R. (1999). Differential
+processing of objects under various viewing conditions in the human lateral occipital complex.
+Neuron, 24(1), 187-203.
+Grill-Spector, K., & Weiner, K. S. (2014). The functional architecture of the ventral temporal cortex and its
+role in categorization. Nat Rev Neurosci, 15(8), 536-548. doi:10.1038/nrn3747
+99
+Grunert, U., & Martin, P. R. (1991). Rod Bipolar Cells in the Macaque Monkey Retina - Immunoreactivity
+and Connectivity. Journal of Neuroscience, 11(9), 2742-2758.
+Hansen, K. A., Kay, K. N., & Gallant, J. L. (2007). Topographic organization in and near human visual area
+V4. J Neurosci, 27(44), 11896-11911. doi:10.1523/JNEUROSCI.2991-07.2007
+Hasson, U., Harel, M., Levy, I., & Malach, R. (2003). Large-scale mirror-symmetry organization of human
+occipito-temporal object areas. Neuron, 37(6), 1027-1041.
+Hasson, U., Levy, I., Behrmann, M., Hendler, T., & Malach, R. (2002). Eccentricity bias as an organizing
+principle for human high-order object areas. Neuron, 34(3), 479-490.
+Hasson, U., Yang, E., Vallines, I., Heeger, D. J., & Rubin, N. (2008). A hierarchy of temporal receptive
+windows in human cortex. J Neurosci, 28(10), 2539-2550. doi:10.1523/JNEUROSCI.5487-07.2008
+Haxby, J. V., Hoffman, E. A., & Gobbini, M. I. (2000). The distributed human neural system for face
+perception. Trends Cogn Sci, 4(6), 223-233.
+Heeger, D. J. (2017). Theory of cortical function. Proc Natl Acad Sci U S A, 114(8), 1773-1782.
+doi:10.1073/pnas.1619788114
+Heide, W., Kurzidim, K., & Kompf, D. (1996). Deficits of smooth pursuit eye movements after frontal and
+parietal lesions. Brain, 119 ( Pt 6), 1951-1969.
+Heller, J., Hertz, J. A., Kjaer, T. W., & Richmond, B. J. (1995). Information flow and temporal coding in
+primate pattern vision. J Comput Neurosci, 2(3), 175-193.
+Hendrickson, A. E., Wilson, J. R., & Ogren, M. P. (1978). The neuroanatomical organization of pathways
+between the dorsal lateral geniculate nucleus and visual cortex in Old World and New World
+primates. J Comp Neurol, 182(1), 123-136. doi:10.1002/cne.901820108
+Hendry, S. H., & Reid, R. C. (2000). The koniocellular pathway in primate vision. Annu Rev Neurosci, 23,
+127-153. doi:10.1146/annurev.neuro.23.1.127
+Hendry, S. H., & Yoshioka, T. (1994). A neurochemically distinct third channel in the macaque dorsal lateral
+geniculate nucleus. Science, 264(5158), 575-577.
+Henson, R. N., Price, C. J., Rugg, M. D., Turner, R., & Friston, K. J. (2002). Detecting latency differences
+in event-related BOLD responses: application to words versus nonwords and initial versus repeated
+face presentations. Neuroimage, 15(1), 83-97. doi:10.1006/nimg.2001.0940
+Hinds, O., Polimeni, J. R., Rajendran, N., Balasubramanian, M., Amunts, K., Zilles, K., . . . Triantafyllou, C.
+(2009). Locating the functional and anatomical boundaries of human primary visual cortex.
+Neuroimage, 46(4), 915-922. doi:10.1016/j.neuroimage.2009.03.036
+Horiguchi, H., Nakadomari, S., Misaki, M., & Wandell, B. A. (2009). Two temporal channels in human V1
+identified using fMRI. Neuroimage, 47(1), 273-280. doi:10.1016/j.neuroimage.2009.03.078
+Hubel, D. H., & Wiesel, T. N. (1972). Laminar and columnar distribution of geniculo-cortical fibers in the
+macaque monkey. J Comp Neurol, 146(4), 421-450. doi:10.1002/cne.901460402
+Huettel, S. A., & McCarthy, G. (2000). Evidence for a refractory period in the hemodynamic response to
+visual stimuli as measured by MRI. Neuroimage, 11(5 Pt 1), 547-553. doi:10.1006/nimg.2000.0553
+Huk, A. C., Dougherty, R. F., & Heeger, D. J. (2002). Retinotopy and functional subdivision of human areas
+MT and MST. J Neurosci, 22(16), 7195-7205. doi:20026661
+Huth, A. G., Nishimoto, S., Vu, A. T., & Gallant, J. L. (2012). A continuous semantic space describes the
+representation of thousands of object and action categories across the human brain. Neuron, 76(6),
+1210-1224. doi:10.1016/j.neuron.2012.10.014
+Ichinose, T., Shields, C. R., & Lukasiewicz, P. D. (2005). Sodium channels in transient retinal bipolar cells
+enhance visual responses in ganglion cells. J Neurosci, 25(7), 1856-1865.
+doi:10.1523/JNEUROSCI.5208-04.2005
+Jacoby, R., Stafford, D., Kouyama, N., & Marshak, D. (1996). Synaptic inputs to ON parasol ganglion cells
+in the primate retina. J Neurosci, 16(24), 8041-8056.
+Jacoby, R. A., Wiechmann, A. F., Amara, S. G., Leighton, B. H., & Marshak, D. W. (2000). Diffuse bipolar
+cells provide input to OFF parasol ganglion cells in the macaque retina. J Comp Neurol, 416(1), 6-
+18.
+Kanwisher, N., McDermott, J., & Chun, M. M. (1997). The fusiform face area: a module in human extrastriate
+cortex specialized for face perception. J Neurosci, 17(11), 4302-4311.
+Kaplan, E., & Benardete, E. (2001). The dynamics of primate retinal ganglion cells. Prog Brain Res, 134,
+17-34.
+Kaplan, E., & Shapley, R. M. (1982). X and Y cells in the lateral geniculate nucleus of macaque monkeys. J
+Physiol, 330, 125-143. 
+100
+Kastner, S., De Weerd, P., Desimone, R., & Ungerleider, L. C. (1998). Mechanisms of directed attention in
+the human extrastriate cortex as revealed by functional MRI. Science, 282(5386), 108-111. doi:DOI
+10.1126/science.282.5386.108
+Kay, K. N., Naselaris, T., Prenger, R. J., & Gallant, J. L. (2008). Identifying natural images from human
+brain activity. Nature, 452(7185), 352-355. doi:10.1038/nature06713
+Kay, K. N., Weiner, K. S., & Grill-Spector, K. (2015). Attention reduces spatial uncertainty in human ventral
+temporal cortex. Curr Biol, 25(5), 595-600. doi:10.1016/j.cub.2014.12.050
+Kay, K. N., Winawer, J., Mezer, A., & Wandell, B. A. (2013). Compressive spatial summation in human
+visual cortex. J Neurophysiol, 110(2), 481-494. doi:10.1152/jn.00105.2013
+Keysers, C., Xiao, D. K., Földiák, P., & Perrett, D. I. (2001). The speed of sight. J Cogn Neurosci, 13(1), 90-
+101.
+Kolb, H., & Marshak, D. (2003). The midget pathways of the primate retina. Doc Ophthalmol, 106(1), 67-
+81.
+Kuffler, S. W. (1953). Discharge patterns and functional organization of mammalian retina. J Neurophysiol,
+16(1), 37-68.
+Kulikowski, J. J., & Tolhurst, D. J. (1973). Psychophysical evidence for sustained and transient detectors in
+human vision. J Physiol, 232(1), 149-162.
+Larsson, J., & Heeger, D. J. (2006). Two retinotopic visual areas in human lateral occipital cortex. J Neurosci,
+26(51), 13128-13142. doi:10.1523/JNEUROSCI.1657-06.2006
+Levy, I., Hasson, U., Avidan, G., Hendler, T., & Malach, R. (2001). Center-periphery organization of human
+object areas. Nat Neurosci, 4(5), 533-539. doi:10.1038/87490
+Li, P. H., Gauthier, J. L., Schiff, M., Sher, A., Ahn, D., Field, G. D., . . . Chichilnisky, E. J. (2015). Anatomical
+Identification of Extracellularly Recorded Cells in Large-Scale Multielectrode Recordings. Journal
+of Neuroscience, 35(11), 4663-4675. doi:10.1523/Jneurosci.3675-14.2015
+Liu, J., & Wandell, B. A. (2005). Specializations for chromatic and temporal signals in human visual cortex.
+J Neurosci, 25(13), 3459-3468. doi:10.1523/JNEUROSCI.4206-04.2005
+Livingstone, M., & Hubel, D. (1988). Segregation of form, color, movement, and depth: anatomy,
+physiology, and perception. Science, 240(4853), 740-749.
+Livingstone, M. S., & Hubel, D. H. (1982). Thalamic inputs to cytochrome oxidase-rich regions in monkey
+visual cortex. Proc Natl Acad Sci U S A, 79(19), 6098-6101.
+Livingstone, M. S., & Hubel, D. H. (1984). Anatomy and physiology of a color system in the primate visual
+cortex. J Neurosci, 4(1), 309-356.
+Malach, R., Reppas, J. B., Benson, R. R., Kwong, K. K., Jiang, H., Kennedy, W. A., . . . Tootell, R. B. (1995).
+Object-related activity revealed by functional magnetic resonance imaging in human occipital
+cortex. Proc Natl Acad Sci U S A, 92(18), 8135-8139.
+Maunsell, J. H., Ghose, G. M., Assad, J. A., McAdams, C. J., Boudreau, C. E., & Noerager, B. D. (1999).
+Visual response latencies of magnocellular and parvocellular LGN neurons in macaque monkeys.
+Vis Neurosci, 16(1), 1-14.
+Maunsell, J. H., Nealey, T. A., & DePriest, D. D. (1990). Magnocellular and parvocellular contributions to
+responses in the middle temporal visual area (MT) of the macaque monkey. J Neurosci, 10(10),
+3323-3334.
+McKee, S. P., & Taylor, D. G. (1984). Discrimination of time: comparison of foveal and peripheral
+sensitivity. J Opt Soc Am A, 1(6), 620-627.
+McKeeff, T. J., Remus, D. A., & Tong, F. (2007). Temporal limitations in object processing across the human
+ventral visual pathway. J Neurophysiol, 98(1), 382-393. doi:10.1152/jn.00568.2006
+Merigan, W. H., Katz, L. M., & Maunsell, J. H. (1991). The effects of parvocellular lateral geniculate lesions
+on the acuity and contrast sensitivity of macaque monkeys. J Neurosci, 11(4), 994-1001.
+Merigan, W. H., & Maunsell, J. H. (1990). Macaque vision after magnocellular lateral geniculate lesions. Vis
+Neurosci, 5(4), 347-352.
+Merigan, W. H., & Maunsell, J. H. (1993). How parallel are the primate visual pathways? Annu Rev Neurosci,
+16, 369-402. doi:10.1146/annurev.ne.16.030193.002101
+Mishkin, M., Ungerleider, L. G., & Macko, K. A. (1983). Object Vision and Spatial Vision - 2 Cortical
+Pathways. Trends in Neurosciences, 6(10), 414-417. doi:Doi 10.1016/0166-2236(83)90190-X
+Moro, V., Urgesi, C., Pernigo, S., Lanteri, P., Pazzaglia, M., & Aglioti, S. M. (2008). The neural basis of
+body form and body action agnosia. Neuron, 60(2), 235-246. doi:10.1016/j.neuron.2008.09.022
+101
+Mukamel, R., Harel, M., Hendler, T., & Malach, R. (2004). Enhanced temporal non-linearities in human
+object-related occipito-temporal cortex. Cereb Cortex, 14(5), 575-585. doi:10.1093/cercor/bhh019
+Mullen, K. T., Dumoulin, S. O., McMahon, K. L., de Zubicaray, G. I., & Hess, R. F. (2007). Selectivity of
+human retinotopic visual cortex to S-cone-opponent, L/M-cone-opponent and achromatic
+stimulation. Eur J Neurosci, 25(2), 491-502. doi:10.1111/j.1460-9568.2007.05302.x
+Munk, M. H., Nowak, L. G., Girard, P., Chounlamountri, N., & Bullier, J. (1995). Visual latencies in
+cytochrome oxidase bands of macaque area V2. Proc Natl Acad Sci U S A, 92(4), 988-992.
+Nasanen, R., Ojanpaa, H., Tanskanen, T., & Paallysaho, J. (2006). Estimation of temporal resolution of object
+identification in human vision. Exp Brain Res, 172(4), 464-471. doi:10.1007/s00221-006-0354-5
+Naselaris, T., Prenger, R. J., Kay, K. N., Oliver, M., & Gallant, J. L. (2009). Bayesian reconstruction of
+natural images from human brain activity. Neuron, 63(6), 902-915.
+doi:10.1016/j.neuron.2009.09.006
+Nassi, J. J., & Callaway, E. M. (2009). Parallel processing strategies of the primate visual system. Nat Rev
+Neurosci, 10(5), 360-372. doi:10.1038/nrn2619
+Nassi, J. J., Lyon, D. C., & Callaway, E. M. (2006). The parvocellular LGN provides a robust disynaptic
+input to the visual motion area MT. Neuron, 50(2), 319-327. doi:10.1016/j.neuron.2006.03.019
+Nealey, T. A., & Maunsell, J. H. (1994). Magnocellular and parvocellular contributions to the responses of
+neurons in macaque striate cortex. J Neurosci, 14(4), 2069-2079.
+Newcombe, F., Ratcliff, G., & Damasio, H. (1987). Dissociable Visual and Spatial Impairments Following
+Right Posterior Cerebral-Lesions - Clinical, Neuropsychological and Anatomical Evidence.
+Neuropsychologia, 25(1b), 149-161. doi:Doi 10.1016/0028-3932(87)90127-8
+Nishimoto, S., Vu, A. T., Naselaris, T., Benjamini, Y., Yu, B., & Gallant, J. L. (2011). Reconstructing visual
+experiences from brain activity evoked by natural movies. Curr Biol, 21(19), 1641-1646.
+doi:10.1016/j.cub.2011.08.031
+O'Connor, D. H., Fukui, M. M., Pinsk, M. A., & Kastner, S. (2002). Attention modulates responses in the
+human lateral geniculate nucleus. Nat Neurosci, 5(11), 1203-1209. doi:10.1038/nn957
+O'Craven, K. M., & Kanwisher, N. (2000). Mental imagery of faces and places activates corresponding
+stiimulus-specific brain regions. J Cogn Neurosci, 12(6), 1013-1023.
+Ogawa, S., Lee, T. M., Stepnoski, R., Chen, W., Zhu, X. H., & Ugurbil, K. (2000). An approach to probe
+some neural systems interaction by functional MRI at neural time scale down to milliseconds. Proc
+Natl Acad Sci U S A, 97(20), 11026-11031.
+Optican, L. M., & Richmond, B. J. (1987). Temporal encoding of two-dimensional patterns by single units
+in primate inferior temporal cortex. III. Information theoretic analysis. J Neurophysiol, 57(1), 162-
+178.
+Parvizi, J., Jacques, C., Foster, B. L., Witthoft, N., Rangarajan, V., Weiner, K. S., & Grill-Spector, K. (2012).
+Electrical stimulation of human fusiform face-selective regions distorts face perception. J Neurosci,
+32(43), 14915-14920. doi:10.1523/JNEUROSCI.2609-12.2012
+Peelen, M. V., & Downing, P. E. (2005). Selectivity for the human body in the fusiform gyrus. J
+Neurophysiol, 93(1), 603-608. doi:10.1152/jn.00513.2004
+Peelen, M. V., & Downing, P. E. (2007). The neural basis of visual body perception. Nat Rev Neurosci, 8(8),
+636-648. doi:10.1038/nrn2195
+Pietersen, A. N. J., Cheong, S. K., Solomon, S. G., Tailby, C., & Martin, P. R. (2014). Temporal response
+properties of koniocellular (blue-on and blue-off) cells in marmoset lateral geniculate nucleus. J
+Neurophysiol, 112(6), 1421-1438. doi:10.1152/jn.00077.2014
+Pinsk, M. A., Arcaro, M., Weiner, K. S., Kalkus, J. F., Inati, S. J., Gross, C. G., & Kastner, S. (2009). Neural
+representations of faces and body parts in macaque and human cortex: a comparative FMRI study.
+J Neurophysiol, 101(5), 2581-2600. doi:10.1152/jn.91198.2008
+Popivanov, I. D., Schyns, P. G., & Vogels, R. (2016). Stimulus features coded by single neurons of a macaque
+body category selective patch. Proc Natl Acad Sci U S A, 113(17), E2450-2459.
+doi:10.1073/pnas.1520371113
+Potter, M. C. (1976). Short-term conceptual memory for pictures. J Exp Psychol Hum Learn, 2(5), 509-522.
+Potter, M. C., & Fox, L. F. (2009). Detecting and remembering simultaneous pictures in a rapid serial visual
+presentation. J Exp Psychol Hum Percept Perform, 35(1), 28-38. doi:10.1037/a0013624
+Press, W. A., Brewer, A. A., Dougherty, R. F., Wade, A. R., & Wandell, B. A. (2001). Visual areas and
+spatial summation in human visual cortex. Vision Res, 41(10-11), 1321-1332. 
+102
+Richmond, B. J., & Optican, L. M. (1990). Temporal encoding of two-dimensional patterns by single units
+in primate primary visual cortex. II. Information transmission. J Neurophysiol, 64(2), 370-380.
+Rizzolatti, G., & Matelli, M. (2003). Two different streams form the dorsal visual system: anatomy and
+functions. Exp Brain Res, 153(2), 146-157. doi:10.1007/s00221-003-1588-0
+Saul, A. B., Carras, P. L., & Humphrey, A. L. (2005). Temporal properties of inputs to direction-selective
+neurons in monkey V1. J Neurophysiol, 94(1), 282-294. doi:10.1152/jn.00868.2004
+Sayres, R., & Grill-Spector, K. (2008). Relating retinotopic and object-selective responses in human lateral
+occipital cortex. J Neurophysiol, 100(1), 249-267. doi:10.1152/jn.01383.2007
+Schein, S., Sterling, P., Ngo, I. T., Huang, T. M., & Herr, S. (2004). Evidence that each S cone in macaque
+fovea drives one narrow-field and several wide-field blue-yellow ganglion cells. J Neurosci, 24(38),
+8366-8378. doi:10.1523/JNEUROSCI.1063-04.2004
+Schiller, P. H. (1993). The effects of V4 and middle temporal (MT) area lesions on visual performance in the
+rhesus monkey. Vis Neurosci, 10(4), 717-746.
+Schiller, P. H., & Malpeli, J. G. (1978). Functional specificity of lateral geniculate nucleus laminae of the
+rhesus monkey. J Neurophysiol, 41(3), 788-797.
+Schmolesky, M. T., Wang, Y., Hanes, D. P., Thompson, K. G., Leutgeb, S., Schall, J. D., & Leventhal, A.
+G. (1998). Signal timing across the macaque visual system. J Neurophysiol, 79(6), 3272-3278.
+Schneider, K. A., Richter, M. C., & Kastner, S. (2004). Retinotopic organization and functional subdivisions
+of the human lateral geniculate nucleus: a high-resolution functional magnetic resonance imaging
+study. J Neurosci, 24(41), 8975-8985. doi:10.1523/JNEUROSCI.2413-04.2004
+Schwarzlose, R. F., Baker, C. I., & Kanwisher, N. (2005). Separate face and body selectivity on the fusiform
+gyrus. J Neurosci, 25(47), 11055-11059. doi:10.1523/JNEUROSCI.2621-05.2005
+Schwarzlose, R. F., Swisher, J. D., Dang, S., & Kanwisher, N. (2008). The distribution of category and
+location information across object-selective regions in human visual cortex. Proc Natl Acad Sci U
+S A, 105(11), 4447-4452. doi:10.1073/pnas.0800431105
+Seidemann, E., Poirson, A. B., Wandell, B. A., & Newsome, W. T. (1999). Color signals in area MT of the
+macaque monkey. Neuron, 24(4), 911-917.
+Shipp, S., & Zeki, S. (1985). Segregation of pathways leading from area V2 to areas V4 and V5 of macaque
+monkey visual cortex. Nature, 315(6017), 322-325.
+Silver, M. A., Ress, D., & Heeger, D. J. (2005). Topographic maps of visual spatial attention in human
+parietal cortex. J Neurophysiol, 94(2), 1358-1371. doi:10.1152/jn.01316.2004
+Sincich, L. C., & Horton, J. C. (2002). Divided by cytochrome oxidase: a map of the projections from V1 to
+V2 in macaques. Science, 295(5560), 1734-1737. doi:10.1126/science.1067902
+Sincich, L. C., Park, K. F., Wohlgemuth, M. J., & Horton, J. C. (2004). Bypassing V1: a direct geniculate
+input to area MT. Nat Neurosci, 7(10), 1123-1128. doi:10.1038/nn1318
+Singh, K. D., Smith, A. T., & Greenlee, M. W. (2000). Spatiotemporal frequency and direction sensitivities
+of human visual areas measured using fMRI. Neuroimage, 12(5), 550-564.
+doi:10.1006/nimg.2000.0642
+Stigliani, A., Jeska, B., & Grill-Spector, K. (2017). Encoding model of temporal processing in human visual
+cortex. Proc Natl Acad Sci U S A, 114(51), E11047-E11056. doi:10.1073/pnas.1704877114
+Stigliani, A., Weiner, K. S., & Grill-Spector, K. (2015). Temporal Processing Capacity in High-Level Visual
+Cortex Is Domain Specific. J Neurosci, 35(36), 12412-12424. doi:10.1523/JNEUROSCI.4822-
+14.2015
+Sun, P., Ueno, K., Waggoner, R. A., Gardner, J. L., Tanaka, K., & Cheng, K. (2007). A temporal frequencydependent functional architecture in human V1 revealed by high-resolution fMRI. Nat Neurosci,
+10(11), 1404-1406. doi:10.1038/nn1983
+Taylor, J. C., Wiggett, A. J., & Downing, P. E. (2007). Functional MRI analysis of body and body part
+representations in the extrastriate and fusiform body areas. J Neurophysiol, 98(3), 1626-1633.
+doi:10.1152/jn.00012.2007
+Tootell, R. B., & Hadjikhani, N. (2001). Where is 'dorsal V4' in human visual cortex? Retinotopic,
+topographic and functional evidence. Cereb Cortex, 11(4), 298-311.
+Tootell, R. B., Mendola, J. D., Hadjikhani, N. K., Ledden, P. J., Liu, A. K., Reppas, J. B., . . . Dale, A. M.
+(1997). Functional analysis of V3A and related areas in human visual cortex. J Neurosci, 17(18),
+7060-7078. 
+103
+Tootell, R. B., Reppas, J. B., Kwong, K. K., Malach, R., Born, R. T., Brady, T. J., . . . Belliveau, J. W. (1995).
+Functional analysis of human MT and related visual cortical areas using magnetic resonance
+imaging. J Neurosci, 15(4), 3215-3230.
+Ungerleider, L. G., & Desimone, R. (1986). Projections to the superior temporal sulcus from the central and
+peripheral field representations of V1 and V2. J Comp Neurol, 248(2), 147-163.
+doi:10.1002/cne.902480202
+Ungerleider, L. G., & Mishkin, M. (1982). Two cortical visual systems. In D. J. Ingle, Goodale, M. A., and
+Mansfield, R. J. W. (Ed.), Analysis of Visual Behavior. Cambridge, MA: MIT Press.
+Van Essen, D. C., & Gallant, J. L. (1994). Neural mechanisms of form and motion processing in the primate
+visual system. Neuron, 13(1), 1-10.
+Vanduffel, W., Fize, D., Mandeville, J. B., Nelissen, K., Van Hecke, P., Rosen, B. R., . . . Orban, G. A.
+(2001). Visual motion processing investigated using contrast agent-enhanced fMRI in awake
+behaving monkeys. Neuron, 32(4), 565-577. doi:Doi 10.1016/S0896-6273(01)00502-5
+Vogels, R., & Orban, G. A. (1994). Activity of inferior temporal neurons during orientation discrimination
+with successively presented gratings. J Neurophysiol, 71(4), 1428-1451.
+Wade, A. R., Brewer, A. A., Rieger, J. W., & Wandell, B. A. (2002). Functional measurements of human
+ventral occipital cortex: retinotopy and colour. Philos Trans R Soc Lond B Biol Sci, 357(1424), 963-
+973. doi:10.1098/rstb.2002.1108
+Wager, T. D., Vazquez, A., Hernandez, L., & Noll, D. C. (2005). Accounting for nonlinear BOLD effects in
+fMRI: parameter estimates and a model for prediction in rapid event-related studies. Neuroimage,
+25(1), 206-218. doi:10.1016/j.neuroimage.2004.11.008
+Walsh, N., Ghosh, K. K., & FitzGibbon, T. (2000). Intraretinal axon diameters of a New World primate, the
+marmoset (Callithrix jacchus). Clinical and Experimental Ophthalmology, 28(6), 423-430. doi:DOI
+10.1046/j.1442-9071.2000.00347.x
+Wandell, B. A., Dumoulin, S. O., & Brewer, A. A. (2007). Visual field maps in human cortex. Neuron, 56(2),
+366-383. doi:10.1016/j.neuron.2007.10.012
+Wang, L., Mruczek, R. E., Arcaro, M. J., & Kastner, S. (2015). Probabilistic Maps of Visual Topography in
+Human Cortex. Cereb Cortex, 25(10), 3911-3931. doi:10.1093/cercor/bhu277
+Wassle, H. (2004). Parallel processing in the mammalian retina. Nat Rev Neurosci, 5(10), 747-757.
+doi:10.1038/nrn1497
+Watson, A. B. (1986). Temporal sensitivity. In K. Boff, L. Kaufman, & J. Thomas (Eds.), Handbook of
+Perception and Human Performance. New York: Wiley.
+Weiner, K. S., Barnett, M. A., Lorenz, S., Caspers, J., Stigliani, A., Amunts, K., . . . Grill-Spector, K. (2016).
+The Cytoarchitecture of Domain-specific Regions in Human High-level Visual Cortex. Cereb
+Cortex. doi:10.1093/cercor/bhw361
+Weiner, K. S., & Grill-Spector, K. (2010). Sparsely-distributed organization of face and limb activations in
+human ventral temporal cortex. Neuroimage, 52(4), 1559-1573.
+doi:10.1016/j.neuroimage.2010.04.262
+Weiner, K. S., & Grill-Spector, K. (2011). Not one extrastriate body area: using anatomical landmarks,
+hMT+, and visual field maps to parcellate limb-selective activations in human lateral
+occipitotemporal cortex. Neuroimage, 56(4), 2183-2199. doi:10.1016/j.neuroimage.2011.03.041
+Weiner, K. S., & Grill-Spector, K. (2012). The improbable simplicity of the fusiform face area. Trends Cogn
+Sci, 16(5), 251-254. doi:10.1016/j.tics.2012.03.003
+Weiner, K. S., & Grill-Spector, K. (2013). Neural representations of faces and limbs neighbor in human highlevel visual cortex: evidence for a new organization principle. Psychol Res, 77(1), 74-97.
+doi:10.1007/s00426-011-0392-x
+Weiner, K. S., & Grill-Spector, K. (2015). The evolution of face processing networks. Trends Cogn Sci,
+19(5), 240-241. doi:10.1016/j.tics.2015.03.010
+Werblin, F. S., & Dowling, J. E. (1969). Organization of the retina of the mudpuppy, Necturus maculosus.
+II. Intracellular recording. J Neurophysiol, 32(3), 339-355.
+Willenbockel, V., Sadr, J., Fiset, D., Horne, G. O., Gosselin, F., & Tanaka, J. W. (2010). Controlling lowlevel image properties: the SHINE toolbox. Behav Res Methods, 42(3), 671-684.
+doi:10.3758/BRM.42.3.671
+Witthoft, N., Nguyen, M. L., Golarai, G., LaRocque, K. F., Liberman, A., Smith, M. E., & Grill-Spector, K.
+(2014). Where is human V4? Predicting the location of hV4 and VO1 from cortical folding. Cereb
+Cortex, 24(9), 2401-2408. doi:10.1093/cercor/bht092
+104
+Worsley, K. J. (2001). Statistical analysis of activation images. In P. Jezzard, Matthews, P. M., Smith, S. M.
+(Ed.), Functional MRI: An Introduction to Methods(pp. 251-270). Oxford: Oxford University Press.
+Xing, D., Yeh, C. I., Burns, S., & Shapley, R. M. (2012). Laminar analysis of visually evoked activity in the
+primary visual cortex. Proc Natl Acad Sci U S A, 109(34), 13871-13876.
+doi:10.1073/pnas.1201478109
+Xu, X., Ichida, J. M., Allison, J. D., Boyd, J. D., Bonds, A. B., & Casagrande, V. A. (2001). A comparison
+of koniocellular, magnocellular and parvocellular receptive field properties in the lateral geniculate
+nucleus of the owl monkey (Aotus trivirgatus). J Physiol, 531(Pt 1), 203-218.
+Yabuta, N. H., & Callaway, E. M. (1998). Functional streams and local connections of layer 4C neurons in
+primary visual cortex of the macaque monkey. J Neurosci, 18(22), 9489-9499.
+Yabuta, N. H., Sawatari, A., & Callaway, E. M. (2001). Two functional channels from primary visual cortex
+to dorsal visual cortical areas. Science, 292(5515), 297-300. doi:10.1126/science.1057916
+Yoonessi, A., & Yoonessi, A. (2011). Functional assessment of magno, parvo and konio-cellular pathways;
+current state and future clinical applications. J Ophthalmic Vis Res, 6(2), 119-126.
+Zeki, S. (1991). Cerebral Akinetopsia (Visual-Motion Blindness) - a Review. Brain, 114, 811-824. doi:DOI
+10.1093/brain/114.2.811
+Zeki, S., & Shipp, S. (1988). The functional logic of cortical connections. Nature, 335(6188), 311-317.
+doi:10.1038/335311a0
+Zhou, J., Benson, N. C., Kay, K., & Winawer, J. (2017). Systematic changes in temporal summation across
+human visual cortex. bioRxiv. doi:10.1101/108639
+Çukur, T., Huth, A. G., Nishimoto, S., & Gallant, J. L. (2013). Functional subdomains within human FFA. J
+Neurosci, 33(42), 16748-16766. doi:10.1523/JNEUROSCI.1259-13.2013

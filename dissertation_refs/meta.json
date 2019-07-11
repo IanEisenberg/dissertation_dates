@@ -4,55 +4,167 @@
 		"lname":"Hawkins",
 		"title":"Coordinating on meaning in communication",
 		"date":"05/2019",
-		"file":"hawkins.txt"
+		"file":"hawkins.txt",
+        "area":"cognitive"
 	},
 	{
 		"fname":"Brad",
 		"lname":"Turnwald",
 		"title":"From sad salad tweets to twisted carrots and dynamite beets : leveraging tasty and enjoyable attributes of healthy foods to promote a culture of healthy eating",
 		"date":"06/2019",
-		"file":"turnwald.txt"
+		"file":"turnwald.txt",
+        "area":"social"
 	},
 	{
 		"fname":"Yuan Chang",
 		"lname":"Leong",
 		"title":" In the mind of the beholder : neural and computational mechanisms underlying perceiver-driven biases in information processing",
 		"date":"06/2019",
-		"file":"leong.txt"
+		"file":"leong.txt",
+        "area":"affective"
 	},
 	{
 		"fname":"Josiah",
 		"lname":"Leong",
 		"title":"The structure and function of neural circuits supporting incentivized inhibition",
 		"date":"06/2019",
-		"file":"jleong.txt"
+		"file":"jleong.txt",
+        "area":"affective"
 	},
 	{
 		"fname":"Erika",
 		"lname":"Weisz",
 		"title":"Building empathy through psychological interventions",
 		"date":"06/2019",
-		"file":"weisz.txt"
+		"file":"weisz.txt",
+        "area":"affective"
 	},
 	{
 		"fname":"Erica",
 		"lname":"Yoon",
 		"title":"Polite language reflects competing informational and social goals",
 		"date":"05/2019",
-		"file":"yoon.txt"
+		"file":"yoon.txt",
+        "area":"social"
 	},
 	{
 		"fname":"Lior",
 		"lname":"Bugatus",
 		"title":"Effects of bottom-up and top-down manipulations on visual object processing across the brain",
 		"date":"08/2018",
-		"file":"bugatus.txt"
+		"file":"bugatus.txt",
+        "area":"neuroscience"
 	},
 	{
 		"fname":"Cameron",
 		"lname":"McKenzie",
 		"title":"The neural basis of tactile attention",
 		"date":"06/2018",
-		"file":"mckenzie.txt"
-	}
+		"file":"mckenzie.txt",
+        "area":"neuroscience"
+	},
+    {
+        "fname":"Takuya",
+        "lname":"Sawaoka",
+        "title":"Viral Outrage: Victims and Villains of our Contemporary Moral Discourse",
+        "date":"06/2019",
+        "file":"sawaoka.txt",
+        "area":"social"
+    },
+    {
+        "fname":"Nick",
+        "lname":"Camp",
+        "title":"BLACK AND WHITE MEETS BLUE: RACE AND THE SOCIAL PSYCHOLOGY OF POLICE-COMMUNITY INTERACTIONS",
+        "date":"08/2018",
+        "file":"camp.txt",
+        "area":"social"
+    },
+    {
+        "fname":"Kyle",
+        "lname":"MacDonald",
+        "title":"CHILDREN’S INFORMATION SEEKING DURING SIGNED AND SPOKENLANGUAGE PROCESSING",
+        "date":"12/2018",
+        "file":"camp.txt",
+        "area":"development"
+    },
+    {
+        "fname":"Michael Henry",
+        "lname":"Tessler",
+        "title":"COMMUNICATING GENERALIZATIONS: PROBABILITY, VAGUENESS, AND CONTEXT",
+        "date":"06/2018",
+        "file":"tessler.txt",
+        "area":"cognitive"
+    },
+    {
+        "fname":"Steven",
+        "lname":"Hansen",
+        "title":"DEEP EPISODIC VALUE ITERATION: A THEORY OF SAMPLE EFFICIENT LEARNING FOR MACHINE LEARNING AND COGNITIVE (NEURO)SCIENCE",
+        "date":"03/2018",
+        "file":"hansen.txt",
+        "area":"cognitive"
+    },
+    {
+        "fname":"Yiran",
+        "lname":"Duan",
+        "title":"DETERMINANTS OF SENSITIVITY TO BINOCULAR DISPARITY",
+        "date":"08/2018",
+        "file":"duan.txt",
+        "area":"neuroscience"
+    },
+    {
+        "fname":"Michael",
+        "lname":"Schwalbe",
+        "title":"ECONOMIC DISADVANTAGE AS A THREAT TO ADAPTIVE ADEQUACY: THE ROLE OF SELF-AFFIRMATION IN IMPROVING COGNITIVE AND ACADEMIC PERFORMANCE OF THE POOR",
+        "date":"11/2018",
+        "file":"schwalbe.txt",
+        "area":"social"
+    },
+    {
+        "fname":"Anthony",
+        "lname":"Stigliani",
+        "title":"ELUCIDATING THE TEMPORAL DYNAMICS OF HUMAN VISUAL CORTEX",
+        "date":"03/2018",
+        "file":"stigliani.txt",
+        "area":"neuroscience"
+    },
+    {
+        "fname":"Amit",
+        "lname":"Goldenberg",
+        "title":"EMOTION AND EMOTION REGULATION IN GROUPS",
+        "date":"10/2018",
+        "file":"goldenberg.txt",
+        "area":"affective"
+    },
+    {
+        "fname":"Lucy Zhang",
+        "lname":"Bencharit",
+        "title":"EMOTIONAL DIVERSITY IN ORGANIZATIONAL SETTINGS: HOW CULTURE AND IDEAL AFFECT SHAPE EMPLOYMENT AND LEADERSHIP OUTCOMES",
+        "date":"06/2018",
+        "file":"bencharit.txt",
+        "area":"social"
+    },
+    {
+        "fname":"Fiona",
+        "lname":"Lee",
+        "title":"HOW PREPARED DO I HAVE TO BE FOR A JOB? GENDER DIFFERENCES IN THE DESIRE FOR PREPAREDNESS ",
+        "date":"06/2018",
+        "file":"lee.txt",
+        "area":"social"
+    },
+    {
+        "fname":"Rebecca",
+        "lname":"Carey",
+        "title":"THE FORM AND FUNCTION OF RELATIONSHIPS IN U.S. MIDDLE- AND WORKING-CLASS CONTEXTS: IMPLICATIONS FOR EDUCATION AND HEALTH ",
+        "date":"07/2018",
+        "file":"carey.txt",
+        "area":"social"
+    },
+    {
+        "fname":"Rosemary",
+        "lname":"Le",
+        "title":"MODELING THE STIMULUS DEPENDENCE OF THE VISUAL READING CIRCUITRY AND IMPLICATIONS FOR DIAGNOSING READING DISABILITY",
+        "date":"10/2018",
+        "file":"le.txt",
+        "area":"neuroscience"
+    }
 ]

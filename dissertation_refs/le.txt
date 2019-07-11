@@ -1,0 +1,722 @@
+Marilyn Jager Adams. Beginning to read: Thinking and learning about print. MIT press, 1994.
+ISBN 0-262-51076-6.
+John A. Agnew, Courtney Dorn, and Guinevere F. Eden. E↵ect of intensive training on auditory
+processing and reading skills. Brain and Language, 88(1):21–25, 2004. ISSN 0093-934X.
+Merav Ahissar, Yedida Lubin, Hanna Putter-Katz, and Karen Banai. Dyslexia and the failure to
+form a perceptual anchor. Nature neuroscience, 9(12):1558–1564, 2006. ISSN 1097-6256.
+Kaoru Amano, Brian A. Wandell, and Serge O. Dumoulin. Visual field maps, population receptive
+field sizes, and visual field coverage in the human MT+ complex. Journal of neurophysiology, 102
+(5):2704–2718, 2009. URL http://jn.physiology.org/content/102/5/2704.short.
+M. J. Arcaro, S. A. McMains, B. D. Singer, and S. Kastner. Retinotopic Organization of Human
+Ventral Visual Cortex. Journal of Neuroscience, 29(34):10638–10652, August 2009. ISSN 0270-
+6474, 1529-2401. doi: 10.1523/JNEUROSCI.2807-09.2009. URL http://www.jneurosci.org/
+cgi/doi/10.1523/JNEUROSCI.2807-09.2009.
+Yaniv Assaf, Heidi Johansen-Berg, and Michel Thiebaut de Schotten. The Role Of Di↵usion MRI
+In Neuroscience. bioRxiv, page 140459, 2017.
+Chris I. Baker, Jia Liu, Lawrence L. Wald, Kenneth K. Kwong, Thomas Benner, and Nancy Kanwisher. Visual word processing and experiential origins of functional selectivity in human extrastriate cortex. Proceedings of the National Academy of Sciences, 104(21):9087–9092, May 2007. ISSN
+0027-8424, 1091-6490. doi: 10.1073/pnas.0703300104. URL http://www.pnas.org/content/
+104/21/9087.
+G. R. Barnes, R. F. Hess, S. O. Dumoulin, R. L. Achtman, and G. B. Pike. The cortical deficit
+in humans with strabismic amblyopia. The Journal of Physiology, 533(1):281–297, 2001. ISSN
+1469-7793.
+Ben A. Barres. The mystery and magic of glia: a perspective on their roles in health and disease.
+Neuron, 60(3):430–440, 2008. ISSN 0896-6273.
+77
+BIBLIOGRAPHY 78
+Andreas Bartels and Semir Zeki. The chronoarchitecture of the cerebral cortex. Philosophical
+Transactions of the Royal Society of London B: Biological Sciences, 360(1456):733–750, 2005.
+ISSN 0962-8436.
+Kathleen Baynes, Mark Jude Tramo, and Michael S. Gazzaniga. Reading with a limited lexicon
+in the right hemisphere of a callosotomy patient. Neuropsychologia, 30(2):187–200, 1992. URL
+http://www.sciencedirect.com/science/article/pii/002839329290027J.
+Michal Ben-Shachar, Robert F. Dougherty, Gayle K. Deutsch, and Brian A. Wandell. Di↵erential
+sensitivity to words and shapes in ventral occipito-temporal cortex. Cerebral cortex, 17(7):1604–
+1611, 2007a. ISSN 1047-3211.
+Michal Ben-Shachar, Robert F. Dougherty, and Brian A. Wandell. White matter pathways in reading. Current opinion in neurobiology, 17(2):258–270, 2007b. URL http://www.sciencedirect.
+com/science/article/pii/S0959438807000384.
+Michal Ben-Shachar, Robert F. Dougherty, Gayle K. Deutsch, and Brian A. Wandell. The development of cortical sensitivity to visual word forms. Journal of Cognitive Neuroscience, 23(9):2387–
+2399, 2011. URL http://www.mitpressjournals.org/doi/abs/10.1162/jocn.2011.21615.
+L. A. Benevento and K. Yoshida. The a↵erent and e↵erent organization of the lateral geniculoprestriate pathways in the macaque monkey. Journal of Comparative Neurology, 203(3):455–474,
+1981. ISSN 1096-9861.
+Yuval Benjamini and Bin Yu. The shu✏e estimator for explainable variance in fmri experiments.
+The Annals of Applied Statistics, 7(4):2007–2033, 2013. ISSN 1932-6157.
+N. C. Benson. Neuropythy retinotopy template, 2016.
+Noah C. Benson, Omar H. Butt, Ritobrato Datta, Petya D. Radoeva, David H. Brainard, and
+Geo↵rey K. Aguirre. The retinotopic organization of striate cortex is well predicted by surface
+topology. Current Biology, 22(21):2081–2085, 2012. ISSN 0960-9822.
+Rebecca A. Berman and Robert H. Wurtz. .14-Exploring the pulvinar path to visual cortex. Progress
+in brain research, 171:467–473, 2008. ISSN 0079-6123.
+Rebecca A. Berman and Robert H. Wurtz. Functional identification of a pulvinar path from superior
+colliculus to cortical area MT. Journal of Neuroscience, 30(18):6342–6354, 2010. ISSN 0270-6474.
+Vera Blau, Nienke van Atteveldt, Michel Ekkebus, Rainer Goebel, and Leo Blomert. Reduced neural
+integration of letters and speech sounds links phonological and reading deficits in adult dyslexia.
+Current Biology, 19(6):503–508, 2009. ISSN 0960-9822.
+BIBLIOGRAPHY 79
+Nicholas P. Blockley, Valerie EM Gri↵eth, Aaron B. Simon, and Richard B. Buxton. A review of
+calibrated blood oxygenation leveldependent (BOLD) methods for the measurement of taskinduced changes in brain oxygen metabolism. NMR in Biomedicine, 26(8):987–1003, 2013. ISSN
+1099-1492.
+Catherine Boden and Deborah Giaschi. M-stream deficits and reading-related visual processes in
+developmental dyslexia. Psychological bulletin, 133(2):346, 2007. ISSN 1939-1455.
+B. Boets, H. P. Op de Beeck, M. Vandermosten, S. K. Scott, C. R. Gillebert, D. Mantini, J. Bulthe,
+S. Sunaert, J. Wouters, and P. Ghesquiere. Intact But Less Accessible Phonetic Representations in
+Adults with Dyslexia. Science, 342(6163):1251–1254, December 2013. ISSN 0036-8075, 1095-9203.
+doi: 10.1126/science.1244333. URL http://www.sciencemag.org/cgi/doi/10.1126/science.
+1244333.
+Donald J. Bolger, Charles A. Perfetti, and Walter Schneider. Cross-cultural e↵ect on the brain
+revisited: Universal structures plus writing system variation. Human Brain Mapping, 25(1):92–
+104, May 2005. ISSN 1097-0193. doi: 10.1002/hbm.20124. URL http://onlinelibrary.wiley.
+com/doi/10.1002/hbm.20124/abstract.
+V. M. Bondarko and L. A. Semenov. Size estimates in Ebbinghaus illusion in adults and children of
+di↵erent age. Human Physiology, 30(1):24–30, 2004. URL http://link.springer.com/article/
+10.1023/B:HUMP.0000013760.85499.17.
+F. Bouhali, M. Thiebaut de Schotten, P. Pinel, C. Poupon, J.-F. Mangin, S. Dehaene, and L. Cohen.
+Anatomical Connections of the Visual Word Form Area. Journal of Neuroscience, 34(46):15402–
+15414, November 2014. ISSN 0270-6474, 1529-2401. doi: 10.1523/JNEUROSCI.4918-13.2014.
+URL http://www.jneurosci.org/cgi/doi/10.1523/JNEUROSCI.4918-13.2014.
+Herman Bouma. Interaction e↵ects in parafoveal letter recognition. Nature, 226:177–178, 1970.
+ISSN 0028-0836.
+Herman Bouma and Charles P. Legein. Foveal and parafoveal recognition of letters and words by
+dyslexics and by average readers. Neuropsychologia, 15(1):69–80, 1977.
+Lynette Bradley and Peter E. Bryant. Diculties in auditory organisation as a possible cause of
+reading backwardness. Nature, 1978. ISSN 1476-4687.
+Lynette Bradley and Peter E. Bryant. Categorizing sounds and learning to read: A causal connection.
+Nature, 1983. ISSN 1476-4687.
+David H. Brainard. The psychophysics toolbox. Spatial vision, 10:433–436, 1997. URL http:
+//bbs.bioguider.com/images/upfile/2006-4/200641014348.pdf.
+BIBLIOGRAPHY 80
+Silvia Brem, Kerstin Bucher, Pascal Halder, Paul Summers, Thomas Dietrich, Ernst Martin, and
+Daniel Brandeis. Evidence for developmental changes in the visual word processing network
+beyond adolescence. Neuroimage, 29(3):822–837, 2006. URL http://www.sciencedirect.com/
+science/article/pii/S1053811905006889.
+Alyssa A. Brewer and Brian Barton. Visual cortex in aging and Alzheimer’s disease: changes in visual
+field maps and population receptive fields. Frontiers in Psychology, 5, 2014. ISSN 1664-1078. doi:
+10.3389/fpsyg.2014.00074. URL http://journal.frontiersin.org/article/10.3389/fpsyg.
+2014.00074/abstract.
+A. Bruce, L. Fairley, B. Chambers, J. Wright, and T. A. Sheldon. Impact of visual acuity
+on developing literacy at age 4-5 years: a cohort-nested cross-sectional study. BMJ Open, 6
+(2):e010434, February 2016. ISSN 2044-6055 (Electronic) 2044-6055 (Linking). doi: 10.1136/
+bmjopen-2015-010434.
+D. J. Bruce. The analysis of word sounds by young children. British Journal of Educational Psychology, 34(2):158–170, 1964. ISSN 2044-8279.
+Maria Pia Bucci, Dominique Brmond-Gignac, and Zo Kapoula. Latency of saccades and vergence eye
+movements in dyslexic children. Experimental Brain Research, 188(1):1–12, 2008. ISSN 0014-4819.
+Maria Pia Bucci, Marine Vernet, Christophe-Loc Gerard, and Zo Kapoula. Normal speed and accuracy of saccade and vergence eye movements in dyslexic reader children. Journal of ophthalmology,
+2009, 2010. ISSN 2090-004X.
+J. Bullier and H. Kennedy. Projection of the lateral geniculate nucleus onto cortical area V2 in the
+macaque monkey. Experimental Brain Research, 53(1):168–172, 1983. ISSN 0014-4819.
+Anne Castles and Max Coltheart. Is there a causal link from phonological awareness to success in
+learning to read? Cognition, 91(1):77–111, 2004. ISSN 0010-0277.
+Marco Catani. The rises and falls of disconnection syndromes. Brain, 128(10):2224–2239, 2005.
+ISSN 0006-8950.
+Marco Catani and Marsel Mesulam. The arcuate fasciculus and the disconnection theme in language
+and aphasia: history and current state. cortex, 44(8):953–961, 2008. ISSN 0010-9452.
+Susana T. L. Chung, J. Stephen Mansfield, and Gordon E. Legge. Psychophysics of reading. XVIII.
+The e↵ect of print size on reading speed in normal peripheral vision. Vision Research, 38(19):
+2949–2962, October 1998. ISSN 0042-6989. doi: 10.1016/S0042-6989(98)00072-8. URL http:
+//www.sciencedirect.com/science/article/pii/S0042698998000728.
+BIBLIOGRAPHY 81
+L. Cohen, O. Martinaud, C. Lemer, S. Lehericy, Y. Samson, M. Obadia, A. Slachevsky, and
+S. Dehaene. Visual word recognition in the left and right hemispheres: anatomical and functional correlates of peripheral alexias. Cerebral cortex, 13(12):1313–1333, 2003. URL http:
+//cercor.oxfordjournals.org/content/13/12/1313.short.
+Laurent Cohen, Stphane Lehricy, Florence Chochon, Cathy Lemer, Sophie Rivaud, and Stanislas
+Dehaene. Language-specific tuning of visual cortex? Functional properties of the Visual Word
+Form Area. Brain, 125(5):1054–1069, 2002. URL http://brain.oxfordjournals.org/content/
+125/5/1054.short.
+Laurent Cohen, Stanislas Dehaene, Fabien Vinckier, Antoinette Jobert, and Alexandra Montavont.
+Reading normal and degraded words: contribution of the dorsal and ventral visual pathways.
+Neuroimage, 40(1):353–366, 2008. ISSN 1053-8119.
+Wendy Cohen, Ann Hodson, Anne O’Hare, James Boyle, Tariq Durrani, Elspeth McCartney, Mike
+Mattey, Lionel Naftalin, and Jocelynne Watson. E↵ects of Computer-Based Intervention Through
+Acoustically Modified Speech (Fast ForWord) in Severe Mixed ReceptiveExpressive Language
+ImpairmentOutcomes From a Randomized Controlled Trial. Journal of Speech, Language, and
+Hearing Research, 48(3):715–729, 2005. ISSN 1092-4388.
+Max Coltheart. Modeling Reading: The Dual-Route Approach. 2005. ISSN 1405114886.
+Max Coltheart, Kathleen Rastle, Conrad Perry, Robyn Langdon, and Johannes Ziegler. DRC: a
+dual route cascaded model of visual word recognition and reading aloud. Psychological review,
+108(1):204, 2001. URL http://psycnet.apa.org/journals/rev/108/1/204/.
+A. L. Creavin, R. Lingam, C. Steer, and C. Williams. Ophthalmic abnormalities and reading impairment. Pediatrics, 135(6):1057–65, June 2015. ISSN 1098-4275 (Electronic) 0031-4005 (Linking).
+doi: 10.1542/peds.2014-3622.
+Z. Cui, Z. Xia, M. Su, H. Shu, and G. Gong. Disrupted white matter connectivity underlying
+developmental dyslexia: A machine learning approach. Hum Brain Mapp, 37(4):1443–58, April
+2016. ISSN 1097-0193 (Electronic) 1065-9471 (Linking). doi: 10.1002/hbm.23112.
+D. M. Dacey. Origins of perception: retinal ganglion cell diversity and the creation of parallel visual
+pathways. The cognitive neurosciences, 3:281–301, 2004.
+Antonio R. Damasio and Hanna Damasio. The anatomic basis of pure alexia. Neurology, 33(12):
+1573–1573, 1983. URL http://www.neurology.org/content/33/12/1573.short.
+Samir Das, Tristan Glatard, Leigh C. MacIntyre, Cecile Madjar, Christine Rogers, Marc-Etienne
+Rousseau, Pierre Rioux, Dave MacFarlane, Zia Mohades, and Rathi Gnanasekaran. The MNI
+data-sharing and processing ecosystem. Neuroimage, 124:1188–1195, 2016. ISSN 1053-8119.
+BIBLIOGRAPHY 82
+Benjamin de Haas, D. Samuel Schwarzkopf, Elaine J. Anderson, and Geraint Rees. Perceptual load
+a↵ects spatial tuning of neuronal populations in human early visual cortex. Current Biology, 24
+(2):R66–R67, 2014.
+S. Dehaene, L. Cohen, M. Sigman, and F. Vinckier. The neural code for written words: a proposal.
+Trends Cogn Sci, 9(7):335–41, July 2005. ISSN 1364-6613 (Print) 1364-6613 (Linking). doi:
+10.1016/j.tics.2005.05.004.
+Stanislas Dehaene and Laurent Cohen. The unique role of the visual word form area in reading. Trends in cognitive sciences, 15(6):254–262, 2011. URL http://www.sciencedirect.com/
+science/article/pii/S1364661311000738.
+Stanislas Dehaene, Gurvan Le Clec’H, Jean-Baptiste Poline, Denis Le Bihan, and Laurent Cohen.
+The visual word form area: a prelexical representation of visual words in the fusiform gyrus. Neuroreport, 13(3):321–325, 2002. URL http://journals.lww.com/neuroreport/Abstract/2002/
+03040/The_visual_word_form_area__a_prelexical.15.aspx.
+Stanislas Dehaene, Felipe Pegado, Lucia W. Braga, Paulo Ventura, Gilberto Nunes Filho, Antoinette
+Jobert, Ghislaine Dehaene-Lambertz, Rgine Kolinsky, Jos Morais, and Laurent Cohen. How
+learning to read changes the cortical networks for vision and language. science, 330(6009):1359–
+1364, 2010. URL http://science.sciencemag.org/content/330/6009/1359.short.
+Joseph J. Dejerine. Contribution l’tude anatomo-pathologique et clinique des di↵rentes varits de ccit
+verbale. 1892. URL http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/
+year/2013/docId/23183.
+Jonathan B. Demb, Geo↵rey M. Boynton, and David J. Heeger. Functional magnetic resonance
+imaging of early visual pathways in dyslexia. Journal of Neuroscience, 18(17):6939–6951, 1998.
+ISSN 0270-6474.
+Joseph T. Devlin, Helen L. Jamison, Laura M. Gonnerman, and Paul M. Matthews. The role of the
+posterior fusiform gyrus in reading. Journal of cognitive neuroscience, 18(6):911–922, 2006.
+Edgar A. DeYoe, George J. Carman, Peter Bandettini, Seth Glickman, J. O. N. Wieser, Robert
+Cox, David Miller, and Jay Neitz. Mapping striate and extrastriate visual areas in human cerebral
+cortex. Proceedings of the National Academy of Sciences, 93(6):2382–2386, 1996. ISSN 0027-8424.
+JamesJ. DiCarlo, Davide Zoccolan, and NicoleC. Rust. How Does the Brain Solve Visual Object
+Recognition? Neuron, 73(3):415–434, February 2012. ISSN 08966273. doi: 10.1016/j.neuron.2012.
+01.010. URL http://linkinghub.elsevier.com/retrieve/pii/S089662731200092X.
+Robert F. Dougherty, Michal Ben-Shachar, Gayle K. Deutsch, Arvel Hernandez, Glenn R. Fox, and
+Brian A. Wandell. Temporal-callosal pathway di↵usivity predicts phonological skills in children.
+BIBLIOGRAPHY 83
+Proceedings of the National Academy of Sciences, 104(20):8556–8561, 2007. URL http://www.
+pnas.org/content/104/20/8556.short.
+J. Dubois and R. Adolphs. Building a Science of Individual Di↵erences from fMRI. Trends Cogn
+Sci, 20(6):425–43, June 2016. ISSN 1879-307X (Electronic) 1364-6613 (Linking). doi: 10.1016/j.
+tics.2016.03.014.
+Jason C. Dugas, Wim Mandemakers, Madolyn Rogers, Adiljan Ibrahim, Richard Daneman, and
+Ben A. Barres. A novel purification method for CNS projection neurons leads to the identification
+of brain vascular cells as a source of trophic support for corticospinal motor neurons. Journal of
+Neuroscience, 28(33):8294–8305, 2008. ISSN 0270-6474.
+Serge O. Dumoulin and Tomas Knapen. How Visual Cortical Organization Is Altered by Ophthalmologic and Neurologic Disorders. Annual review of vision science, (0), 2018.
+Serge O. Dumoulin and Brian A. Wandell. Population receptive field estimates in human visual
+cortex. Neuroimage, 39(2):647–660, 2008. URL http://www.sciencedirect.com/science/
+article/pii/S1053811907008269.
+Guinevere F. Eden, John W. VanMeter, Judith M. Rumsey, and Jos Ma Maisog. Abnormal processing of visual motion in dyslexia revealed by functional brain imaging. Nature, 382(6586):66,
+1996. ISSN 0028-0836.
+Stephen A. Engel, Gary H. Glover, and Brian A. Wandell. Retinotopic organization in human visual
+cortex and the spatial precision of functional MRI. Cerebral cortex, 7(2):181–192, 1997. URL
+http://cercor.oxfordjournals.org/content/7/2/181.short.
+Russell Epstein and Nancy Kanwisher. A cortical representation of the local visual environment.
+Nature, 392(6676):598–601, 1998. URL http://www.nature.com/nature/journal/v392/n6676/
+abs/392598a0.html.
+Daniel J. Felleman and David C. Van Essen. Distributed hierarchical processing in the primate
+cerebral cortex. Cerebral cortex, 1(1):1–47, 1991. ISSN 1047-3211.
+Greg D. Field and E. J. Chichilnisky. Information processing in the primate retina: circuitry and
+coding. Annu. Rev. Neurosci., 30:1–30, 2007. ISSN 0147-006X.
+R. Douglas Fields and Beth Stevens-Graham. New insights into neuron-glia communication. Science,
+298(5593):556–562, 2002. ISSN 0036-8075.
+Bruce Fischl, Martin I. Sereno, Roger BH Tootell, and Anders M. Dale. High-resolution intersubject
+averaging and a coordinate system for the cortical surface. Human brain mapping, 8(4):272–284,
+1999. ISSN 1065-9471.
+BIBLIOGRAPHY 84
+Merton C. Flom, Gordon G. Heath, and Ellen Takahashi. Contour interaction and visual resolution:
+Contralateral e↵ects. Science, 142(3594):979–980, 1963. ISSN 0036-8075.
+W. Fries. The projection from the lateral geniculate nucleus to the prestriate cortex of the macaque
+monkey. Proceedings of the Royal Society of London B: Biological Sciences, 213(1190):73–80, 1981.
+ISSN 0962-8452.
+Katharina Galuschka, Elena Ise, Kathrin Krick, and Gerd Schulte-Krne. E↵ectiveness of treatment
+approaches for children and adolescents with reading disabilities: a meta-analysis of randomized
+controlled trials. PLoS One, 9(2):e89900, 2014. ISSN 1932-6203.
+Michael S. Gazzaniga. Forty-five years of split-brain research and still going strong. Nature Reviews
+Neuroscience, 6(8):653–659, 2005. ISSN 1471-003X.
+Michael Germuska, Alberto Merola, Kevin Murphy, Adele Babic, Lewys Richmond, Sharmila Khot,
+Judith Elizabeth Hall, and Richard G. Wise. A forward modelling approach for the estimation of
+oxygen extraction fraction by calibrated fMRI. Neuroimage, 139:313–323, 2016. ISSN 1053-8119.
+Norman Geschwind. Disconnexion syndromes in animals and man. Brain, 88(3):585–585, 1965.
+ISSN 0006-8950.
+Laurie S. Glezer and Maximilian Riesenhuber. Individual Variability in Location Impacts Orthographic Selectivity in the Visual Word Form Area. The Journal of Neuroscience, 33(27):11221–
+11226, July 2013. ISSN 0270-6474, 1529-2401. doi: 10.1523/JNEUROSCI.5002-12.2013. URL
+http://www.jneurosci.org/content/33/27/11221.
+Laurie S. Glezer, Xiong Jiang, and Maximilian Riesenhuber. Evidence for Highly Selective Neuronal
+Tuning to Whole Words in the Visual Word Form Area. Neuron, 62(2):199–204, April 2009.
+ISSN 08966273. doi: 10.1016/j.neuron.2009.03.017. URL http://linkinghub.elsevier.com/
+retrieve/pii/S0896627309002426.
+Jesse Gomez, Vaidehi Natu, Brianna Jeska, Michael Barnett, and Kalanit Grill-Spector. Development di↵erentially sculpts receptive fields across early and high-level human visual cortex. Nature
+communications, 9(1):788, 2018a.
+Jesse Gomez, Vaidehi Natu, Brianna Jeska, Michael Barnett, and Kalanit Grill-Spector. Development di↵erentially sculpts receptive fields across early and high-level human visual cortex. Nature
+communications, 9(1):788, 2018b.
+Simone Gori and Andrea Facoetti. Perceptual learning as a possible new approach for remediation
+and prevention of developmental dyslexia. Vision research, 99:78–87, 2014. ISSN 0042-6989.
+BIBLIOGRAPHY 85
+Robbe L T Goris, J Anthony Movshon, and Eero P Simoncelli. Partitioning neuronal variability.
+Nature Neuroscience, 17(6):858–865, April 2014. ISSN 1097-6256, 1546-1726. doi: 10.1038/nn.
+3711. URL http://www.nature.com/doifinder/10.1038/nn.3711.
+Usha Goswami and Peter Bryant. Phonological skills and learning to read. Wiley Online Library,
+1990. ISBN 0-86377-151-3.
+J. Grainger, S. Dufau, and J. C. Ziegler. A Vision of Reading. Trends Cogn Sci, 20(3):171–9, March
+2016. ISSN 1879-307X (Electronic) 1364-6613 (Linking). doi: 10.1016/j.tics.2015.12.008.
+Kalanit Grill-Spector and Kevin S. Weiner. The functional architecture of the ventral temporal
+cortex and its role in categorization. Nature Reviews Neuroscience, 15(8):536–548, August 2014.
+ISSN 1471-003X. doi: 10.1038/nrn3747. URL http://www.nature.com/nrn/journal/v15/n8/
+abs/nrn3747.html.
+H. Ke↵er Hartline. The response of single optic nerve fibers of the vertebrate eye to illumination of
+the retina. American Journal of Physiology-Legacy Content, 121(2):400–415, 1938.
+Ben M. Harvey, Alessio Fracasso, Natalia Petridou, and Serge O. Dumoulin. Topographic representations of object size and relationships with numerosity reveal generalized quantity processing in human parietal cortex. Proceedings of the National Academy of Sciences, page
+201515414, October 2015. ISSN 0027-8424, 1091-6490. doi: 10.1073/pnas.1515414112. URL
+http://www.pnas.org/lookup/doi/10.1073/pnas.1515414112.
+Uri Hasson, Ifat Levy, Marlene Behrmann, Talma Hendler, and Rafael Malach. Eccentricity bias as
+an organizing principle for human high-order object areas. Neuron, 34(3):479–490, 2002. URL
+http://www.sciencedirect.com/science/article/pii/S0896627302006621.
+Fumiko Hoeft, Bruce D. McCandliss, Jessica M. Black, Alexander Gantman, Nahal Zakerani, Charles
+Hulme, Heikki Lyytinen, Susan Whitfield-Gabrieli, Gary H. Glover, and Allan L. Reiss. Neural
+systems predicting long-term outcome in dyslexia. Proceedings of the National Academy of Sciences, 108(1):361–366, 2011. ISSN 0027-8424.
+Gordon Holmes. Disturbances of vision by cerebral lesions. The British journal of ophthalmology, 2
+(7):353, 1918.
+Pamela E. Hook, Paul Macaruso, and Sandra Jones. Ecacy of Fast ForWord training on facilitating
+acquisition of reading skills by children with reading dicultiesA longitudinal study. Annals of
+Dyslexia, pages 75–96, 2001. ISSN 0736-9387.
+Katsuji Inouye. ber die Nucleinsure aus den Spermatozoen des Hamo (Muraenoesox cinereus Forsk).
+Hoppe-Seyler s Zeitschrift fr physiologische Chemie, 48(3-4):181–184, 1906. ISSN 1437-4315.
+BIBLIOGRAPHY 86
+Sagi Ja↵e-Dax, Orr Frenkel, and Merav Ahissar. Shorter neural adaptation to sounds accounts for
+dyslexics9 abnormal perceptual and reading dynamics. bioRxiv, page 082370, 2016a.
+Sagi Ja↵e-Dax, Itay Lieder, Tali Biron, and Merav Ahissar. Dyslexics’ usage of visual priors is
+impaired. Journal of Vision, 16(9):10–10, 2016b. ISSN 1534-7362.
+Gal Jobard, Fabrice Crivello, and Nathalie Tzourio-Mazoyer. Evaluation of the dual route theory
+of reading: a metanalysis of 35 neuroimaging studies. Neuroimage, 20(2):693–712, 2003. ISSN
+1053-8119.
+Rhona S. Johnston, Marjorie Anderson, and Christopher Holligan. Knowledge of the alphabet and
+explicit awareness of phonemes in pre-readers: The nature of the relationship. Reading and writing,
+8(3):217–234, 1996. ISSN 0922-4777.
+Sung Jun Joo, Patrick M. Donnelly, and Jason D. Yeatman. The causal relationship between dyslexia
+and motion perception reconsidered. Scientific Reports, 7, 2017.
+Zo Kapoula, Maria Pia Bucci, Frederic Jurion, Julie Ayoun, Farzaneh Afkhami, and Dominique
+Brmond-Gignac. Evidence for frequent divergence impairment in French dyslexic children: deficit
+of convergence relaxation or of divergence per se? Graefe’s Archive for Clinical and Experimental
+Ophthalmology, 245(7):931–936, 2006. ISSN 0721-832X.
+Kendrick Kay and Jason Yeatman. Bottom-up and top-down computations in high-level visual
+cortex. Technical Report biorxiv;053595v1, May 2016. URL http://biorxiv.org/lookup/doi/
+10.1101/053595.
+Kendrick N. Kay and Jason D. Yeatman. Bottom-up and top-down computations in word-and
+face-selective cortex. eLife, 6:e22341, 2017. ISSN 2050-084X.
+Kendrick N. Kay, Jonathan Winawer, Aviv Mezer, and Brian A. Wandell. Compressive spatial
+summation in human visual cortex. Journal of neurophysiology, 110(2):481–494, 2013a. ISSN
+0022-3077.
+Kendrick N. Kay, Jonathan Winawer, Ariel Rokem, Aviv Mezer, and Brian A. Wandell. A Two-Stage
+Cascade Model of BOLD Responses in Human Visual Cortex. PLoS Computational Biology, 9
+(5):e1003079, May 2013b. ISSN 1553-7358. doi: 10.1371/journal.pcbi.1003079. URL http:
+//dx.plos.org/10.1371/journal.pcbi.1003079.
+KendrickN. Kay, KevinS. Weiner, and Kalanit Grill-Spector. Attention Reduces Spatial Uncertainty in Human Ventral Temporal Cortex. Current Biology, 25(5):595–600, March 2015. ISSN
+09609822. doi: 10.1016/j.cub.2014.12.050. URL http://linkinghub.elsevier.com/retrieve/
+pii/S0960982214016534.
+BIBLIOGRAPHY 87
+Julie A. Kirkby, Lisa AD Webster, Hazel I. Blythe, and Simon P. Liversedge. Binocular coordination
+during reading and non-reading tasks. Psychological bulletin, 134(5):742, 2008. ISSN 1939-1455.
+Torkel Klingberg, Maj Hedehus, Elise Temple, Talya Salz, John DE Gabrieli, Michael E. Moseley,
+and Russell A. Poldrack. Microstructure of temporo-parietal white matter as a basis for reading
+ability: evidence from di↵usion tensor magnetic resonance imaging. Neuron, 25(2):493–500, 2000.
+ISSN 0896-6273.
+Anthony J. Krafnick, Li-Hai Tan, D. Lynn Flowers, Megan M. Luetje, Eileen M. Napoliello, Wai-Ting
+Siok, Charles Perfetti, and Guinevere F. Eden. Chinese Character and English Word processing
+in children’s ventral occipitotemporal cortex: fMRI evidence for script invariance. NeuroImage,
+133:302–312, June 2016. ISSN 1053-8119. doi: 10.1016/j.neuroimage.2016.03.021. URL http:
+//www.sciencedirect.com/science/article/pii/S1053811916002196.
+Dwight J. Kravitz, Latrice D. Vinson, and Chris I. Baker. How position dependent is visual object recognition? Trends in Cognitive Sciences, 12(3):114–122, March 2008. ISSN 1364-6613.
+doi: 10.1016/j.tics.2007.12.006. URL http://www.sciencedirect.com/science/article/pii/
+S1364661308000260.
+Dwight J. Kravitz, Kadharbatcha S. Saleem, Chris I. Baker, and Mortimer Mishkin. A new neural
+framework for visuospatial processing. Nature Reviews Neuroscience, 12(4):217–230, April 2011.
+ISSN 1471-003X, 1471-0048. doi: 10.1038/nrn3008. URL http://www.nature.com/doifinder/
+10.1038/nrn3008.
+MiYoung Kwon, Gordon E. Legge, and Brock R. Dubbels. Developmental changes in the visual
+span for reading. Vision research, 47(22):2889–2900, 2007. URL http://www.sciencedirect.
+com/science/article/pii/S0042698907003422.
+Nicolas Langer, Barbara Peysakhovich, Jennifer Zuk, Marie Drottar, Danielle D. Sliva, Sara Smith,
+Bryce LC Becker, P. Ellen Grant, and Nadine Gaab. White matter alterations in infants at risk
+for developmental dyslexia. Cerebral cortex, page bhv281, 2015. ISSN 1047-3211.
+Jonas Larsson and David J. Heeger. Two retinotopic visual areas in human lateral occipital cortex. The Journal of Neuroscience, 26(51):13128–13142, 2006. URL http://www.jneurosci.org/
+content/26/51/13128.short.
+Rosemary Le, Nathan Witthoft, Michal Ben-Shachar, and Brian Wandell. The field of view available
+to the ventral occipito-temporal reading circuitry. Journal of vision, 17(4):6–6, 2017.
+Catherine Lebel and Christian Beaulieu. Lateralization of the arcuate fasciculus from childhood
+to adulthood and its relation to cognitive abilities in children. Human brain mapping, 30(11):
+3563–3573, 2009. ISSN 1097-0193.
+BIBLIOGRAPHY 88
+G. E. Legge, S. H. Cheung, D. Yu, S. T. L. Chung, H. W. Lee, and D. P. Owens. The case for the
+visual span as a sensory bottleneck in reading. Journal of Vision, 7(2):9–9, March 2007. ISSN
+1534-7362. doi: 10.1167/7.2.9. URL http://jov.arvojournals.org/Article.aspx?doi=10.
+1167/7.2.9.
+Gordon E. Legge, Denis G. Pelli, Gar S. Rubin, and Mary M. Schleske. Psychophysics of readingI.
+Normal vision. Vision research, 25(2):239–252, 1985. URL http://www.sciencedirect.com/
+science/article/pii/0042698985901178.
+Gordon E. Legge, Sonia J. Ahn, Timothy S. Klitz, and Andrew Luebker. Psychophysics of readingXVI. The visual span in normal and low vision. Vision Research, 37(14):1999–2010, 1997. URL
+http://www.sciencedirect.com/science/article/pii/S0042698997000175.
+Gordon E. Legge, J. Stephen Mansfield, and Susana TL Chung. Psychophysics of reading: XX. Linking letter recognition to reading speed in central and peripheral vision. Vision research, 41(6):725–
+743, 2001. URL http://www.sciencedirect.com/science/article/pii/S0042698900002959.
+Dennis M. Levi and Stanley A. Klein. Noise provides some new signals about the spatial vision of
+amblyopes. Journal of Neuroscience, 23(7):2522–2526, 2003. ISSN 0270-6474.
+Jonathan Levy, Cyril Pernet, Sbastien Treserras, Kader Boulanouar, Florent Aubry, Jean-Franois
+Dmonet, and Pierre Celsis. Testing for the dual-route cascade reading model in the brain: an
+fMRI e↵ective connectivity account of an ecient reading style. PLoS One, 4(8):e6675, 2009.
+ISSN 1932-6203.
+Isabelle Y. Liberman. 1. Segmentation of the spoken word and reading acquisition. Annals of
+Dyslexia, 23(1):64–77, 1973. ISSN 0736-9387.
+Isabelle Y. Liberman, Donald Shankweiler, F. William Fischer, and Bonnie Carter. Explicit syllable
+and phoneme segmentation in the young child. Journal of experimental child psychology, 18(2):
+201–212, 1974. ISSN 0022-0965.
+Margaret S. Livingstone, Glenn D. Rosen, Frank W. Drislane, and Albert M. Galaburda. Physiological and anatomical evidence for a magnocellular defect in developmental dyslexia. Proceedings
+of the National Academy of Sciences, 88(18):7943–7947, 1991. ISSN 0027-8424.
+Maureen W. Lovett, La Lacerenza, Susan L. Borden, Jan C. Frijters, Karen A. Steinbach, and Maria
+De Palma. Components of e↵ective remediation for developmental reading disabilities: Combining phonological and strategy-based instruction to improve outcomes. Journal of Educational
+Psychology, 92(2):263, 2000. ISSN 1939-2176.
+Takako Makita, Henry M. Sucov, Cheryl E. Gariepy, Masashi Yanagisawa, and David D. Ginty. Endothelins are vascular-derived axonal guidance cues for developing sympathetic neurons. Nature,
+452(7188):759–763, 2008. ISSN 0028-0836.
+BIBLIOGRAPHY 89
+Daniel S. Marcus, Michael P. Harms, Abraham Z. Snyder, Mark Jenkinson, J. Anthony Wilson,
+Matthew F. Glasser, Deanna M. Barch, Kevin A. Archie, Gregory C. Burgess, and Mohana
+Ramaratnam. Human Connectome Project informatics: quality control, database services, and
+data visualization. Neuroimage, 80:202–219, 2013. ISSN 1053-8119.
+Nikola T. Markov, Mria Ercsey-Ravasz, David C. Van Essen, Kenneth Knoblauch, Zoltn Toroczkai,
+and Henry Kennedy. Cortical high-density counterstream architectures. Science, 342(6158):
+1238406, 2013. ISSN 0036-8075.
+Marialuisa Martelli, Gloria Di Filippo, Donatella Spinelli, and Pierluigi Zoccolotti. Crowding, reading, and developmental dyslexia. Journal of vision, 9(4):14–14, 2009.
+Anna Martin, Matthias Schurz, Martin Kronbichler, and Fabio Richlan. Reading in the brain of
+children and adults: a meta-analysis of 40 functional magnetic resonance imaging studies. Human
+Brain Mapping, 36(5):1963–1981, May 2015. ISSN 1097-0193. doi: 10.1002/hbm.22749.
+Yoichiro Masuda, Serge O. Dumoulin, Satoshi Nakadomari, and Brian A. Wandell. V1 projection
+zone signals in human macular degeneration depend on task, not stimulus. Cerebral cortex, 18
+(11):2483–2493, 2008. ISSN 1047-3211.
+Yoichiro Masuda, Hiroshi Horiguchi, Serge O. Dumoulin, Ayumu Furuta, Satoru Miyauchi, Satoshi
+Nakadomari, and Brian A. Wandell. Task-dependent V1 responses in human retinitis pigmentosa.
+Investigative ophthalmology & visual science, 51(10):5356–5364, 2010. ISSN 1552-5783.
+Ignatius G. Mattingly. Reading, the linguistic process, and linguistic awareness, 1972.
+Bruce D. McCandliss, Laurent Cohen, and Stanislas Dehaene. The visual word form area: expertise
+for reading in the fusiform gyrus. Trends in cognitive sciences, 7(7):293–299, 2003. URL http:
+//www.sciencedirect.com/science/article/pii/S1364661303001347.
+George W. McConkie and Keith Rayner. The span of the e↵ective stimulus during a fixation in
+reading. Perception & Psychophysics, 17(6):578–586, 1975. URL http://link.springer.com/
+article/10.3758/BF03203972.
+Lauren M. McGrath, Bruce F. Pennington, Michelle A. Shanahan, Laura E. SanterreLemmon,
+Holly D. Barnard, Erik G. Willcutt, John C. DeFries, and Richard K. Olson. A multiple deficit
+model of reading disability and attentiondeficit/hyperactivity disorder: Searching for shared cognitive deficits. Journal of Child Psychology and Psychiatry, 52(5):547–557, 2011. ISSN 1469-7610.
+Michael M. Merzenich, William M. Jenkins, Paul Johnston, and Christoph Schreiner. Temporal
+processing deficits of language-learning impaired children ameliorated by training. Science, 271
+(5245):77, 1996. ISSN 0036-8075.
+BIBLIOGRAPHY 90
+Aviv Mezer, Jason D Yeatman, Nikola Stikov, Kendrick N Kay, Nam-Joon Cho, Robert F Dougherty,
+Michael L Perry, Josef Parvizi, Le H Hua, Kim Butts-Pauly, and Brian A Wandell. Quantifying the
+local tissue volume and composition in individual brains with magnetic resonance imaging. Nature
+Medicine, 19(12):1667–1672, November 2013. ISSN 1078-8956, 1546-170X. doi: 10.1038/nm.3390.
+URL http://www.nature.com/doifinder/10.1038/nm.3390.
+N. Molko, L. Cohen, J. F. Mangin, F. Chochon, Stphane Lehricy, D. Le Bihan, and Stanislas
+Dehaene. Visualizing the neural bases of a disconnection syndrome with di↵usion tensor imaging.
+Journal of Cognitive Neuroscience, 14(4):629–636, 2002.
+M. Monje. Neuronal activity promotes oligodendrogenesis and adaptive myelination in the mammalian brain. Glia, 63:E17–E18, 2015. ISSN 0894-1491.
+Jos Morais, Luz Cary, Jsus Alegria, and Paul Bertelson. Does awareness of speech as a sequence of
+phones arise spontaneously? Cognition, 7(4):323–331, 1979. ISSN 0010-0277.
+C. A. Myers, M. Vandermosten, E. A. Farris, R. Hancock, P. Gimenez, J. M. Black, B. Casto,
+M. Drahos, M. Tumber, R. L. Hendren, C. Hulme, and F. Hoeft. White matter morphometric
+changes uniquely predict children’s reading acquisition. Psychol Sci, 25(10):1870–83, October
+2014. ISSN 1467-9280 (Electronic) 0956-7976 (Linking). doi: 10.1177/0956797614544511.
+Jonathan J. Nassi and Edward M. Callaway. Parallel processing strategies of the primate visual
+system. Nature Reviews Neuroscience, 10(5):360–372, 2009. ISSN 1471-003X.
+Thomas E. Nichols, Samir Das, Simon B. Eickho↵, Alan C. Evans, Tristan Glatard, Michael Hanke,
+Nikolaus Kriegeskorte, Michael P. Milham, Russell A. Poldrack, and Jean-Baptiste Poline. Best
+practices in data analysis and sharing in neuroimaging using MRI. Nature neuroscience, 20(3):
+299–303, 2017. ISSN 1097-6256.
+Sumit N. Niogi and Bruce D. McCandliss. Left lateralized white matter microstructure accounts for
+individual di↵erences in reading ability and disability. Neuropsychologia, 44(11):2178–2188, 2006.
+ISSN 0028-3932.
+E. S. Norton, S. D. Beach, and J. D. Gabrieli. Neurobiology of dyslexia. Curr Opin Neurobiol, 30:
+73–8, February 2015. ISSN 1873-6882 (Electronic) 0959-4388 (Linking). doi: 10.1016/j.conb.2014.
+09.007.
+Seiji Ogawa, Tso-Ming Lee, Alan R. Kay, and David W. Tank. Brain magnetic resonance imaging
+with contrast dependent on blood oxygenation. Proceedings of the National Academy of Sciences,
+87(24):9868–9872, 1990.
+Shumpei Ogawa, Hiromasa Takemura, Hiroshi Horiguchi, Masahiko Terao, Tomoki Haji, Franco
+Pestilli, Jason D. Yeatman, Hiroshi Tsuneoka, Brian A. Wandell, and Yoichiro Masuda. White
+BIBLIOGRAPHY 91
+matter consequences of retinal receptor and ganglion cell DamageVisual white matter damage
+following retinal disease. Investigative ophthalmology & visual science, 55(10):6976–6986, 2014.
+ISSN 1552-5783.
+Olumide A. Olulade, Eileen M. Napoliello, and Guinevere F. Eden. Abnormal visual motion processing is not a cause of dyslexia. Neuron, 79(1):180–190, 2013. ISSN 0896-6273.
+J. K. O’Regan. Understanding visual search and reading using the concepts of stimulus’ grain. 1991.
+URL http://repository.tue.nl/689488.
+Denis G. Pelli and Bart Farell. Why use noise? JOSA A, 16(3):647–653, 1999. ISSN 1520-8532.
+Denis G. Pelli, Katharine A. Tillman, Jeremy Freeman, Michael Su, Tracey D. Berger, and Najib J.
+Majaj. Crowding and eccentricity determine reading rate. Journal of vision, 7(2):20–20, 2007.
+URL http://jov.arvojournals.org/article.aspx?articleid=2122073.
+Bruce F. Pennington, Laura SanterreLemmon, Jennifer Rosenberg, Beatriz MacDonald, Richard
+Boada, Angela Friend, Daniel R. Leopold, Stefan Samuelsson, Brian Byrne, and Erik G. Willcutt.
+Individual prediction of dyslexia by single versus multiple deficit models. Journal of abnormal
+psychology, 121(1):212, 2012. ISSN 1939-1846.
+T. K. Perrachione, S. N. Del Tufo, R. Winter, J. Murtagh, A. Cyr, P. Chang, K. Halverson, S. S.
+Ghosh, J. A. Christodoulou, and J. D. Gabrieli. Dysfunction of Rapid Neural Adaptation in
+Dyslexia. Neuron, 92(6):1383–1397, December 2016. ISSN 1097-4199 (Electronic) 0896-6273
+(Linking). doi: 10.1016/j.neuron.2016.11.020.
+Keziah Latham Petre, Charlotte A. Hazel, Elisabeth M. Fine, and Gary S. Rubin. Reading with
+eccentric fixation is faster in inferior visual field than in left visual field. Optometry & Vision Science, 77(1):34–39, 2000. URL http://journals.lww.com/optvissci/Abstract/2000/01000/
+Reading_with_Eccentric_Fixation_is_Faster_in.11.aspx.
+Cathy J. Price and Joseph T. Devlin. The Interactive Account of ventral occipitotemporal
+contributions to reading. Trends in Cognitive Sciences, 15(6):246–253, June 2011. ISSN
+13646613. doi: 10.1016/j.tics.2011.04.001. URL http://linkinghub.elsevier.com/retrieve/
+pii/S136466131100057X.
+Franck Ramus. Developmental dyslexia: specific phonological deficit or general sensorimotor dysfunction? Current opinion in neurobiology, 13(2):212–218, 2003. ISSN 0959-4388.
+Andreas M. Rauschecker, Reno F. Bowen, Josef Parvizi, and Brian A. Wandell. Position sensitivity
+in the visual word form area. Proceedings of the National Academy of Sciences, 109(24):E1568–
+E1577, 2012. ISSN 0027-8424.
+BIBLIOGRAPHY 92
+AndreasM. Rauschecker, RenoF. Bowen, LeeM. Perry, AlisonM. Kevan, RobertF. Dougherty, and
+BrianA. Wandell. Visual Feature-Tolerance in the Reading Network. Neuron, 71(5):941–953,
+September 2011. ISSN 08966273. doi: 10.1016/j.neuron.2011.06.036. URL http://linkinghub.
+elsevier.com/retrieve/pii/S0896627311005939.
+K. Rayner. Psychology of reading. Psychology Press, 2012.
+K. Rayner, J. Ashby, A. Pollatsek, and E. D. Reichle. The e↵ects of frequency and predictability
+on eye fixations in reading: implications for the E-Z Reader model. J Exp Psychol Hum Percept
+Perform, 30(4):720–32, August 2004. ISSN 0096-1523 (Print) 0096-1523 (Linking). doi: 10.1037/
+0096-1523.30.4.720.
+Keith Rayner. The perceptual span and peripheral cues in reading. Cognitive Psychology, 7(1):
+65–81, 1975.
+Keith Rayner. Do faulty eye movements cause dyslexia? Developmental Neuropsychology, 1(1):3–15,
+1985. ISSN 8756-5641.
+Keith Rayner, Timothy J. Slattery, and Nathalie N. Blanger. Eye movements, the perceptual span,
+and reading speed. Psychonomic Bulletin & Review, 17(6):834–839, December 2010. ISSN 1069-
+9384, 1531-5320. doi: 10.3758/PBR.17.6.834. URL http://www.springerlink.com/index/10.
+3758/PBR.17.6.834.
+Charles Read, Zhang Yun-Fei, Nie Hong-Yin, and Ding Bao-Qing. The ability to manipulate speech
+sounds depends on knowing alphabetic writing. Cognition, 24(1):31–44, 1986. ISSN 0010-0277.
+Maximilian Riesenhuber and Tomaso Poggio. Hierarchical models of object recognition in cortex.
+Nature neuroscience, 2(11):1019–1025, 1999. URL http://www.nature.com/neuro/journal/v2/
+n11/abs/nn1199_1019.html.
+Neil W. Roach and John H. Hogben. Impaired filtering of behaviourally irrelevant visual information
+in dyslexia. Brain, 130(3):771–785, 2007. ISSN 1460-2156.
+Neil W. Roach and John H. Hogben. Spatial cueing deficits in dyslexia reflect generalised diculties
+with attentional selection. Vision research, 48(2):193–207, 2008. ISSN 0042-6989.
+Neil W. Roach, Veronica T. Edwards, and John H. Hogben. The tale is in the tail: An alternative
+hypothesis for psychophysical performance variability in dyslexia. Perception, 33(7):817–830, 2004.
+ISSN 0301-0066.
+Ariel Rokem, Jason D. Yeatman, Franco Pestilli, Kendrick N. Kay, Aviv Mezer, Stefan van der Walt,
+and Brian A. Wandell. Evaluating the accuracy of di↵usion MRI models in white matter. PloS
+one, 10(4):e0123272, 2015. URL http://journals.plos.org/plosone/article?id=10.1371/
+journal.pone.0123272.
+BIBLIOGRAPHY 93
+Edmund T. Rolls. Functions of the primate temporal lobe cortical visual areas in invariant visual
+object and face recognition. Neuron, 27(2):205–218, 2000. URL http://www.sciencedirect.
+com/science/article/pii/S0896627300000301.
+A. Saksida, S. Iannuzzi, C. Bogliotti, Y. Chaix, J. F. Demonet, L. Bricout, C. Billard, M. A. NguyenMorel, M. F. Le Heuzey, I. Soares-Boucaud, F. George, J. C. Ziegler, and F. Ramus. Phonological
+skills, visual attention span, and visual stress in developmental dyslexia. Dev Psychol, 52(10):1503–
+1516, October 2016. ISSN 1939-0599 (Electronic) 0012-1649 (Linking). doi: 10.1037/dev0000184.
+Sameer Saproo and John T. Serences. Spatial attention improves the quality of population codes in
+human visual cortex. Journal of neurophysiology, 104(2):885–895, 2010.
+Michael C. Schmid, Theofanis Panagiotaropoulos, Mark A. Augath, Nikos K. Logothetis, and Stelios M. Smirnakis. Visually driven activation in macaque areas V2 and V3 without input from the
+primary visual cortex. PLoS One, 4(5):e5527, 2009. ISSN 1932-6203.
+D. S. Schwarzkopf, E. J. Anderson, B. de Haas, S. J. White, and G. Rees. Larger Extrastriate
+Population Receptive Fields in Autism Spectrum Disorders. Journal of Neuroscience, 34(7):2713–
+2724, February 2014. ISSN 0270-6474, 1529-2401. doi: 10.1523/JNEUROSCI.4416-13.2014. URL
+http://www.jneurosci.org/cgi/doi/10.1523/JNEUROSCI.4416-13.2014.
+Mark Seidenberg. Language at the Speed of Sight: How We Read, Why So Many Cannot, and What
+Can Be Done About It. Basic Books, 2017. ISBN 0-465-01932-3.
+Martin I. Sereno, A. M. Dale, J. B. Reppas, K. K. Kwong, J. W. Belliveau, T. J. Brady, B. R.
+Rosen, and R. B. Tootell. Borders of multiple visual areas in humans revealed by functional
+magnetic resonance imaging. Science, 268(5212):889–893, 1995. URL http://www.sciencemag.
+org/content/268/5212/889.short.
+Bennett A. Shaywitz, Pawel Skudlarski, John M. Holahan, Karen E. Marchione, R. Todd Constable,
+Robert K. Fulbright, Daniel Zelterman, Cheryl Lacadie, and Sally E. Shaywitz. Age-related
+changes in reading systems of dyslexic children. Annals of Neurology, 61(4):363–370, April 2007.
+ISSN 03645134. doi: 10.1002/ana.21093. URL http://doi.wiley.com/10.1002/ana.21093.
+Sally E. Shaywitz, Bennett A. Shaywitz, Jack M. Fletcher, and Michael D. Escobar. Prevalence of
+reading disability in boys and girls: Results of the Connecticut Longitudinal Study. Jama, 264
+(8):998–1002, 1990.
+S. L. Sheremata, K. C. Bettencourt, and D. C. Somers. Hemispheric Asymmetry in Visuotopic Posterior Parietal Cortex Emerges with Visual Short-Term Memory Load. Journal of Neuroscience,
+30(38):12581–12588, September 2010. ISSN 0270-6474, 1529-2401. doi: 10.1523/JNEUROSCI.
+2689-10.2010. URL http://www.jneurosci.org/cgi/doi/10.1523/JNEUROSCI.2689-10.2010.
+BIBLIOGRAPHY 94
+S. Murray Sherman. Thalamus plays a central role in ongoing cortical functioning. Nature neuroscience, 16(4):533–541, 2016. ISSN 1097-6256.
+Charles Scott Sherrington. Flexion-reflex of the limb, crossed extension-reflex, and reflex stepping
+and standing. The Journal of physiology, 40(1-2):28–121, 1910.
+E. H. Silson, A. W.-Y. Chan, R. C. Reynolds, D. J. Kravitz, and C. I. Baker. A Retinotopic Basis for
+the Division of High-Level Scene Processing between Lateral and Ventral Human Occipitotemporal
+Cortex. Journal of Neuroscience, 35(34):11921–11935, August 2015. ISSN 0270-6474, 1529-2401.
+doi: 10.1523/JNEUROSCI.0137-15.2015. URL http://www.jneurosci.org/cgi/doi/10.1523/
+JNEUROSCI.0137-15.2015.
+Michael A. Silver and Sabine Kastner. Topographic maps in human frontal and parietal cortex.
+Trends in Cognitive Sciences, 13(11):488–495, November 2009. ISSN 13646613. doi: 10.1016/j.
+tics.2009.08.005. URL http://linkinghub.elsevier.com/retrieve/pii/S1364661309001739.
+Panagiotis G. Simos, J. I. Breier, J. M. Fletcher, E. Bergman, and A. C. Papanicolaou. Cerebral
+mechanisms involved in word reading in dyslexic children: A magnetic source imaging approach.
+Cerebral Cortex, 10(8):809–816, 2000. URL http://cercor.oxfordjournals.org/content/10/
+8/809.short.
+Lawrence C. Sincich, Ken F. Park, Melville J. Wohlgemuth, and Jonathan C. Horton. Bypassing
+V1: a direct geniculate input to area MT. Nature neuroscience, 7(10):1123–1128, 2004.
+Michael A. Skeide, Jens Brauer, and Angela D. Friederici. Brain functional and structural predictors
+of language performance. Cerebral cortex, 26(5):2127–2139, 2016. ISSN 1047-3211.
+Bernt Christian Skottun. The magnocellular deficit theory of dyslexia: the evidence from contrast
+sensitivity. Vision research, 40(1):111–127, 2000. ISSN 0042-6989.
+Alan M. Slater and Paul C. Quinn. Developmental psychology: Revisiting the classic studies. SAGE
+Publications, 2012. ISBN 0-85702-758-1.
+Anne J. Sperling, Zhong-Lin Lu, Franklin R. Manis, and Mark S. Seidenberg. Deficits in perceptual
+noise exclusion in developmental dyslexia. Nature neuroscience, 8(7):862–863, 2005. ISSN 1097-
+6256.
+Thomas C. Sprague and John T. Serences. Attention modulates spatial priority maps in the human
+occipital, parietal and frontal cortices. Nature neuroscience, 16(12):1879–1887, 2013. URL http:
+//www.nature.com/neuro/journal/v16/n12/full/nn.3574.html.
+Keith E. Stanovich. Matthew e↵ects in reading: Some consequences of individual di↵erences in the
+acquisition of literacy. Reading research quarterly, pages 360–407, 1986. URL http://www.jstor.
+org/stable/747612.
+BIBLIOGRAPHY 95
+Keith E. Stanovich, Anne E. Cunningham, and Barbara B. Cramer. Assessing phonological awareness in kindergarten children: Issues of task comparability. Journal of experimental child psychology, 38(2):175–190, 1984. ISSN 0022-0965.
+J. Stein and S. Fowler. E↵ect of monocular occlusion on visuomotor perception and reading in
+dyslexic children. The Lancet, 326(8446):69–73, 1985. ISSN 0140-6736.
+John Stein and Vincent Walsh. To see but not to read; the magnocellular theory of dyslexia. Trends
+in neurosciences, 20(4):147–152, 1997. ISSN 0166-2236.
+A. Stigliani, K. S. Weiner, and K. Grill-Spector. Temporal Processing Capacity in High-Level Visual
+Cortex Is Domain Specific. Journal of Neuroscience, 35(36):12412–12424, September 2015. ISSN
+0270-6474, 1529-2401. doi: 10.1523/JNEUROSCI.4822-14.2015. URL http://www.jneurosci.
+org/cgi/doi/10.1523/JNEUROSCI.4822-14.2015.
+G. K. Strong, C. J. Torgerson, D. Torgerson, and C. Hulme. A systematic meta-analytic review
+of evidence for the e↵ectiveness of the ’Fast ForWord’ language intervention program. J Child
+Psychol Psychiatry, 52(3):224–35, March 2011. ISSN 1469-7610 (Electronic) 0021-9630 (Linking).
+doi: 10.1111/j.1469-7610.2010.02329.x.
+Sara M. Szczepanski, Christina S. Konen, and Sabine Kastner. Mechanisms of spatial attention
+control in frontal and parietal cortex. Journal of Neuroscience, 30(1):148–160, 2010.
+Marcin Szwed, Stanislas Dehaene, Andreas Kleinschmidt, Evelyn Eger, Romain Valabrgue, Alexis
+Amadon, and Laurent Cohen. Specialization for written words over objects in the visual cortex.
+NeuroImage, 56(1):330–344, May 2011. ISSN 10538119. doi: 10.1016/j.neuroimage.2011.01.073.
+URL http://linkinghub.elsevier.com/retrieve/pii/S1053811911001261.
+Marcin Szwed, Emilie Qiao, Antoinette Jobert, Stanislas Dehaene, and Laurent Cohen. E↵ects of
+Literacy in Early Visual and Occipitotemporal Areas of Chinese and French Readers. Journal of
+Cognitive Neuroscience, 26(3):459–475, March 2014. ISSN 0898-929X, 1530-8898. doi: 10.1162/
+jocn a 00499. URL http://www.mitpressjournals.org/doi/abs/10.1162/jocn_a_00499.
+Hiromasa Takemura, Ariel Rokem, Jonathan Winawer, Jason D. Yeatman, Brian A. Wandell, and
+Franco Pestilli. A major human white matter pathway between dorsal and ventral visual cortex.
+Cerebral cortex, 26(5):2205–2214, 2015. ISSN 1460-2199.
+Paula Tallal, Steve L. Miller, Gail Bedi, Gary Byma, Xiaoqin Wang, Srikantan S. Nagarajan,
+Christoph Schreiner, William M. Jenkins, and Michael M. Merzenich. Language comprehension in language-learning impaired children improved with acoustically modified speech. Annual
+progress in child psychiatry and child development, pages 193–200, 1997. ISSN 0066-4030.
+BIBLIOGRAPHY 96
+Miles A. Tinker. Recent studies of eye movements in reading. Psychological bulletin, 55(4):215, 1958.
+ISSN 1939-1455.
+Joseph K. Torgesen, Richard K. Wagner, Carol A. Rashotte, Elaine Rose, Patricia Lindamood,
+Tim Conway, and Cyndi Garvan. Preventing reading failure in young children with phonological
+processing disabilities: Group and individual responses to instruction. Journal of Educational
+Psychology, 91(4):579, 1999. ISSN 1939-2176.
+J. Tournier, Fernando Calamante, and Alan Connelly. MRtrix: di↵usion tractography in crossing
+fiber regions. International Journal of Imaging Systems and Technology, 22(1):53–66, 2012. ISSN
+1098-1098.
+Rebecca Treiman and Jonathon Baron. Segmental analysis ability: Development and relation to
+reading ability. Reading research: Advances in theory and practice, 3:159–198, 1981.
+William E. Tunmer and Andrew R. Nesdale. Phonemic segmentation skill and beginning reading.
+Journal of Educational Psychology, 77(4):417, 1985. ISSN 1939-2176.
+Fatma Uyar, Sarah Shomstein, Adam S. Greenberg, and Marlene Behrmann. Retinotopic information interacts with category selectivity in human ventral cortex. Neuropsychologia, 92:90–106,
+2016.
+Maaike Vandermosten, Bart Boets, Hanne Poelmans, Stefan Sunaert, Jan Wouters, and Pol Ghesquire. A tractography study in dyslexia: neuroanatomic correlates of orthographic, phonological
+and speech processing. Brain, 135(3):935–948, 2012. ISSN 0006-8950.
+Trichur R. Vidyasagar and Kristen Pammer. Dyslexia: a deficit in visuo-spatial attention, not in
+phonological processing. Trends in cognitive sciences, 14(2):57–63, 2010. ISSN 1364-6613.
+M. Vigneau, G. Jobard, B. Mazoyer, and N. Tzourio-Mazoyer. Word and non-word reading:
+what role for the visual word form area? Neuroimage, 27(3):694–705, 2005. URL http:
+//www.sciencedirect.com/science/article/pii/S105381190500282X.
+F. Vinckier, E. Qiao, C. Pallier, S. Dehaene, and L. Cohen. The impact of letter spacing on reading:
+A test of the bigram coding hypothesis. Journal of Vision, 11(6):8–8, May 2011. ISSN 1534-7362.
+doi: 10.1167/11.6.8. URL http://www.journalofvision.org/lookup/doi/10.1167/11.6.8.
+Richard K. Wagner and Joseph K. Torgesen. The nature of phonological processing and its causal
+role in the acquisition of reading skills. Psychological bulletin, 101(2):192, 1987. ISSN 1939-1455.
+B. A. Wandell. Clarifying Human White Matter. Annu Rev Neurosci, 39:103–28, July 2016. ISSN
+1545-4126 (Electronic) 0147-006X (Linking). doi: 10.1146/annurev-neuro-070815-013815.
+Brian A. Wandell. Foundations of vision. Sinauer Associates, 1995. ISBN 0-87893-853-2.
+BIBLIOGRAPHY 97
+Brian A. Wandell. Computational neuroimaging of human visual cortex. Annual review of
+neuroscience, 22(1):145–173, 1999. URL http://www.annualreviews.org/doi/abs/10.1146/
+annurev.neuro.22.1.145.
+Brian A. Wandell and Rosemary K. Le. Diagnosing the neural circuitry of reading. Neuron, 96(2):
+298–311, 2017. ISSN 0896-6273.
+Brian A. Wandell and Jason D. Yeatman. Biological development of reading circuits. Current
+opinion in neurobiology, 23(2):261–268, 2013. URL http://www.sciencedirect.com/science/
+article/pii/S0959438812001948.
+Brian A. Wandell, Serge O. Dumoulin, and Alyssa A. Brewer. Visual field maps in human cortex.
+Neuron, 56(2):366–383, 2007. URL http://www.sciencedirect.com/science/article/pii/
+S089662730700774X.
+Brian A. Wandell, Andreas M. Rauschecker, and Jason D. Yeatman. Learning to See Words. Annual Review of Psychology, 63(1):31–53, January 2012. ISSN 0066-4308, 1545-2085. doi: 10.
+1146/annurev-psych-120710-100434. URL http://www.annualreviews.org/doi/abs/10.1146/
+annurev-psych-120710-100434.
+Brian A. Wandell, Jonathan Winawer, and Kendrick N. Kay. Computational modeling of responses
+in human visual cortex. Brain Mapping, pages 651–659, 2015. URL http://kendrickkay.net/
+WandellBrainMappingInPress.pdf.
+H. Wang, X. He, and G. E. Legge. E↵ect of pattern complexity on the visual span for Chinese and
+alphabet characters. Journal of Vision, 14(8):6–6, July 2014. ISSN 1534-7362. doi: 10.1167/14.8.6.
+URL http://www.journalofvision.org/lookup/doi/10.1167/14.8.6.
+Ruopeng Wang, Thomas Benner, Alma Gregory Sorensen, and Van Jay Wedeen. Di↵usion toolkit:
+a software package for di↵usion imaging data processing and tractography. volume 15. Berlin,
+2007.
+Y. Wang, M. V. Mauer, T. Raney, B. Peysakhovich, B. L. Becker, D. D. Sliva, and N. Gaab.
+Development of Tract-Specific White Matter Pathways During Early Reading Development in
+At-Risk Children and Typical Controls. Cereb Cortex, April 2016. ISSN 1460-2199 (Electronic)
+1047-3211 (Linking). doi: 10.1093/cercor/bhw095.
+Maree J. Webster, Jocelyne Bachevalier, and Leslie G. Ungerleider. Subcortical connections of
+inferior temporal areas TE and TEO in macaque monkeys. Journal of Comparative Neurology,
+335(1):73–91, 1993. ISSN 1096-9861.
+Maree J. Webster, Jocelyne Bachevalier, and Leslie G. Ungerleider. Transient subcortical connections
+of inferior temporal areas TE and TEO in infant macaque monkeys. Journal of Comparative
+Neurology, 352(2):213–226, 1995. ISSN 1096-9861.
+BIBLIOGRAPHY 98
+Kevin S. Weiner and Kalanit Grill-Spector. The improbable simplicity of the fusiform face
+area. Trends in cognitive sciences, 16(5):251–254, 2012. URL http://www.sciencedirect.com/
+science/article/pii/S1364661312000587.
+Erik G. Willcutt, Rebecca S. Betjemann, Lauren M. McGrath, Nomita A. Chhabildas, Richard K.
+Olson, John C. DeFries, and Bruce F. Pennington. Etiology and neuropsychology of comorbidity
+between RD and ADHD: The case for multiple-deficit models. cortex, 46(10):1345–1361, 2010.
+ISSN 0010-9452.
+Heinz Wimmer and Matthias Schurz. Dyslexia in regular orthographies: manifestation and causation. Dyslexia, 16(4):283–299, 2010. URL http://onlinelibrary.wiley.com/doi/10.1002/
+dys.411/full.
+Jonathan Winawer and Nathan Witthoft. Human V4 and ventral occipital retinotopic maps. Visual
+Neuroscience, 32, 2015. ISSN 0952-5238, 1469-8714. doi: 10.1017/S0952523815000176. URL
+http://www.journals.cambridge.org/abstract_S0952523815000176.
+Jonathan Winawer, Hiroshi Horiguchi, Rory A. Sayres, Kaoru Amano, and Brian A. Wandell. Mapping hV4 and ventral occipital cortex: the venous eclipse. Journal of vision, 10(5):1–1, 2010. URL
+http://iovs.arvojournals.org/article.aspx?articleid=2120985.
+N. Witthoft, M. L. Nguyen, G. Golarai, K. F. LaRocque, A. Liberman, M. E. Smith, and
+K. Grill-Spector. Where Is Human V4? Predicting the Location of hV4 and VO1 from
+Cortical Folding. Cerebral Cortex, 24(9):2401–2408, September 2014. ISSN 1047-3211, 1460-
+2199. doi: 10.1093/cercor/bht092. URL http://www.cercor.oxfordjournals.org/cgi/doi/
+10.1093/cercor/bht092.
+Nathaniel Witthoft, Sonia Poltoratski, Mai Nguyen, Golijeh Golarai, Alina Liberman, Karen F
+LaRocque, Mary E Smith, and Kalanit Grill-Spector. Reduced spatial integration in the ventral
+visual cortex underlies face recognition deficits in developmental prosopagnosia. Technical Report
+biorxiv;051102v1, April 2016. URL http://biorxiv.org/lookup/doi/10.1101/051102.
+C. W. Woo, L. J. Chang, M. A. Lindquist, and T. D. Wager. Building better biomarkers: brain
+models in translational neuroimaging. Nat Neurosci, 20(3):365–377, February 2017. ISSN 1546-
+1726 (Electronic) 1097-6256 (Linking). doi: 10.1038/nn.4478.
+Lin Xiao, David Ohayon, Ian A. McKenzie, Alexander Sinclair-Wilson, Jordan L. Wright, Alexander D. Fudge, Ben Emery, Huiliang Li, and William D. Richardson. Rapid production of new
+oligodendrocytes is required in the earliest stages of motor-skill learning. Nature neuroscience, 19
+(9):1210–1217, 2016. ISSN 1097-6256.
+Elizabeth S. Yamada, Andrea S. Bordt, and David W. Marshak. Wide-field ganglion cells in macaque
+retinas. Visual neuroscience, 22(04):383–393, 2005. ISSN 1469-8714.
+BIBLIOGRAPHY 99
+Daniel LK Yamins and James J. DiCarlo. Using goal-driven deep learning models to understand
+sensory cortex. Nature neuroscience, 19(3):356–365, 2016. ISSN 1097-6256.
+Jason D. Yeatman, Robert F. Dougherty, Elena Rykhlevskaia, Anthony J. Sherbondy, Gayle K.
+Deutsch, Brian A. Wandell, and Michal Ben-Shachar. Anatomical properties of the arcuate fasciculus predict phonological and reading skills in children. Journal of cognitive neuroscience, 23(11):
+3304–3317, 2011. URL http://www.mitpressjournals.org/doi/abs/10.1162/jocn_a_00061.
+Jason D. Yeatman, Robert F. Dougherty, Nathaniel J. Myall, Brian A. Wandell, and Heidi M.
+Feldman. Tract profiles of white matter properties: automating fiber-tract quantification. PLoS
+One, 7(11):e49790, 2012. ISSN 1932-6203.
+Jason D. Yeatman, Andreas M. Rauschecker, and Brian A. Wandell. Anatomy of the visual word form
+area: Adjacent cortical circuits and long-range white matter connections. Brain and Language,
+125(2):146–155, May 2013. ISSN 0093934X. doi: 10.1016/j.bandl.2012.04.010. URL http://
+linkinghub.elsevier.com/retrieve/pii/S0093934X12000715.
+Jason D. Yeatman, Kevin S. Weiner, Franco Pestilli, Ariel Rokem, Aviv Mezer, and Brian A. Wandell. The vertical occipital fasciculus: A century of controversy resolved by in vivo measurements.
+Proceedings of the National Academy of Sciences, 111(48):E5214–E5223, December 2014. ISSN
+0027-8424, 1091-6490. doi: 10.1073/pnas.1418503111. URL http://www.pnas.org/lookup/doi/
+10.1073/pnas.1418503111.
+Andrew W Young, Deborah Hellawell, and Dennis C Hay. Configurational information in face
+perception. Perception, 16(6):747–759, 1987. ISSN 0301-0066, 1468-4233. doi: 10.1068/p160747.
+URL http://www.perceptionweb.com/abstract.cgi?id=p160747.
+Deyue Yu, Yi Jiang, Gordon E. Legge, and Sheng He. Locating the cortical bottleneck for slow
+reading in peripheral vision. Journal of Vision, 15(11):3, August 2015. ISSN 1534-7362. doi:
+10.1167/15.11.3. URL http://jov.arvojournals.org/article.aspx?doi=10.1167/15.11.3.
+Masao Yukie and Eiichi Iwai. Direct projection from the dorsal lateral geniculate nucleus to the
+prestriate cortex in macaque monkeys. Journal of Comparative Neurology, 201(1):81–97, 1981.
+ISSN 1096-9861.
+Semir Zeki. The Ferrier Lecture 1995 behind the seen: the functional specialization of the brain in
+space and time. Philosophical Transactions of the Royal Society of London B: Biological Sciences,
+360(1458):1145–1183, 2005. ISSN 0962-8436.
+Semir Zeki. Multiple asynchronous stimulusand taskdependent hierarchies (STDH) within the visual
+brain’s parallel processing systems. European Journal of Neuroscience, 44(8):2515–2527, 2016.
+ISSN 1460-9568.
+BIBLIOGRAPHY 100
+Johannes C. Ziegler and Usha Goswami. Reading acquisition, developmental dyslexia, and skilled
+reading across languages: a psycholinguistic grain size theory. Psychological bulletin, 131(1):3,
+2005. URL http://psycnet.apa.org/journals/bul/131/1/3/.
+Marco Zorzi, Chiara Barbiero, Andrea Facoetti, Isabella Lonciari, Marco Carrozzi, Marcella Montico,
+Laura Bravar, Florence George, Catherine Pech-Georgel, and Johannes C. Ziegler. Extra-large
+letter spacing improves reading in dyslexia. Proceedings of the National Academy of Sciences, 109
+(28):11455–11459, 2012. ISSN 0027-8424.

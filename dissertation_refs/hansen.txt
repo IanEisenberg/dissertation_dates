@@ -1,0 +1,144 @@
+Abbeel, P., Quigley, M., & Ng, A. Y. (2006). Using inaccurate models in reinforcement learning. In
+Proceedings of the 23rd international conference on machine learning (pp. 1–8).
+Agrawal, P., Nair, A. V., Abbeel, P., Malik, J., & Levine, S. (2016). Learning to poke by poking: Experiential
+learning of intuitive physics. In Advances in neural information processing systems (pp. 5074–5082).
+Barto, A. G., Singh, S., & Chentanez, N. (2004). Intrinsically motivated learning of hierarchical collections
+of skills. In Proceedings of the 3rd international conference on development and learning (pp. 112–19).
+Bellman, R. (1957). A markovian decision process. Journal of Mathematics and Mechanics, 679–684.
+Blundell, C., Uria, B., Pritzel, A., Li, Y., Ruderman, A., Leibo, J. Z., . . . Hassabis, D. (2016). Model-free
+episodic control. arXiv preprint arXiv:1606.04460.
+Brafman, R. I., & Tennenholtz, M. (2002). R-max-a general polynomial time algorithm for near-optimal
+reinforcement learning. Journal of Machine Learning Research, 3(Oct), 213–231.
+Campbell, M., Hoane, A. J., & Hsu, F.-h. (2002). Deep blue. Artificial intelligence, 134(1-2), 57–83.
+Charness, N. (1981). Search in chess: Age and skill differences. Journal of Experimental Psychology:
+Human Perception and Performance, 7(2), 467.
+Cohen, J. D., McClure, S. M., & Angela, J. Y. (2007). Should i stay or should i go? how the human
+brain manages the trade-off between exploitation and exploration. Philosophical Transactions of the Royal
+Society of London B: Biological Sciences, 362(1481), 933–942.
+Daw, N. D., O’doherty, J. P., Dayan, P., Seymour, B., & Dolan, R. J. (2006). Cortical substrates for exploratory
+decisions in humans. Nature, 441(7095), 876–879.
+Dayan, P. (1993). Improving generalization for temporal difference learning: The successor representation.
+Neural Computation, 5(4), 613–624.
+Doll, B. B., Simon, D. A., & Daw, N. D. (2012). The ubiquity of model-based reinforcement learning.
+Current opinion in neurobiology, 22(6), 1075–1081.
+Duan, Y., Schulman, J., Chen, X., Bartlett, P. L., Sutskever, I., & Abbeel, P. (2016). rl2
+: Fast reinforcement
+learning via slow reinforcement learning. arXiv preprint arXiv:1611.02779.
+Duff, M., & Barto, A. (2002). Optimal learning: Computational procedures for bayes-adaptive markov
+decision processes. University of Massachusetts Amherst.
+83
+References 84
+Finn, C., Abbeel, P., & Levine, S. (2017). Model-agnostic meta-learning for fast adaptation of deep networks.
+arXiv preprint arXiv:1703.03400.
+Frank, M. J., Rudy, J. W., & O’Reilly, R. C. (2003). Transitivity, flexibility, conjunctive representations, and
+the hippocampus. ii. a computational analysis. Hippocampus, 13(3), 341–354.
+Gal, Y., & Ghahramani, Z. (2016). A theoretically grounded application of dropout in recurrent neural
+networks. In Advances in neural information processing systems (pp. 1019–1027).
+Garnelo, M., Arulkumaran, K., & Shanahan, M. (2016). Towards deep symbolic reinforcement learning.
+arXiv preprint arXiv:1609.05518.
+Glascher, J., Daw, N., Dayan, P., & O’Doherty, J. P. (2010). States versus rewards: dissociable neural ¨
+prediction error signals underlying model-based and model-free reinforcement learning. Neuron, 66(4),
+585–595.
+Glorot, X., & Bengio, Y. (2010). Understanding the difficulty of training deep feedforward neural networks.
+In Proceedings of the thirteenth international conference on artificial intelligence and statistics (pp. 249–
+256).
+Graves, A. (2016). Adaptive computation time for recurrent neural networks. arXiv preprint
+arXiv:1603.08983.
+Gu, S., Lillicrap, T., Sutskever, I., & Levine, S. (2016). Continuous deep q-learning with model-based
+acceleration. In International conference on machine learning (pp. 2829–2838).
+Gupta, A. S., van der Meer, M. A., Touretzky, D. S., & Redish, A. D. (2010). Hippocampal replay is not a
+simple function of experience. Neuron, 65(5), 695–705.
+Hausknecht, M., & Stone, P. (2015). Deep recurrent q-learning for partially observable mdps. CoRR,
+abs/1507.06527.
+Hester, T., Vecerik, M., Pietquin, O., Lanctot, M., Schaul, T., Piot, B., et al. (2018). Deep q-learning from
+demonstrations.
+Higgins, I., Matthey, L., Glorot, X., Pal, A., Uria, B., Blundell, C., . . . Lerchner, A. (2016). Early visual
+concept learning with unsupervised deep learning. arXiv preprint arXiv:1606.05579.
+Joel, D., Niv, Y., & Ruppin, E. (2002). Actor–critic models of the basal ganglia: New anatomical and
+computational perspectives. Neural networks, 15(4), 535–547.
+Johnson-Laird, P. N. (1983). Mental models: Towards a cognitive science of language, inference, and
+consciousness (No. 6). Harvard University Press.
+Jong, N., & Stone, P. (2006). Kernel-based models for reinforcement learning. In Icml workshop on kernel
+machines and reinforcement learning.
+Kingma, D. P., & Ba, J. (2014). Adam: A method for stochastic optimization. arXiv preprint
+arXiv:1412.6980.
+Kingma, D. P., & Welling, M. (2013). Auto-encoding variational bayes. arXiv preprint arXiv:1312.6114.
+Kool, W., McGuire, J. T., Wang, G. J., & Botvinick, M. M. (2013). Neural and behavioral evidence for an
+intrinsic cost of self-control. PLoS One, 8(8), e72626.
+References 85
+Kulkarni, T. D., Saeedi, A., Gautam, S., & Gershman, S. J. (2016). Deep successor reinforcement learning.
+arXiv preprint arXiv:1606.02396.
+Kumaran, D. (2012). What representations and computations underpin the contribution of the hippocampus
+to generalization and inference? Frontiers in human neuroscience, 6.
+Kumaran, D., Hassabis, D., & McClelland, J. L. (2016). What learning systems do intelligent agents need?
+complementary learning systems theory updated. Trends in Cognitive Sciences, 20(7), 512–534.
+Kumaran, D., & McClelland, J. L. (2012). Generalization through the recurrent interaction of episodic
+memories: a model of the hippocampal system. Psychological review, 119(3), 573.
+Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2016). Building machines that learn and
+think like people. arXiv preprint arXiv:1604.00289.
+Lange, S., & Riedmiller, M. (2010). Deep auto-encoder neural networks in reinforcement learning. In Neural
+networks (ijcnn), the 2010 international joint conference on (pp. 1–8).
+Li, L., Littman, M. L., & Mansley, C. R. (2009). Online exploration in least-squares policy iteration. In
+Proceedings of the 8th international conference on autonomous agents and multiagent systems-volume 2
+(pp. 733–739).
+Marr, D. (1971). Simple memory: a theory for archicortex. Philosophical transactions of the Royal Society
+of London. Series B, Biological sciences, 262(841), 23–81.
+McClelland, J. L. (1991). Stochastic interactive processes and the effect of context on perception. Cognitive
+Psychology, 23(1), 1–44.
+McClelland, J. L., McNaughton, B. L., & O’reilly, R. C. (1995). Why there are complementary learning
+systems in the hippocampus and neocortex. Psych. Review, 102(3), 419.
+Mirowski, P., Pascanu, R., Viola, F., Soyer, H., Ballard, A., Banino, A., . . . others (2016). Learning to
+navigate in complex environments. arXiv preprint arXiv:1611.03673.
+Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., . . . others (2015). Humanlevel control through deep reinforcement learning. Nature, 518(7540), 529–533.
+Momennejad, I., Russek, E. M., Cheong, J. H., Botvinick, M. M., Daw, N., & Gershman, S. J. (2017). The
+successor representation in human reinforcement learning. bioRxiv, 083824.
+O’Doherty, J. P., Dayan, P., Friston, K., Critchley, H., & Dolan, R. J. (2003). Temporal difference models
+and reward-related learning in the human brain. Neuron, 38(2), 329–337.
+Oh, J., Guo, X., Lee, H., Lewis, R. L., & Singh, S. (2015). Action-conditional video prediction using deep
+networks in atari games. In Advances in neural information processing systems (pp. 2863–2871).
+Ormoneit, D., & Sen, S. (2002). Kernel-based reinforcement learning. ´ Machine learning, 49(2), 161–178.
+Osband, I., Blundell, C., Pritzel, A., & Van Roy, B. (2016). Deep exploration via bootstrapped dqn. In
+Advances in neural information processing systems (pp. 4026–4034).
+Pathak, D., Agrawal, P., Efros, A. A., & Darrell, T. (2017). Curiosity-driven exploration by self-supervised
+prediction. arXiv preprint arXiv:1705.05363.
+Pritzel, A., Uria, B., Srinivasan, S., Puigdomenech, A., Vinyals, O., Hassabis, D., . . . Blundell, C. (2017). `
+References 86
+Neural episodic control. arXiv preprint arXiv:1703.01988.
+Rae, J., Hunt, J. J., Danihelka, I., Harley, T., Senior, A. W., Wayne, G., . . . Lillicrap, T. (2016). Scaling
+memory-augmented neural networks with sparse reads and writes. In Advances in neural information
+processing systems (pp. 3621–3629).
+Rescorla, R. A., Wagner, A. R., et al. (1972). A theory of pavlovian conditioning: Variations in the effectiveness of reinforcement and nonreinforcement. Classical conditioning II: Current research and theory,
+2, 64–99.
+Rumelhart, D. E. (1978). Schemata: The building blocks of cognition. Center for Human Information
+Processing, University of California, San Diego San Diego, CA.
+Rusu, A. A., Rabinowitz, N. C., Desjardins, G., Soyer, H., Kirkpatrick, J., Kavukcuoglu, K., . . . Hadsell, R.
+(2016). Progressive neural networks. arXiv preprint arXiv:1606.04671.
+Schaul, T., Quan, J., Antonoglou, I., & Silver, D. (2015). Prioritized experience replay. arXiv preprint
+arXiv:1511.05952.
+Shyam, P., Gupta, S., & Dukkipati, A. (2017). Attentive recurrent comparators. In International conference
+on machine learning (pp. 3173–3181).
+Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Van Den Driessche, G., . . . others (2016).
+Mastering the game of go with deep neural networks and tree search. Nature, 529(7587), 484–489.
+Stachenfeld, K. L., Botvinick, M. M., & Gershman, S. J. (2017). The hippocampus as a predictive map.
+bioRxiv, 097170.
+Thompson, W. R. (1933). On the likelihood that one unknown probability exceeds another in view of the
+evidence of two samples. Biometrika, 25(3/4), 285–294.
+Todorov, E. (2007). Linearly-solvable markov decision problems. In Advances in neural information processing systems (pp. 1369–1376).
+Todorov, E. (2009). Efficient computation of optimal actions. Proceedings of the national academy of
+sciences, 106(28), 11478–11483.
+Tse, D., Langston, R. F., Kakeyama, M., Bethus, I., Spooner, P. A., Wood, E. R., . . . Morris, R. G. (2007).
+Schemas and memory consolidation. Science, 316(5821), 76–82.
+Van Hasselt, H., Guez, A., & Silver, D. (2016). Deep reinforcement learning with double q-learning. In Aaai
+(pp. 2094–2100).
+Van Hasselt, H., & Wiering, M. A. (2007). Reinforcement learning in continuous action spaces. In Approximate dynamic programming and reinforcement learning, 2007. adprl 2007. ieee international symposium
+on (pp. 272–279).
+Vanseijen, H., & Sutton, R. (2015). A deeper look at planning as learning from replay. In Icml (pp. 2314–
+2322).
+Vinyals, O., Blundell, C., Lillicrap, T., Wierstra, D., et al. (2016). Matching networks for one shot learning.
+In Advances in neural information processing systems (pp. 3630–3638).
+Wang, J. X., Kurth-Nelson, Z., Tirumala, D., Soyer, H., Leibo, J. Z., Munos, R., . . . Botvinick, M. (2016).
+References 87
+Learning to reinforcement learn. arXiv preprint arXiv:1611.05763.
+Watter, M., Springenberg, J., Boedecker, J., & Riedmiller, M. (2015). Embed to control: A locally linear
+latent dynamics model for control from raw images. In Advances in neural information processing systems
+(pp. 2746–2754).

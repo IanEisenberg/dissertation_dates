@@ -1,0 +1,705 @@
+[Alain et al., 2003] Alain, G., Tam, W., and Zhang, L. (2003). Improving stereoscopic
+image quality of pictures generated from depth maps. Internal CRC report.
+[Alpern, 1979] Alpern, M. (1979). Lack of uniformity in colour matching. The Journal
+of physiology, 288:85.
+[Appelbaum et al., 2006] Appelbaum, L. G., Wade, A. R., Vildavski, V. Y., Pettet,
+M. W., and Norcia, A. M. (2006). Cue-invariant networks for figure and background
+processing in human visual cortex. Journal of Neuroscience, 26(45):11695–11708.
+[Aslankurt et al., 2013] Aslankurt, M., Aslan, L., Aksoy, A., zdemir, M., and Dane, .
+(2013). Laterality does not affect the depth perception, but interpupillary distance.
+Journal of ophthalmology, 2013.
+[Bach et al., 2001] Bach, M., Schmitt, C., Kromeier, M., and Kommerell, G. (2001).
+The freiburg stereoacuity test: automatic measurement of stereo threshold.
+Graefe’s archive for clinical and experimental ophthalmology, 239(8):562–566.
+[Backus et al., 2001] Backus, B. T., Fleet, D. J., Parker, A. J., and Heeger, D. J.
+(2001). Human cortical activity correlates with stereoscopic depth perception.
+Journal of neurophysiology, 86(4):2054–2068.
+[Bakdash and Marusich, 2017] Bakdash, J. Z. and Marusich, L. R. (2017). Repeated
+measures correlation. Frontiers in psychology, 8:456.
+106
+BIBLIOGRAPHY 107
+[Baker and Graf, 2009] Baker and Graf, E. W. (2009). Natural images dominate in
+binocular rivalry. Proceedings of the National Academy of Sciences, 106(13):5436–
+5441.
+[Baker et al., 2008] Baker, Yoonessi, A., and Arsenault, E. (2008). Texture segmentation in natural images: Contribution of higher-order image statistics to psychophysical performance. Journal of Vision, 8(6):350–350.
+[Banks et al., 2004] Banks, M. S., Gepshtein, S., and Landy, M. S. (2004). Why is
+spatial stereoresolution so low? Journal of Neuroscience, 24(9):2077–2089.
+[Bates et al., 2014] Bates, D., Mchler, M., Bolker, B., and Walker, S. (2014). Fitting
+linear mixed-effects models using lme4. arXiv preprint arXiv:1406.5823.
+[Berner and Berner, 1953] Berner, G. E. and Berner, D. E. (1953). Relation of ocular
+dominance, handedness, and the controlling eye in binocular vision. AMA archives
+of ophthalmology, 50(5):603–608.
+[Bieniek et al., 2012] Bieniek, M. M., Pernet, C. R., and Rousselet, G. A. (2012).
+Early erps to faces and objects are driven by phase, not amplitude spectrum information: evidence from parametric, test-retest, single-subject analyses. Journal of
+vision, 12(13):12–12.
+[Birch et al., 2008] Birch, E., Williams, C., Drover, J., Fu, V., Cheng, C., Northstone, K., Courage, M., and Adams, R. (2008). Randot preschool stereoacuity
+test: Normative data and validity. Journal of American Association for Pediatric
+Ophthalmology and Strabismus, 12(1):23–26.
+[Birch, 2013] Birch, E. E. (2013). Amblyopia and binocular vision. Progress in retinal
+and eye research, 33:67–84.
+[Blair and Karniski, 1993] Blair, R. C. and Karniski, W. (1993). An alternative
+method for significance testing of waveform difference potentials. Psychophysiology,
+30(5):518–524.
+BIBLIOGRAPHY 108
+[Blake and Wilson, 2011] Blake, R. and Wilson, H. (2011). Binocular vision. Vision
+research, 51(7):754–770.
+[Bohr and Read, 2013] Bohr, I. and Read, J. C. (2013). Stereoacuity with frisby and
+revised fd2 stereo tests. PloS one, 8(12):e82999.
+[Bosten et al., 2015] Bosten, J., Goodbourn, P., Lawrance-Owen, A., Bargary, G.,
+Hogg, R., and Mollon, J. (2015). A population study of binocular function. Vision
+research, 110:34–50.
+[Bradshaw et al., 2002] Bradshaw, M. F., Hibbard, P. B., and Gillam, B. (2002).
+Perceptual latencies to discriminate surface orientation in stereopsis. Perception
+and psychophysics, 64(1):32–40.
+[Bradshaw and Rogers, 1999] Bradshaw, M. F. and Rogers, B. J. (1999). Sensitivity to horizontal and vertical corrugations defined by binocular disparity. Vision
+research, 39(18):3049–3056.
+[Bulthoff and Mallot, 1988] Bulthoff, H. H. and Mallot, H. A. (1988). Integration of
+depth modules: stereo and shading. J Opt Soc Am A, 5(10):1749–58.
+[Burge et al., 2010] Burge, J., Fowlkes, C. C., and Banks, M. S. (2010). Naturalscene statistics predict how the figure-ground cue of convexity affects human depth
+perception. J Neurosci, 30(21):7269–80.
+[Burge et al., 2016] Burge, J., McCann, B. C., and Geisler, W. S. (2016). Estimating
+3d tilt from local image cues in natural scenes. Journal of Vision, 16(13):2–2.
+[Burge et al., 2005] Burge, J., Peterson, M. A., and Palmer, S. E. (2005). Ordinal
+configural cues combine with metric disparity in depth perception. J Vis, 5(6):534–
+42.
+[Cacho-Martnez et al., 2010] Cacho-Martnez, P., Garca-Muoz, ., and Ruiz-Cantero,
+M. T. (2010). Do we really know the prevalence of accomodative and nonstrabismic
+binocular dysfunctions? Journal of optometry, 3(4):185–197.
+BIBLIOGRAPHY 109
+[Campbell and Robson, 1968] Campbell, F. W. and Robson, J. (1968). Application of
+fourier analysis to the visibility of gratings. The Journal of physiology, 197(3):551.
+[Carandini et al., 2005] Carandini, M., Demb, J. B., Mante, V., Tolhurst, D. J., Dan,
+Y., Olshausen, B. A., Gallant, J. L., and Rust, N. C. (2005). Do we know what
+the early visual system does? J Neurosci, 25(46):10577–97.
+[Caziot et al., 2015] Caziot, B., Valsecchi, M., Gegenfurtner, K. R., and Backus, B. T.
+(2015). Fast perception of binocular disparity. Journal of Experimental Psychology:
+Human Perception and Performance, 41(4):909.
+[Chao et al., 1988] Chao, G.-M., Odom, J. V., and Karr, D. (1988). Dynamic
+stereoacuity: a comparison of electrophysiological and psychophysical responses
+in normal and stereoblind observers. Documenta ophthalmologica, 70(1):45–58.
+[Chen et al., 2000] Chen, C., Czerwinski, M., and Macredie, R. (2000). Individual
+differences in virtual environmentsintroduction and overview. Journal of the American Society for Information Science, 51(6):499–507.
+[Chen and Tyler, 2015] Chen, C. C. and Tyler, C. W. (2015). Shading beats binocular disparity in depth from luminance gradients: Evidence against a maximum
+likelihood principle for cue combination. PLoS One, 10(8):e0132658.
+[Chubb and Sperling, 1988] Chubb, C. and Sperling, G. (1988). Drift-balanced random stimuli: a general basis for studying non-fourier motion perception. JOSA A,
+5(11):1986–2007.
+[Clarke et al., 2015] Clarke, S. E., Longtin, A., and Maler, L. (2015). Contrast coding
+in the electrosensory system: parallels with visual computation. Nature Reviews
+Neuroscience.
+[Clifford et al., 2007] Clifford, C. W., Webster, M. A., Stanley, G. B., Stocker, A. A.,
+Kohn, A., Sharpee, T. O., and Schwartz, O. (2007). Visual adaptation: Neural,
+psychological and computational aspects. Vision research, 47(25):3125–3131.
+BIBLIOGRAPHY 110
+[Costa et al., 2010] Costa, M. F., Moreira, S. M., Hamer, R. D., and Ventura, D. F.
+(2010). Effects of age and optical blur on real depth stereoacuity. Ophthalmic and
+Physiological Optics, 30(5):660–666.
+[Cottereau et al., 2012] Cottereau, B. R., McKee, S. P., Ales, J. M., and Norcia,
+A. M. (2012). Disparity-specific spatial interactions: Evidence from eeg source
+imaging. The Journal of Neuroscience, 32(3):826–840.
+[Coutant and Westheimer, 1993] Coutant, B. E. and Westheimer, G. (1993). Population distribution of stereoscopic ability. Ophthalmic and Physiological Optics,
+13(1):3–7.
+[Cowey and Porter, 1979] Cowey, A. and Porter, J. (1979). Brain damage and global
+stereopsis. Proceedings of the Royal Society of London B: Biological Sciences,
+204(1157):399–407.
+[Cumming and Parker, 1994] Cumming, B. and Parker, A. (1994). Binocular mechanisms for detecting motion-in-depth. Vision research, 34(4):483–495.
+[Cumming and Parker, 1997] Cumming, B. G. and Parker, A. J. (1997). Responses
+of primary visual cortical neurons to binocular disparity without depth perception.
+Nature, 389(6648):280.
+[Cumming and Parker, 1999] Cumming, B. G. and Parker, A. J. (1999). Binocular
+neurons in v1 of awake monkeys are selective for absolute, not relative, disparity.
+The Journal of neuroscience, 19(13):5602–5618.
+[David et al., 2004] David, S. V., Vinje, W. E., and Gallant, J. L. (2004). Natural
+stimulus statistics alter the receptive field structure of v1 neurons. J Neurosci,
+24(31):6991–7006.
+[Didyk et al., ] Didyk, P., Ritschel, T., Eisemann, E., Myszkowski, K., and Seidel,
+H.-P. A perceptual model for disparity. In ACM Transactions on Graphics (TOG),
+volume 30, page 96. ACM.
+BIBLIOGRAPHY 111
+[Dieter et al., 2016] Dieter, K. C., Sy, J. L., and Blake, R. (2016). Individual differences in sensory eye dominance reflected in the dynamics of binocular rivalry.
+Vision Research.
+[Dmochowski et al., 2015] Dmochowski, J. P., Greaves, A. S., and Norcia, A. M.
+(2015). Maximally reliable spatial filtering of steady state visual evoked potentials.
+Neuroimage, 109:63–72.
+[Dmochowski et al., 2012] Dmochowski, J. P., Sajda, P., Dias, J., and Parra, L. C.
+(2012). Correlated components of ongoing eeg point to emotionally laden attentiona
+possible marker of engagement? Frontiers in human neuroscience, 6:112.
+[Dodgson, ] Dodgson, N. A. Variation and extrema of human interpupillary distance.
+In Electronic imaging 2004, pages 36–46. International Society for Optics and Photonics.
+[Doi et al., 2013] Doi, T., Takano, M., and Fujita, I. (2013). Temporal channels
+and disparity representations in stereoscopic depth perception. Journal of Vision,
+13(13):26–26.
+[Donner et al., 2009] Donner, T. H., Siegel, M., Fries, P., and Engel, A. K. (2009).
+Buildup of choice-predictive activity in human motor cortex during perceptual
+decision making. Current Biology, 19(18):1581–1585.
+[Dovencioglu et al., 2013] Dovencioglu, D., Ban, H., Schofield, A. J., and Welchman,
+A. E. (2013). Perceptual integration for qualitatively different 3-d cues in the
+human brain. J Cogn Neurosci, 25(9):1527–41.
+[Duan et al., 2018] Duan, Y., Yakovleva, A., and Norcia, A. M. (2018). Determinants
+of neural responses to disparity in natural scenes. Journal of vision, 18(3):21–21.
+[Durand and GOULD, 1910] Durand, A. and GOULD, G. M. (1910). A method
+of determining ocular dominance. Journal of the American Medical Association,
+55(5):369–370.
+BIBLIOGRAPHY 112
+[Edwards et al., 1998] Edwards, M., Pope, D. R., and Schor, C. M. (1998). Luminance, contrast and spatial-frequency tuning of the transient-vergence system.
+Vision Research, 38(5):705–717.
+[Edwards et al., 1999] Edwards, M., Pope, D. R., and Schor, C. M. (1999). Orientation tuning of the transient-stereopsis system. Vision Research, 39(16):2717–2727.
+[Ee and Erkelens, 1996] Ee, R. v. and Erkelens, C. J. (1996). Temporal aspects of
+binocular slant perception. Vision Research, 36:43–51.
+[Efron, 1957] Efron, R. (1957). Stereoscopic vision i. effect of binocular temporal
+summation. The British journal of ophthalmology, 41(12):709.
+[Ehrenstein et al., 2005] Ehrenstein, W. H., Arnold-Schulz-Gahmen, B. E., and
+Jaschinski, W. (2005). Eye preference within the context of binocular functions.
+Graefe’s Archive for Clinical and Experimental Ophthalmology, 243(9):926–932.
+[Emrith et al., 2010] Emrith, K., Chantler, M., Green, P., Maloney, L., and Clarke,
+A. (2010). Measuring perceived differences in surface texture due to changes in
+higher order statistics. JOSA A, 27(5):1232–1244.
+[Erkelens and Collewijn, ] Erkelens, C. and Collewijn, H. Stereopsis, vergence and
+motion perception during dichoptic vision of moving random-dot stereograms. In
+Experientia, volume 40, pages 1300–1301. BIRKHAUSER VERLAG AG PO BOX
+133 KLOSTERBERG 23, CH-4010 BASEL, SWITZERLAND.
+[Erkelens and Collewijn, 1985] Erkelens, C. and Collewijn, H. (1985). Eye movements
+and stereopsis during dichoptic viewing of moving random-dot stereograms. Vision
+research, 25(11):1689–1700.
+[Fahle et al., 2003] Fahle, M., Quenzer, T., Braun, C., and Spang, K. (2003). Featurespecific electrophysiological correlates of texture segregation. Vision Research,
+43(1):7–19.
+BIBLIOGRAPHY 113
+[Fahle and Westheimer, 1988] Fahle, M. and Westheimer, G. (1988). Local and global
+factors in disparity detection of rows of points. Vision Research, 28(1):171–178.
+[Fawcett, 2005] Fawcett, S. L. (2005). An evaluation of the agreement between
+contour-based circles and random dot-based near stereoacuity tests. Journal of
+American Association for Pediatric Ophthalmology and Strabismus, 9(6):572–578.
+[Fehn, ] Fehn, C. A 3d-tv approach using depth-image-based rendering (dibr). In
+Proc. of VIIP, volume 3.
+[Felsen and Dan, 2005] Felsen, G. and Dan, Y. (2005). A natural approach to studying vision. Nature neuroscience, 8(12):1643–1646.
+[Field, 1987] Field, D. J. (1987). Relations between the statistics of natural images
+and the response properties of cortical cells. JOSA A, 4(12):2379–2394.
+[Fielder and Moseley, 1996] Fielder, A. R. and Moseley, M. J. (1996). Does stereopsis
+matter in humans? Eye, 10(2):233–238.
+[Fischmeister and Bauer, 2006] Fischmeister, F. P. S. and Bauer, H. (2006). Neural
+correlates of monocular and binocular depth cues based on natural images: A loreta
+analysis. Vision research, 46(20):3373–3380.
+[Fisher et al., 2018] Fisher, A. J., Medaglia, J. D., and Jeronimus, B. F. (2018). Lack
+of group-to-individual generalizability is a threat to human subjects research. Proceedings of the National Academy of Sciences, page 201711978.
+[Fredenburg and Harwerth, 2001] Fredenburg, P. and Harwerth, R. S. (2001). The
+relative sensitivities of sensory and motor fusion to small binocular disparities.
+Vision research, 41(15):1969–1979.
+[Freeman et al., 2013] Freeman, J., Ziemba, C. M., Heeger, D. J., Simoncelli, E. P.,
+and Movshon, J. A. (2013). A functional and perceptual signature of the second
+visual area in primates. Nature neuroscience, 16(7):974.
+BIBLIOGRAPHY 114
+[Frisby et al., 1975] Frisby, J., Mein, J., Saye, A., and Stanworth, A. (1975). Use of
+random-dot sterograms in the clinical assessment of strabismic patients. British
+Journal of Ophthalmology, 59(10):545–552.
+[Gaebler et al., 2014] Gaebler, M., Biessmann, F., Lamke, J.-P., Mller, K.-R., Walter,
+H., and Hetzer, S. (2014). Stereoscopic depth increases intersubject correlations of
+brain networks. NeuroImage, 100:427–434.
+[Gantz and Bedell, 2008] Gantz, L. and Bedell, H. (2008). Variation of stereothreshold with random-dot density. Investigative Ophthalmology and Visual Science,
+49(13):2545–2545.
+[Garnham and Sloper, 2006] Garnham, L. and Sloper, J. (2006). Effect of age on
+adult stereoacuity as measured by different types of stereotest. British journal of
+ophthalmology, 90(1):91–95.
+[Geisler, 2008] Geisler, W. S. (2008). Visual perception and the statistical properties
+of natural scenes. Annu. Rev. Psychol., 59:167–192.
+[Geisler and Diehl, 2002] Geisler, W. S. and Diehl, R. L. (2002). Bayesian natural
+selection and the evolution of perceptual systems. Philosophical Transactions of
+the Royal Society of London B: Biological Sciences, 357(1420):419–448.
+[Geisler and Perry, 2011] Geisler, W. S. and Perry, J. S. (2011). Statistics for optimal
+point prediction in natural images. Journal of Vision, 11(12):14–14.
+[George et al., 1997] George, N., Jemel, B., Fiori, N., and Renault, B. (1997). Face
+and shape repetition effects in humans: a spatio-temporal erp study. Neuroreport,
+8(6):1417–1422.
+[Giaschi et al., 2013] Giaschi, D., Lo, R., Narasimhan, S., Lyons, C., and Wilcox,
+L. M. (2013). Sparing of coarse stereopsis in stereodeficient children with a history
+of amblyopia. Journal of vision, 13(10):17–17.
+BIBLIOGRAPHY 115
+[Gibaldi et al., 2017] Gibaldi, A., Canessa, A., and Sabatini, S. P. (2017). The active side of stereopsis: Fixation strategy and adaptation to natural environments.
+Scientific Reports, 7.
+[Gillam et al., 1988] Gillam, B., Chambers, D., and Russo, T. (1988). Postfusional
+latency in stereoscopic slant perception and the primitives of stereopsis. Journal
+of Experimental Psychology: Human Perception and Performance, 14(2):163.
+[Glennerster and McKee, 1999] Glennerster, A. and McKee, S. (1999). Bias and sensitivity of stereo judgements in the presence of a slanted reference plane. Vision
+research, 39(18):3057–3069.
+[Godek and Lawson, 1973] Godek, C. and Lawson, R. (1973). The effects of stimulus
+duration, time interval between stimuli, and disparity upon stereoscopic depth
+perception. The Psychological Record.
+[Gogel, 1961] Gogel, W. C. (1961). Convergence as a cue to absolute distance. The
+Journal of Psychology, 52(2):287–301.
+[Gold and Shadlen, 2007] Gold, J. I. and Shadlen, M. N. (2007). The neural basis of
+decision making. Annu. Rev. Neurosci., 30:535–574.
+[Goncalves et al., 2015] Goncalves, N. R., Ban, H., Snchez-Panchuelo, R. M., Francis,
+S. T., Schluppeck, D., and Welchman, A. E. (2015). 7 tesla fmri reveals systematic
+functional organization for binocular disparity in dorsal visual cortex. The Journal
+of Neuroscience, 35(7):3056–3072.
+[Grabowska, 1983] Grabowska, A. (1983). Lateral differences in the detection of
+stereoscopic depth. Neuropsychologia, 21(3):249–257.
+[Groen et al., 2013] Groen, I. I., Ghebreab, S., Prins, H., Lamme, V. A., and Scholte,
+H. S. (2013). From image statistics to scene gist: evoked neural activity reveals
+transition from low-level natural image structure to scene category. Journal of
+Neuroscience, 33(48):18814–18824.
+BIBLIOGRAPHY 116
+[Gullstrand and von Helmholtz, 1909] Gullstrand, A. and von Helmholtz, H. (1909).
+Handbuch der physiologischen Optik. 1. Die Dioptrik des Auges. Voss.
+[Halgren et al., 2000] Halgren, E., Raij, T., Marinkovic, K., Jousmki, V., and Hari,
+R. (2000). Cognitive response profile of the human fusiform face area as determined
+by meg. Cerebral cortex, 10(1):69–81.
+[Hamsher, 1978] Hamsher, K. (1978). Stereopsis and unilateral brain disease. Investigative ophthalmology and visual science, 17(4):336–343.
+[Handa et al., 2004] Handa, T., Mukuno, K., Uozato, H., Niida, T., Shoji, N., and
+Shimizu, K. (2004). Effects of dominant and nondominant eyes in binocular rivalry.
+Optometry and Vision Science, 81(5):377–383.
+[Handa et al., 2006] Handa, T., Uozato, H., Higa, R., Nitta, M., Kawamorita, T.,
+Ishikawa, H., Shoji, N., and Shimizu, K. (2006). Quantitative measurement of ocular dominance using binocular rivalry induced by retinometers. Journal of Cataract
+and Refractive Surgery, 32(5):831–836.
+[Hanes and Schall, 1996] Hanes, D. P. and Schall, J. D. (1996). Neural control of
+voluntary movement initiation. Science, 274(5286):427.
+[Hansen et al., 2011] Hansen, B. C., Jacques, T., Johnson, A. P., and Ellemberg,
+D. (2011). From spatial frequency contrast to edge preponderance: the differential modulation of early visual evoked potentials by natural scene stimuli. Visual
+neuroscience, 28(3):221–237.
+[Harris et al., 2008] Harris, J. M., Nefs, H. T., and Grafton, C. E. (2008). Binocular
+vision and motion-in-depth. Spatial vision, 21(6):531–547.
+[Harris, 2006] Harris, J. R. (2006). No two alike. Human nature and human individuality.
+BIBLIOGRAPHY 117
+[Harris et al., ] Harris, Y., Wilcox, L., Moroz-Harris, A., Day, C., and Smith, S.
+Depth percepts from large disparities: Individuals with strabismus outperform a
+visually normal control group. In Investigative Ophthalmology and Visual Science,
+volume 41, pages S813–S813. ASSOC RESEARCH VISION OPHTHALMOLOGY
+INC 9650 ROCKVILLE PIKE, BETHESDA, MD 20814-3998 USA.
+[Hartley and Zisserman, 2003] Hartley, R. and Zisserman, A. (2003). Multiple view
+geometry in computer vision. Cambridge university press.
+[Harwerth and Rawlings, 1977] Harwerth, R. S. and Rawlings, S. C. (1977). Viewing
+time and stereoscopic threshold with random-dot stereograms. Optometry and
+Vision Science, 54(7):452–457.
+[Haufe et al., 2014] Haufe, S., Meinecke, F., Grgen, K., Dhne, S., Haynes, J.-D.,
+Blankertz, B., and Biemann, F. (2014). On the interpretation of weight vectors of
+linear models in multivariate neuroimaging. Neuroimage, 87:96–110.
+[He et al., 2015] He, W., Brock, J., and Johnson, B. W. (2015). Face processing in the
+brains of pre-school aged children measured with meg. NeuroImage, 106:317–327.
+[Hering, 1942] Hering, E. (1942). Spatial sense and movements of the eyes translated
+by ca radde (baltimore: American academy of optometry).
+[Heron et al., 1985] Heron, G., DHOLAKIA, S., COLLINS, D. E., and McLAUGHLAN, H. (1985). Stereoscopic threshold in children and adults. Optometry and
+Vision Science, 62(8):505–515.
+[Heron and Lages, 2012] Heron, S. and Lages, M. (2012). Screening and sampling in
+studies of binocular vision. Vision research, 62:228–234.
+[Herring and Bechtoldt, 1981] Herring, R. D. and Bechtoldt, H. P. (1981). Categorical perception of stereoscopic stimuli. Perception and psychophysics, 29(2):129–137.
+BIBLIOGRAPHY 118
+[Hess and Wilcox, 1994] Hess, R. F. and Wilcox, L. M. (1994). Linear and non-linear
+filtering in stereopsis. Vision Research, 34(18):2431–2438.
+[Hillebrand, 1893] Hillebrand, F. (1893). Die stabilitt der kaumwerte auf der netzhaut. Zeitschrift fr Psychologie und Physiologie der Sinnesorgane, 5.
+[Hillis et al., 2002] Hillis, J. M., Ernst, M. O., Banks, M. S., and Landy, M. S. (2002).
+Combining sensory information: mandatory fusion within, but not between, senses.
+Science, 298(5598):1627–30.
+[Hoffman et al., 2008] Hoffman, D. M., Girshick, A. R., Akeley, K., and Banks, M. S.
+(2008). Vergenceaccommodation conflicts hinder visual performance and cause
+visual fatigue. Journal of vision, 8(3):33–33.
+[Hokoda, 1985] Hokoda, S. (1985). General binocular dysfunctions in an urban optometry clinic. Journal of the American Optometric Association, 56(7):560–562.
+[Hong and Park, 2008] Hong, S. W. and Park, S. C. (2008). Development of distant
+stereoacuity in visually normal children as measured by the frisbydavis distance
+stereotest. British Journal of Ophthalmology, 92(9):1186–1189.
+[Howard, 1919a] Howard, C. H. J. (1919a). A test for the judgment of distance.
+American Journal of ophthalmology, 2(9):656–675.
+[Howard, 1919b] Howard, H. J. (1919b). A test for the judgment of distance. Transactions of the American Ophthalmological Society, 17:195.
+[Howard, 2012] Howard, I. P. (2012). Perceiving in depth, volume 1: basic mechanisms. Oxford University Press.
+[Howard and Rogers, 2002] Howard, I. P. and Rogers, B. J. (2002). Seeing in depth,
+volume 2: Depth perception. Ontario, Canada: I. Porteous.
+[Howarth, 2011] Howarth, P. (2011). The geometric horopter. Vision research,
+51(4):397–399.
+BIBLIOGRAPHY 119
+[Hunter and Hibbard, 2015] Hunter, D. W. and Hibbard, P. B. (2015). Distribution of
+independent components of binocular natural images. Journal of vision, 15(13):6–6.
+[Jones, 1977] Jones, R. (1977). Anomalies of disparity detection in the human visual
+system. The Journal of physiology, 264(3):621.
+[Jones, 1980] Jones, R. (1980). Fusional vergence: sustained and transient components. Optometry and Vision Science, 57(9):640–644.
+[Joubert et al., 2009] Joubert, O. R., Rousselet, G. A., Fabre-Thorpe, M., and Fize,
+D. (2009). Rapid visual categorization of natural scene contexts with equalized
+amplitude spectrum and increasing phase noise. Journal of Vision, 9(1):2–2.
+[Julesz, 1960] Julesz, B. (1960). Binocular depth perception of computergenerated
+patterns. Bell Labs Technical Journal, 39(5):1125–1162.
+[Julesz, 1971] Julesz, B. (1971). Foundations of cyclopean perception.
+[Julesz et al., 1980] Julesz, B., Kropfl, W., and Petrig, B. (1980). Large evoked potentials to dynamic random-dot correlograms and stereograms permit quick determination of stereopsis. Proceedings of the National Academy of Sciences, 77(4):2348–
+2351.
+[Kanai and Rees, 2011] Kanai, R. and Rees, G. (2011). The structural basis of interindividual differences in human behaviour and cognition. Nature Reviews Neuroscience, 12(4):231–242.
+[Kaplan, 1991] Kaplan, E. (1991). The receptive field structure of retinal ganglion
+cells in cat and monkey. Vision and visual dysfunction. CRC, Boston, pages 10–40.
+[Kaye et al., 1999] Kaye, S. B., Siddiqui, A., Ward, A., Noonan, C., Fisher, A. C.,
+BROWN, M. C., WAREING, P. A., WATT, P., and GREEN, J. R. (1999). Monocular and binocular depth discrimination thresholds. Optometry and Vision Science,
+76(11):770–782.
+BIBLIOGRAPHY 120
+[Kennedy et al., 2010] Kennedy, R. S., Drexler, J., and Kennedy, R. C. (2010). Research in visually induced motion sickness. Applied ergonomics, 41(4):494–503.
+[Koenig et al., 2011] Koenig, T., Kottlow, M., Stein, M., and Melie-Garca, L. (2011).
+Ragu: a free tool for the analysis of eeg and meg event-related scalp field data using global randomization statistics. Computational Intelligence and Neuroscience,
+2011:4.
+[Kommerell et al., 2003] Kommerell, G., Schmitt, C., Kromeier, M., and Bach, M.
+(2003). Ocular prevalence versus ocular dominance. Vision Research, 43(12):1397–
+1403.
+[Kromeier et al., 2006] Kromeier, M., Heinrich, S. P., Bach, M., and Kommerell, G.
+(2006). Ocular prevalence and stereoacuity. Ophthalmic and Physiological Optics,
+26(1):50–56.
+[Kumar and Glaser, 1992] Kumar, T. and Glaser, D. A. (1992). Depth discrimination
+of a line is improved by adding other nearby lines. Vision research, 32(9):1667–1676.
+[Knig and Garcia, 2009] Knig, T. and Garcia, L. (2009). q 4 statistical analysis of
+multichannel’scalp eld data. Electrical neuroimaging, page 169.
+[Landers and Cormack, 1997] Landers, D. D. and Cormack, L. K. (1997). Asymmetries and errors in perception of depth from disparity suggest a multicomponent
+model of disparity processing. Perception and psychophysics, 59(2):219–231.
+[Lara et al., 2001] Lara, F., Cacho, P., Garca, ., and Megas, R. (2001). General
+binocular disorders: prevalence in a clinic population. Ophthalmic and Physiological
+Optics, 21(1):70–74.
+[Lehmann and Julesz, 1978] Lehmann, D. and Julesz, B. (1978). Lateralized cortical
+potentials evoked in humans by dynamic random-dot stereograms. Vision research,
+18(10):1265–1271.
+BIBLIOGRAPHY 121
+[Lehmann and Skrandies, 1980] Lehmann, D. and Skrandies, W. (1980). Referencefree identification of components of checkerboard-evoked multichannel potential
+fields. Electroencephalography and clinical neurophysiology, 48(6):609–621.
+[Li et al., 2010] Li, J., Lam, C. S., Yu, M., Hess, R. F., Chan, L. Y., Maehara, G.,
+Woo, G. C., and Thompson, B. (2010). Quantifying sensory eye dominance in the
+normal visual system: a new technique and insights into variation across traditional
+tests. Investigative Ophthalmology and Visual Science, 51(12):6875–6881.
+[Liu et al., 2008] Liu, Y., Bovik, A. C., and Cormack, L. K. (2008). Disparity statistics in natural scenes. Journal of Vision, 8(11):19–19.
+[Lopes-Ferreira et al., 2013] Lopes-Ferreira, D., Neves, H., Queiros, A., FariaRibeiro, M., Peixoto-de Matos, S., and Gonzlez-Mijome, J. M. (2013). Ocular
+dominance and visual function testing. BioMed research international, 2013.
+[Luck and Kappenman, 2011] Luck, S. J. and Kappenman, E. S. (2011). The Oxford
+handbook of event-related potential components. Oxford university press.
+[Manning et al., 1992] Manning, M. L., Finlay, D. C., Dewis, S. A., and Dunlop,
+D. B. (1992). Detection duration thresholds and evoked potential measures of
+stereosensitivity. Documenta ophthalmologica, 79(2):161–175.
+[Mazyn et al., 2004] Mazyn, L. I., Lenoir, M., Montagne, G., and Savelsbergh, G. J.
+(2004). The contribution of stereo vision to one-handed catching. Experimental
+Brain Research, 157(3):383–390.
+[McCann, 2015] McCann, B. C. (2015). Naturalistic depth perception. Thesis.
+[McColl et al., 2000] McColl, S. L., Ziegler, L., and Hess, R. F. (2000). Stereodeficient
+subjects demonstrate non-linear stereopsis. Vision research, 40(9):1167–1177.
+[McKee, 1983] McKee, S. P. (1983). The spatial requirements for fine stereoacuity.
+Vision research, 23(2):191–198.
+BIBLIOGRAPHY 122
+[McKee and Taylor, 2010] McKee, S. P. and Taylor, D. G. (2010). The precision of
+binocular and monocular depth judgments in natural settings. Journal of vision,
+10(10):5–5.
+[McKee et al., 2004] McKee, S. P., Verghese, P., and Farell, B. (2004). What is the
+depth of a sinusoidal grating? Journal of Vision, 4(7):1–1.
+[McKee et al., 2005] McKee, S. P., Verghese, P., and Farell, B. (2005). Stereo sensitivity depends on stereo matching. Journal of vision, 5(10):3–3.
+[McMillan, 1997] McMillan, L. (1997). An image-based approach to three-dimensional
+computer graphics. Thesis.
+[Merigan and Maunsell, 1993] Merigan, W. H. and Maunsell, J. H. (1993). How parallel are the primate visual pathways? Annual review of neuroscience, 16(1):369–
+402.
+[Michel et al., 1992] Michel, C. M., Henggeler, B., and Lehmann, D. (1992). 42-
+channel potential map series to visual contrast and stereo stimuli: perceptual
+and cognitive event-related segments. International Journal of Psychophysiology,
+12(2):133–145.
+[Mitchell, 1970] Mitchell, D. E. (1970). Properties of stimuli eliciting vergence eye
+movements and stereopsis. Vision research, 10(2):145–162.
+[Morel et al., 2009] Morel, S., Ponz, A., Mercier, M., Vuilleumier, P., and George, N.
+(2009). Eeg-meg evidence for early differential repetition effects for fearful, happy
+and neutral faces. Brain Research, 1254:84–98.
+[Morgan et al., 1991] Morgan, M., Ross, J., and Hayes, A. (1991). The relative importance of local phase and local amplitude in patchwise image reconstruction.
+Biological Cybernetics, 65(2):113–119.
+BIBLIOGRAPHY 123
+[MouchetantRostaing et al., 2000] MouchetantRostaing, Y., Giard, M., Bentin, S.,
+Aguera, P., and Pernier, J. (2000). Neurophysiological correlates of face gender
+processing in humans. European Journal of Neuroscience, 12(1):303–310.
+[Murray et al., 2008] Murray, M. M., Brunet, D., and Michel, C. M. (2008). Topographic erp analyses: a step-by-step tutorial review. Brain topography, 20(4):249–
+264.
+[Mustillo, 1985] Mustillo, P. (1985). Binocular mechanisms mediating crossed and
+uncrossed stereopsis. Psychological bulletin, 97(2):187.
+[Nefs and Harris, 2010] Nefs, H. T. and Harris, J. M. (2010). What visual information
+is used for stereoscopic depth displacement discrimination? Perception, 39(6):727–
+744.
+[Nefs et al., 2010] Nefs, H. T., O’hare, L., and Harris, J. M. (2010). Two independent
+mechanisms for motion-in-depth perception: Evidence from individual differences.
+Frontiers in Psychology, 1:155.
+[Neill and Fenelon, 1988] Neill, R. and Fenelon, B. (1988). Scalp response topography to dynamic random dot stereograms. Electroencephalography and clinical
+neurophysiology, 69(3):209–217.
+[Neri et al., 2004] Neri, P., Bridge, H., and Heeger, D. J. (2004). Stereoscopic processing of absolute and relative disparity in human visual cortex. Journal of Neurophysiology, 92(3):1880–1891.
+[Neri et al., 1999] Neri, P., Parker, A. J., and Blakemore, C. (1999). Probing the
+human stereoscopic system with reverse correlation. Nature, 401(6754):695.
+[Newhouse and Uttal, 1982] Newhouse, M. and Uttal, W. R. (1982). Distribution of
+stereoanomalies in the general population. Bulletin of the Psychonomic Society,
+20(1):48–50.
+BIBLIOGRAPHY 124
+[Norcia and Gerhard, 2015] Norcia, A. M. and Gerhard, H. E. (2015). Development of
+three-dimensional perception in human infants. Annual Review of Vision Science,
+1:569–594.
+[Norcia et al., 1985] Norcia, A. M., Suiter, E. E., and Tyler, C. W. (1985). Electrophysiological evidence for the existence of coarse and fine disparity mechanisms in
+human. Vision research, 25(11):1603–1611.
+[Nmeth et al., 2014] Nmeth, K., Zimmer, M., Schweinberger, S. R., Vakli, P., and
+Kovcs, G. (2014). The background of reduced face specificity of n170 in congenital
+prosopagnosia. PLoS One, 9(7):e101393.
+[O’connell et al., 2012] O’connell, R. G., Dockree, P. M., and Kelly, S. P. (2012). A
+supramodal accumulation-to-bound signal that determines perceptual decisions in
+humans. Nature neuroscience, 15(12):1729–1735.
+[Odell et al., 2009] Odell, N. V., Hatt, S. R., Leske, D. A., Adams, W. E., and
+Holmes, J. M. (2009). The effect of induced monocular blur on measures of
+stereoacuity. Journal of American Association for Pediatric Ophthalmology and
+Strabismus, 13(2):136–141.
+[Ogawa and Macaluso, 2015] Ogawa, A. and Macaluso, E. (2015). Orienting of visuospatial attention in complex 3d space: Search and detection. Human brain
+mapping, 36(6):2231–2247.
+[Ogle, 1952a] Ogle, K. N. (1952a). Disparity limits of stereopsis. AMA archives of
+ophthalmology, 48(1):50–60.
+[Ogle, 1952b] Ogle, K. N. (1952b). On the limits of stereoscopic vision. Journal of
+experimental psychology, 44(4):253.
+[Ogle, 1953] Ogle, K. N. (1953). Precision and validity of stereoscopic depth perception from double images. JOSA, 43(10):906–913.
+BIBLIOGRAPHY 125
+[OGLE and Weil, 1958] OGLE, K. N. and Weil, M. P. (1958). Stereoscopic vision
+and the duration of the stimulus. AMA archives of ophthalmology, 59(1):4–17.
+[Ohzawa, 1998] Ohzawa, I. (1998). Mechanisms of stereoscopic vision: the disparity
+energy model. Current opinion in neurobiology, 8(4):509–515.
+[Ooi and He, 2001] Ooi, T. L. and He, Z. J. (2001). Sensory eye dominance. Optometry (St. Louis, Mo.), 72(3):168–178.
+[Oppenheim and Lim, 1981] Oppenheim, A. V. and Lim, J. S. (1981). The importance of phase in signals. Proceedings of the IEEE, 69(5):529–541.
+[Pageau et al., 2011] Pageau, M., De Guise, D., and Saint-Amour, D. (2011). [local and global stereopsis in children with microstrabismus]. Canadian journal of
+ophthalmology. Journal canadien d’ophtalmologie, 46(3):271–275.
+[Palmer, 1999] Palmer, S. E. (1999). Vision science: Photons to phenomenology.
+MIT press.
+[Parker, 2007] Parker, A. J. (2007). Binocular depth perception and the cerebral
+cortex. Nature Reviews Neuroscience, 8(5):379–391.
+[Parra et al., 2005] Parra, L. C., Spence, C. D., Gerson, A. D., and Sajda, P. (2005).
+Recipes for the linear analysis of eeg. Neuroimage, 28(2):326–341.
+[Patterson, 2015] Patterson (2015). Human factors of stereoscopic 3D displays.
+Springer.
+[Patterson and Martin, 1992a] Patterson and Martin, W. L. (1992a). Human stereopsis. Human Factors: The Journal of the Human Factors and Ergonomics Society,
+34(6):669–692.
+[Patterson and Fox, 1984] Patterson, R. and Fox, R. (1984). The effect of testing
+method on stereoanomaly. Vision Research, 24(5):403–408.
+BIBLIOGRAPHY 126
+[Patterson and Martin, 1992b] Patterson, R. and Martin, W. L. (1992b). Human
+stereopsis. Human Factors: The Journal of the Human Factors and Ergonomics
+Society, 34(6):669–692.
+[Perry and Singh, 2014] Perry, G. and Singh, K. D. (2014). Localizing evoked and
+induced responses to faces using magnetoencephalography. European Journal of
+Neuroscience, 39(9):1517–1527.
+[Peterzell, 2016] Peterzell, D. H. (2016). Discovering sensory processes using individual differences: A review and factor analytic manifesto. Electronic Imaging,
+2016(16):1–11.
+[Poggio and Fischer, 1977] Poggio, G. and Fischer, B. (1977). Binocular interaction
+and depth sensitivity in striate and prestriate cortex of behaving rhesus monkey.
+Journal of Neurophysiology, 40(6):1392–1405.
+[Poggio et al., 1988] Poggio, G., Gonzalez, F., and Krause, F. (1988). The relationship between absolute disparity and ocular vergence. Journal of Neuroscience,
+8:4531–4550.
+[Porcar and Martinez-Palomera, 1997] Porcar, E. and Martinez-Palomera, A. (1997).
+Prevalence of general binocular dysfunctions in a population of university students.
+Optometry and Vision Science, 74(2):111–113.
+[Portilla and Simoncelli, 2000] Portilla, J. and Simoncelli, E. P. (2000). A parametric
+texture model based on joint statistics of complex wavelet coefficients. International
+journal of computer vision, 40(1):49–70.
+[Pouget et al., 2005] Pouget, P., Emeric, E. E., Stuphorn, V., Reis, K., and Schall,
+J. D. (2005). Chronometry of visual responses in frontal eye field, supplementary
+eye field, and anterior cingulate cortex. Journal of Neurophysiology, 94(3):2086–
+2092.
+BIBLIOGRAPHY 127
+[Pressmar and Haase, 2001] Pressmar, S. and Haase, W. (2001). [effects on depth
+perception and pattern recognition in random dot stereograms by changing the
+matrix dot density]. Der Ophthalmologe: Zeitschrift der Deutschen Ophthalmologischen Gesellschaft, 98(10):955–959.
+[Prince and Eagle, 2000] Prince, S. J. and Eagle, R. A. (2000). Stereo correspondence
+in one-dimensional gabor stimuli. Vision research, 40(8):913–924.
+[PTITO et al., 1991] PTITO, A., ZATORRE, R. J., LARSON, W. L., and TOSONI,
+C. (1991). Stereopsis after unilateral anterior temporal lobectomy. Brain,
+114(3):1323–1333.
+[Rambold et al., 2010] Rambold, H. A., Sheliga, B. M., and Miles, F. A. (2010).
+Evidence from vergence eye movements that disparities defined by luminance and
+contrast are sensed by independent mechanisms. Journal of vision, 10(14):31–31.
+[Rashbass and Westheimer, 1961] Rashbass, C. and Westheimer, G. (1961). Disjunctive eye movements. The Journal of Physiology, 159(2):339.
+[Read and Cumming, 2017] Read, J. C. and Cumming, B. G. (2017). Visual perception: Neural networks for stereopsis. Current Biology, 27(12):R594–R596.
+[Regan, 1982] Regan, D. (1982). Visual information channeling in normal and disordered vision. Psychological Review, 89(4):407.
+[Regan, 1993] Regan, D. (1993). Binocular correlates of the direction of motion in
+depth. Vision research, 33(16):2359–2360.
+[Regan and Beverley, 1973] Regan, D. and Beverley, I. (1973). Electrophysiological
+evidence for existence of neurones sensitive to direction of depth movement. Nature.
+[Regan et al., 1986a] Regan, D., Erkelens, C., and Collewijn, H. (1986a). Necessary
+conditions for the perception of motion in depth. Investigative Ophthalmology and
+Visual Science, 27(4):584–597.
+BIBLIOGRAPHY 128
+[Regan et al., 1986b] Regan, D., Erkelens, C., and Collewijn, H. (1986b). Visual field
+defects for vergence eye movements and for stereomotion perception. Investigative
+ophthalmology and visual science, 27(5):806–819.
+[Regan and Spekreijse, 1970] Regan, D. and Spekreijse, H. (1970). Electrophysiological correlate of binocular depth perception in man.
+[Reynaud et al., 2015] Reynaud, A., Gao, Y., and Hess, R. F. (2015). A normative
+dataset on human global stereopsis using the quick disparity sensitivity function
+(qdsf). Vision research, 113:97–103.
+[Richards, 1970] Richards, W. (1970). Stereopsis and stereoblindness. Experimental
+Brain Research, 10(4):380–388.
+[Richards, 1971a] Richards, W. (1971a). Anomalous stereoscopic depth perception.
+JOSA, 61(3):410–414.
+[Richards, 1971b] Richards, W. (1971b). Independence of panum’s near and far limits*. Optometry and Vision Science, 48(2):103–109.
+[Richards and Foley, 1971] Richards, W. and Foley, J. M. (1971). Interhemispheric
+processing of binocular disparity. JOSA, 61(3):419–421.
+[Richards and Miller, 1969] Richards, W. and Miller, J. F. (1969). Convergence as a
+cue to depth. Perception and Psychophysics, 5(5):317–320.
+[Richman and Laudon, 2002] Richman, J. and Laudon, R. (2002). A survey of the
+prevalence of binocularin a sample of optometry students. Journal of Behavioral
+Optometry, 13(2):31–33.
+[Rokers et al., 2009] Rokers, B., Cormack, L. K., and Huk, A. C. (2009). Disparityand velocity-based signals for three-dimensional motion perception in human mt+.
+Nature neuroscience, 12(8):1050–1055.
+BIBLIOGRAPHY 129
+[Rose and Price, 1995] Rose, D. and Price, E. (1995). Functional separation of global
+and local stereopsis investigated by cross-adaptation. Neuropsychologia, 33(3):269–
+274.
+[Rousselet et al., 2005] Rousselet, G. A., Husk, J. S., Bennett, P. J., and Sekuler,
+A. B. (2005). Spatial scaling factors explain eccentricity effects on face erps. Journal
+of vision, 5(10):1–1.
+[Rousselet et al., 2008a] Rousselet, G. A., Husk, J. S., Bennett, P. J., and Sekuler,
+A. B. (2008a). Time course and robustness of erp object and face differences.
+Journal of vision, 8(12):3–3.
+[Rousselet et al., 2008b] Rousselet, G. A., Pernet, C. R., Bennett, P. J., and Sekuler,
+A. B. (2008b). Parametric study of eeg sensitivity to phase noise during face
+processing. BMC neuroscience, 9(1):98.
+[Scheiman et al., 2005] Scheiman, M., Cotter, S., Rouse, M., Mitchell, G., Kulp, M.,
+Cooper, J., and Borsting, E. (2005). Convergence insufficiency treatment trial
+study grou p: Randomised clinical trial of the effectiveness of base-in prism reading
+glasses versus placebo reading glasses for symptomatic convergence insufficiency in
+children. Br J Ophthalmol, 89:1318–1323.
+[Schmolesky et al., 1998] Schmolesky, M. T., Wang, Y., Hanes, D. P., Thompson,
+K. G., Leutgeb, S., Schall, J. D., and Leventhal, A. G. (1998). Signal timing across
+the macaque visual system. Journal of neurophysiology, 79(6):3272–3278.
+[Scholte et al., 2009] Scholte, H. S., Ghebreab, S., Waldorp, L., Smeulders, A. W.,
+and Lamme, V. A. (2009). Brain responses strongly correlate with weibull image
+statistics when processing natural images. Journal of Vision, 9(4):29–29.
+[Schor and Wood, 1983] Schor, C. M. and Wood, I. (1983). Disparity range for
+local stereopsis as a function of luminance spatial frequency. Vision research,
+23(12):1649–1654.
+BIBLIOGRAPHY 130
+[Seeck et al., 1997] Seeck, M., Michel, C. M., Mainwaring, N., Cosgrove, R., Blume,
+H., Ives, J., Landis, T., and Schomer, D. L. (1997). Evidence for rapid face recognition from human scalp and intracranial electrodes. Neuroreport, 8(12):2749–2754.
+[Shapley, 2009] Shapley, R. (2009). Linear and nonlinear systems analysis of the
+visual system: Why does it seem so linear?: A review dedicated to the memory of
+henk spekreijse. Vision research, 49(9):907–921.
+[SHIMONO, 1984] SHIMONO, K. (1984). Evidence for the subsystems in stereopsis:
+fine and coarse stereopsis. Japanese psychological research, 26(3):168–172.
+[Shimono et al., 1982] Shimono, K., Kondo, M., Shibuta, K., and Nakamizo, S.
+(1982). [psychophysical and vergence responses of normal and stereoanomalous
+observers to pulse-disparity stimulus]. Shinrigaku kenkyu: The Japanese journal of
+psychology, 53(3):136–143.
+[Simoncelli, 2003] Simoncelli, E. P. (2003). Vision and the statistics of the visual
+environment. Current opinion in neurobiology, 13(2):144–149.
+[Simoncelli and Olshausen, 2001] Simoncelli, E. P. and Olshausen, B. A. (2001). Natural image statistics and neural representation. Annual review of neuroscience,
+24(1):1193–1216.
+[Simons, 1981] Simons, K. (1981). A comparison of the frisby, random-dot e, tno, and
+randot circles stereotests in screening and office use. Archives of ophthalmology,
+99(3):446–452.
+[Skrandies, 1990] Skrandies, W. (1990). Global field power and topographic similarity. Brain topography, 3(1):137–141.
+[Skrandies, 1991] Skrandies, W. (1991). Contrast and stereoscopic visual stimuli yield
+lateralized scalp potential fields associated with different neural generators. Electroencephalography and clinical neurophysiology, 78(4):274–283.
+BIBLIOGRAPHY 131
+[Skrandies, 2001] Skrandies, W. (2001). The processing of stereoscopic information
+in human visual cortex: psychophysical and electrophysiological evidence. Clinical
+Electroencephalography, 32(3):152–159.
+[Smith and Ratcliff, 2004] Smith, P. L. and Ratcliff, R. (2004). Psychology and neurobiology of simple decisions. Trends in neurosciences, 27(3):161–168.
+[Smith and Vickers, 1988] Smith, P. L. and Vickers, D. (1988). The accumulator model of two-choice discrimination. Journal of Mathematical Psychology,
+32(2):135–168.
+[Smith et al., 1976] Smith, V. C., Pokorny, J., and Starr, S. J. (1976). Variability
+of color mixture datai. interobserver variability in the unit coordinates. Vision
+research, 16(10):1087–1094.
+[Snow et al., 2011] Snow, J. C., Pettypiece, C. E., McAdam, T. D., McLean, A. D.,
+Stroman, P. W., Goodale, M. A., and Culham, J. C. (2011). Bringing the real world
+into the fmri scanner: Repetition effects for pictures versus real objects. Scientific
+reports, 1:130.
+[Stelmach and Tam, ] Stelmach, L. B. and Tam, W. J. Stereo-anomalous vision in a
+sample of young adults. In Human Vision and Electronic Imaging, volume 2657,
+pages 302–307. International Society for Optics and Photonics.
+[Suttle et al., 2009] Suttle, C., Alexander, J., Liu, M., Ng, S., Poon, J., and Tran, T.
+(2009). Sensory ocular dominance based on resolution acuity, contrast sensitivity
+and alignment sensitivity. Clinical and experimental optometry, 92(1):2–8.
+[Tam et al., ] Tam, W. J., Alain, G., Zhang, L., Martin, T., and Renaud, R. Smoothing depth maps for improved steroscopic image quality. In Optics East, pages
+162–172. International Society for Optics and Photonics.
+BIBLIOGRAPHY 132
+[Tanaka and Ohzawa, 2006] Tanaka, H. and Ohzawa, I. (2006). Neural basis for stereopsis from second-order contrast cues. The Journal of neuroscience, 26(16):4370–
+4382.
+[Tanaka, 1996] Tanaka, K. (1996). Inferotemporal cortex and object vision. Annual
+review of neuroscience, 19(1):109–139.
+[Tyler, 1974] Tyler, C. W. (1974). Depth perception in disparity gratings. Nature,
+251(5471):140.
+[Uka and DeAngelis, 2006] Uka, T. and DeAngelis, G. C. (2006). Linking neural
+representation to function in stereoscopic depth perception: roles of the middle
+temporal area in coarse versus fine disparity discrimination. The Journal of neuroscience, 26(25):6791–6802.
+[Uka et al., 2005] Uka, T., Tanabe, S., Watanabe, M., and Fujita, I. (2005). Neural
+correlates of fine depth discrimination in monkey inferior temporal cortex. The
+Journal of neuroscience, 25(46):10796–10802.
+[Ukwade and Bedell, 1999] Ukwade, M. T. and Bedell, H. E. (1999). Stereothresholds
+in persons with congenital nystagmus and in normal observers during comparable
+retinal image motion. Vision Research, 39(17):2963–2973.
+[Umeda et al., 2007] Umeda, K., Tanabe, S., and Fujita, I. (2007). Representation
+of stereoscopic depth based on relative disparity in macaque area v4. Journal of
+neurophysiology, 98(1):241–252.
+[Underwood, 1975] Underwood, B. J. (1975). Individual differences as a crucible in
+theory construction. American Psychologist, 30(2):128.
+[Vaina, 1989] Vaina, L. (1989). Selective impairment of visual motion interpretation
+following lesions of the right occipito-parietal area in humans. Biological cybernetics, 61(5):347–359.
+BIBLIOGRAPHY 133
+[van Leeuwen and Smit, 2012] van Leeuwen, C. and Smit, D. (2012). Restless minds,
+wandering brains. Being in time. Dynamical models of phenomenal experience,
+edited by Edelman, S., Fekete, T. and Zach, N., Amsterdam: Benjamins, pages
+121–147.
+[van Loon et al., 2013] van Loon, A. M., Knapen, T., Scholte, H. S., John-Saaltink,
+E. S., Donner, T. H., and Lamme, V. A. (2013). Gaba shapes the dynamics of
+bistable perception. Current Biology, 23(9):823–827.
+[Vanrullen and Thorpe, 2001] Vanrullen, R. and Thorpe, S. J. (2001). The time
+course of visual processing: from early perception to decision-making. Journal
+of cognitive neuroscience, 13(4):454–461.
+[Vogel and Machizawa, 2004] Vogel, E. K. and Machizawa, M. G. (2004). Neural
+activity predicts individual differences in visual working memory capacity. Nature,
+428(6984):748–751.
+[Wang et al., 2012] Wang, R., Li, J., Fang, H., Tian, M., and Liu, J. (2012). Individual differences in holistic processing predict face recognition ability. Psychological
+Science, 23(2):169–177.
+[Weinman and Cooke, 1982] Weinman, J. and Cooke, V. (1982). Eye dominance and
+stereopsis. Perception, 11(2):207–210.
+[Welchman, 2016] Welchman, A. E. (2016). The human brain in depth: how we see
+in 3d. Ann Rev Vision Science, 2:2.6.1–2.6.32.
+[Westheimer, 1979a] Westheimer, G. (1979a). Cooperative neural processes involved
+in stereoscopic acuity. Experimental Brain Research, 36(3):585–597.
+[Westheimer, 1979b] Westheimer, G. (1979b). The spatial sense of the eye. proctor
+lecture. Investigative Ophthalmology and Visual Science, 18(9):893–912.
+BIBLIOGRAPHY 134
+[Westheimer and McKee, 1980] Westheimer, G. and McKee, S. P. (1980). Stereogram
+design for testing local stereopsis. Investigative Ophthalmology and Visual Science,
+19(7):802–809.
+[Westheimer and Mitchell, 1969] Westheimer, G. and Mitchell, D. E. (1969). The
+sensory stimulus for disjunctive eye movements. Vision research, 9(7):749–755.
+[Wheatstone, 1838a] Wheatstone, C. (1838a). Contributions to the physiology of
+vision.–part the first. on some remarkable, and hitherto unobserved, phenomena
+of binocular vision. Philosophical transactions of the Royal Society of London,
+128:371–394.
+[Wheatstone, 1838b] Wheatstone, C. (1838b). Xviii. contributions to the physiology
+of vision.part the first. on some remarkable, and hitherto unobserved, phenomena
+of binocular vision. Philosophical transactions of the Royal Society of London,
+128:371–394.
+[Wilcox and Harris, 2010] Wilcox, L. and Harris, J. (2010). Fundamentals of stereopsis. Encyclopedia of the Eye, 2:164–171.
+[Wilcox and Allison, 2009] Wilcox, L. M. and Allison, R. S. (2009). Coarse-fine dichotomies in human stereopsis. Vision research, 49(22):2653–2665.
+[Wilcox and Hess, 1995] Wilcox, L. M. and Hess, R. F. (1995). D max for stereopsis
+depends on size, not spatial frequency content. Vision research, 35(8):1061–1069.
+[Wilmer, 2008] Wilmer, J. B. (2008). How to use individual differences to isolate
+functional organization, biology, and utility of visual functions; with illustrative
+proposals for stereopsis. Spatial vision, 21(6):561–579.
+[Wilson, 1999] Wilson, H. R. (1999). Non-Fourier cortical processes in texture, form,
+and motion perception, pages 445–477. Springer.
+BIBLIOGRAPHY 135
+[Wolfe, 1983] Wolfe, J. M. (1983). Influence of spatial frequency, luminance, and
+duration on binocular rivalry and abnormal fusion of briefly presented dichoptic
+stimuli. Perception, 12(4):447–456.
+[WOO and SILLANPAA, 1979] WOO, G. C. and SILLANPAA, V. (1979). Absolute
+stereoscopic thresholds as measured by crossed and uncrossed disparities. Optometry and Vision Science, 56(6):350–355.
+[Wundt, 1862] Wundt, W. M. (1862). Beitrge zur theorie der sinneswahrnehmung.
+Winter.
+[Xu et al., 2010] Xu, J. P., He, Z. J., and Ooi, T. L. (2010). Effectively reducing
+sensory eye dominance with a push-pull perceptual learning protocol. Current
+Biology, 20(20):1864–1868.
+[Xu et al., 2011] Xu, J. P., He, Z. J., and Ooi, T. L. (2011). A binocular perimetry
+study of the causes and implications of sensory eye dominance. Vision research,
+51(23):2386–2397.
+[Xu et al., 2012a] Xu, J. P., He, Z. J., and Ooi, T. L. (2012a). Perceptual learning
+to reduce sensory eye dominance beyond the focus of top-down visual attention.
+Vision research, 61:39–47.
+[Xu et al., 2012b] Xu, J. P., He, Z. J., and Ooi, T. L. (2012b). Pushpull training
+reduces foveal sensory eye dominance within the early visual channels. Vision
+research, 61:48–59.
+[Yang et al., 2010] Yang, E., Blake, R., and McDonald, J. E. (2010). A new interocular suppression technique for measuring sensory eye dominance. Investigative
+ophthalmology and visual science, 51(1):588–593.
+[Yildirim et al., 1998] Yildirim, C., Altinsoy, H. I., and Yakut, E. (1998). Distance
+stereoacuity norms for the mentor b-vat ii-sg video acuity tester in young children
+BIBLIOGRAPHY 136
+and young adults. Journal of American Association for Pediatric Ophthalmology
+and Strabismus, 2(1):26–32.
+[Yoonessi, 2008] Yoonessi, A. (2008). Comparison of sensitivity to color changes in
+natural and phase-scrambled scenes. JOSA A, 25(3):676–684.
+[Yovel and Kanwisher, 2005] Yovel, G. and Kanwisher, N. (2005). The neural basis
+of the behavioral face-inversion effect. Current Biology, 15(24):2256–2262.
+[Yu et al., 2016] Yu, C., Liu, Z., Bi, H., He, X., and Zhang, B. (2016). The relationship between stereopsis and ocular sensory dominance measured with continuous
+flicker suppression. Chinese Journal of Optometry and Ophthalmology, 18(10):587–
+590.
+[Zaroff et al., 2003] Zaroff, C. M., Knutelska, M., and Frumkes, T. E. (2003). Variation in stereoacuity: normative description, fixation disparity, and the roles of
+aging and gender. Investigative ophthalmology and visual science, 44(2):891–900.
+[ahinolu, 2004] ahinolu, B. (2004). Depth-related visually evoked potentials by dynamic random-dot stereograms in humans: negative correlation between the peaks
+elicited by convergent and divergent disparities. European journal of applied physiology, 91(5-6):689–697.

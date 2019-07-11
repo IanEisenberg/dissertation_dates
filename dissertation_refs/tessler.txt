@@ -1,0 +1,250 @@
+Abelson, R. P., & Kanouse, D. E. (1966). Subjective acceptance of verbal generalizations. In S.
+Feldman (Ed.), Cognitive consistency: Motivational antecedents and behavioral consequents (pp.
+171–197). Academic Press.
+Asher, N., & Morreau, M. (1995). What some generic sentences mean. The Generic Book, 300–338.
+Bale, A. C. (2011). Scales and comparison classes. Natural Language Semantics, 19, 169–190.
+Behrens, L. (2005). Genericity from a cross-linguistic perspective. Linguistics, 43 (2), 275–344.
+Boyd, R., Richerson, P. J., & Henrich, J. (2011). The cultural niche: why social learning is essential
+for human adaptation. Proceedings of the National Academy of Sciences of the United States of
+America, 108 Suppl, 10918–10925. http://doi.org/10.1073/pnas.1100290108
+Brandone, A. C., Gelman, S. A., & Hedglen, J. (2014). Children’s developing intuitions about
+the truth conditions and implications of novel generics versus quantified statements. Cognitive
+Science, 1–28.
+Carlson, G. N. (1977). Reference to kinds in english (PhD thesis). University of Massachusetts,
+Amherst.
+Carlson, G. N. (1995). Truth conditions of generic sentences: Two contrasting views. In G. N.
+Carlson & F. J. Pelletier (Eds.), The generic book (pp. 224–38). Chicago, IL: University of
+Chicago Press.
+Carlson, G. N. (2005). Generics, Habituals and Iteratives. In The encyclopedia of language and
+linguistics (2nd ed.). Elsevier. http://doi.org/10.1007/s13398-014-0173-7.2
+166
+References 167
+Carlson, G. N., & Pelletier, F. J. (1995). The generic book. Chicago, IL: Chicago University Press.
+Cheng, P. W. (1997). From covariation to causation: A causal power theory. Psychological Review,
+104 (2), 367–405. Retrieved from http://psycnet.apa.org/fulltext/1997-03612-007.pdf
+Cheng, P. W., & Npvick, L. R. (1992). Covariation in natural causal induction. Psychological Review,
+99 (2), 365–382. Retrieved from http://psycnet.apa.org/fulltext/1992-26096-001.pdf
+Cimpian, A., Arce, H.-M. C., Dweck, C. S., & Markman, E. M. (2007). Subtle linguistic cues affect
+children’s motivation. Psychological Science, 18 (4), 314–316.
+Cimpian, A., Brandone, A. C., & Gelman, S. A. (2010a). Generic statements require little evidence
+for acceptance but have powerful implications. Cognitive Science, 34 (8), 1452–1482.
+Cimpian, A., Gelman, S. A., & Brandone, A. C. (2010b). Theory-based considerations influence the
+interpretation of generic sentences. Language and Cognitive Processes, 25 (2), 261–276. http:
+//doi.org/10.1080/01690960903025227.Theory-based
+Clark, H. H. (1996). Using language. Cambridge University Press.
+Cohen, A. (1999). Generics, frequency adverbs, and probability. Linguistics and Philosophy, 22 (3).
+Cohen, A. (2004). Generics and mental representations. Linguistics and Philosophy, 27 (5), 529–556.
+http://doi.org/10.1023/B:LING.0000033851.25870.3e
+Cree, G. S., McNorgan, C., & McRae, K. (2006). Distinctive features hold a privileged status in
+the computation of word meaning: Implications for theories of semantic memory. Journal of
+Experimental Psychology. Learning, Memory, and Cognition, 32 (4), 643–658. http://doi.org/
+10.1037/0278-7393.32.4.643
+Dahl, s. (1975). On generics. In E. Keenan (Ed.), Formal semantics of natural language (pp.
+99–111). Cambridge: Cambridge University Press.
+Declerck, R. (1986). The manifold interpretations of generic sentences. Lingua, 68, 149–188.
+Declerck, R. (1991). The origins of genericity. Linguistics, 29, 79–102.
+Degen, J., & Goodman, N. D. (2014). Lost your marbles? The puzzle of dependent measures in
+References 168
+experimental pragmatics. In Proceedings of the thirty-sixth annual conference of the Cognitive
+Science Society.
+Degen, J., Graf, Caroline, Hawkins, R. X. D., Kreiss, E., & Goodman, N. D. (in prep). Over
+’overinformativeness’: Rational redundant referring expressions.
+Frank, M. C., & Goodman, N. D. (2012). Predicting pragmatic reasoning in language games.
+Science, 336 (6084).
+Frank, M. C., Goodman, N. D., & Tenenbaum, J. B. (2009). Using speakers’ referential intentions
+to model early cross-situational word learning. Psychological Science, 20 (5), 578–585.
+Franke, M. (2009). Signal to act: Game theory in pragmatics (PhD thesis). Universiteit van Amsterdam.
+Franke, M. (2014). Typical use of quantifiers: A probabilistic speaker model. In Proceedings of the
+36th annual meeting of the cogntiive science society (pp. 1–6).
+Franke, M., & J¨ager, G. (2015). Probabilistic pragmatics, or why Bayes’ rule is probably important
+for pragmatics. In Zeitschrift fÃĳr sprachwissenschaft (Vol. 35, pp. 3–44).
+Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2014). Bayesian
+data analysis (Vol. 2). CRC press Boca Raton, FL.
+Gelman, S. A. (2003). Essential child: Origins of essentialism in everyday thought. Oxford University Press.
+Gelman, S. A. (2004). Learning words for kinds: Generic noun phrases in acquisition. In Weaving
+a lexicon (pp. 445–484). MIT Press.
+Gelman, S. A. (2009). Learning from others: Children’s construction of concepts. Annual Review
+of Psychology, 60, 115–140. http://doi.org/10.1146/annurev.psych.59.103006.093659.
+LEARNING
+Gelman, S. A., & Bloom, P. (2007). Developmental changes in the understanding of generics.
+Cognition, 105 (1), 166–183. http://doi.org/10.1016/j.cognition.2006.09.009
+References 169
+Gelman, S. A., Coley, J. D., Rosengren, K. S., Hartman, E., & Pappas, A. (1998). Beyond labeling:
+the role of maternal input in the acquisition of richly structured categories. Monographs of the
+Society for Research in Child Development, 63 (1), I–V, 1–148;discussion 149–157.
+Gelman, S. A., Goetz, P. J., Sarnecka, B. W., & Flukes, J. (2008). Generic language in parent-child
+conversations. Language Learning and Development, 4 (1), 1–31. http://doi.org/10.1080/
+15475440701542625.Generic
+Gelman, S. A., Leslie, S.-J., Was, A. M., & Koch, C. M. (2015). Children’s interpretations of general
+quantifiers, specific quantifiers and generics. Language, Cognition and Neuroscience, 30 (4), 448–
+461. http://doi.org/10.1080/23273798.2014.931591
+Gelman, S. A., Star, J. R., & Flukes, J. E. (2002). Children’s use of generics in inductive inferences.
+Journal of Cognition and Development, 3 (2), 179–199.
+Gelman, S. A., Taylor, M. G., Nguyen, S. P., Leaper, C., & Bigler, R. S. (2004). Mother-child
+conversations about gender: Understanding the acquisition of essentialist beliefs. Monographs of
+the Society for Research in Child Development, 69 (1), vii, 116–127. http://doi.org/10.1111/
+j.1540-5834.2004.06901001.x
+Gerstenberg, T., Goodman, N. D., Lagnado, D. A., & Tenenbaum, J. B. (2015). How, whether, why:
+Causal judgments as counterfactual contrasts. In D. C. Noelle, R. Dale, A. S. Warlaumont, J.
+Yoshimi, J. Matlock T., C. D., & P. P. Maglio (Eds.), Proceedings of the 37th Annual Conference
+of the Cognitive Science Society (pp. 782–787). Austin, TX: Cognitive Science Society.
+Goodman, N. (1955). Fact, fiction, and forecast. Harvard University Press.
+Goodman, N. D., & Frank, M. C. (2016). Pragmatic language interpretation as probabilistic inference. Trends in Cognitive Sciences.
+Goodman, N. D., & Lassiter, D. (2015). Probabilistic semantics and pragmatics: Uncertainty in
+language and thought. In S. Lappin & C. Fox (Eds.), The handbook of contemporary semantic
+theory, 2nd edition. Wiley-Blackwell.
+Goodman, N. D., & Stuhlm¨uller, A. (2013). Knowledge and implicature: Modeling language understanding as social cognition. Topics in Cognitive Science.
+References 170
+Goodman, N. D., & Stuhlm¨uller, A. (2014). The Design and Implementation of Probabilistic Programming Languages. http://dippl.org.
+Goodman, N. D., Frank, M. C., Griffiths, T. L., Tenenbaum, J. B., Battaglia, P. W., & Hamrick, J.
+B. (2015). Relevant and robust: A response to marcus and davis (2013). Psychological Science,
+26 (4), 539–541.
+Goodman, N. D., Tenenbaum, J. B., & Gerstenberg, T. (2015). Concepts in a probabilistic language
+of thought. In The conceptual mind: New directions in the study of concepts. MIT Press.
+Goodman, N. D., Ullman, T. D., & Tenenbaum, J. B. (2011). Learning a theory of causality.
+Psychological Review, 118 (1), 110–119. http://doi.org/10.1037/a0021336
+Gopnik, A. (2003). The theory theory as an alternative to the innateness hypothesis. Chomsky and
+His Critics, 238–254.
+Grice, H. P. (1975). Logic and conversation. In Readings in language and mind. Blackwell.
+Griffiths, T. L., & Tenenbaum, J. B. (2005). Structure and strength in causal induction. Cognitive
+Psychology, 51 (4), 334–84. http://doi.org/10.1016/j.cogpsych.2005.05.004
+Griffiths, T. L., & Tenenbaum, J. B. (2009). Theory-Based Causal Induction. Psychological Review,
+116 (4), 661–716. http://doi.org/10.1037/a0017201
+Hawkins, R. X. D., & Goodman, N. D. (under review). Questions and answers in dialogue. http:
+//doi.org/10.17605/OSF.IO/J2CP6
+Hawkins, R. X. D., Stuhlm¨uller, A., Degen, J., & Goodman, N. D. (2015). Why do you ask? Good
+questions provoke informative answers. In Proceedings of the thirty-seventh annual conference of
+the Cognitive Science Society.
+Henrich, J. (2015). The secret of our success: how culture is driving human evolution, domesticating
+our species, and making us smarter. Princeton University Press.
+Hume, D. (1888). A treatise on human nature. (L. A. Selby Bigge, Ed.). Oxford, Clarendon Press.
+Kao, J. T., & Goodman, N. D. (2015). Let’s talk (ironically) about the weather: Modeling verbal
+References 171
+irony. In Proceedings of the thirty-seventh annual conference of the Cognitive Science Society.
+Kao, J. T., Bergen, L., & Goodman, N. D. (2014). Formalizing the pragmatics of metaphor understanding. In Proceedings of the thirty-sixth annual conference of the Cognitive Science Society.
+Kao, J. T., Wu, J., Bergen, L., & Goodman, N. D. (2014). Nonliteral understanding of number
+words. Proceedings of the National Academy of Sciences.
+Kemp, C., Perfors, A., & Tenenbaum, J. B. (2007). Learning overhypotheses with hierarchical
+Bayesian models. Developmental Science, 10 (3), 307–21. http://doi.org/10.1111/j.1467-
+7687.2007.00585.x
+Kemp, C., Xu, Y., & Regier, T. (2018). Semantic Typology and Efficient Communication. Annual Review of Linguistics, 4 (1), 109–128. http://doi.org/10.1146/annurev-linguistics011817-045406
+Kennedy, C. (2007). Vagueness and grammar: the semantics of relative and absolute gradable
+adjectives. Linguistics and Philosophy, 30, 1–35. http://doi.org/10.1007/s10988-006-9008-
+0
+Khemlani, S., Leslie, S.-J., & Glucksberg, S. (2009). Generics, prevalence, and default inferences.
+In Proceedings of the 31st annual conference of the cognitive science society. Austin, TX.
+Khemlani, S., Leslie, S.-J., & Glucksberg, S. (2012). Inferences about members of kinds: The
+generics hypothesis. Language and Cognitive Processes, 27 (6), 887–900. http://doi.org/10.
+1080/01690965.2011.601900
+Krifka, M. (1995). Focus and the interpretation of generic sentences. In G. N. Carlson & F. J.
+Pelletier (Eds.), The generic book (pp. 238–264). Chicago, IL: University of Chicago Press.
+Kruschke, J. (2014). Doing bayesian data analysis: A tutorial with r, jags, and stan. Academic
+Press.
+Lassiter, D., & Goodman, N. D. (2013). Context, scale structure, and statistics in the interpretation
+of positive-form adjectives. In Semantics and Linguistic Theory (SALT) 23.
+Lassiter, D., & Goodman, N. D. (2015). Adjectival vagueness in a bayesian model of interpretation.
+References 172
+Synthese.
+Lee, M. D., & Wagenmakers, E. (2014). Bayesian cognitive modeling: A practical course. Cambridge:
+Cambridge University Press.
+Leslie, S.-J. (2007). Generics and the Structure of the Mind. Philosophical Perspectives, 21 (1),
+375–403.
+Leslie, S.-J. (2008). Generics: Cognition and acquisition. Philosophical Review, 117 (1).
+Leslie, S.-J. (2012). Generics articulate default generalizations. In A. Mari (Ed.), Recherches linguistiques de vincennes: New perspectives on genericity at the interfaces (Vol. 41, pp. 25–45).
+http://doi.org/10.1017/CBO9781107415324.004
+Leslie, S.-J., & Gelman, S. A. (2012). Quantified statements are recalled as generics: evidence
+from preschool children and adults. Cognitive Psychology, 64 (3), 186–214. http://doi.org/
+10.1016/j.cogpsych.2011.12.001
+Levinson, S. C. (1995). Interactional biases in human thinking. In E. N. Goody (Ed.), Social
+intelligence and interaction (pp. 221–260). Cambridge University Press.
+Lewis, D. (1975). Adverbs of quantification. Formal Semantics-the Essential Readings, 178–188.
+Liebesman, D. (2011). Simple generics. NoÃżs, 45 (3), 409–442.
+Luria, A. R. (1976). Cognitive development: Its cultural and social foundations. Harvard university
+press.
+Lyons, J. (1977). Semantics. Cambridge University Press.
+McGuire, W. J., & McGuire, C. V. (1986). Differences in conceptualizing self versus conceptualizing
+other people as manifested in contrasting verb types used in natural speech. Journal of Personality and Social Psychology, 51 (6), 1135–43. http://doi.org/10.1037/0022-3514.51.6.1135
+Montague, R. (1973). The Proper Treatment of Quantification in Ordinary English. In Philosophy, language, and artificial intelligence (pp. 141—–162). Springer. Retrieved from http:
+//semantics.uchicago.edu/kennedy/classes/s08/semantics2/montague73.pdf
+References 173
+Nickel, B. (2008). Generics and the ways of normality. Linguistics and Philosophy, 31 (6), 629–648.
+http://doi.org/10.1007/s10988-008-9049-7
+Nickel, B. (2016). Between logic and the world. Oxford: Oxford UP; Oxford UP.
+Nisbett, R. E., Krantz, D. H., Jepson, C., & Kunda, Z. (1983). The use of statistical heuristics
+in everyday inductive reasoning. Psychological Review, 90 (4), 339–363. http://doi.org/10.
+1037/0033-295X.90.4.339
+Ong, W. J. (1983). Orality and literacy: The technologizing of the word.
+Orvell, A., Kross, E., & Gelman, S. A. (2017). How “you” makes meaning. Science, 355 (6331).
+Retrieved from http://science.sciencemag.org/content/355/6331/1299.full
+Pearl, J. (1988). Probabilistic reasoning in intelligent systems: Networks of plausible reasoning.
+Morgan Kaufmann Publishers, Los Altos.
+Pelletier, F. J., & Asher, N. (1997). Generics and defaults. handbook of logic and language, ed. by
+j. van benthem and alice gb ter meulen, 1125–1177. Cambridge: The MIT Press.
+Plato. (trans. 2007). Phaedrus. (B. Jowett, Trans.) (Vol. 2). Jowett Press.
+Prasada, S. (2000). Acquiring generic knowledge. Trends in Cognitive Sciences, 4 (2), 66–72. http:
+//doi.org/10.1016/S1364-6613(99)01429-1
+Prasada, S., & Dillingham, E. M. (2006). Principled and statistical connections in common sense
+conception. Cognition, 99 (1), 73–112. http://doi.org/10.1016/j.cognition.2005.01.003
+Prasada, S., Khemlani, S., Leslie, S.-J., & Glucksberg, S. (2013). Conceptual distinctions amongst
+generics. Cognition, 126 (3), 405–22. http://doi.org/10.1016/j.cognition.2012.11.010
+Qing, C., & Franke, M. (2014). Gradable adjectives, vagueness, and optimal language use: A
+speaker-oriented model. In Semantics and Linguistic Theory (SALT) 24.
+Repacholi, B. M., & Gopnik, A. (1997). Early reasoning about desires: evidence from 14- and 18-
+month-olds. Developmental Psychology, 33 (1), 12–21. http://doi.org/10.1037/0012-1649.
+33.1.12
+References 174
+Rhodes, M., Leslie, S.-J., & Tworek, C. M. (2012). Cultural transmission of social essentialism.
+Proceedings of the National Academy of Sciences, 109 (34), 13526–13531. http://doi.org/10.
+1073/pnas.1208951109
+Ritchie, D., Stuhlm¨uller, A., & Goodman, N. D. (2016). C3: Lightweight incrementalized mcmc for
+probabilistic programs using continuations and callsite caching. In AISTATS 2016.
+Roberts, C. (1996). Information structure in discourse: Towards an integrated formal theory of
+pragmatics. Working Papers in Linguistics-Ohio State University Department of Linguistics,
+91–136.
+Rose, C. E., Martin, S. W., Wannemuehler, K. A., & Plikaytis, B. D. (2006). On the use of
+zero-inflated and hurdle models for modeling vaccine adverse event count data. Journal of Biopharmaceutical Statistics, 16 (4), 463–481.
+Rothbart, M., Fulero, S., Jensen, C., Howard, J., & Birrell, P. (1978). From individual to group
+impressions: Availability heuristics in stereotype formation. Journal of Experimental Social Psychology, 14 (3), 237–255. http://doi.org/10.1016/0022-1031(78)90013-6
+Schmidt, L. A., Goodman, N. D., Barner, D., & Tenenbaum, J. B. (2009). How Tall Is Tall? Compositionality, Statistics, and Gradable Adjectives. In Proceedings of the 31st annual conference
+of the cognitive science society.
+Scontras, G., & Goodman, N. D. (2017). Resolving uncertainty in plural predication. Cognition,
+168, 294–311. http://doi.org/10.1016/j.cognition.2017.07.002
+Seiver, E., Gopnik, A., & Goodman, N. D. (2013). Did She Jump Because She Was the Big Sister or
+Because the Trampoline Was Safe? Causal Inference and the Development of Social Attribution.
+Child Development, 84 (2), 443–454. http://doi.org/10.1111/j.1467-8624.2012.01865.x
+Shepard, R. N. (1987). Toward a universal law of generalization for psychological science. Science
+(New York, N.Y.), 237 (4820), 1317–1323. http://doi.org/10.1126/science.3629243
+Shipley, E. F. (1993). Categories, hierarchies, and induction. The Psychology of Learning and
+Motivation, 30, 265–301.
+References 175
+Solt, S. (2009). Notes on the Comparison Class. In International workshop on vagueness in communication (pp. 189—–206). Springer.
+Solt, S., & Gotzner, N. (2012). Experimenting with degree. Proceedings of SALT, 22, 166–187.
+Sterken, R. K. (2015). Generics in Context. Philosophers’ Imprint, 15 (i), 1–30.
+Stigler, S. M. (2013). The true title of bayes’s essay. Statistical Science, 28 (3), 283–288.
+Stiller, A. J., Goodman, N. D., & Frank, M. C. (2015). Ad-hoc Implicature in Preschool Children.
+Language Learning and Development, 11 (2), 176–190. http://doi.org/10.1080/15475441.
+2014.927328
+Tenenbaum, J. B., & Griffiths, T. L. (2001). Generalization, similarity and Bayesian inference.
+Behavioral and Brain Sciences, 24, 629–640. http://doi.org/10.1017/S0140525X01000061
+Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a mind:
+statistics, structure, and abstraction. Science (New York, N.Y.), 331 (6022), 1279–85. http:
+//doi.org/10.1126/science.1192788
+Tessler, M. H., Lopez-Brau, M., & Goodman, N. D. (2017). Warm (for winter): Comparison class
+understanding in vague language. In Proceedings of the thirty-ninth annual conference of the
+cognitive science society.
+Tomasello, M. (1999). The cultural origins of human cognition. Cambridge, MA: Harvard University
+Press.
+Tversky, A., & Kahneman, D. (1974). Judgment under Uncertainty: Heuristics and Biases. Science,
+185 (4157), 1124–31. http://doi.org/10.1126/science.185.4157.1124
+Xu, F., & Denison, S. (2009). Statistical inference and sensitivity to sampling in 11-month-old
+infants. Cognition, 112 (1), 97–104.
+Xu, F., & Garcia, V. (2008). Intuitive statistics by 8-month-old infants. Proceedings of the National
+Academy of Sciences of the United States of America, 105 (13), 5012–5. http://doi.org/10.
+1073/pnas.0704450105
+References 176
+Yoon, E. J., Tessler, M. H., Goodman, N. D., & Frank, M. C. (2016). Talking with tact: Polite
+language as a balance between kindness and informativity. In Proceedings of the thirty-eighth
+annual conference of the cognitive science society.
+Yoon, E. J., Tessler, M. H., Goodman, N. D., & Frank, M. C. (2017). “I won’t lie, it wasn’t
+amazing”: Modeling polite indirect speech. In Proceedings of the thirty-ninth annual conference
+of the cognitive science society.
