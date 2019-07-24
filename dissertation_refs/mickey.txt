@@ -1,0 +1,168 @@
+Anderson, J. R., & Lebiere, C. (1998). The Atomic Components of Thought. Lawrence Erlbaum
+Associates.
+Bornstein, M. H., & Stiles-Davis, J. (1984). Discrimination and memory for symmetry in young
+children. Developmental Psychology, 20 (4), 637–649. https://doi.org/10.1037/0012-1649.
+20.4.637
+Bransford, J. D., Barclay, J. R., & Franks, J. J. (1972). Sentence memory: A constructive versus
+interpretive approach. Cognitive Psychology, 3 (2), 193–209. https://doi.org/10.1016/0010-
+0285(72)90003-5
+Brown, J. R. (2008). Philosophy of Mathematics: A Contemporary Introduction to the World of
+Proofs and Pictures. Routledge.
+Burkner, P.-C. (2017). Brms: An R Package for Bayesian Multilevel Models Using Stan. Journal
+of Statistical Software, 80 (1), 1–28. https://doi.org/10.18637/jss.v080.i01
+Case, R., Okamoto, Y., Griffin, S., McKeough, A., Bleiker, C., Henderson, B., . . . Keating, D. P.
+(1996). The Role of Central Conceptual Structures in the Development of Children’s Thought.
+Monographs of the Society for Research in Child Development, 61 (1/2), i–295. https://doi.
+111
+References 112
+org/10.2307/1166077
+Cheng, P. W., & Holyoak, K. J. (1985). Pragmatic reasoning schemas. Cognitive Psychology, 17 (4),
+391–416. https://doi.org/10.1016/0010-0285(85)90014-3
+Curran, P. J., & Bauer, D. J. (2010). The Disaggregation of Within-Person and Between-Person
+Effects in Longitudinal Models of Change. Annual Review of Psychology, 62 (1), 583–619. https:
+//doi.org/10.1146/annurev.psych.093008.100356
+Dehaene, S. (1997). The number sense: How the mind creates mathematics. Oxford University
+Press, USA.
+Dehaene, S., Spelke, E., Pinel, P., Stanescu, R., & Tsivkin, S. (1999). Sources of Mathematical
+Thinking: Behavioral and Brain-Imaging Evidence. Science, 284 (5416), 970–974. https://
+doi.org/10.1126/science.284.5416.970
+Efron, B. (1987). Better Bootstrap Confidence Intervals. Journal of the American Statistical Association, 82 (397), 171–185. https://doi.org/10.1080/01621459.1987.10478410
+Fauconnier, G., & Turner, M. (1998). Conceptual Integration Networks. Cognitive Science, 22 (2),
+133–187. https://doi.org/10.1207/s15516709cog2202_1
+Fodor, J. A. (1975). The Language of Thought. Harvard University Press.
+Foerster, P. A. (1990). Trigonometry: Functions and Applications (3rd ed.). Menlo Park, CA:
+Addison-Wesley Publishing Company.
+Freyd, J., & Tversky, B. (1984). Force of Symmetry in Form Perception. The American Journal of
+Psychology, 97 (1), 109–126. https://doi.org/10.2307/1422551
+Gallistel, C. R., & Gelman, R. (2005). Mathematical Cognition. In K. J. Holyoak & R. G. Morrison
+References 113
+(Eds.), The Cambridge handbook of thinking and reasoning (pp. 559–588). New York, NY, US:
+Cambridge University Press.
+Glenberg, A. M., Gutierrez, T., Levin, J. R., Japuntich, S., & Kaschak, M. P. (2004). Activity
+and Imagined Activity Can Enhance Young Children’s Reading Comprehension. Journal of
+Educational Psychology, 96 (3), 424–436. https://doi.org/10.1037/0022-0663.96.3.424
+Harnad, S. (1990). The symbol grounding problem. Physica D: Nonlinear Phenomena, 42 (1),
+335–346.
+Hegarty, M., & Kozhevnikov, M. (1999). Types of visual–spatial representations and mathematical
+problem solving. Journal of Educational Psychology, 91 (4), 684.
+Hornsby, J., Lial, M. L., & Rockswold, G. (2010). A graphical approach to precalculus with limits:
+A unit circle approach (5th ed.). Boston: Pearson.
+Inhelder, B., & Piaget, J. (1958). The growth of logical thinking: From childhood to adolescence. (A.
+Parsons & S. Milgram, Eds.). New York, NY, US: Basic Books. https://doi.org/10.1037/
+10034-000
+Jackson, A. (2002). The World of Blind Mathematicians. Notices of the American Mathematical
+Society, 49 (10), 1246–1251.
+Kendal, M., & Stacey, K. (1996). Trigonometry: Comparing ratio and unit circle methods. In Technology in Mathematics Education. Proceedings of the 19th Annual Conference of the Mathematics
+Education Research Group of Australasia. (pp. 322–329).
+Kieras, D. E., & Bovair, S. (1984). The role of a mental model in learning to operate a device.
+References 114
+Cognitive Science, 8 (3), 255–273. https://doi.org/10.1016/S0364-0213(84)80003-8
+Koedinger, K. R., & Nathan, M. J. (2004). The real story behind story problems: Effects of
+representations on quantitative reasoning. The Journal of the Learning Sciences, 13 (2), 129–
+164.
+Kozhevnikov, M., Kosslyn, S., & Shephard, J. (2005). Spatial versus object visualizers: A new
+characterization of visual cognitive style. Memory & Cognition, 33 (4), 710–726. https://doi.
+org/10.3758/BF03195337
+Lakoff, G., & Nunez, R. E. (2000). Where Mathematics Comes from: How the Embodied Mind
+Brings Mathematics Into Being. Basic Books.
+Landy, D., & Goldstone, R. L. (2007a). Formal notations are diagrams: Evidence from a production
+task. Memory & Cognition, 35 (8), 2033–2040. https://doi.org/10.3758/BF03192935
+Landy, D., & Goldstone, R. L. (2007b). How abstract is symbolic thought? Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 33 (4), 720–733. https://doi.org/10.1037/
+0278-7393.33.4.720
+Lewis, A. B. (1989). Training students to represent arithmetic word problems. Journal of Educational Psychology, 81 (4), 521–531. https://doi.org/10.1037/0022-0663.81.4.521
+Mani, K., & Johnson-Laird, P. N. (1982). The mental representation of spatial descriptions. Memory
+& Cognition, 10 (2), 181–187. https://doi.org/10.3758/BF03209220
+Marcus, G. F. (2003). The Algebraic Mind: Integrating Connectionism and Cognitive Science. MIT
+Press.
+Martin, W. A., & Fateman, R. J. (1971). The MACSYMA System. In Proceedings of the Second
+References 115
+ACM Symposium on Symbolic and Algebraic Manipulation (pp. 59–75). New York, NY, USA:
+ACM. https://doi.org/10.1145/800204.806267
+Mathematics, n. pl. (1989). Oxford English Dictionary. Oxford University Press.
+Mayer, R. E., & Hegarty, M. (1996). The Process of Understanding Mathematical Problems. In
+The Nature of Mathematical Thinking (pp. 29–53). Routledge.
+McClelland, J. L. (1989). Parallel distributed processing: Implications for cognition and development. In Parallel distributed processing: Implications for psychology and neurobiology (pp. 8–45).
+New York, NY, US: Clarendon Press/Oxford University Press.
+McNeil, N. M., & Alibali, M. W. (2005). Why Won’t You Change Your Mind? Knowledge of
+Operational Patterns Hinders Learning and Performance on Equations. Child Development,
+76 (4), 883–899. https://doi.org/10.1111/j.1467-8624.2005.00884.x
+Mickey, K. W., & McClelland, J. L. (2014). A neural network model of learning mathematical
+equivalence. In A. Papafragou, D. Grodner, D. Mirman, & J. Trueswell (Eds.), Proceedings of
+the 38th Annual Conference of the Cognitive Science Society (pp. 1012–1017). Austin, TX:
+Cognitive Science Society.
+Moore, K. C. (2013). Making sense by measuring arcs: A teaching experiment in angle measure.
+Educational Studies in Mathematics, 83 (2), 225–245. https://doi.org/10.1007/s10649-012-
+9450-6
+Nathan, M. J. (2012). Rethinking Formalisms in Formal Education. Educational Psychologist,
+47 (2), 125–148. https://doi.org/10.1080/00461520.2012.667063
+Newell, A., Shaw, J. C., & Simon, H. A. (1958). Elements of a theory of human problem solving.
+References 116
+Psychological Review, 65 (3), 151–166. https://doi.org/10.1037/h0048495
+Ninness, C., Barnes-Holmes, D., Rumph, R., McCuller, G., Ford, A. M., Payne, R., . . . Elliott,
+M. P. (2006). Transformations of Mathematical and Stimulus Functions. Journal of Applied
+Behavior Analysis, 39 (3), 299–321. https://doi.org/10.1901/jaba.2006.139-05
+Ninness, C., Dixon, M., Barnes-Holmes, D., Rehfeldt, R. A., Rumph, R., McCuller, G., . . . McGinty,
+J. (2009). Constructing and Deriving Reciprocal Trigonometric Relations: A Functional Analytic
+Approach. Journal of Applied Behavior Analysis, 42 (2), 191–208. https://doi.org/10.1901/
+jaba.2009.42-191
+Nisbett, R. E., Krantz, D. H., Jepson, C., & Kunda, Z. (1983). The use of statistical heuristics
+in everyday inductive reasoning. Psychological Review, 90 (4), 339–363. https://doi.org/10.
+1037/0033-295X.90.4.339
+Ottmar, E., Landy, D., & Goldstone, R. L. (2012). Teaching the Perceptual Structure of Algebraic
+Expressions: Preliminary Findings from the Pushing Symbols Intervention. In N. Miyake, D.
+Peebles, & R. P. Cooper (Eds.), Proceedings of the 34th Annual Conference of the Cognitive
+Science Society. Austin, TX.
+Perfors, A., Tenenbaum, J. B., Griffiths, T. L., & Xu, F. (2011). A tutorial introduction to Bayesian
+models of cognitive development. Cognition, 120 (3), 302–321. https://doi.org/10.1016/j.
+cognition.2010.11.015
+Presmeg, N. C. (1986). Visualisation in High School Mathematics. For the Learning of Mathematics,
+6 (3), 42–46.
+Presmeg, N. C. (2006). Research on visualization in learning and teaching mathematics. In Handbook of research on the psychology of mathematics education (pp. 205–235). Rotterdam: Sense
+References 117
+Publishers.
+Resnick, L. B. (1983). Mathematics and Science Learning: A New Conception. Science, 220 (4596),
+477–478. https://doi.org/10.1126/science.220.4596.477
+Resnik, M. D. (1981). Mathematics as a Science of Patterns: Ontology and Reference. Nous, 15 (4),
+529–550. https://doi.org/10.2307/2214851
+Rogers, T. T., & McClelland, J. L. (2014). Parallel Distributed Processing at 25: Further Explorations in the Microstructure of Cognition. Cognitive Science, 38 (6), 1024–1077. https:
+//doi.org/10.1111/cogs.12148
+Roschelle, J. (1995). Learning in Interactive Environments: Prior Knowledge and New Experience.
+In J. H. Falk & L. D. Dierking (Eds.), Public institutions for personal learning: Establishing a
+research agenda (pp. 37–51). Washington, DC: American Association of Museums.
+Rumelhart, D. E., & McClelland, J. L. (1986). On learning the past tenses of English verbs. In
+Parallel distributed processing: Explorations in the microstructure of cognition (Vol. 2, pp. 216–
+271). Cambridge, MA: MIT Press.
+Rumelhart, D. E., Hinton, G. E., & McClelland, J. L. (1986). A General Framework for Parallel
+Distributed Processing. In Parallel distributed processing: Explorations in the microstructure of
+cognition (Vol. 1, pp. 45–76). Cambridge, MA: MIT Press.
+Russell, B. (1903). The principle of mathematics. Cambridge: University Press.
+Schwartz, D. L., & Black, J. B. (1996). Shuttling between depictive models and abstract rules:
+Induction and fallback. Cognitive Science, 20 (4), 457–497. https://doi.org/10.1016/S0364-
+References 118
+0213(99)80012-3
+Schwartz, D. L., & Heiser, J. (2006). Spatial Representations and Imagery in Learning. In The
+Cambridge handbook of: The learning sciences (pp. 283–298). New York, NY, US: Cambridge
+University Press.
+Shepard, R. N. (2008). The Step to Rationality: The Efficacy of Thought Experiments in Science, Ethics, and Free Will. Cognitive Science, 32 (1), 3–35. https://doi.org/10.1080/
+03640210701801917
+Siegler, R. S. (1976). Three aspects of cognitive development. Cognitive Psychology, 8 (4), 481–520.
+https://doi.org/10.1016/0010-0285(76)90016-5
+Thompson, A. G., Philipp, R. A., Thompson, P. W., & Boyd, B. A. (1994). Calculational and
+conceptual orientations in teaching mathematics. In D. B. Aichele & A. F. Coxford (Eds.),
+Professional Development for Teachers of Mathematics: 1994 Yearbook. Reston, VA: National
+Council of Teachers of Mathematics.
+Tversky, B., & Schiano, D. J. (1989). Perceptual and conceptual factors in distortions in memory
+for graphs and maps. Journal of Experimental Psychology: General, 118 (4), 387–398. https:
+//doi.org/10.1037/0096-3445.118.4.387
+Vul, E., Goodman, N., Griffiths, T. L., & Tenenbaum, J. B. (2014). One and Done? Optimal
+Decisions From Very Few Samples. Cognitive Science, 38 (4), 599–637. https://doi.org/10.
+1111/cogs.12101
+Vygotsky, L. (1962). Thought and language. (E. Hanfmann & G. Vakar, Eds.). Cambridge, MA,
+References 119
+US: MIT Press. https://doi.org/10.1037/11193-000
+Wagemans, J. (1997). Characteristics and models of human symmetry detection. Trends in Cognitive Sciences, 1 (9), 346–352. https://doi.org/10.1016/S1364-6613(97)01105-4
+Wason, P. C. (1966). Reasoning. In B. Foss (Ed.), New horizons in psychology (Vol. 1). Harmondsworth: Penguin.
+Wertheimer, M. (1959). Productive thinking (Vol. xvi). Oxford, England: Harper.
+Winkielman, P., Halberstadt, J., Fazendeiro, T., & Catty, S. (2016). Prototypes Are Attractive
+Because They Are Easy on the Mind. Psychological Science, 17 (9), 799–806.

@@ -1,0 +1,358 @@
+Abrahamyan, A., Silva, L. L., Dakin, S. C., Carandini, M., & Gardner, J. L. (2016). Adaptable history biases in human perceptual decisions. Proceedings of the National Academy of Sciences, 113(25), E3548–E3557.
+Acerbi, L. & Ma, W. J. (2017). Practical bayesian optimization for model fitting with bayesian adap- tive direct search. In I Guyon, U. V. Luxburg, S Bengio, H Wallach, R Fergus, S Vishwanathan, & R Garnett (Eds.), Advances in neural information processing systems 30 (pp. 1836–1846). Curran Associates, Inc.
+Ajina, S., Kennard, C., Rees, G., & Bridge, H. (2015). Motion area V5/MT+ response to global motion in the absence of V1 resembles early visual cortex. Brain, 138(Pt 1), 164–178.
+Albrecht, D. G. & Hamilton, D. B. (1982). Striate cortex of monkey and cat: contrast response function. J. Neurophysiol. 48(1), 217–237.
+Amano, K., Wandell, B. A., & Dumoulin, S. O. (2009). Visual field maps, population receptive field sizes, and visual field coverage in the human MT+ complex. J. Neurophysiol. 102(5), 2704– 2718.
+Andersson, J. L. R., Skare, S., & Ashburner, J. (2003). How to correct susceptibility distortions in spin-echo echo-planar images: application to diffusion tensor imaging. Neuroimage, 20(2), 870–888.
+Aspell, J. E., Tanskanen, T, & Hurlbert, A. C. (2005). Neuromagnetic correlates of visual motion coherence. Eur. J. Neurosci. 22(11), 2937–2945.
+Averbeck, B. B., Latham, P. E., & Pouget, A. (2006). Neural correlations, population coding and computation. Nat. Rev. Neurosci. 7(5), 358–366.
+Avidan, G., Harel, M., Hendler, T., Ben-Bashat, D., Zohary, E., & Malach, R. (2002). Contrast sensitivity in human visual areas and its relationship to object recognition. J. Neurophysiol. 87(6), 3102–3116.
+Baker, D. H. & Wade, A. R. (2017). Evidence for an optimal algorithm underlying signal combination in human visual cortex. Cereb. Cortex, 27(1), 254–264.
+Baldauf, D. & Desimone, R. (2014). Neural mechanisms of object-based attention. Science, 344 (6182), 424–427.
+89
+BIBLIOGRAPHY 90
+Barlow, H. B. (1972). Single units and sensation: a neuron doctrine for perceptual psychology? Perception, 1(4), 371–394.
+Barlow, H. B., Fitzhugh, R, & Kuffler, S. W. (1957). Change of organization in the receptive fields of the cat’s retina during dark adaptation. J. Physiol. 137(3), 338–354.
+Baruch, O. & Yeshurun, Y. (2014). Attentional attraction of receptive fields can explain spatial and temporal effects of attention. Vis. cogn. 22(5), 704–736.
+Bays, P. M. (2019). Correspondence between population coding and psychophysical scaling models of working memory.
+Bays, P. M. (2014). Noise in neural populations accounts for errors in working memory. J. Neurosci. 34(10), 3632–3645.
+Beauchamp, M. S., Cox, R. W., & DeYoe, E. A. (1997). Graded effects of spatial and featural attention on human area MT and associated motion processing areas. J. Neurophysiol. 78(1), 516–520.
+Becker, H. G. T., Erb, M., & Haarmeier, T. (2008). Differential dependency on motion coherence in subregions of the human MT+ complex. Eur. J. Neurosci. 28(8), 1674–1685.
+Bex, P. J. & Makous, W. (2002). Spatial frequency, phase, and the contrast of natural images. J. Opt. Soc. Am. A Opt. Image Sci. Vis. 19(6), 1096–1106.
+Birman, D. & Gardner, J. L. (2018). A quantitative framework for motion visibility in human cortex.
+J. Neurophysiol.
+Birman, D. & Gardner, J. L. (2015). Parietal and prefrontal: categorical differences? Nat. Neurosci.
+19(1), 5–7.
+Birn, R. M., Saad, Z. S., & Bandettini, P. A. (2001). Spatial heterogeneity of the nonlinear dynamics
+in the FMRI BOLD response. Neuroimage, 14(4), 817–826.
+Bliss, C. I. (1934). THE METHOD OF PROBITS—A CORRECTION. Science, 79 (2053), 409–410. Boynton, G. M., Engel, S. A., Glover, G. H., & Heeger, D. J. (1996). Linear systems analysis of
+functional magnetic resonance imaging in human V1. J. Neurosci. 16(13), 4207–4221. Boynton, G. M., Engel, S. A., & Heeger, D. J. (2012). Linear systems analysis of the fMRI signal.
+Neuroimage, 62(2), 975–984.
+Boynton, G. M., Demb, J. B., Glover, G. H., & Heeger, D. J. (1999). Neuronal basis of contrast
+discrimination. Vision Res. 39(2), 257–269.
+Braddick, O. J., O’Brien, J. M., Wattam-Bell, J, Atkinson, J, Hartley, T, & Turner, R. (2001). Brain
+areas sensitive to coherent visual motion. Perception, 30(1), 61–72.
+Brindley, G. S. (1970). Central pathways of vision. Annu. Rev. Physiol. 32, 259–268.
+Brindley, G. S. (1960). Physiology of the retina and the visual pathway.
+Britten, K. H., Newsome, W. T., Shadlen, M. N., Celebrini, S, & Movshon, J. A. (1996). A rela-
+tionship between behavioral choice and the visual responses of neurons in macaque MT. Vis. Neurosci. 13(1), 87–100.
+
+BIBLIOGRAPHY 91
+Britten, K. H., Shadlen, M. N., Newsome, W. T., & Movshon, J. A. (1993). Responses of neurons in macaque MT to stochastic motion signals. Vis. Neurosci. 10(6), 1157–1169.
+Britten, K. H., Shadlen, M. N., Newsome, W. T., & Movshon, J. A. (1992). The analysis of visual motion: a comparison of neuronal and psychophysical performance. J. Neurosci. 12 (12), 4745– 4765.
+Broadbent, D. E. (1958). Perception and communication. New York: Pergamon Press.
+Buffalo, E. A., Fries, P., Landman, R., Liang, H., & Desimone, R. (2010). A backward progression
+of attentional effects in the ventral stream. Proc. Natl. Acad. Sci. U. S. A. 107(1), 361–365. Bugatus, L., Weiner, K. S., & Grill-Spector, K. (2017). Task alters category representations in
+prefrontal but not high-level visual cortex. Neuroimage, 155, 437–449.
+Buracas, G. T. & Boynton, G. M. (2007). The effect of spatial attention on contrast response
+functions in human visual cortex. J. Neurosci. 27(1), 93–97.
+Burnham, K. P. & Anderson, D. R. (2004). Multimodel inference: understanding AIC and BIC in
+model selection. Sociol. Methods Res. 33(2), 261–304.
+Busse, L., Wade, A. R., & Carandini, M. (2009). Representation of concurrent stimuli by population
+activity in visual cortex. Neuron, 64(6), 931–942.
+Buxton, R. B., Uluda ̆g, K., Dubowitz, D. J., & Liu, T. T. (2004). Modeling the hemodynamic
+response to brain activation. Neuroimage, 23 Suppl 1, S220–33.
+Carandini, M. & Heeger, D. J. (2011). Normalization as a canonical neural computation. Nat. Rev.
+Neurosci. 13(1), 51–62.
+Cardoso, M. M. B., Sirotin, Y. B., Lima, B., Glushenkova, E., & Das, A. (2012). The neuroimaging
+signal is a linear sum of neurally distinct stimulus- and task-related components. Nat. Neurosci.
+15(9), 1298–1306.
+Carrasco, M, Penpeci-Talgar, C, & Eckstein, M. (2000). Spatial covert attention increases contrast
+sensitivity across the CSF: support for signal enhancement. Vision Res. 40 (10-12), 1203–1215. Carrasco, M. (2011). Visual attention: the past 25 years. Vision Res. 51(13), 1484–1525.
+Carrasco, M. & Barbot, A. (2018). Spatial attention alters visual appearance. Curr Opin Psychol,
+29, 56–64.
+Chelazzi, L, Duncan, J, Miller, E. K., & Desimone, R. (1998). Responses of neurons in inferior
+temporal cortex during memory-guided visual search. J. Neurophysiol. 80(6), 2918–2940. Chen, Y. & Seidemann, E. (2012). Attentional modulations related to spatial gating but not to
+allocation of limited resources in primate V1. Neuron, 74(3), 557–566.
+Chen, Y., Geisler, W. S., & Seidemann, E. (2006). Optimal decoding of correlated neural population
+responses in the primate visual cortex. Nat. Neurosci. 9(11), 1412–1420.
+Chen, Y., Palmer, C. R., & Seidemann, E. (2012). The relationship between voltage-sensitive dye imaging signals and spiking activity of neural populations in primate V1. J. Neurophysiol.
+107(12), 3281–3295.
+
+BIBLIOGRAPHY 92
+Cheng, K, Hasegawa, T, Saleem, K. S., & Tanaka, K. (1994). Comparison of neuronal selectivity for stimulus speed, length, and contrast in the prestriate visual cortical areas V4 and MT of the macaque monkey. J. Neurophysiol. 71(6), 2269–2280.
+Cherry, E. C. (1953). Some experiments on the recognition of speech, with one and with two ears. J. Acoust. Soc. Am. 25(5), 975–979.
+Cohen, E. H. & Tong, F. (2013). Neural mechanisms of object-based attention. Cereb. Cortex, 25(4), 1080–1092.
+Cohen, M. R. & Maunsell, J. H. R. (2010). A neuronal population measure of attention predicts behavioral performance on individual trials. J. Neurosci. 30(45), 15241–15253.
+Cohen, M. R. & Maunsell, J. H. R. (2009). Attention improves performance primarily by reducing interneuronal correlations. Nat. Neurosci. 12(12), 1594–1600.
+Cohen, M. R. & Maunsell, J. H. R. (2011). Using neuronal populations to study the mechanisms underlying spatial and feature attention. Neuron, 70(6), 1192–1204.
+Connor, C. E., Gallant, J. L., Preddie, D. C., & Van Essen, D. C. (1996). Responses in area V4 depend on the spatial relationship between stimulus and attention. J. Neurophysiol. 75(3), 1306–1308.
+Cook, E. P. & Maunsell, J. H. R. (2002). Attentional modulation of behavioral performance and neuronal responses in middle temporal and ventral intraparietal areas of macaque monkey. J. Neurosci. 22(5), 1994–2004.
+Costagli, M., Ueno, K., Sun, P., Gardner, J. L., Wan, X., Ricciardi, E., . . . Cheng, K. (2014). Func- tional signalers of changes in visual stimuli: cortical responses to increments and decrements in motion coherence. Cereb. Cortex, 24(1), 110–118.
+C ̧ukur, T., Nishimoto, S., Huth, A. G., & Gallant, J. L. (2013). Attention during natural vision warps semantic representation across the human brain. Nat. Neurosci. 16(6), 763–770.
+Dale, A. M. & Buckner, R. L. (1997). Selective averaging of rapidly presented individual trials using fMRI. Hum. Brain Mapp. 5(5), 329–340.
+Dale, A. M., Fischl, B, & Sereno, M. I. (1999). Cortical surface-based analysis. i. segmentation and surface reconstruction. Neuroimage, 9(2), 179–194.
+David, S. V., Hayden, B. Y., Mazer, J. A., & Gallant, J. L. (2008). Attention to stimulus features shifts spectral tuning of V4 neurons during natural vision. Neuron, 59(3), 509–521.
+Desimone, R & Schein, S. J. (1987). Visual properties of neurons in area V4 of the macaque: sensi- tivity to stimulus form. J. Neurophysiol. 57(3), 835–868.
+Deutsch, J. A. & Deutsch, D. (1963). Attention: some theoretical considerations. Psychol. Rev. 70 (1), 80.
+Dumoulin, S. O. & Wandell, B. A. (2008). Population receptive field estimates in human visual cortex. Neuroimage, 39(2), 647–660.
+
+BIBLIOGRAPHY 93
+Dupont, P, Orban, G. A., De Bruyn, B, Verbruggen, A, & Mortelmans, L. (1994). Many areas in the human brain respond to visual motion. J. Neurophysiol. 72(3), 1420–1424.
+Ecker, A. S., Denfield, G. H., Bethge, M., & Tolias, A. S. (2016). On the structure of neuronal population activity under fluctuations in attentional state. J. Neurosci. 36(5), 1775–1789.
+Egeth, H. E., Virzi, R. A., & Garbart, H. (1984). Searching for conjunctively defined targets. J. Exp. Psychol. Hum. Percept. Perform. 10(1), 32–39.
+Eriksen, C. W. & Hoffman, J. E. (1972). Temporal and spatial characteristics of selective encoding from visual displays. Percept. Psychophys. 12(2), 201–204.
+Fang, F., Boyaci, H., Kersten, D., & Murray, S. O. (2008). Attention-Dependent representation of a size illusion in human V1. Curr. Biol. 18(21), 1707–1712.
+Field, G. D. & Chichilnisky, E. J. (2007). Information processing in the primate retina: circuitry and coding. Annu. Rev. Neurosci. 30, 1–30.
+Foley, J. M. & Legge, G. E. (1981). Contrast detection and near-threshold discrimination in human vision. Vision Res. 21(7), 1041–1053.
+Friston, K. J., Josephs, O, Rees, G, & Turner, R. (1998). Nonlinear event-related responses in fMRI. Magn. Reson. Med. 39(1), 41–52.
+Fru ̈nd, I., Wichmann, F. A., & Macke, J. H. (2014). Quantifying the effect of intertrial dependence on perceptual decisions. J. Vis. 14(7).
+Fru ̈nd, J., McCann, K. S., & Williams, N. M. (2016). Sampling bias is a challenge for quantifying specialization and network structure: lessons from a quantitative niche model. Oikos, 125(4), 502–513.
+Gardner, J. L. (2015). A case for human systems neuroscience. Neuroscience, 296, 130–137. Gardner, J. L. (2019). Optimality and heuristics in perceptual neuroscience. Nat. Neurosci. 22(4),
+514–523.
+Gardner, J. L., Sun, P., Waggoner, R. A., Ueno, K., Tanaka, K., & Cheng, K. (2005). Contrast
+adaptation and representation in human early visual cortex. Neuron, 47(4), 607–620. Gardner, J. L., Merriam, E. P., Movshon, J. A., & Heeger, D. J. (2008). Maps of visual space in
+human occipital cortex are retinotopic, not spatiotopic. J. Neurosci. 28(15), 3988–3999. Gardner, J. L., Merriam, E. P., Schluppeck, D., & Larsson, J. (2018a). MGL: visual psychophysics
+stimuli and experimental design package. Zenodo.
+Gardner, J. L., Merriam, E. P., Schluppeck, D., Besle, J., & Heeger, D. J. (2018b). Mrtools: analysis
+and visualization package for functional magnetic resonance imaging data. Zenodo.
+Gazzaley, A., Cooney, J. W., McEvoy, K., Knight, R. T., & D’esposito, M. (2005). Top-down en- hancement and suppression of the magnitude and speed of neural activity. J. Cogn. Neurosci.
+17(3), 507–517.
+Gold, J. I. & Shadlen, M. N. (2007). The neural basis of decision making. Annu. Rev. Neurosci. 30,
+535–574.
+
+BIBLIOGRAPHY 94
+Gorea, A & Sagi, D. (2001). Disentangling signal from noise in visual contrast discrimination. Nat. Neurosci. 4(11), 1146–1150.
+Haines, R. F. (1991). A breakdown in simultaneous information processing. In G. Obrecht & L. W. Stark (Eds.), Presbyopia research: from molecular biology to visual adaptation (pp. 171–175). Boston, MA: Springer US.
+Hammett, S. T., Smith, A. T., Wall, M. B., & Larsson, J. (2013). Implicit representations of lumi- nance and the temporal structure of moving stimuli in multiple regions of human visual cortex revealed by multivariate pattern classification analysis. J. Neurophysiol. 110(3), 688–699.
+H ̈andel, B., Lutzenberger, W., Thier, P., & Haarmeier, T. (2007). Opposite dependencies on visual motion coherence in human area MT+ and early visual cortex. Cereb. Cortex, 17(7), 1542– 1549.
+Hara, Y & Gardner, J. L. (2014). Encoding of graded changes in spatial specificity of prior cues in human visual cortex. J. Neurophysiol. 112(11), 2834–2849.
+Hara, Y., Pestilli, F., & Gardner, J. L. (2014). Differing effects of attention in single-units and pop- ulations are well predicted by heterogeneous tuning and the normalization model of attention. Front. Comput. Neurosci. 8(February), 12.
+Harel, A., Kravitz, D. J., & Baker, C. I. (2014). Task context impacts visual object processing differentially across the cortex. Proc. Natl. Acad. Sci. U. S. A. 111(10), E962–E971.
+Harter, M. R., Aine, C, & Schroeder, C. (1982). Hemispheric differences in the neural processing of stimulus location and type: effects of selective attention on visual evoked potentials. Neu- ropsychologia, 20(4), 421–438.
+Heeger, D. J., Boynton, G. M., Demb, J. B., Seidemann, E, & Newsome, W. T. (1999). Motion opponency in visual cortex. J. Neurosci. 19(16), 7162–7174.
+Heeger, D. J., Huk, A. C., Geisler, W. S., & Albrecht, D. G. (2000). Spikes versus BOLD: what does neuroimaging tell us about neuronal activity? Nat. Neurosci. 3(7), 631–633.
+Helmholtz, H. (1924). Treatise on physiological optics (J. P. C. Southall, Ed.). The Optical Society of America.
+Hillyard, S. A. & Mu ̈nte, T. F. (1984). Selective attention to color and location: an analysis with event-related brain potentials. Percept. Psychophys. 36(2), 185–198.
+Hubel, D. H. & Wiesel, T. N. (1968). Receptive fields and functional architecture of monkey striate cortex. J. Physiol. 195(1), 215–243.
+Hubel, D. H. & Wiesel, T. N. (1962). Receptive fields, binocular interaction and functional archi- tecture in the cat’s visual cortex. J. Physiol. 160, 106–154.
+Hubel, D. H. & Wiesel, T. N. (1959). Receptive fields of single neurones in the cat’s striate cortex. J. Physiol. 148, 574–591.
+Huettel, S. A. & McCarthy, G. (2000). Evidence for a refractory period in the hemodynamic response to visual stimuli as measured by MRI. Neuroimage, 11(5 Pt 1), 547–553.
+
+BIBLIOGRAPHY 95
+Huk, A. C. & Heeger, D. J. (2000). Task-related modulation of visual cortex. J. Neurophysiol. 83 (6), 3525–3536.
+Huk, A. C. & Shadlen, M. N. (2005). Neural activity in macaque parietal cortex reflects temporal integration of visual motion signals during perceptual decision making. J. Neurosci. 25(45), 10420–10436.
+Huk, A. C., Dougherty, R. F., & Heeger, D. J. (2002). Retinotopy and functional subdivision of human areas MT and MST. J. Neurosci. 22(16), 7195–7205.
+Ishihara, S. (1987). Test for colour-blindness. Kanehara Tokyo, Japan.
+James, W. (1981). The principles of psychology (F. H. Burkhardt, Ed.). Harvard University Press. Jehee, J. F. M., Brady, D. K., & Tong, F. (2011). Attention improves encoding of task-relevant
+features in the human visual cortex. J. Neurosci. 31(22), 8210–8219.
+Kahneman, D. (1973). Attention and effort.
+Kastner, S, Pinsk, M. A., De Weerd, P, Desimone, R, & Ungerleider, L. G. (1999). Increased activity
+in human visual cortex during directed attention in the absence of visual stimulation. Neuron,
+22(4), 751–761.
+Kastner, S, De Weerd, P, Desimone, R, & Ungerleider, L. G. (1998). Mechanisms of directed attention
+in the human extrastriate cortex as revealed by functional MRI. Science, 282 (5386), 108–111. Katz, L. N., Yates, J. L., Pillow, J. W., & Huk, A. C. (2016). Dissociated functional significance of
+decision-related activity in the primate dorsal stream. Nature, 535(7611), 285–288.
+Kay, K. N. & Yeatman, J. D. (2017). Bottom-up and top-down computations in word- and face-
+selective cortex. Elife, 6.
+Kay, K. N., Weiner, K. S., & Grill-Spector, K. (2015). Attention reduces spatial uncertainty in
+human ventral temporal cortex. Curr. Biol. 25(5), 595–600.
+Kay, K. N., Naselaris, T., Prenger, R. J., & Gallant, J. L. (2008). Identifying natural images from
+human brain activity. Nature, 452(7185), 352–355.
+Klein, B. P., Harvey, B. M., & Dumoulin, S. O. (2014). Attraction of position preference by spatial
+attention throughout human visual cortex. Neuron, 84(1), 227–237.
+Klein, B. P., Paffen, C. L. E., Pas, S. F. T., & Dumoulin, S. O. (2016). Predicting bias in perceived
+position using attention field models. J. Vis. 16(7), 15.
+Kok, P., Jehee, J. F. M., & de Lange, F. P. (2012). Less is more: expectation sharpens representations
+in the primary visual cortex. Neuron, 75(2), 265–270.
+Kok, P., Brouwer, G. J., van Gerven, M. A. J., & de Lange, F. P. (2013). Prior expectations bias
+sensory representations in visual cortex. J. Neurosci. 33(41), 16275–16284.
+Kuelpe, O. (1902). The problem of attention. books.google.com.
+Kuffler, S. W. (1953). Discharge patterns and functional organization of mammalian retina. J. Neu-
+rophysiol. 16(1), 37–68.
+
+BIBLIOGRAPHY 96
+Lavie, N. (2005). Distracted and confused?: selective attention under load. Trends Cogn. Sci. 9(2), 75–82.
+Lavie, N., Hirst, A., de Fockert, J. W., & Viding, E. (2004). Load theory of selective attention and cognitive control. J. Exp. Psychol. Gen. 133(3), 339–354.
+Lennie, P. (2003). The cost of cortical computation. Curr. Biol. 13(6), 493–497.
+Li, F. F., VanRullen, R., Koch, C., & Perona, P. (2002). Rapid natural scene categorization in the
+near absence of attention. Proc. Natl. Acad. Sci. U. S. A. 99(14), 9596–9601.
+Li, X., Lu, Z.-L., Tjan, B. S., Dosher, B. A., & Chu, W. (2008). Blood oxygenation level-dependent contrast response functions identify mechanisms of covert attention in early visual areas. Proc.
+Natl. Acad. Sci. U. S. A. 105(16), 6202–6207.
+Ling, S. & Carrasco, M. (2006). When sustained attention impairs perception. Nat. Neurosci. 9 (10),
+1243–1245.
+Ling, S., Pratte, M. S., & Tong, F. (2015). Attention alters orientation processing in the human
+lateral geniculate nucleus. Nat. Neurosci. 18(4), 496–498.
+Ling, S., Liu, T., & Carrasco, M. (2009). How spatial and feature-based attention affect the gain
+and tuning of population responses. Vision Res. 49(10), 1194–1204.
+Liu, J. & Newsome, W. T. (2002). Functional organization of speed tuned neurons in visual area
+MT. J. Neurophysiol. 89(1), 246–256.
+Liu, T., Stevens, S. T., & Carrasco, M. (2007a). Comparing the time course and efficacy of spatial
+and feature-based attention. Vision Res. 47(1), 108–113.
+Liu, T., Larsson, J., & Carrasco, M. (2007b). Feature-based attention modulates orientation-selective
+responses in human visual cortex. Neuron, 55(2), 313–323.
+Liu, T. T. & Frank, L. R. (2004). Efficiency, power, and entropy in event-related FMRI with multiple
+trial types. part i: theory. Neuroimage, 21(1), 387–400.
+Logothetis, N. K., Pauls, J, Augath, M, Trinath, T, & Oeltermann, A. (2001). Neurophysiological
+investigation of the basis of the fMRI signal. Nature, 412(6843), 150–157.
+Luck, S. J., Chelazzi, L, Hillyard, S. A., & Desimone, R. (1997). Neural mechanisms of spatial selective attention in areas v1, v2, and V4 of macaque visual cortex. J. Neurophysiol. 77(1),
+24–42.
+Lumer, E. D., Friston, K. J., & Rees, G. (1998). Neural correlates of perceptual rivalry in the human
+brain. Science, 280(5371), 1930–1934.
+Mack, A. & Rock, I. (1998). Inattentional blindness. MIT press Cambridge, MA.
+Mante, V., Sussillo, D., Shenoy, K. V., & Newsome, W. T. (2013). Context-dependent computation
+by recurrent dynamics in prefrontal cortex. Nature, 503(7474), 78–84.
+Marr, D. & Vision, A. (1982). A computational investigation into the human representation and
+processing of visual information. WH San Francisco: Freeman and Company, 1(2).
+
+BIBLIOGRAPHY 97
+McAdams, C. J. & Maunsell, J. H. (1999). Effects of attention on orientation-tuning functions of single neurons in macaque cortical area V4. J. Neurosci. 19(1), 431–441.
+McBride, E. G., Lee, S.-Y. J., & Callaway, E. M. (2019). Local and global influences of visual spatial selection and locomotion in mouse primary visual cortex. Curr. Biol.
+McLachlan, G. & Peel, D. (2000). Finite mixture models (wiley series in probability and statistics). Wiley-Interscience.
+Melcher, D. & Morrone, M. C. (2003). Spatiotopic temporal integration of visual motion across saccadic eye movements. Nat. Neurosci. 6(8), 877–881.
+Mesgarani, N. & Chang, E. F. (2012). Selective cortical representation of attended speaker in multi- talker speech perception. Nature, 485(7397), 233–236.
+Miconi, T. & VanRullen, R. (2016). A feedback model of attention explains the diverse effects of attention on neural firing rates and receptive field structure. PLoS Comput. Biol. 12(2), e1004770.
+Mishkin, M., Ungerleider, L. G., & Macko, K. A. (1983). Object vision and spatial vision: two cortical pathways. Trends Neurosci. 6, 414–417.
+Mitchell, J. F., Sundberg, K. A., & Reynolds, J. H. (2009). Spatial attention decorrelates intrinsic activity fluctuations in macaque area V4. Neuron, 63(6), 879–888.
+Moore, T & Fallah, M. (2001). Control of eye movements and spatial attention. Proc. Natl. Acad. Sci. U. S. A. 98(3), 1273–1276.
+Moore, T. & Armstrong, K. M. (2003). Selective gating of visual signals by microstimulation of frontal cortex. Nature, 421(6921), 370–373.
+Moore, T., Armstrong, K. M., & Fallah, M. (2003). Visuomotor origins of covert spatial attention. Neuron, 40(4), 671–683.
+Moran, J & Desimone, R. (1985). Selective attention gates visual processing in the extrastriate cortex. Science, 229(4715), 782–784.
+Moray, N. (1959). Attention in dichotic listening: affective cues and the influence of instructions. Q. J. Exp. Psychol. 11(1), 56–60.
+Motter, B. C. (1993). Focal attention produces spatially selective processing in visual cortical areas v1, v2, and V4 in the presence of competing stimuli. J. Neurophysiol. 70(3), 909–919.
+Murray, S. O. (2008). The effects of spatial attention in early human visual cortex are stimulus independent. J. Vis. 8(10), 2.1–11.
+Nachmias, J & Sansbury, R. V. (1974). Letter: grating contrast: discrimination may be better than detection. Vision Res. 14(10), 1039–1042.
+Naka, K. I. & Rushton, W. A. H. (1966). S-potentials from colour units in the retina of fish (cyprinidae). J. Physiol. 185(3), 536–555.
+Nakajima, M., Schmitt, L. I., & Halassa, M. M. (2019). Prefrontal cortex regulates sensory filtering through a basal Ganglia-to-Thalamus pathway. Neuron.
+
+BIBLIOGRAPHY 98
+Neisser, U. (1979). The control of information pickup in selective looking. Perception and its devel- opment: A tribute to Eleanor J. Gibson, 201–219.
+Neri, P. (2010). How inherently noisy is human sensory processing? Psychon. Bull. Rev. 17(6), 802– 808.
+Neri, P. (2018). The empirical characteristics of human pattern vision defy theoretically-driven expectations. PLoS Comput. Biol. 14(12), e1006585.
+Nestares, O. & Heeger, D. J. (2000). Robust multiresolution alignment of MRI brain volumes. Magn. Reson. Med. 43(5), 705–715.
+Newsome, W. T. & Par ́e, E. B. (1988). A selective impairment of motion perception following lesions of the middle temporal visual area (MT). J. Neurosci. 8(6), 2201–2211.
+Newsome, W. T., Britten, K. H., & Movshon, J. A. (1989). Neuronal correlates of a perceptual decision. Nature, 341(6237), 52–54.
+Nothdurft, H. C. (1993). The role of features in preattentive vision: comparison of orientation, motion and color cues. Vision Res. 33(14), 1937–1958.
+O’Connor, D. H., Fukui, M. M., Pinsk, M. A., & Kastner, S. (2002). Attention modulates responses in the human lateral geniculate nucleus. Nat. Neurosci. 5(11), 1203–1209.
+O’Craven, K. M., Rosen, B. R., Kwong, K. K., Treisman, A., & Savoy, R. L. (1997). Voluntary attention modulates fMRI activity in human MT–MST. Neuron, 18(4), 591–598.
+Ogawa, S, Lee, T. M., Kay, A. R., & Tank, D. W. (1990). Brain magnetic resonance imaging with contrast dependent on blood oxygenation. Proc. Natl. Acad. Sci. U. S. A. 87(24), 9868–9872. Ohzawa, I, Sclar, G, & Freeman, R. D. (1982). Contrast gain control in the cat visual cortex. Nature,
+298(5871), 266–268.
+Ohzawa, I, Sclar, G, & Freeman, R. D. (1985). Contrast gain control in the cat’s visual system. J.
+Neurophysiol. 54(3), 651–667.
+Okazawa, G., Tajima, S., & Komatsu, H. (2015). Image statistics underlying natural texture selec-
+tivity of neurons in macaque V4. Proc. Natl. Acad. Sci. U. S. A. 112(4), E351–60.
+Olman, C. A., Ugurbil, K., Schrater, P., & Kersten, D. (2004). BOLD fMRI and psychophysical
+measurements of contrast response to broadband images. Vision Res. 44(7), 669–683. Peelen, M. V., Fei-Fei, L., & Kastner, S. (2009). Neural mechanisms of rapid natural scene catego-
+rization in human visual cortex. Nature, 460(7251), 94–97.
+Pestilli, F., Ling, S., & Carrasco, M. (2009). A population-coding model of attention’s influence
+on contrast response: estimating neural effects from psychophysical data. Vision Res. 49(10),
+1144–1153.
+Pestilli, F., Carrasco, M., Heeger, D. J., & Gardner, J. L. (2011). Attentional enhancement via
+selection and pooling of early sensory responses in human visual cortex. Neuron, 72(5), 832– 846.
+
+BIBLIOGRAPHY 99
+Pisupati, S., Chartarifsky-Lynn, L., Khanal, A., & Churchland, A. K. (2019). Lapses in perceptual judgments reflect exploration.
+Posner, M. I. (1980). Orienting of attention. Q. J. Exp. Psychol. 32(1), 3–25.
+Posner, M. I., Snyder, C. R., & Davidson, B. J. (1980). Attention and the detection of signals. J.
+Exp. Psychol. 109(2), 160–174.
+Priebe, N. J., Cassanello, C. R., & Lisberger, S. G. (2003). The neural representation of speed in
+macaque area MT/V5. J. Neurosci. 23(13), 5650–5661.
+Priebe, N. J., Lisberger, S. G., & Movshon, J. A. (2006). Tuning for spatiotemporal frequency and
+speed in directionally selective neurons of macaque striate cortex. J. Neurosci. 26(11), 2941–
+2950.
+Prins, N. (2012). The psychometric function: the lapse rate revisited. J. Vis. 12(6).
+Rabinowitz, N. C., Goris, R. L., Cohen, M., & Simoncelli, E. P. (2015). Attention stabilizes the
+shared gain of V4 populations. Elife, 4, e08998.
+Reddy, L., Reddy, L., & Koch, C. (2006). Face identification in the near-absence of focal attention.
+Vision Res. 46(15), 2336–2343.
+Rees, G, Friston, K, & Koch, C. (2000). A direct quantitative relationship between the functional
+properties of human and macaque V5. Nat. Neurosci. 3(7), 716–723.
+Rees, G, Frith, C. D., & Lavie, N. (1997). Modulating irrelevant motion perception by varying
+attentional load in an unrelated task. Science, 278(5343), 1616–1619.
+Ress, D & Heeger, D. J. (2003). Neuronal correlates of perception in early visual cortex. Nat.
+Neurosci. 6(4), 414–420.
+Ress, D, Backus, B. T., & Heeger, D. J. (2000). Activity in primary visual cortex predicts performance
+in a visual detection task. Nat. Neurosci. 3(9), 940–945.
+Reynolds, J. H., Pasternak, T, & Desimone, R. (2000). Attention increases sensitivity of V4 neurons.
+Neuron, 26(3), 703–714.
+Reynolds, J. H. & Heeger, D. J. (2009). The normalization model of attention. Neuron, 61(2), 168–
+185.
+Roitman, J. D. & Shadlen, M. N. (2002). Response of neurons in the lateral intraparietal area during
+a combined visual discrimination reaction time task. J. Neurosci. 22(21), 9475–9489.
+Rolls, E. T. & Baylis, G. C. (1986). Size and contrast have only small effects on the responses to faces of neurons in the cortex of the superior temporal sulcus of the monkey. Exp. Brain Res.
+65(1), 38–48.
+Ruff, D. A. & Cohen, M. R. (2018). Simultaneous multi-area recordings suggest a novel hypothesis
+about how attention improves performance. Available at SSRN 3263015.
+Ruff, D. A. & Cohen, M. R. (2017). A normalization model suggests that attention changes the weighting of inputs between visual areas. Proc. Natl. Acad. Sci. U. S. A. 114(20), E4085–
+E4094.
+
+BIBLIOGRAPHY 100
+Ruff, D. A. & Cohen, M. R. (2016). Attention increases spike count correlations between visual cortical areas. J. Neurosci. 36(28), 7523–7534.
+Ruff, D. A., Ni, A. M., & Cohen, M. R. (2018). Cognition as a window into neuronal population space. Annu. Rev. Neurosci. 41, 77–97.
+Saenz, M., Buracas, G. T., & Boynton, G. M. (2002). Global effects of feature-based attention in human visual cortex. Nat. Neurosci. 5(7), 631–632.
+S`aenz, M., Buraˆcas, G. T., & Boynton, G. M. (2003). Global feature-based attention for motion and color. Vision Res. 43(6), 629–637.
+Sapir, A., d’Avossa, G., McAvoy, M., Shulman, G. L., & Corbetta, M. (2005). Brain signals for spatial attention predict performance in a motion discrimination task. Proc. Natl. Acad. Sci. U. S. A. 102(49), 17810–17815.
+Schurgin, M. W., Wixted, J. T., & Brady, T. F. (2018). Psychophysical scaling reveals a unified theory of visual memory strength.
+Sclar, G, Maunsell, J. H., & Lennie, P. (1990). Coding of image contrast in central visual pathways of the macaque monkey. Vision Res. 30(1), 1–10.
+Sclar, G, Lennie, P, & DePriest, D. D. (1989). Contrast adaptation in striate cortex of macaque. Vision Res. 29(7), 747–755.
+Sclar, G, Ohzawa, I, & Freeman, R. D. (1985). Contrast gain control in the kitten’s visual system. J. Neurophysiol. 54(3), 668–675.
+Seidemann, E, Poirson, A. B., Wandell, B. A., & Newsome, W. T. (1999). Color signals in area MT of the macaque monkey. Neuron, 24(4), 911–917.
+Serences, J. T. & Boynton, G. M. (2007). Feature-based attentional modulations in the absence of direct visual stimulation. Neuron, 55(2), 301–312.
+Shadlen, M. N. & Newsome, W. T. (2001). Neural basis of a perceptual decision in the parietal cortex (area LIP) of the rhesus monkey. J. Neurophysiol. 86(4), 1916–1936.
+Shadlen, M. N., Britten, K. H., Newsome, W. T., & Movshon, J. A. (1996). A computational analysis of the relationship between neuronal and behavioral responses to visual motion. J. Neurosci. 16(4), 1486–1510.
+Silver, M. A., Ress, D., & Heeger, D. J. (2007). Neural correlates of sustained spatial attention in human early visual cortex. J. Neurophysiol. 97(1), 229–237.
+Simoncelli, E. P. & Heeger, D. J. (1998). A model of neuronal responses in visual area MT. Vision Res. 38(5), 743–761.
+Simons, D. J. & Chabris, C. F. (1999). Gorillas in our midst: sustained inattentional blindness for dynamic events. Perception, 28(9), 1059–1074.
+Singh, K. D., Smith, A. T., & Greenlee, M. W. (2000). Spatiotemporal frequency and direction sensitivities of human visual areas measured using fMRI. Neuroimage, 12(5), 550–564.
+
+BIBLIOGRAPHY 101
+Sirotin, Y. B. & Das, A. (2009). Anticipatory haemodynamic signals in sensory cortex not predicted by local neuronal activity. Nature, 457(7228), 475–479.
+Smith, A. T., Wall, M. B., Williams, A. L., & Singh, K. D. (2006). Sensitivity to optic flow in human cortical areas MT and MST. Eur. J. Neurosci. 23(2), 561–569.
+Snyder, A. C., Yu, B. M., & Smith, M. A. (2018). Distinct population codes for attention in the absence and presence of visual stimulation. Nat. Commun. 9(1), 4382.
+Snyder, C. R. (1972). Selection, inspection, and naming in visual search. J. Exp. Psychol. 92(3), 428–431.
+Softky, W. R. & Koch, C. (1993). The highly irregular firing of cortical cells is inconsistent with temporal integration of random EPSPs. J. Neurosci. 13(1), 334–350.
+Soto, D. & Blanco, M. J. (2004). Spatial attention and object-based attention: a comparison within a single task. Vision Res. 44(1), 69–81.
+Sperling, G & Melchner, M. J. (1978). The attention operating characteristic: examples from visual search. Science, 202(4365), 315–318.
+Sperling, G. (1960). The information available in brief visual presentations. Psychological Mono- graphs: General and Applied, 74(11), 1–29.
+Spitzer, H, Desimone, R, & Moran, J. (1988). Increased attention enhances both behavioral and neuronal performance. Science, 240(4850), 338–340.
+Stigliani, A., Jeska, B., & Grill-Spector, K. (2017). Encoding model of temporal processing in human visual cortex. Proc. Natl. Acad. Sci. U. S. A. 114(51), E11047–E11056.
+Stocker, A. A. & Simoncelli, E. P. (2006). Noise characteristics and prior expectations in human visual speed perception. Nat. Neurosci. 9(4), 578–585.
+Sun, P., Ueno, K., Waggoner, R. A., Gardner, J. L., Tanaka, K., & Cheng, K. (2007). A temporal frequency–dependent functional architecture in human V1 revealed by high-resolution fMRI. Nat. Neurosci. 10, 1404.
+Taylor, M. & Creelman, C. D. (1967). PEST: efficient estimates on probability functions. J. Acoust. Soc. Am. 41(4A), 782–787.
+Teller, D. Y. (1984). Linking propositions. Vision Res. 24(10), 1233–1246.
+Titchener, E. B. (1908). Lectures on the elementary psychology of feeling and attention. Macmillan. Tjur, T. (2009). Coefficients of determination in logistic regression Models—A new proposal: the
+coefficient of discrimination. Am. Stat. 63(4), 366–372.
+Tolhurst, D. J., Movshon, J. A., & Dean, A. F. (1983). The statistical reliability of signals in single
+neurons in cat and monkey visual cortex. Vision Res. 23(8), 775–785.
+Tolias, A. S., Moore, T, Smirnakis, S. M., Tehovnik, E. J., Siapas, A. G., & Schiller, P. H. (2001).
+Eye movements modulate visual receptive fields of V4 neurons. Neuron, 29(3), 757–767.
+
+BIBLIOGRAPHY 102
+Tootell, R. B., Reppas, J. B., Kwong, K. K., Malach, R, Born, R. T., Brady, T. J., ... Belliveau, J. W. (1995). Functional analysis of human MT and related visual cortical areas using magnetic resonance imaging. J. Neurosci. 15(4), 3215–3230.
+Tootell, R. B., Hadjikhani, N. K., Vanduffel, W, Liu, A. K., Mendola, J. D., Sereno, M. I., & Dale, A. M. (1998a). Functional analysis of primary visual cortex (v1) in humans. Proc. Natl. Acad. Sci. U. S. A. 95(3), 811–817.
+Tootell, R. B. H., Hadjikhani, N. K., Mendola, J. D., Marrett, S, & Dale, A. M. (1998b). From retinotopy to recognition. Trends Cogn. Sci. 2(5), 174–183.
+Treisman, A. M. & Gelade, G. (1980). A feature-integration theory of attention. Cogn. Psychol. 12(1), 97–136.
+Treisman, A. (1985). Preattentive processing in vision. Computer Vision, Graphics, and Image Pro- cessing, 31(2), 156–177.
+Treisman, A. M. (1960). Contextual cues in selective listening. Q. J. Exp. Psychol. 12(4), 242–248. Treue, S & Mart ́ınez Trujillo, J. C. (1999). Feature-based attention influences motion processing
+gain in macaque visual cortex. Nature, 399(6736), 575–579.
+Treue, S & Maunsell, J. H. (1996). Attentional modulation of visual motion processing in cortical
+areas MT and MST. Nature, 382(6591), 539–541.
+Tsal, Y & Lavie, N. (1988). Attending to color and shape: the special role of location in selective
+visual processing. Percept. Psychophys. 44(1), 15–21.
+Verhoef, B.-E. & Maunsell, J. H. R. (2017). Attention-related changes in correlated neuronal activity
+arise from normalization mechanisms. Nat. Neurosci. 20(7), 969–977.
+Vintch, B. & Gardner, J. L. (2014). Cortical correlates of human motion perception biases. J.
+Neurosci. 34(7), 2592–2604.
+Vo, V. A., Sprague, T. C., & Serences, J. T. (2017). Spatial tuning shifts increase the discriminability
+and fidelity of population codes in visual cortex. J. Neurosci. 37(12), 3386–3401.
+Wandell, B. A. & Winawer, J. (2015). Computational neuroimaging and population receptive fields.
+Trends Cogn. Sci. 19(6), 349–357.
+Wandell, B. A., Dumoulin, S. O., & Brewer, A. A. (2007). Visual field maps in human cortex. Neuron,
+56(2), 366–383.
+Wang, L. & Krauzlis, R. J. (2018). Visual selective attention in mice. Curr. Biol. 28 (5), 676–685.e4. Watson, J. D., Myers, R, Frackowiak, R. S., Hajnal, J. V., Woods, R. P., Mazziotta, J. C., . . . Zeki, S.
+(1993). Area V5 of the human brain: evidence from a combined study using positron emission
+tomography and magnetic resonance imaging. Cereb. Cortex, 3(2), 79–94.
+Wichmann, F. A. & Hill, N. J. (2001). The psychometric function: i. fitting, sampling, and goodness
+of fit. Perception and Psychophysics, 63(8), 1293–1313.
+Wolfe, J. M. (1994). Guided search 2.0 a revised model of visual search. Psychon. Bull. Rev. 1(2),
+202–238.
+
+BIBLIOGRAPHY 103
+Womelsdorf, T., Anton-Erxleben, K., Pieper, F., & Treue, S. (2006). Dynamic shifts of visual recep- tive fields in cortical area MT by spatial attention. Nat. Neurosci. 9(9), 1156–1160.
+Womelsdorf, T., Anton-Erxleben, K., & Treue, S. (2008). Receptive field shift and shrinkage in macaque middle temporal area through attentional gain modulation. J. Neurosci. 28(36), 8934–8944.
+Wunderlich, K., Schneider, K. A., & Kastner, S. (2005). Neural correlates of binocular rivalry in the human lateral geniculate nucleus. Nat. Neurosci. 8(11), 1595–1602.
+Yamins, D. L. K., Hong, H., Cadieu, C. F., Solomon, E. A., Seibert, D., & DiCarlo, J. J. (2014). Performance-optimized hierarchical models predict neural responses in higher visual cortex. Proc. Natl. Acad. Sci. U. S. A. 111(23), 8619–8624.
+Zarahn, E, Aguirre, G, & D’Esposito, M. (1997). A trial-based experimental design for fMRI. Neu- roimage, 6(2), 122–138.
+Zeki, S, Watson, J. D., Lueck, C. J., Friston, K. J., Kennard, C, & Frackowiak, R. S. (1991). A direct demonstration of functional specialization in human visual cortex. J. Neurosci. 11(3), 641–649.
+Zenger-Landolt, B. & Heeger, D. J. (2003). Response suppression in v1 agrees with psychophysics of surround masking. J. Neurosci. 23(17), 6884–6893.
+Zohary, E, Shadlen, M. N., & Newsome, W. T. (1994). Correlated neuronal discharge rate and its implications for psychophysical performance. Nature, 370(6485), 140–143.

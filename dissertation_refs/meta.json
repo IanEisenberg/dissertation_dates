@@ -1,5 +1,21 @@
 [
 	{
+        "fname":"Ian",
+        "lname":"Eisenberg",
+        "title":"Uncovering mental structure through data-driven ontology discovery",
+        "date":"08/2019",
+        "file":"eisenberg.txt",
+        "area":"neuroscience"
+    },
+    {
+        "fname":"Dan",
+        "lname":"Birman",
+        "title":"Computational linking models of human selective visual attention",
+        "date":"08/2019",
+        "file":"birman.txt",
+        "area":"neuroscience"
+    },
+    {
 		"fname":"Robert",
 		"lname":"Hawkins",
 		"title":"Coordinating on meaning in communication",
@@ -166,5 +182,29 @@
         "date":"10/2018",
         "file":"le.txt",
         "area":"neuroscience"
+    },
+    {
+        "fname":"Kevin",
+        "lname":"Mickey",
+        "title":"UNDERSTANDING TRIGONOMETRIC RELATIONSHIPS BY GROUNDING RULES IN A COHERENT CONCEPTUAL STRUCTURE",
+        "date":"12/2018",
+        "file":"mickey.txt",
+        "area":"cognitive"
+    },
+    {
+        "fname":"Gregg",
+        "lname":"Sparkman",
+        "title":"WHEN OTHERS CHANGE: THE SOCIAL INFLUENCE OF DYNAMIC NORMS",
+        "date":"06/2017",
+        "file":"sparkman.txt",
+        "area":"social"
+    },
+    {
+        "fname":"Lauren",
+        "lname":"Howe",
+        "title":"THE ANTICIPATION OF DEVALUATION: CONCERNS ABOUT BEING JUDGED SHAPE REACTIONS TO EXPERTS WHO APPEAR FLAWED OR FLAWLESS",
+        "date":"08/2017",
+        "file":"howe.txt",
+        "area":"social"
     }
 ]

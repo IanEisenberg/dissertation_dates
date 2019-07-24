@@ -1,0 +1,685 @@
+Acton, G. S. (2003). Measurement of impulsivity in a hierarchical model of personality traits:
+implications for substance use. Subst. Use Misuse, 38 (1), 67–83.
+Adamson, S. J., Kay-Lambkin, F. J., Baker, A. L., Lewin, T. J., Thornton, L., Kelly, B. J.,
+& Sellman, J. D. (2010). An improved brief measure of cannabis misuse: the cannabis
+use disorders identification Test-Revised (CUDIT-R). Drug Alcohol Depend. 110 (1-2),
+137–143.
+Allan, J. L., McMinn, D., & Daly, M. (2016). A bidirectional relationship between executive
+function and health behavior: evidence, implications, and future directions. Front.
+Neurosci. 10, 386.
+Almlund, M., Duckworth, A. L., Heckman, J., & Kautz, T. (2011). Personality psychology
+and economics. In Handbook of the economics of education (Vol. 4, pp. 1–181). Elsevier.
+Amlung, M., Vedelago, L., Acker, J., Balodis, I., & MacKillop, J. (2017). Steep delay dis-
+counting and addictive behavior: a meta-analysis of continuous associations. Addiction,
+112 (1), 51–62.
+Aron, A. R., Behrens, T. E., Smith, S., Frank, M. J., & Poldrack, R. A. Triangulating a
+Cognitive Control Network Using Diffusion-Weighted Magnetic Resonance Imaging
+(MRI) and Functional MRI.
+Ashburner, M, Ball, C. A., Blake, J. A., Botstein, D, Butler, H, Cherry, J. M., . . . Sher-
+lock, G. (2000). Gene ontology: tool for the unification of biology. the gene ontology
+consortium. Nat. Genet. 25 (1), 25–29.
+122BIBLIOGRAPHY
+123
+Badre, D., Kayser, A. S., & D’Esposito, M. (2010). Frontal Cortex and the Discovery of
+Abstract Action Rules. Neuron, 66 (2), 315–326.
+Baer, R. A., Smith, G. T., Lykins, E., Button, D., Krietemeyer, J., Sauer, S., . . . Williams,
+J. M. G. (2008). Construct validity of the five facet mindfulness questionnaire in med-
+itating and nonmeditating samples. Assessment, 15 (3), 329–342.
+Baer, R. A., Smith, G. T., Hopkins, J., Krietemeyer, J., & Toney, L. (2006). Using Self-
+Report assessment methods to explore facets of mindfulness. Assessment, 13 (1), 27–
+45.
+Bailey, K. D. (2001). Towards unifying science: applying concepts across disciplinary bound-
+aries. Syst. Res. Behav. Sci. 18 (1), 41–62.
+Bakker, M., van Dijk, A., & Wicherts, J. M. (2012). The rules of the game called psycho-
+logical science. Perspect. Psychol. Sci. 7 (6), 543–554.
+Baltes, P. B., Baltes, M. M., Freund, A. M., & Lang, F. R. (1999). The measure of selection,
+optimization, and compensation (SOC) by self-report. Max Planck Institute for Human
+Development, Berlin.
+Bard, J. B. L. & Rhee, S. Y. (2004). Ontologies in biology: design, applications and future
+challenges. Nat. Rev. Genet. 5 (3), 213–222.
+Barrett, L. F. (2006). Are emotions natural kinds? Perspect. Psychol. Sci. 1 (1), 28–58.
+Basile, A. G. & Toplak, M. E. (2015). Four converging measures of temporal discounting
+and their relationships with intelligence, executive functions, thinking dispositions,
+and behavioral outcomes.
+Bastian, M., Heymann, S., Jacomy, M., & Others. (2009). Gephi: an open source software
+for exploring and manipulating networks. Icwsm, 8 (2009), 361–362.
+Baumeister, R. F. & Heatherton, T. F. (1996). Self-Regulation failure: an overview. Psychol.
+Inq. 7 (1), 1–15.
+Baumeister, R. F., Gailliot, M., DeWall, C. N., & Oaten, M. (2006). Self-regulation and per-
+sonality: how interventions increase regulatory success, and how depletion moderates
+the effects of traits on behavior. J. Pers. 74 (6), 1773–1802.BIBLIOGRAPHY
+124
+Behrens, T. E. J., Woolrich, M. W., Walton, M. E., & Rushworth, M. F. S. (2007). Learning
+the value of information in an uncertain world. Nat. Neurosci. 10 (9), 1214–1221.
+Bem, D. J. & Allen, A. (1974). On predicting some of the people some of the time: the
+search for cross-situational consistencies in behavior. Psychol. Rev. 81 (6), 506–520.
+Beyer, K., Goldstein, J., Ramakrishnan, R., & Shaft, U. (1999). When is “nearest neighbor”
+meaningful? In Database theory — ICDT’99 (pp. 217–235). Springer Berlin Heidel-
+berg.
+Bickel, W. K., Odum, A. L., & Madden, G. J. (1999). Impulsivity and cigarette smoking:
+delay discounting in current, never, and ex-smokers. Psychopharmacology, 146 (4), 447–
+454.
+Bickel, W. K., Jarmolowicz, D. P., Mueller, E. T., Gatchalian, K. M., & McClure, S. M.
+(2012). Are executive function and impulsivity antipodes? a conceptual reconstruction
+with special reference to addiction. Psychopharmacology, 221 (3), 361–387.
+Bissett, P. G. & Logan, G. D. (2011). Balancing cognitive demands: control adjustments in
+the stop-signal paradigm. J. Exp. Psychol. Learn. Mem. Cogn. 37 (2), 392–404.
+Bissett, P. G. & Logan, G. D. (2014). Selective stopping? Maybe not. J. Exp. Psychol. Gen.
+143 (1), 455.
+Blais, A.-R. & Weber, E. U. (2006). A Domain-Specific Risk-Taking (DOSPERT) scale for
+adult populations.
+Brainard, D. H. (1997). The psychophysics toolbox. Spat. Vis. 10 (4), 433–436.
+Briggs, S. R. & Cheek, J. M. (1986). The role of factor analysis in the development and
+evaluation of personality scales. J. Pers. 54 (1), 106–148.
+Brown, K. W. & Ryan, R. M. (2003). The benefits of being present: mindfulness and its role
+in psychological well-being. J. Pers. Soc. Psychol. 84 (4), 822.
+Burnham, K. P. & Anderson, D. R. (2004). Multimodel inference: understanding AIC and
+BIC in model selection. Sociol. Methods Res. 33 (2), 261–304.
+Carey, K. B., Neal, D. J., & Collins, S. E. (2004). A psychometric analysis of the self-
+regulation questionnaire. Addict. Behav. 29 (2), 253–260.BIBLIOGRAPHY
+125
+Carlson, S. R., Johnson, S. C., & Jacobs, P. C. (2010). Disinhibited characteristics and binge
+drinking among university student drinkers. Addict. Behav. 35 (3), 242–251.
+Carstensen, L. L. & Lang, F. R. (1996). Future time perspective scale. Unpublished manuscript,
+Stanford University.
+Chandler, J., Mueller, P., & Paolacci, G. (2014). Nonnaïveté among amazon mechanical turk
+workers: consequences and solutions for behavioral researchers. Behav. Res. Methods,
+46 (1), 112–130.
+Chapman, J., Dean, M., Ortoleva, P., Snowberg, E., & Camerer, C. (2018). Econographics,
+National Bureau of Economic Research.
+Clark, L., Robbins, T. W., Ersche, K. D., & Sahakian, B. J. (2006). Reflection Impulsivity
+in Current and Former Substance Users. Biol. Psychiatry, 60 (5), 515–522.
+Coffey, K. A. & Hartman, M. (2008). Mechanisms of action in the inverse relationship be-
+tween mindfulness and psychological distress. Complement. Health Pract. Rev. 13 (2),
+79–91.
+Coffey, K. A., Hartman, M., & Fredrickson, B. L. (2010). Deconstructing mindfulness and
+constructing mental health: understanding mindfulness and its mechanisms of action.
+Collaboration, O. S. (2015). Estimating the reproducibility of psychological science. Science,
+349 (6251), aac4716.
+Collins, A. G. E., Ciullo, B., Frank, M. J., & Badre, D. (2017). Working memory load
+strengthens reward prediction errors. J. Neurosci.
+Copas, J. B. (1983a). Regression, prediction and shrinkage. J. R. Stat. Soc. Series B Stat.
+Methodol. 311–354.
+Copas, J. B. (1983b). Regression, prediction and shrinkage. J. R. Stat. Soc. Series B Stat.
+Methodol. 311–354.
+Corner, S. (2009). Choosing the right type of rotation in PCA and EFA. JALT testing &
+evaluation SIG newsletter, 13 (3), 20–25.
+Coskunpinar, A., Dir, A. L., & Cyders, M. A. (2013). Multidimensionality in impulsivity
+and alcohol use: a meta-analysis using the UPPS model of impulsivity. Alcohol. Clin.
+Exp. Res. 37 (9), 1441–1450.BIBLIOGRAPHY
+126
+Courtney, K. E., Arellano, R., Barkley-Levenson, E., Gálvan, A., Poldrack, R. A., Mackillop,
+J., . . . Ray, L. A. (2012). The relationship between measures of impulsivity and alcohol
+misuse: an integrative structural equation modeling approach. Alcohol. Clin. Exp. Res.
+36 (6), 923–931.
+Cowen, A. S. & Keltner, D. (2017). Self-report captures 27 distinct categories of emotion
+bridged by continuous gradients. Proc. Natl. Acad. Sci. U. S. A. 114 (38), E7900–
+E7909.
+Critchfield, T. S. & Kollins, S. H. (2001). Temporal discounting: basic research and the
+analysis of socially important behavior. J. Appl. Behav. Anal. 34 (1), 101–122.
+Cronbach, L. J. & Meehl, P. E. (1955). Construct validity in psychological tests. Psychol.
+Bull. 52 (4), 281–302.
+Cumming, G. (2014). The new statistics: why and how. Psychol. Sci. 25 (1), 7–29.
+Cunningham, M. R. & Baumeister, R. F. (2016). How to make nothing out of something:
+analyses of the impact of study sampling and statistical interpretation in misleading
+Meta-Analytic conclusions. Front. Psychol. 7, 1639.
+Curran, P. J. (2009). The seemingly quixotic pursuit of a cumulative psychological science:
+introduction to the special issue. Psychol. Methods, 14 (2), 77–80.
+Cyders, M. A. & Coskunpinar, A. (2011). Measurement of constructs using self-report and
+behavioral lab tasks: is there overlap in nomothetic span and construct representation
+for impulsivity? Clin. Psychol. Rev. 31 (6), 965–982.
+Daw, N., Dayan, P., & Doherty, J. P. O. (2010). Article states versus rewards : dissociable
+neural prediction error signals underlying Model-Based and Model-Free reinforcement
+learning. Neuron, 66 (4), 585–595.
+Daw, N. D., Gershman, S. J., Seymour, B., Dayan, P., & Dolan, R. J. (2011). Model-based
+influences on humans’ choices and striatal prediction errors. Neuron, 69 (6), 1204–1215.
+de Lauzon, B., Romon, M., Deschamps, V., Lafay, L., Borys, J.-M., Karlsson, J., . . . Fleur-
+baix Laventie Ville Sante Study Group. (2004). The Three-Factor eating Questionnaire-
+R18 is able to distinguish among different eating patterns in a general population. J.
+Nutr. 134 (9), 2372–2380.BIBLIOGRAPHY
+127
+de Leeuw, J. R. (2015). Jspsych: a JavaScript library for creating behavioral experiments in
+a web browser. Behav. Res. Methods, 47 (1), 1–12.
+de Ridder, D. & de Wit, J. (2006). Self-Regulation in health behavior. John Wiley & Sons.
+de Souza, I. C. W., de Barros, V. V., Gomide, H. P., Miranda, T. C. M., Menezes, V. d. P.,
+Kozasa, E. H., & Noto, A. R. (2015). Mindfulness-based interventions for the treatment
+of smoking: a systematic literature review. J. Altern. Complement. Med. 21 (3), 129–
+140.
+De Wit, H. (2009). Impulsivity as a determinant and consequence of drug use: a review of
+underlying processes. Addict. Biol. 14 (1), 22–31.
+DeVellis, R. F. (2016). Scale development: theory and applications. SAGE Publications.
+Dickman, S. J. (1990). Functional and dysfunctional impulsivity: personality and cognitive
+correlates. J. Pers. Soc. Psychol. 58 (1), 95–102.
+Digman, J. M. (1990). Personality structure: emergence of the Five-Factor model. Annu.
+Rev. Psychol. 41 (1), 417–440.
+Dohle, S., Diel, K., & Hofmann, W. (2018). Executive functions and the self-regulation of
+eating behavior: a review. Appetite, 124, 4–9.
+Dombrowski, S. U., Sniehotta, F. F., Avenell, A., & Coyne, J. C. (2007). Current issues and
+future directions in psychology and health: towards a cumulative science of behaviour
+change: do current conduct and reporting of behavioural interventions fall short of
+best practice? Psychol. Health, 22 (8), 869–874.
+Doshi-Velez, F. & Kim, B. (2017). Towards a rigorous science of interpretable machine
+learning. arXiv: 1702.08608 [stat.ML]
+Duckworth, A. L. & Seligman, M. E. P. (2005). Self-discipline outdoes IQ in predicting
+academic performance of adolescents. Psychol. Sci. 16 (12), 939–944.
+Duckworth, A. L., Peterson, C., Matthews, M. D., & Kelly, D. R. (2007). Grit: perseverance
+and passion for long-term goals. J. Pers. Soc. Psychol. 92 (6), 1087–1101.
+Duckworth, A. L. & Kern, M. L. (2011a). A Meta-Analysis of the convergent validity of
+Self-Control measures. J. Res. Pers. 45 (3), 259–268.BIBLIOGRAPHY
+128
+Duckworth, A. L. & Kern, M. L. (2011b). A Meta-Analysis of the convergent validity of
+Self-Control measures. J. Res. Pers. 45 (3), 259–268.
+Duckworth, A. L. & Quinn, P. D. (2009). Development and validation of the short grit scale
+( grit – S ). Journal of Personality Assessment, 91 (2), 166–174.
+Dweck, C. S. (2008). Mindset: the new psychology of success. Ballantine Books.
+Ehrenberg, A. S. C. & Bound, J. A. (1993). Predictability and prediction. J. R. Stat. Soc.
+Ser. A Stat. Soc. 156 (2), 167.
+Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., Enkavi, A. Z., Whitfield-Gabrieli,
+S., . . . Poldrack, R. A. (2018). Applying novel technologies and methods to inform the
+ontology of self-regulation. Behav. Res. Ther. 101, 46–57.
+Eisenberg, I. W., Bissett, P. G., Zeynep Enkavi, A, Li, J., MacKinnon, D. P., Marsch, L. A.,
+& Poldrack, R. A. (2019). Uncovering the structure of self-regulation through data-
+driven ontology discovery.
+Eisenlohr-Moul, T. A., Walsh, E. C., Charnigo, R. J., Lynam, D. R., & Baer, R. A. (2012).
+The “what” and the “how” of dispositional mindfulness: using interactions among sub-
+scales of the Five-Facet mindfulness questionnaire to understand its relation to sub-
+stance use. Assessment, 19 (3), 276–286.
+Eisenreich, B. R. & Hayden, B. Y. (2018). Cognitive science: persistent apes are intelligent
+apes. Curr. Biol. 28 (4), R160–R162.
+Endler, N. S. & Magnusson, D. (1976). Toward an interactional psychology of personality.
+England, L. J., Aagaard, K., Bloch, M., Conway, K., Cosgrove, K., Grana, R., . . . Wakschlag,
+L. (2017). Developmental toxicity of nicotine: a transdisciplinary synthesis and impli-
+cations for emerging tobacco products. Neurosci. Biobehav. Rev. 72, 176–189.
+Enkavi, A. Z., Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch,
+L. A., & Poldrack, R. A. (2019). Large-scale analysis of test–retest reliabilities of self-
+regulation measures. Proceedings of the National Academy of Sciences, 116 (12), 5472–
+5477.BIBLIOGRAPHY
+129
+Epskamp, S., Cramer, A. O. J., Waldorp, L. J., Schmittmann, V. D., Borsboom, D., &
+Others. (2012). Qgraph: network visualizations of relationships in psychometric data.
+J. Stat. Softw. 48 (4), 1–18.
+Epstein, L. H., Salvy, S. J., Carr, K. A., Dearing, K. K., & Bickel, W. K. (2010). Food
+reinforcement, delay discounting and obesity. Physiol. Behav. 100 (5), 438–445.
+Epstein, S. (1979). The stability of behavior: i. on predicting most of the people much of
+the time. J. Pers. Soc. Psychol. 37 (7), 1097.
+Epstein, S. (1980). The stability of behavior: II. implications for psychological research. Am.
+Psychol. 35 (9), 790.
+Eysenck, H. J. (1991). Dimensions of personality: 16, 5 or 3?—criteria for a taxonomic
+paradigm. Pers. Individ. Dif. 12 (8), 773–790.
+Eysenck, S. B. G., Pearson, P. R., Easting, G, & Allsopp, J. F. (1985). Age norms for
+impulsiveness, venturesomeness and empathy in adults. Pers. Individ. Dif. 6 (5), 613–
+619.
+Fan, J., McCandliss, B. D., Fossella, J., Flombaum, J. I., & Posner, M. I. (2005). The
+activation of attentional networks. Neuroimage, 26 (2), 471–479.
+Fernandez, A. C., Wood, M. D., Stein, L. A. R., & Rossi, J. S. (2010). Measuring mindfulness
+and examining its relationship with alcohol use and negative consequences. Psychol.
+Addict. Behav. 24 (4), 608–616.
+Figner, B., Mackinlay, R. J., Wilkening, F., & Weber, E. U. (2009). Affective and deliberative
+processes in risky choice: age differences in risk taking in the columbia card task. J.
+Exp. Psychol. Learn. Mem. Cogn. 35 (3), 709–730.
+Fillmore, M. T. & Rush, C. R. (2002). Impaired inhibitory control of behavior in chronic
+cocaine users. Drug Alcohol Depend. 66 (3), 265–273.
+Finkel, E. J. (2014). The I3 model: metatheory, theory, and evidence. In Advances in exper-
+imental social psychology (Vol. 49, pp. 1–104). Elsevier.
+Frank, M. J., Seeberger, L. C., & O’Reilly, R. C. (2004). By Carrot or by Stick: Cognitive
+Reinforcement Learning in Parkinsonism. Science, 306 (5703), 1940–1943.BIBLIOGRAPHY
+130
+Franken, I. H. A. (2002). Behavioral approach system (BAS) sensitivity predicts alcohol
+craving. Pers. Individ. Dif. 32 (2), 349–355.
+Freimer, N. & Sabatti, C. (2003). The human phenome project. Nat. Genet. 34 (1), 15–21.
+Frey, R., Pedroni, A., Mata, R., Rieskamp, J., & Hertwig, R. (2017). Risk preference shares
+the psychometric structure of major psychological traits. Sci Adv, 3 (10), e1701381.
+Friedman, J., Hastie, T., & Tibshirani, R. (2008a). Sparse inverse covariance estimation with
+the graphical lasso. Biostatistics, 9 (3), 432–441.
+Friedman, N. P. & Miyake, A. (2017). Unity and diversity of executive functions: individual
+differences as a window on cognitive structure. Cortex, 86, 186–204.
+Friedman, N. P., Miyake, A., Young, S. E., Defries, J. C., Corley, R. P., & Hewitt, J. K.
+(2008b). Individual differences in executive functions are almost entirely genetic in
+origin. J. Exp. Psychol. Gen. 137 (2), 201–225.
+Furnham, A. & Henderson, M. (1982). The good, the bad and the mad: response bias in
+self-report measures. Pers. Individ. Dif. 3 (3), 311–320.
+Gershman, S. J., Horvitz, E. J., & Tenenbaum, J. B. (2015). Computational rational-
+ity: a converging paradigm for intelligence in brains, minds, and machines. Science,
+349 (6245), 273–278.
+Goldberg, L. R. (1990). An alternative“ description of personality”: the big-five factor struc-
+ture. J. Pers. Soc. Psychol. 59 (6), 1216.
+Gosling, S. D., Rentfrow, P. J., & Swann, W. B., Jr. (2003). A very brief measure of the
+Big-Five personality domains. J. Res. Pers. 37 (6), 504–528.
+Gottfredson, M. R. & Hirschi, T. (1990). A general theory of crime. 297.
+Gross, J. J. & John, O. P. (2003). Individual differences in two emotion regulation processes:
+implications for affect, relationships, and well-being. J. Pers. Soc. Psychol. 85 (2), 348–
+362.
+Guarino, N. (1997). Understanding, building and using ontologies. Int. J. Hum. Comput.
+Stud. 46 (2), 293–310.
+Haig, B. D. (2005). Exploratory factor analysis, theory generation, and scientific method.
+Multivariate Behav. Res. 40 (3), 303–329.BIBLIOGRAPHY
+131
+Hall, P. A. & Marteau, T. M. (2014). Executive function in the context of chronic disease
+prevention: theory, research and practice. Prev. Med. 68, 44–50.
+Hamaker, E. L., Nesselroade, J. R., & Molenaar, P. C. M. (2007). The integrated trait–state
+model. J. Res. Pers. 41 (2), 295–315.
+Hampshire, S. (1953). Dispositions. Analysis, 14 (1), 5–11.
+Hare, T. A., Camerer, C. F., & Rangel, A. (2009). Self-control in decision-making involves
+modulation of the vmPFC valuation system. Science, 324 (5927), 646–648.
+Harvey, P.-O., Fossati, P., Pochon, J.-B., Levy, R., LeBastard, G., Lehéricy, S., . . . Dubois,
+B. (2005). Cognitive control and brain resources in major depression: an fMRI study
+using the n-back task. Neuroimage, 26 (3), 860–869.
+Hedge, C., Powell, G., & Sumner, P. (2017). The reliability paradox: why robust cognitive
+tasks do not produce reliable individual differences. Behav. Res. Methods.
+Henmon, V. A. C. (1911). The relation of the time of a judgment to its accuracy. Psychol.
+Rev. 18 (3), 186–201.
+Henson, R. K. & Roberts, J. K. (2006). Use of exploratory factor analysis in published
+research: common errors and some comment on improved practice. Educ. Psychol.
+Meas. 66 (3), 393–416.
+Hirsh, J. B., Morisano, D., & Peterson, J. B. (2008). Delay discounting: interactions between
+personality and cognitive ability. J. Res. Pers. 42 (6), 1646–1650.
+Hofstede, G. & McCrae, R. R. (2004). Personality and culture revisited: linking traits and
+dimensions of culture. Cross Cult. Res. 38 (1), 52–88.
+Holt, C. A., Laury, S. K., & Others. (2002). Risk aversion and incentive effects. Am. Econ.
+Rev. 92 (5), 1644–1655.
+Hong, H., Yamins, D. L. K., Majaj, N. J., & DiCarlo, J. J. (2016). Explicit information for
+category-orthogonal object properties increases along the ventral stream. Nat. Neu-
+rosci. 19 (4), 613–622.
+Hopkins, W. G. (2000). Measures of reliability in sports medicine and science. Sports Med.
+30 (1), 1–15.BIBLIOGRAPHY
+132
+Hu, T., Zhang, D., Wang, J., Mistry, R., Ran, G., & Wang, X. (2014). Relation between
+emotion regulation and mental health: a meta-analysis review. Psychol. Rep. 114 (2),
+341–362.
+Hull, J. G. & Slone, L. B. (2004). Alcohol and self-regulation. Handbook of self-regulation:
+Research, theory, and applications, 466–491.
+Huth, A. G., Heer, W. A. D., Griffiths, T. L., Theunissen, F. E., Gallant, J. L., & Jack,
+L. (2016). Natural speech reveals the semantic maps that tile human cerebral cortex.
+Nature, 532 (7600), 453–458.
+Insel, T., Cuthbert, B., Garvey, M., Heinssen, R., Pine, D. S., Quinn, K., . . . Wang, P.
+(2010). Research domain criteria (RDoC): toward a new classification framework for
+research on mental disorders. Am. J. Psychiatry, 167 (7), 748–751.
+Ioannidis, J. & Doucouliagos, C. (2013). WHAT’S TO KNOW ABOUT THE CREDIBIL-
+ITY OF EMPIRICAL ECONOMICS? J. Econ. Surv. 27 (5), 997–1004.
+Ioannidis, J. P. A. (2005). Why most published research findings are false. PLoS Med. 2 (8),
+e124.
+Jaeggi, S. M., Buschkuehl, M., Jonides, J., & Perrig, W. J. (2008). Improving fluid intel-
+ligence with training on working memory. Proceedings of the National Academy of
+Sciences, 105 (19), 6829–6833.
+Jentsch, J. D., Woods, J. A., Groman, S. M., & Seu, E. (2010). Behavioral characteristics and
+neural mechanisms mediating performance in a rodent version of the balloon analog
+risk task. Neuropsychopharmacology, 35 (8), 1797–1806.
+Job, V., Dweck, C. S., & Walton, G. M. (2010). Ego Depletion—Is it all in your head?
+Psychol. Sci. 21 (11), 1686–1693.
+Jolly, E. & Chang, L. J. (2018). The flatland fallacy: moving beyond Low–Dimensional
+thinking. Top. Cogn. Sci.
+Karr, J. E., Areshenkoff, C. N., Rast, P., Hofer, S. M., Iverson, G. L., & Garcia-Barrera,
+M. A. (2018). The unity and diversity of executive functions: a systematic review and
+re-analysis of latent variable studies. Psychol. Bull.BIBLIOGRAPHY
+133
+Katahira, K. (2016). How hierarchical models improve point estimates of model parameters
+at the individual level. J. Math. Psychol. 73, 37–58.
+Kay, K. N., Naselaris, T., Prenger, R. J., & Gallant, J. L. (2008). Identifying natural images
+from human brain activity. Nature, 452 (March), 352–355.
+Kiernan, M, Schoffman, D. E., Lee, K, Brown, S. D., Fair, J. M., Perri, M. G., & Haskell,
+W. L. (2013). The stanford Leisure-Time activity categorical item (L-Cat): a single
+categorical item sensitive to physical activity changes in overweight/obese women. Int.
+J. Obes. 37 (12), 1597–1602.
+Kirby, K. N. & MarakoviĆ, N. N. Delay-discounting probabilistic rewards: Rates decrease
+as amounts increase.
+Kirk, R. E. (2003). The importance of effect magnitude. Handbook of research methods in
+experimental psychology, 83–105.
+Kohavi, R. & Others. (1995). A study of cross-validation and bootstrap for accuracy esti-
+mation and model selection. In Ijcai (Vol. 14, pp. 1137–1145).
+Kotabe, H. P. & Hofmann, W. (2015a). On integrating the components of Self-Control.
+Perspect. Psychol. Sci. 10 (5), 618–638.
+Kotabe, H. P. & Hofmann, W. (2015b). On integrating the components of Self-Control.
+Perspect. Psychol. Sci. 10 (5), 618–638.
+Krebs, P., Prochaska, J. O., & Rossi, J. S. (2010). A meta-analysis of computer-tailored
+interventions for health behavior change. Prev. Med. 51 (3-4), 214–221.
+Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet classification with deep
+convolutional neural networks. In F Pereira, C. J. C. Burges, L Bottou, & K. Q.
+Weinberger (Eds.), Advances in neural information processing systems 25 (pp. 1097–
+1105). Curran Associates, Inc.
+Lahey, B. B. (2009). Public health significance of neuroticism. Am. Psychol. 64 (4), 241–256.
+Lake, R. T.J. B., Brenden M Salakhutdinov. (2015). Human-level concept learning through
+probabilistic program induction. Cogn. Sci. 350 (6266).
+Langfelder, P., Zhang, B., & Horvath, S. (2008). Defining clusters from a hierarchical cluster
+tree: the dynamic tree cut package for R. Bioinformatics, 24 (5), 719–720.BIBLIOGRAPHY
+134
+Lejuez, C. W., Read, J. P., Kahler, C. W., Richards, J. B., Ramsey, S. E., Stuart, G. L., . . .
+Brown, R. A. (2002). Evaluation of a behavioral measure of risk taking: the balloon
+analogue risk task (BART). J. Exp. Psychol. Appl. 8 (2), 75–84.
+Lewis, D. D., Yang, Y., Rose, T. G., & Li, F. (2004). RCV1: a new benchmark collection
+for text categorization research. J. Mach. Learn. Res. 5 (Apr), 361–397.
+Lilienfeld, S. O. & Treadway, M. T. (2016). Clashing diagnostic approaches: DSM-ICD versus
+RDoC. Annu. Rev. Clin. Psychol. 12, 435–463.
+Lipsey, M. W. & Wilson, D. B. (2001). Practical meta-analysis. Applied social research
+methods series; vol 49. 247.
+Loehlin, J. C. (2004). Latent variable models: an introduction to factor, path, and structural
+equation analysis. Psychology Press.
+Lu, C.-H. & Proctor, R. W. (1995). The influence of irrelevant location information on
+performance: A review of the Simon and spatial Stroop effects. Psychon. Bull. Rev.
+2 (2), 174–207.
+Lynam, D. R., Smith, G. T., Whiteside, S. P., & Cyders, M. A. (2006). The UPPS-P:
+assessing five personality pathways to impulsive behavior. West Lafayette, IN: Purdue
+University.
+MacDonald, A. W., 3rd, Goghari, V. M., Hicks, B. M., Flory, J. D., Carter, C. S., & Manuck,
+S. B. (2005). A convergent-divergent approach to context processing, general intellec-
+tual functioning, and the genetic liability to schizophrenia. Neuropsychology, 19 (6),
+814–821.
+Markiewicz, Ł. & Kubińska, E. (2015). Information use differences in hot and cold risk
+processing: when does information about probability count in the columbia card task?
+Front. Psychol. 6, 1727.
+Mason, W. & Suri, S. (2011). Conducting behavioral research on amazonâăźs mechanical
+turk. Behav Res, 44 (1), 1–23.
+McAuley, E., Mullen, S. P., Szabo, A. N., White, S. M., Wójcicki, T. R., Mailey, E. L., . . .
+Kramer, A. F. (2011). Self-regulatory processes and exercise adherence in older adults:
+executive function and self-efficacy effects. Am. J. Prev. Med. 41 (3), 284–290.BIBLIOGRAPHY
+135
+McClelland, J. L., Botvinick, M. M., Noelle, D. C., Plaut, D. C., Rogers, T. T., Seidenberg,
+M. S., & Smith, L. B. (2010). Letting structure emerge: connectionist and dynamical
+systems approaches to cognition. Trends Cogn. Sci. 14 (8), 348–356.
+McCrae, R. R. & Costa, P. T. (2003). Personality in adulthood: a five-factor theory perspec-
+tive. Guilford Press.
+McCrae, R. R. & Costa, P. T. (1995). Trait explanations in personality psychology. Eur. J.
+Pers. 9 (4), 231–252.
+McDonnell, J. V., Martin, J. B., Markant, D. B., Coenen, A, Rich, A. S., & Gureckis, T. M.
+(2012). Psiturk (version 1.02)[software]. new york, NY: new york university.
+McHugh, R. K., Daughters, S. B., Lejuez, C. W., Murray, H. W., Hearon, B. A., Gorka, S. M.,
+& Otto, M. W. (2011). Shared variance among Self-Report and behavioral measures
+of distress intolerance. Cognit. Ther. Res. 35 (3), 266–275.
+Meehl, P. E. (1978). Theoretical risks and tabular asterisks: sir karl, sir ronald, and the slow
+progress of soft psychology. J. Consult. Clin. Psychol. 46 (4), 806.
+Meehl, P. E. (1967). Theory-Testing in psychology and physics: a methodological paradox.
+Philos. Sci. 34 (2), 103–115.
+Meehl, P. E. (1990). Why summaries of research on psychological theories are often unin-
+terpretable. Psychol. Rep. 66 (1), 195–244.
+Michie, S & Johnston, M. (2012). Theories and techniques of behaviour change: developing
+a cumulative science of behaviour change.
+Mischel, W, Shoda, Y, & Rodriguez, M. (1989a). Delay of gratification in children. Science,
+244 (4907), 933–938.
+Mischel, W. (2009). Becoming a cumulative science. APS Obs. 22 (1).
+Mischel, W. (2008). The toothbrush problem. APS Obs. 21 (11).
+Mischel, W., Shoda, Y., & Rodriguez, M. L. (1989b). Delay of Gratification in Children.
+Science, 244 (4907).
+Miyake, A, Friedman, N. P., Emerson, M. J., Witzki, a. H., Howerter, A, & Wager, T. D.
+(2000). The unity and diversity of executive functions and their contributions to com-
+plex “Frontal Lobe” tasks: a latent variable analysis. Cogn. Psychol. 41 (1), 49–100.BIBLIOGRAPHY
+136
+Miyake, A. & Friedman, N. P. (2012). The nature and organization of individual differences
+in executive functions. Curr. Dir. Psychol. Sci. 21 (1), 8–14.
+Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. a., Veness, J., Bellemare, M. G., . . . Has-
+sabis, D. (2015). Human-level control through deep reinforcement learning. Nature,
+518 (7540), 529–533.
+Moffitt, T. E., Arseneault, L, Belsky, D, Dickson, N, Hancox, R. J., Harrington, H, . . .
+Caspi, A. (2011). A gradient of childhood self-control predicts health, wealth, and
+public safety. Proceedings of the National Academy of Sciences, 108 (7), 2693–2698.
+Muchinsky, P. M. (1996). The correction for attenuation. Educ. Psychol. Meas. 56 (1), 63–75.
+Mullainathan, S. & Shafir, E. (2013). Scarcity: why having too little means so much. Macmil-
+lan.
+Muraven, M & Baumeister, R. F. (2000). Self-regulation and depletion of limited resources:
+does self-control resemble a muscle? Psychol. Bull. 126 (2), 247–259.
+Nęcka, E., Gruszka, A., Orzechowski, J., Nowak, M., & Wójcik, N. (2018). The (in)significance
+of executive functions for the trait of Self-Control: a psychometric study. Front. Psy-
+chol. 9, 1139.
+Nee, D. E., Jonides, J., & Berman, M. G. (2007). Neural Mechanisms of Proactive Interference-
+Resolution.
+Newell, A & Simon, H. A. (1961). Computer simulation of human thinking. Science, 134 (3495),
+2011–2017.
+Newell, A. (1973). YOU CAN’T PLAY 20 QUESTIONS WITH NATURE AND WIN: PRO-
+JECTIVE COMMENTS ON THE PAPERS OF THIS SYMPOSIUM. In Visual in-
+formation processing (pp. 283–308).
+Otto, A. R., Skatova, A, Madlon-Kay, S, & Daw, N. D. (2013). Cognitive Control Predicts
+Use of Model-based Reinforcement Learning. J. Cogn. Neurosci. 27 (2), 319–333.
+Ozer, D. J. & Benet-Martínez, V. (2006). Personality and the prediction of consequential
+outcomes. Annu. Rev. Psychol. 57, 401–421.
+Pashler, H. (1994). Dual-task interference in simple tasks: data and theory. Psychol. Bull.
+116 (2), 220.BIBLIOGRAPHY
+137
+Patrick, C. J., Curtin, J. J., & Tellegen, A. (2002). Development and validation of a brief
+form of the multidimensional personality questionnaire. Psychol. Assess. 14 (2), 150–
+163.
+Patton, J. H., Stanford, M. S., & Barratt, E. S. (1995). Factor structure of the barratt
+impulsiveness scale. J. Clin. Psychol. 51 (6), 768–774.
+Paxton, A. & Griffiths, T. L. (2017). Finding the traces of behavioral and cognitive processes
+in big data and naturally occurring datasets. Behav. Res. Methods, 49 (5), 1630–1638.
+Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., . . . Duches-
+nay, É. (2011). Scikit-learn: machine learning in python. J. Mach. Learn. Res. 12 (Oct),
+2825–2830.
+Peirce, J. W. (2007). PsychoPy—Psychophysics software in python. J. Neurosci. Methods,
+162 (1–2), 8–13.
+Platt, J. R. (1964). Strong inference. Science, 146 (3642), 347–353.
+Pleskac, T. J. (2008). Decision making and learning while taking sequential risks. J. Exp.
+Psychol. Learn. Mem. Cogn. 34 (1), 167–185.
+Pohl, R. F., Erdfelder, E., Michalkiewicz, M., Castela, M., & Hilbig, B. E. (2016). The
+limited use of the fluency heuristic: converging evidence across different procedures.
+Mem. Cognit. 44 (7), 1114–1126.
+Poldrack, R. A. (2006). Can cognitive processes be inferred from neuroimaging data? Trends
+Cogn. Sci. 10 (2), 59–63.
+Poldrack, R. A. (2011). Inferring mental states from neuroimaging data: from reverse infer-
+ence to large-scale decoding. Neuron, 72 (5), 692–697.
+Poldrack, R. A. & Yarkoni, T. (2016). From brain maps to cognitive ontologies: informatics
+and the search for mental structure. Annu. Rev. Psychol. 67, 587–612.
+Poldrack, R. A., Halchenko, Y. O., & Hanson, S. J. (2009). Decoding the large-scale structure
+of brain function by classifying mental states across individuals. Psychol. Sci. 20 (11),
+1364–1372.BIBLIOGRAPHY
+138
+Poldrack, R. A., Kittur, A., Kalar, D., Miller, E., Seppa, C., Gil, Y., . . . Bilder. (2011). The
+cognitive atlas : toward a knowledge foundation for cognitive neuroscience. Frontiers
+in Neuroinformatics, 5 (September), 1–11.
+Popper, K. (2005). The logic of scientific discovery. Routledge.
+Pratt, T. C., Turanovic, J. J., Fox, K. A., & Wright, K. A. (2014). Self-control and victim-
+ization: a meta-analysis. Criminology, 52 (1), 87–116.
+Preacher, K. J., Zhang, G., Kim, C., & Mels, G. (2013). Choosing the optimal number
+of factors in exploratory factor analysis: a model selection perspective. Multivariate
+Behav. Res. 48 (1), 28–56.
+Primi, C., Morsanyi, K., Chiesi, F., Donati, M. A., & Hamilton, J. (2016). The development
+and testing of a new version of the cognitive reflection test applying item response
+theory (IRT). J. Behav. Decis. Mak. 29 (5), 453–469.
+Rabinowitz, N. C., Perbet, F., Francis Song, H, Zhang, C., Ali Eslami, S. M., & Botvinick,
+M. (2018). Machine theory of mind. arXiv: 1802.07740 [cs.AI]
+Radulescu, A., Daniel, R., & Niv, Y. (2016). The effects of aging on the interaction between
+reinforcement learning and attention. Psychol. Aging, 31 (7), 747–757.
+Ratcliff, R. & Childers, R. (2015). Individual differences and fitting methods for the two-
+choice diffusion model of decision making. Decisions, 2 (4), Advance online publication.
+Ratcliff, R. & McKoon, G. (2008). The diffusion decision model: theory and data for two-
+choice decision tasks. Neural Comput. 20 (4), 873–922.
+Ratcliff, R., Thapar, A., & McKoon, G. (2006). Aging and individual differences in rapid
+two-choice decisions. Psychon. Bull. Rev. 13 (4), 626–635.
+Raven, J. & Others. (2003). Raven progressive matrices. In Handbook of nonverbal assess-
+ment (pp. 223–237). Springer.
+Realism, S. Structural realism stanford encyclopedia of philosophy.
+Revelle, W. R. (2017). Psych: procedures for personality and psychological research.
+Rey-Mermet, A., Gade, M., & Oberauer, K. (2018). Should we stop thinking about inhibi-
+tion? searching for individual and age differences in inhibition ability. J. Exp. Psychol.
+Learn. Mem. Cogn. 44 (4), 501–526.BIBLIOGRAPHY
+139
+Reznick, J. S., Hegeman, I. M., Kaufman, E. R., Woods, S. W., & Jacobs, M. (1992).
+Retrospective and concurrent self-report of behavioral inhibition and their relation to
+adult mental health. Dev. Psychopathol. 4 (2), 301–321.
+Roberts, B. W., Kuncel, N. R., Shiner, R., Caspi, A., & Goldberg, L. R. (2007). The power of
+personality: the comparative validity of personality traits, socioeconomic status, and
+cognitive ability for predicting important life outcomes. Perspect. Psychol. Sci. 2 (4),
+313–345.
+Rogers, T. T. & Mcclelland, J. L. (2014). Parallel distributed processing at 25: further
+explorations in the microstructure of cognition. Cogn. Sci. 38 (6), 1024–1077.
+Rosenthal, R. (1979). The file drawer problem and tolerance for null results. Psychol. Bull.
+86 (3), 638.
+Rosvold, H. E., Mirsky, A. F., Sarason, I., Bransome, E. D., Jr, & Beck, L. H. (1956). A
+continuous performance test of brain damage. J. Consult. Psychol. 20 (5), 343.
+Roth, R. M., Isquith, P. K., & Gioia, G. A. (2005). BRIEF-A: behavior rating inventory
+of executive function–adult version : professional manual. Psychological Assessment
+Resources.
+Rothstein, H. R., Sutton, A. J., & Borenstein, M. (Eds.). (2006). Publication bias in Meta-
+Analysis. Chichester, UK: John Wiley & Sons, Ltd.
+Russakovsky, O., Deng, J., Su, H., Krause, J., Satheesh, S., Ma, S., . . . Fei-Fei, L. (2015).
+ImageNet large scale visual recognition challenge. Int. J. Comput. Vis. 115 (3), 211–
+252.
+Russell, D. W. (2002). In search of underlying dimensions: the use (and abuse) of factor
+analysis in personality and social psychology bulletin. Pers. Soc. Psychol. Bull. 28 (12),
+1629–1646.
+Russell, J. A. (1980). A circumplex model of affect. J. Pers. Soc. Psychol. 39 (6), 1161.
+Ryan, R. M. & Deci, E. L. (2006). Self-Regulation and the problem of human autonomy:
+does psychology need choice, Self-Determination, and will?BIBLIOGRAPHY
+140
+Saunders, B., Milyavskaya, M., Etz, A., Randles, D., & Inzlicht, M. (2018). Reported self-
+control is not meaningfully associated with inhibition-related executive function: a
+bayesian analysis.
+Saunders, J. B., Aasland, O. G., Babor, T. F., de La Fuente, J. R., & Grant, M. (1993).
+Development of the alcohol use disorders identification test (AUDIT): WHO collab-
+orative project on early detection of persons with harmful alcohol Consumption-II.
+Addiction, 88 (6), 791–804.
+Schag, K, Schönleber, J, Teufel, M, Zipfel, S, & Giel, K. E. (2013). Food-related impulsivity
+in obesity and binge eating disorder - a systematic review.
+Schmidt, F. L. (1992). What do data really mean? research findings, meta-analysis, and
+cumulative knowledge in psychology. Am. Psychol. 47 (10), 1173.
+Schmitt, S. A., McClelland, M. M., Tominey, S. L., & Acock, A. C. (2015). Strengthening
+school readiness for head start children: evaluation of a self-regulation intervention.
+Early Child. Res. Q. 30, 20–31.
+Schneider, D. W. & Logan, G. D. (2011). Task-switching performance with 1:1 and 2:1 cue-
+task mappings: not so different after all. J. Exp. Psychol. Learn. Mem. Cogn. 37 (2),
+405–415.
+Schneider, W., Eschman, A., and Zuccolotto, A. (2012). E-Prime user’s guide.
+Seabold, S. & Perktold, J. (2010). Statsmodels: econometric and statistical modeling with
+python. In Proceedings of the 9th python in science conference (Vol. 57, p. 61).
+Servan-Schreiber, D, Cohen, J. D., & Steingard, S. (1996). Schizophrenic deficits in the
+processing of context. a test of a theoretical model. Arch. Gen. Psychiatry, 53 (12),
+1105–1112.
+Shallice, T. (1982). Specific impairments of planning. Philosophical Transactions of the Royal
+Society of London, Biology, 298, 199–209.
+Shamosh, N. A. & Gray, J. R. (2008). Delay discounting and intelligence: a meta-analysis.
+Intelligence, 36 (4), 289–305.
+Shamosh, N. A., Deyoung, C. G., Green, A. E., Reis, D. L., Johnson, M. R., Conway,
+A. R. A., . . . Gray, J. R. (2008). Individual differences in delay discounting: relationBIBLIOGRAPHY
+141
+to intelligence, working memory, and anterior prefrontal cortex. Psychol. Sci. 19 (9),
+904–911.
+Sharma, L., Markon, K. E., & Clark, L. A. (2013). Toward a theory of distinct types of
+“impulsive” behaviors: A meta-analysis of self-report and behavioral measures. Psychol.
+Bull. 140 (2), 374–408.
+Shmueli, G. (2010). To explain or to predict? Stat. Sci. 25 (3), 289–310.
+Shoda, Y., Mischel, W., & Peake, P. K. (1990). Predicting adolescent cognitive and self-
+regulatory competencies from preschool delay of gratification: identifying diagnostic
+conditions. Dev. Psychol. 26 (6), 978–986.
+Silberzahn, R, Uhlmann, E. L., Martin, D. P., Anselmi, P, Aust, F, Awtrey, E, . . . Nosek,
+B. A. (2018). Many analysts, one data set: making transparent how variations in
+analytic choices affect results. Advances in Methods and Practices in Psychological
+Science, 1 (3), 337–356.
+Sochat, V. V., Eisenberg, I. W., Enkavi, A. Z., Li, J., Bissett, P. G., & Poldrack, R. A.
+(2016a). The experiment factory: standardizing behavioral experiments. Front. Psy-
+chol. 7, 610.
+Sochat, V. V., Eisenberg, I. W., Enkavi, A. Z., Li, J., Bissett, P. G., & Poldrack, R. A.
+(2016b). The experiment factory: Standardizing behavioral experiments. Front. Psy-
+chol. 7 (APR).
+Spearman, C. (1904). ‘‘ general intelligence,” objectively determined and measured. Am. J.
+Psychol. 15 (2), 201–292.
+Stahl, C., Voss, A., Schmitz, F., Nuszbaum, M., Tüscher, O., Lieb, K., & Klauer, K. C.
+(2014). Behavioral components of impulsivity. J. Exp. Psychol. Gen. 143 (2), 850–886.
+Stanford, M. S., Mathias, C. W., Dougherty, D. M., Lake, S. L., Anderson, N. E., & Patton,
+J. H. (2009). Fifty years of the barratt impulsiveness scale: an update and review.
+Pers. Individ. Dif. 47 (5), 385–395.
+Stekhoven, D. J. & Buhlmann, P. (2012). MissForest–non-parametric missing value imputa-
+tion for mixed-type data. Bioinformatics, 28 (1), 112–118.BIBLIOGRAPHY
+142
+Steyer, R., Schmitt, M., & Eid, M. (1999). Latent state–trait theory and research in person-
+ality and individual differences. Eur. J. Pers. 13 (5), 389–408.
+Story, G. W., Vlaev, I., Seymour, B., Darzi, A., & Dolan, R. J. (2014). Does temporal dis-
+counting explain unhealthy behavior? a systematic review and reinforcement learning
+perspective. Front. Behav. Neurosci. 8, 76.
+Strenze, T. (2007). Intelligence and socioeconomic success: a meta-analytic review of longi-
+tudinal research. Intelligence, 35 (5), 401–426.
+Szrek, H., Chao, L.-W., Ramlagan, S., & Peltzer, K. (2012). Predicting (un)healthy behavior:
+a comparison of risk-taking propensity measures. Judgm. Decis. Mak. 7 (6), 716–727.
+Teixeira, P. J., Carraça, E. V., Marques, M. M., Rutter, H., Oppert, J.-M., De Bourdeaud-
+huij, I., . . . Brug, J. (2015). Successful behavior change in obesity interventions in
+adults: a systematic review of self-regulation mediators. BMC Med. 13, 84.
+ten Berge, J. M. F., Krijnen, W. P., Wansbeek, T., & Shapiro, A. (1999). Some new results on
+correlation-preserving factor scores prediction methods. Linear Algebra Appl. 289 (1),
+311–318.
+Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a
+mind: statistics, structure, and abstraction. Science, 331 (6022), 1279–1285.
+Thamotharan, S., Lange, K., Zale, E. L., Huffhines, L., & Fields, S. (2013). The role of im-
+pulsivity in pediatric obesity and weight status: a meta-analytic review. Clin. Psychol.
+Rev. 33 (2), 253–262.
+Thomas Yeo, B. T., Krienen, F. M., Eickhoff, S. B., Yaakub, S. N., Fox, P. T., Buckner,
+R. L., . . . Chee, M. W. L. (2015). Functional specialization and flexibility in human
+association cortex. Cereb. Cortex, 25 (10), 3654–3672.
+Toplak, M. E., West, R. F., & Stanovich, K. E. (2014). Assessing miserly information pro-
+cessing: an expansion of the cognitive reflection test. Think. Reason. 20 (2), 147–168.
+Toubia, O., Johnson, E., Evgeniou, T., & Delquié, P. (2013). Dynamic experiments for esti-
+mating preferences: an adaptive method of eliciting time and risk parameters. Manage.
+Sci. 59 (3), 613–640.BIBLIOGRAPHY
+143
+Truran, P. (2013). Models: useful but not true. In P. Truran (Ed.), Practical applications
+of the philosophy of science: thinking about research (pp. 61–67). Heidelberg: Springer
+International Publishing.
+Tversky, A & Kahneman, D. (1974). Judgment under uncertainty: heuristics and biases.
+Science, 185 (4157), 1124–1131.
+van Beek, W., Berghuis, H., Kerkhof, A., & Beekman, A. (2011). Time perspective, person-
+ality and psychopathology: zimbardo’s time perspective inventory in psychiatry.
+Van Essen, D. C., Smith, S. M., Barch, D. M., Behrens, T. E. J., Yacoub, E., Ugurbil, K.,
+& WU-Minn HCP Consortium. (2013). The WU-Minn human connectome project: an
+overview. Neuroimage, 80, 62–79.
+Varoquaux, G. & Poldrack, R. A. (2018). Predictive models avoid excessive reductionism in
+cognitive neuroimaging. Curr. Opin. Neurobiol. 55, 1–6.
+Verdejo-García, A., Lawrence, A. J., & Clark, L. (2008). Impulsivity as a vulnerability
+marker for substance-use disorders: review of findings from high-risk research, problem
+gamblers and genetic association studies. Neurosci. Biobehav. Rev. 32 (4), 777–810.
+Vukasović, T. & Bratko, D. (2015). Heritability of personality: a meta-analysis of behavior
+genetic studies. Psychol. Bull. 141 (4), 769–785.
+Washington, N. & Lewis, S. (2008). Ontologies: scientific data sharing made easy. Nature
+Education.
+Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the marshmallow test: a con-
+ceptual replication investigating links between early delay of gratification and later
+outcomes.
+Whiteneck, G. G., Harrison-Felix, C. L., Mellick, D. C., Brooks, C. A., Charlifue, S. B., &
+Gerhart, K. A. (2004). Quantifying environmental factors: a measure of physical, atti-
+tudinal, service, productivity, and policy barriers1. Arch. Phys. Med. Rehabil. 85 (8),
+1324–1335.
+Whiteside, S. P. & Lynam, D. R. (2001a). UPPS impulsive behavior scale the five factor
+model and impulsivity: using a structural model of personality to understand impul-
+sivity. Pers. Individ. Dif. 30 (1000), 669–689.BIBLIOGRAPHY
+144
+Whiteside, S. P. & Lynam, D. R. (2001b). The five factor model and impulsivity: using a
+structural model of personality to understand impulsivity. Pers. Individ. Dif. 30 (4),
+669–689.
+Wiecki, T. V., Sofer, I., & Frank, M. J. (2013). HDDM: Hierarchical Bayesian estimation of
+the Drift-Diffusion Model in Python. Front. Neuroinform. 7 (August), 14.
+Wilson, R. C. & Niv, Y. (2012). Inferring Relevance in a Changing World. Front. Hum.
+Neurosci. 5 (January), 1–14.
+Wissner-Gross, A. (2016). Datasets over algorithms. https : / / www . edge . org / response -
+detail/26587. Accessed: 2019-4-15.
+Woods, D. L., Kishiyama, M. M., Yund, E. W., Herron, T. J., Edwards, B., Poliva, O.,
+. . . Reed, B. (2011). Improving digit span assessment of short-term verbal memory. J.
+Clin. Exp. Neuropsychol. 33 (1), 101–111.
+Wu, S., Harris, T. J., & Mcauley, K. B. (2008). The use of simplified or misspecified models:
+linear case. Can. J. Chem. Eng. 85 (4), 386–398.
+Yamins, D. L. K. & DiCarlo, J. J. (2016). Using goal-driven deep learning models to under-
+stand sensory cortex. Nat. Neurosci. 19 (3), 356–365.
+Yarkoni, T. & Westfall, J. (2016). Choosing prediction over explanation in psychology:
+lessons from machine learning. FigShare, https://dx. doi. org/10. 6084/m9. figshare,
+2441878, v1.
+Yarkoni, T., Poldrack, R. A., Van Essen, D. C., & Wager, T. D. (2010). Cognitive neuro-
+science 2.0: building a cumulative science of human brain function. Trends Cogn. Sci.
+14 (11), 489–496.
+Yarkoni, T., Poldrack, R. A., Nichols, T. E., Van Essen, D. C., & Wager, T. D. (2011). Large-
+scale automated synthesis of human functional neuroimaging data. Nat. Methods, 8 (8),
+665–670.
+Yntema, D. B. (1963). Keeping track of several things at once. Human Factors: The Journal
+of the Human Factors and Ergonomics Society, 5 (1), 7–17.
+Young, N. S., Ioannidis, J. P. A., & Al-Ubaydli, O. (2008). Why current publication practices
+may distort science. PLoS Med. 5 (10), e201.BIBLIOGRAPHY
+145
+Zhang, L., Zhang, C., & Shang, L. (2016). Sensation-seeking and domain-specific risk-taking
+behavior among adolescents: risk perceptions and expected benefits as mediators. Pers.
+Individ. Dif. 101, 299–305.
+Zimbardo, P. G. & Boyd, J. N. (2015). Putting time in perspective: a valid, reliable individual-
+differences metric. In Time perspective theory; review, research and application (pp. 17–
+55). Springer.
+Zisserson, R. N. & Palfai, T. P. (2007). Behavioral activation system (BAS) sensitivity and
+reactivity to alcohol cues among hazardous drinkers.
+Zmigrod, L., Rentfrow, P. J., & Robbins, T. W. (2018). Cognitive underpinnings of na-
+tionalistic ideology in the context of brexit. Proc. Natl. Acad. Sci. U. S. A. 115 (19),
+E4532–E4540.
+Zuckerman, M. (1971). Dimensions of sensation seeking. J. Consult. Clin. Psychol. 36 (1),
+45.
+Zuckerman, M. (2007a). Sensation seeking and risky behavior. American Psychological As-
+sociation Washington, DC.
+Zuckerman, M. (2007b). The sensation seeking scale V (SSS-V): still reliable and valid. Pers.
+Individ. Dif. 43 (5), 1303–1305.
